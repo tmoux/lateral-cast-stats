@@ -1,0 +1,286 @@
+Tom:On the Hollywood Walk of Fame, which celebrity has their star mounted on a wall as a sign of respect? The answer to that at the end of the show. My name's Tom Scott, and this is Lateral. Why did the alien cross the road to the podcast studio? I don't know, but I've locked the door just in case. Let me introduce you to our out-of-this-world guests. We start all the way from Australia, from his own YouTube channel about design and things in the world. I could have probably given you a better intro than that. Julian O'Shea.
+Julian:Great to be here. Yes, out-of-this-world aliens, that's Australians. Same vibe, same energy.
+Tom:(laughs) Now, this is your second episode.
+Julian:Indeed.
+Tom:How were you feeling about last time?
+Julian:Not bad. Not bad. I... The idea of just chuck random stuff at the wall I'm good at, I think, yeah. My bold strategy of name every idiom that ever existed was not a strong one, but, you know, you gotta start somewhere.
+Tom:What are you working on at the minute? 'Cause this episode's gonna come out a few months after recording. What are you working on right now that the audience will be able to see?
+Julian:So I'm doing some projects around design where I actually build some stuff. So, so far today, my YouTube channel has been a lot of showing interesting things in the world. Time to bust out some tools and become a bit of a maker.
+Tom:Also joining us from the same part of the world, from the YouTube channel Tibees, Toby Hendy. How are you doing?
+Toby:Hello. I'm happy to be here.
+Tom:It's lovely to have you back. How did you feel about the last episode you were on?
+Toby:I feel like that was my chance to warm up and get used to this, so I'm hoping to have some bangers to say this time.
+Tom:(laughs) I believe that's the first time the word 'bangers' has ever been said on this podcast. Chalk that one off.
+SFX:(guests laughing)
+Tom:What are you working on at the minute that'll be coming out in the next couple of months?
+Toby:Always working on videos, but specifically tomorrow night, I'm hoping to do some astronomy stargazing for a video and filming my telescope setup. I'm actually covering a astronomy exam and going through some of the questions. So that's what's on my brain right now. (chuckles)
+Tom:Oh, lovely. Are you heading out of the city? Are you going into the outback here or just seeing what you can see from the backyard?
+Toby:Yeah, I probably wouldn't say outback, but I'm going to try and drive for a bit and find some dark skies. Somewhere with not too many trees in the way either. So I'm not sure exactly where I'm going to go yet. That's tomorrow night's problem.
+Tom:Also joining us today from the Overdue Rentals podcast, Matthew Schuchman.
+Matthew:Yes, thank you so much for having me back.
+Tom:You are the last one of this trio from the previous time you all were together here. It's almost like we block record these. How was your first episode?
+Matthew:You know, it was, it's so strange sometimes when I listen to the episodes that I'm not on, of course. You know, you get things right away, and now when you're in thick of it, it's like all of a sudden, your brain just kinda overloads. But I'm there, I'm ready. I think I got the flow.
+Tom:And what's coming up for you on the podcast?
+Matthew:You can join us basically every week. You can get a new celebrity guest. Actors, directors, though with the Writers' Guild and SAG-AFTRA Guild strike right now, we'll have some special guests, some stuff prerecorded for everybody that each week, they can come and listen to. Talking about movies that don't get talked about anymore.
+Tom:Well, good luck to all three of you. This show is a little like attaching a GPS to a squirrel. It'll take you on a journey with more twists and turns than you ever thought possible, but hopefully with fewer fleas. I'm gonna start you off with question one, which is this: A programmer types a command into a computer, requesting a random number from 1 to 10. After repeating the test many times, the computer always selects one particular number far more than the other nine. What is that number, and why isn't the programmer surprised? I'll say that again. A programmer types a command into a computer, requesting a random number from 1 to 10. After repeating the test many times, the computer always selects one particular number far more than the other nine. What is that number, and why isn't the programmer surprised?
+Matthew:Because he leaned on the keyboard and just kept his finger on one key the whole time.
+Julian:Yeah, it was... elbow press.
+Toby:The Homer Simpson 'Y'.
+Julian:Yeah.
+SFX:(group laughing)
+Julian:Now, I know humans are pretty terrible at coming up with random numbers, that if you ask people to come up with a number, you know, name a random number. There's a lot of, there's a lot of seven, or name a random number between one and five. There's a lot of number three. So, so... Is it something cheeky about the computer not being a machine? But you know how 'computer' used to mean a person that commutes. You know, the actual person.
+Tom:(laughs)
+Toby:That's a great idea.
+Julian:"Hey Sarah, name a random number." She's like, "Seven." You're like, "You always do seven!"
+Toby:Yeah, the human computers, yeah. I thought you were going to say there was a small human hidden inside the computer, but no, actually in history, the computer meant a human, yeah.
+Julian:I'm gonna guess the number seven. I don't know why, but you know, that's what humans love to come up with.
+Matthew:First thing that came to my mind too.
+Tom:It is the number seven.
+Julian:Yep, yep.
+Toby:I've heard an interesting tidbit that I don't know how true it is, but I've heard that the number seven in the lottery comes up the most often in terms of the lotto balls that get pulled out. And obviously there shouldn't be any weight to any one number or the other, but it still tells you, "Hey, seven is a lucky number. It comes up a lot."
+Tom:It is lucky number seven.
+Julian:Number seven. We're getting some lottery advice from Toby, so I'm going to take my winnings from this show, which are pretty generous, I understand, Tom, and give them all a number 7 at the lottery.
+Tom:I think the last time you were on, I promised the prize was being distraction before the heat death of the universe. So anything above that's a bonus, frankly.
+Julian:Which you can sell on the open market. Bit of distraction.
+Tom:(laughs) Yeah.
+Julian:Seven's popping up because people, they love, they like it, you know? If you went to a computer, right, and said, "Give me a random number," They're like "One," you're like, "Eh, that's okay." If they come back with seven, you're like, "That feels random. You've done well." So maybe there's a feedback where people say that was a good random number. You know, like that, "What do you think of the service today?" It starts to learn. Starts to do some learning algorithm and say that the punters love the number seven to be random.
+Toby:Yeah, I wonder if it's a crowdsourced...
+Tom:You're all dancing about the right answer very quickly. I'm going to keep my mouth shut at this point.
+Julian:Okay.
+Toby:I was initially thinking a Family Feud type of crowdsourcing. You know, I asked 100 people what is their favourite number or most random number, and seven has come up.
+Julian:Randomest number.
+Toby:Yeah.
+Julian:So I read an interesting, you know, that whole wisdom of the crowds thing where, you know, on average, people descend on the right thing. So no one knows how many jelly beans are in the jar, but if you ask the whole crowd, on average, they will know the jelly beans in the jar. I saw a study that said that works... even if the crowd is drunk. So they tested with people when they were sober and drunk. The drunker the people were, the worse they guessed. But if you get the whole crowd drunk, it doesn't matter, it still ends out the same result. So the point is, the computer's drunk. I think that's what they're saying.
+SFX:(Toby and Matthew chuckle)
+Matthew:The computer has been drinking, not me.
+Tom:Other than the computer being drunk, you've pretty much got it. There's one key insight that you haven't quite made the leap on yet. Why might a computer be doing all that, rather than just returning a random number?
+Toby:Because it doesn't know how to return a random number, so it has creative ways. Sometimes they do it with timestamps to get random numbers, or quantum mechanics nowadays to get random numbers. Wonder if crowdsourcing was easier at some point.
+Matthew:Is this less about a computer's ability to pick up patterns from what it... you know, picks up from culture in an AI sense compared to what people normally type on a keyboard? If your fingers are on the home rows, and you're just randomly typing, your finger goes up, it will hit the 7 most often, so it picks seven?
+Tom:There was a little bit in there, Matthew, where you got the exact answer.
+Matthew:Goddamnit.
+Tom:What might return 7? What might return that human bias rather than just hitting a random number button on a programming language?
+Julian:Is it like machines? You know how the kind of ChatGPT models, they go and get what other people do. So what they've done is, there's a lot of people around the world on the internet, like random number, seven, random number, seven. And it's gone, well, most of the time, or a lot of the time, seven comes back. So if I want to be a random number, I go and get seven.
+Tom:That is exactly what ChatGPT did. You are spot on. If you ask ChatGPT for a random number, it will return seven more often than any other, because all it's doing is looking at what humans do.
+Toby:That's awesome.
+Julian:That's pretty cool.
+Tom:Over to the first of our guests for their question then. We're going to start today with Toby. What have you got for us?
+Toby:Alright, this question combines ideas sent in by Zaki Muhammad and an anonymous listener. In Nigeria, a cart containing 50 mobile phones goes around the city to help people. In Germany, a performance artist drags a cart of 99 phones around the city to cause a nuisance. What's happening in both cases?
+Tom:I'm gonna sit out of this one. I have seen that news story, and I love it. Julian, Matthew, this one's for you.
+Matthew:People are crazy. (laughs)
+Toby:I'll read it again unless anyone else is going to pull out as well. In Nigeria, a cart containing 50 mobile phones goes around the city to help people. In Germany, a performance artist drags a cart of 99 phones around the city to cause a nuisance. What's happening in both cases?
+Julian:I feel like I've heard this story in Europe. But I've got no idea what it's got to do with Nigeria and what even it's trying to achieve. So... I think... the GPS is on. I think that this is a maps thing.
+Tom:That's what I was thinking as well. I'm pretty sure I've seen that happen. If it's not maps and GPS, then you've got two people coming straight back in this question.
+Matthew:(snickers)
+Toby:One little point worth noting about this is that the answer is in two parts. So there's two parts of the answer, and they are different, meaning that what is happening in both cases. is different.
+Matthew:But that clearly means in Germany, it's an art piece. It's the GPS, they're drawing something that can be seen when you go look at the map of where they moved around.
+Tom:Oh no, the one I knew was someone dragging the cart around to block up Google Maps on certain streets, because it looks like 99 cars are going very, very slowly down this road. So Google Maps suddenly goes, oh there's so much traffic there. We'll just mark it as red and divert everyone around it. But is that only one of those stories?
+Toby:Yeah, you're right, Tom. So that is the answer to the second part of the question. So that's what's happening in Germany. Alright, so, and I kind of thought you might get that straight away 'cause...
+Tom:Yeah, sorry.
+Toby:Even I had remembered reading that one. And so that's kind of a— It went viral, a video of this guy dragging the phones around in the cart. You're correct. It was to fool Google Maps into basically diverting the cars away. But the answer to what's happening in Nigeria is something else, alright? So we set the stage with performance art. Now, why in Nigeria do we have a guy going around with mobile phones? What's he up to?
+Matthew:Are they tied together though? Is it have to do with Google Maps again? And he's actually helping map something that they couldn't get to?
+Toby:No, it actually isn't to do with Google Maps.
+Matthew:Okay.
+Tom:You wouldn't need 50 mobile phones for that either.
+Matthew:Nah. (chuckles)
+Julian:So... taking phones to weird places. I saw an amazing video in China of all of those kind of creators that can get tips, you know, the people that are kind of live streaming. And what they did is they all set up in this rich neighbourhood. So they just lined up wall to wall, you know, performing, singing, doing their craft, because the GPS says they're here, which means it shows them to the local neighbourhood, and you get better tips at the rich neighbourhood. So this thing they could be doing in their home, wherever, they drive across town, set up their ring lights on the outdoor street, and perform. That is GPS located mobile.
+Tom:I saw that photo, and I didn't see any of the context of that.
+Julian:Oh, strategic, that's right. They're being really thoughtful. They're being entrepreneurial. It's really clever. So, sometimes being in the location of things matters, is the point, yeah.
+Toby:Sometimes location matters. I'd say in terms of this question, the fact it's in Nigeria, and that being the location... could clue you in to what sort of things would be needed.
+Tom:I was gonna say, is the mobile connection really bad? But it's Nigeria. I think the mobile infrastructure there is excellent, because the alternative is landline, which doesn't really exist. They, I think parts of that country jumped straight from nothing to mobile first, but... I also can't see why you'd drag 50 phones around in a cart there, as opposed to just... putting them in a backpack or giving people phones.
+Toby:Your idea is right, Tom, that a lot of people there would have mobile phones.
+Julian:Is it a swap and go thing where there's not power, or it's almost like on a phone delivery service where rather than charge your phone, you swap out for fully-charged phones?
+Toby:You're very hot on that on that trail, Julian. So, yeah the, words around charge and swapping out phones.
+Tom:Okay, 'cause I was thinking it was some kind of local Pokémon Go consultancy, where you just kind of put all the phones in a truck and just kind of walk around for a while and, you know, the Pokémon get walked. Honestly, I don't know how Pokémon Go works. I assume you just have to travel around with things.
+Toby:Julian, pretty— you're very close to having it. Just sort of tie up the loose ends of what's going on.
+Julian:I'll be honest, I don't understand the cart unless it's got to do with, it's got a charger in it, so they can charge while they walk around, or...
+Tom:It's got a solar charger in it, so you can pick up someone's phone. It'll go away for a couple of hours, it'll charge from the solar panel on the cart, and they'll do their rounds and hand it back to you a couple hours later?
+Toby:Yes, Tom, you are correct.
+Julian:Mate! Mate!
+Toby:This is a service to help people. It is a cart that is a movable phone charging system that charges people's mobile phones for a fee. Nigeria does not have electricity supply everywhere, yet many of its population has mobiles. So an entrepreneur has set up this cart equipped with a solar panel to charge up to 50 mobile phones at once.
+Julian:Bravo.
+Tom:Oh, they're not dragging it around. They just drag the charger from place to place, people plug in for a couple of hours.
+Toby:From place to place, yeah.
+Tom:It doesn't even have to be solar. It can just have a big battery attached to it.
+Toby:Yeah, and I read about another one that had Wi-Fi on it as well. Basically, you know, there are some towns that don't have the electricity and the facilities that you would see in a city, but the people there still want to communicate and use their phones to do things. And so this person is bringing that service to them so they can use their phones.
+Tom:I remember reading somewhere that there are more people in the world with mobile phones and internet access than running water in their home... because that's how ubiquitous that's become now. That's how much it is required to exist in society.
+Julian:I've done a bit of work in Nepal, and that's a place where I think they have 134 mobile phones per 100 people. And yeah, you know, some of those other resources, not in the same number. What a great question. Well done, Tom. That was a brilliant answer.
+Tom:(chuckles) No, no. You connected pretty much everything there, Julian. I just plugged it together.
+Julian:Teamwork, teamwork.
+Toby:Team effort.
+SFX:(Julian and Toby laugh)
+Tom:Matthew, over to you for the next question.
+Matthew:Alright, this question was submitted by me.
+Tom:Heyyy!
+Matthew:Yay. In the classic 1941 RKO picture, Citizen Kane, one scene features a cost-effective rear projection of a dense jungle to enhance a party's lavish theme. What did keen-eyed moviegoers find strange about that? One more time. In the classic 1941 RKO picture, Citizen Kane, one scene features a cost-effective rear projection of a dense jungle to enhance a party's lavish theme. What did keen-eyed moviegoers find strange about that?
+Julian:So, I'm thinking they, it's a rear projection, the one thing in my brain could be the kind of orientation that... perhaps... I don't know, there's something about a forest which makes sense in one direction, but not the other. Maybe, for example, that, I don't know, snow lands on one side and melts on the other, or that it tends to blow in one direction because of the wind, or that moss grows on one side, but not the other.
+Toby:Yeah, that was also my first thought is some kind of mirror symmetry that is not the same, you know, like spirals on a shell go one way or not the other or something like that. But yeah, not sure.
+Tom:When you say rear projection, this is where they just project... something into the background to then capture in camera.
+Matthew:Correct.
+Tom:So you can... So like the old shots where someone's driving a car, it doesn't look quite right, 'cause they're just projecting the car behind them.
+Matthew:Yeah.
+Tom:Was this... Okay, I'm gonna use a fancy term here. Was this diegetic?
+Matthew:(snickers)
+Tom:Was this a rear projection in the movie's plot? Like they are enhancing the party by putting a background of a jungle there for the characters? Or is it for the audience of Citizen Kane? Like this party is meant to be in a jungle?
+Matthew:No, I mean, it's both— one in the same almost. It was a jungle-themed party in essence, but you know, the props on set probably weren't enough to make it look real.
+Tom:Right, okay, so it's a jungle-themed party, and the partygoers know that it's part of a rear projection. It's not like the audience for Citizen Kane is like, "Oh, this is actually being held in the jungle."
+Toby:Do the partygoers think that they are in the jungle?
+SFX:(Tom and Matthew chuckle)
+Matthew:It's the latter. They're not— The partygoers don't know it's rear projection. The partygoers think it's just part of their world.
+Tom:Okay.
+Julian:'Cause part of me wants to hold a party and just start showing forests and see if it just kind of raises the vibe, you know?
+Tom:(laughs)
+Julian:Maybe that's the way you're meant to celebrate.
+Tom:Do ILM rent out that sort of fancy volume stage they use for modern rear projection just to move the cameras around, give people a bit of psychedelic trip as the perspective changes?
+Matthew:That actually, for parties nowadays, that's a good idea.
+Tom:Okay, Toby, you said they'd flipped it or something like that. Did they just put the film in upside down? Like it was flipped the other way, and it looks fine because it's trees and jungle, and then at some point some keen-eyed moviegoer can go, that parrot is flying upside down?
+Matthew:It's not having to do with the orientation, but it is very much the type of thing that somebody would pick up on otherwise, compared to, in terms of what you just said.
+Julian:Could it be that they... You know how people really know their trees? Now, I met someone who does a radio show, and he said that if you want to just, if you don't have anything to do, you can just choose a natural item and say "Do you guys know any birds?" And they just get call-ins about people who love their birds. There are people that love their trees. Are they in a location, but all these trees are not from that location? So they've got either the wrong time of year or the wrong type of tree?
+Matthew:It's the right kind of road. It's the wrong kind of object.
+Tom:How metaphorical was that?
+SFX:(both laughing)
+Matthew:Not too metaphorical, honestly, but— And if you're familiar at all with classic Hollywood, maybe think, why would... the wording of the question mention the studio?
+Julian:Was that RKO?
+Matthew:Correct.
+Tom:That is RKO, and they did King Kong. That's the only jungle themed picture I can...
+Toby:Was it a recycled background from some other film?
+Matthew:You're very close. You're all very close to both of those.
+Tom:Okay.
+Julian:So you're at the party. They think it's trees, but in one scene, you got King Kong just there doing— just waving in the background
+SFX:(group laughing)
+Julian:just doing a cameo appearance. You know, that same way they do in Toy Story and all the Pixar films.
+Matthew:I mean... not that extreme.
+Julian:Can you see a finger? Can you see a cheeky little bit of, just a little bit?
+Tom:There's something in my head about how they filmed that for King Kong, and I can't remember. Didn't... Okay, I haven't seen the original King Kong. I've only seen the Peter Jackson remake. I honestly, I kind of regret seeing it, but...
+Matthew:(wheezes)
+Tom:There is a whole sequence, a whole far, far, far too long sequence with giant insects in there. And I wonder if one of the ways they did that... in the original, if that is in the original, was just to film grass and actual regular-sized insects. And maybe that's the film that they reused for Citizen Kane?
+Matthew:You're also really kind of there... but it's not something that's that tangible, I would say.
+Tom:Okay.
+Matthew:You're really— You basically got it. There's just one small... other significance about it. And if, thinking about that scene from the remake of King Kong, let's say, think about in other films in the King Kong, you know... massive amount of pictures they made based on it, what other kinds of things may be there?
+Toby:Buildings?
+Julian:Could it be a shadow?
+Toby:The city...scape?
+Tom:I mean, there's also the dinosaur fight sequence.
+Matthew:(mumbles)
+Tom:Is there a dinosaur in the back of Citizen Kane?
+Matthew:To save money... Orson Welles used footage from The Son of Kong from 1933, which had stop-motion pterodactyls in the background, and they did not notice it when they put it in the film. And then, of course, later on when it came to home video, when home video became a much larger thing, it started to get noticed, and they had to erase it from the home video releases in the future.
+Tom:Aww.
+Toby:Aw, they got rid of it?
+Julian:Release the pterodactyl cut. Release the pterodactyl cut, I say.
+Matthew:You can find clips of it. If you go on YouTube, you can find clips of it. But this is one of my favorite, you know, little tidbits from film school that I learned that I always catch on to because it's like for some reason, all these videos that everybody goes out there to make, you know, "Top ten mistakes you never notice in films!", nobody ever mentions it.
+SFX:(group laughing)
+Julian:They will now, my friend. They will now.
+Tom:Next one's from me. Good luck, folks. A CCTV system was stolen from a convenience store. When police recovered it, three shopkeepers claimed the system was theirs, but the receipts and serial numbers had been long lost. How was the correct owner identified without advanced forensics? And one more time. A CCTV system was stolen from a convenience store. When police recovered it, three shopkeepers claimed that the system was theirs, but the receipts and serial numbers had been long lost. How was the correct owner identified without advanced forensics?
+Matthew:(snickers) I mean, clearly they shot their own sex tape on it and just, it was them.
+Tom:(laughs)
+Julian:Ah, the old sex tape evidence. I think just the humour, can I say, that just the ironic joy of stealing a CCTV camera system rather than other items. That is just, do you know what that is? That just says, I'm in it for the love of the game. I'm not here for your stuff. I'm just here to win, you know? Imagine just doing lock picking so you could put other locks inside another lock. That's what that feels like to me. Oh, respect.
+Toby:It's a weird thing to steal, but I wonder why three different owners want to claim it. Is there something so valuable about this one CCTV? Why are multiple people claiming that it was theirs? I don't know if that's... if there's something special about it, or if this is just a regular CCTV.
+Matthew:It's gotta be something like one of them was the owner, one of them is actually the thief, and somehow caught on the other one's CCTV. So they all want to get evidence to screw the other one over.
+Toby:Yeah.
+Tom:Just to be clear, there was no footage left on this system. The police are trying to identify the rightful owner, but there's no data actually left there. There's no tapes, anything like that.
+Julian:I was so sure the answer was going to be just watch the footage, and it's them installing it.
+SFX:(others laughing)
+Julian:It's their close up on day one with the screwdriver.
+Tom:Yeah, when I read this for the first time, I was like, oh, it's obvious. But no, there was no footage with the system.
+Julian:Okay.
+Toby:Presumably, if you're saying that it was stolen from you, you've got an empty spot in your store where you're saying it was stolen from. So I'm wondering if you're needing to look at that empty spot. And is there, you know, a shadow where the dust didn't go for 10 years or something like that, or the paint has been bleached in the shape of the CCTV camera that used to be there.
+Tom:Honestly, I'd say there wouldn't be any forensics required at all for this. I'd classify even that sort of investigation as forensics, and no, it wasn't a case of just kind of... putting it back and seeing where the paint lines up.
+Julian:'Cause if— I think I— I kinda like what you're saying, Toby. The idea that maybe kinda burns into the monitor or the light shining on it. But it could be even simpler that if the person who says, "That's mine" happens to be, you know, the fish and chip shop. Cause it's covered in fish oil grease or some kind of smell. You just walk by. "(sniff) Oh, yep, yep. This one belongs to the (whistle)" whatever the aromatherapy session, the aromatherapy business.
+Tom:When you say burns in, what do you mean, Julian?
+Julian:Onto the screen, you know how like when you have a monitor on that's the same thing all of the time? It kind of burns in those lines. So maybe it's been on, pointing at something for days, weeks, months, or years. So essentially this monitor just shows it. Even when it's off.
+Tom:I don't know how you skipped past all the clues that I still have to give about how this is an old CCTV system from many, many years ago that used a cathode ray tube monitor, but you absolutely nailed it. This was, and this is apparently a true story, a CCTV system that the police could look at, go, oh, that's burned in, and that's that guy's shop.
+Toby:Oh, good work.
+Julian:Let's go. Let's go. I like the fish oil answer, but this one works as well.
+SFX:(group laughing)
+Matthew:You know, back when HDTVs were first becoming big though, and it was plasma versus LED, everybody said, "Don't get plasma 'cause they'll burn in." I still have, 10 years later, my Fujitsu, a 50-inch plasma, and has not had a single point of burn-in this whole time. So it was all a lie. And they fooled you.
+Julian:Oh, the idea of screensavers. They actually meant something. They save your screen. Genuinely, they move stuff around to stop stuff burning in. So it's one of those kind of, you know, these days, you could have anything or nothing, and... but yet they carry on, you know, they carry on.
+Tom:I remember there being an arcade cabinet in an arcade I went to as a kid, where the game was Gauntlet.
+Matthew:Mhm.
+Tom:Which is one of the old Dungeons & Dragons type ones that is just designed to suck your money out your pocket as much as you can. Literally your life bar is how much money you've put in, and it just ticks down in time as well, even if you've not been hit. But the gauges and the numbers for that were just permanently burned into the monitor. Even if it was on another screen, you could still see 'em. Doesn't happen with modern stuff, I don't think? I feel like OLED screens can still get some burn-in, but I can't remember if I'm getting my types mixed up there.
+Matthew:Well, dead pixels are a bigger thing now, I guess.
+Tom:Yep, this was a CCTV system where the old picture and old shop was literally burned in to the cathode ray tube monitor. Julian, just your question to go. Whenever you're ready.
+Julian:This question was sent in by Patrick Lind. In 2008, someone posted a fake Craigslist advert for manual work. People were told to meet at a car park in Monroe, Washington, wearing jeans, a blue shirt, and a yellow safety vest. They also had to bring goggles and a mask. What was the reason for the advert? I'll repeat that again. In 2008, someone posted a fake Craigslist advert for manual work. People were told to meet at a car park in Monroe, Washington, wearing jeans, a blue shirt, and a yellow safety vest. They also had to bring goggles and a mask. What was the reason for the advert?
+Toby:I'm thinking psychology experiment recruiting. When you say fake Craigslist ad, that's what I'm sort of thinking.
+Matthew:I'm thinking it's a lonely person who wants to start their own flash mob, but didn't have friends to do it.
+Tom:(laughs) I, for some reason, was thinking the Minions movie. But I think 2008 is too early for that, and Despicable Me, I just see... blue and yellow and goggles and something. They're trying to create some photo opportunity for the Despicable Me movie, but...
+Matthew:I think you're right. I think that is too early for it.
+Toby:All I can think of is Minions now that you've said the goggles part, because it makes so much sense.
+Tom:Yeah, sorry. Is Craigslist still a thing? I haven't heard that name in years.
+Matthew:Yeah, it still exists, that's for sure.
+Tom:Is it still a completely blank white page with regular Times New Roman text on it? I really hope they haven't updated it.
+Toby:Yeah, the last I heard of Craigslist recently, and in terms of fake ads, was apparently they used it to recruit the guy for the show Jury Duty, where he was told he was going to be on a jury documentary or something. And then he shows up, he thinks it's real jury duty, but everyone else is an actor except him. And all this crazy stuff happens. I feel like I heard that Craigslist was involved with recruiting him.
+Matthew:It does remind me a little bit, I mean, I know this is not the one, but it reminds me of the basis of the movie Safety Not Guaranteed was where somebody put an article in the paper wanting somebody to come time travel with him. Safety not guaranteed. But I don't know how that would fit in at all to the jeans, the goggles, and all that other stuff.
+Julian:So just to confirm, you're locking in, your final answer is time travel, is that what you're saying?
+SFX:(group laughing)
+Matthew:Time travel for everything, please.
+Julian:They were also— no, no.
+Tom:Blue jeans, yellow safety vest, goggles, and what was the other thing?
+Julian:They also had to bring goggles and a mask.
+Matthew:What kind of mask though? Is this a snorkel or is it a surgical mask? Workman's mask, you know?
+Toby:Yeah, dust mask. Are they going swimming?
+Tom:And it was a fake advert, right? Some sort of scheme.
+Julian:To confirm, it was a fake Craigslist ad. It was for manual work, is what it said, but it was not for manual work.
+Tom:'Cause I remember a story of someone trying to convince 10 or 20 creeps who were interested in them online to all meet at the same place wearing the same thing, but... I don't think you can do that with goggles and a mask and a safety vest? That's not something that most people just have to hand.
+Matthew:Yeah, I know that story, yeah, that was a woman who went on dating sites, I think, and told 100 men to meet her at Bryant Park. And it was gonna be a tryout for "Who wants to date me?"
+Tom:Oh, okay. I just thought it was a general prank of whoever was being creepy to this person, but just someone being a jackass. Okay, fine.
+Matthew:Yeah.
+Julian:Well, in this case, this motivation wasn't a prank.
+Tom:Huh.
+Toby:We could have the classic police sting operation of trying to arrest all the people who come.
+Tom:(laughs)
+Toby:But this is weirdly specific with the uniform, so... not sure where that's going.
+Tom:Yeah, if you're posting it on Craigslist, you—
+Toby:It seems like perhaps they don't care who it is that shows up into this one.
+Tom:No, it's just gotta be loads of people wearing that.
+Matthew:Did the person who posted the ad show up as well, or was that person not there?
+Julian:So, they weren't exactly there. But were in the area.
+Tom:What was the location they had to go to?
+Julian:It was in a car park in Monroe, Washington.
+Tom:Alright, so it's not like... public place with a webcam on it or something like that. It's not a prank or a stunt though. It's...
+Toby:When you say the person was in the area, it makes me think they were watching. So were they flying overhead in a helicopter or something?
+Julian:No. They weren't really watching or recording.
+Matthew:Wait, sorry. They were watching and recording or not?
+Julian:They weren't, no, no, they weren't.
+Matthew:So it's not like they wanted to prove to their boss that they got the gang together to do the work, but they didn't do it, so... they recorded a group of people.
+Julian:No.
+Matthew:Alright.
+Tom:I'm really having trouble, and this says how broken my brain is with this sort of stuff at the moment. I'm just having trouble not thinking that this is some sort of YouTube prank or someone being a jerk. Why do you need 100 people wearing that?
+Julian:No, the ad was for manual work, but there was no actual jobs on offer. That wasn't the reason. There was a motive, and it was a nefarious one. But not a prank.
+Tom:Okay.
+Matthew:What was it— Did this car park happen to need extensive work, and the government wasn't doing anything about it. So they got people to show up to make it look like it seemed work was going to get done. So that way, they would get the officials to push this through?
+Julian:Nah.
+Tom:Hold on, hold on. You wouldn't want to record it if... Is this a distraction? Has someone just robbed a bank or something like that, and they are wearing really bright clothing that matches this? And so after they rob the bank and run out, they just run into the middle of this 100 people, blend in, and get to their car that's the getaway car? This is a terrible plan. If this is the right— Surely this can't be right.
+Julian:Tom, it is exactly right.
+Tom:(groans into laugh)
+Julian:Every word of that was correct, from top to bottom. That could not have been more right.
+Toby:That was great.
+Julian:The goal of this was that, yeah, the writer of the advert could rob a bank, literally a bank, while wearing the exact same thing.
+Toby:Oh my god.
+Matthew:They stole my idea.
+Tom:(laughs) Well, you said the word 'nefarious', and I was like, there's gotta be some reason for this.
+Julian:And it was, and that was it, so... Anthony Curcio planned to rob an armoured car while he was visiting a branch of Bank of America, and wore the outfit of manual labourer, so he kind of used the advert to lure people into the area wearing the exact same thing, so... He grabbed $400,000 in cash. When the police arrived, they were surrounded by all these people with the exact same description.
+Tom:And so they stopped everyone and then searched through them until they found the one who was holding $400,000, I'm guessing?
+Julian:Turns out the reason he was caught was actually because a homeless man wrote down the license plate number when he was doing a dry run. So that individual just thought, this guy's up to no good. So he ended up, yeah, getting sentenced to six years in federal prison. But he's now out in the world, and he's on the public speaker circuits, warning people not to do drugs and crime.
+Matthew:Did they at least give the homeless man some reward money?
+Julian:I really hope so. $500,000 is a lot of money to kind of claim back.
+Tom:Final part of the show then. Thank you to Caitlin and Ben Downing for sending in the audience question that I asked at the start. On the Hollywood Walk of Fame, which celebrity has their star mounted on a wall out of respect? Before I give the answer, anyone want to take a quick guess at that?
+Matthew:Is it Nancy Sinatra?
+Julian:Humpty Dumpty.
+Tom:(chuckles) Okay, Humpty Dumpty, I get the joke. Was that Nancy Sinatra, you said?
+Matthew:Yeah, 'cause these boots are made for walking. They'll walk all over you.
+Tom:Oh, it's a good guess, and that is the reason. It's to stop people walking over the star and the name. What might the reason for that be? What might be special about that name?
+Julian:Oh is it like a religious name? So Muhammad or Jesus? Maybe Muhammad?
+Tom:Yeah.
+Julian:Muhammad Ali?
+Tom:You got it, Muhammad Ali. His star is mounted on the wall because he did not want people to be walking over the name Muhammad. With that, thank you very much to all our players for surviving another round. Thank you for coming back. What's going on in your lives? Where can people find you? We will start today with Matthew.
+Matthew:You can come listen to Overdue Rentals, hosted by myself and Cinemablend's Mike Reyes on all your favorite streaming platforms. And if you need to reach out to us, just email us, overduerentals@gmail.com. We'd love to hear from you.
+Tom:Toby!
+Toby:You can find videos about maths, physics, the fourth dimension, all that, on my YouTube channel Tibees, which is T-I-B-E-E-S.
+Tom:And Julian.
+Julian:My name's Julian O'Shea. I make videos about design, about cities, about Melbourne. And if you want to check them out, do so, or find me just strolling the streets of Melbourne, filming random stuff.
+Tom:And if you want to know more about this show, you can do that at lateralcast.com, where you can also send in your own listener questions. We are at @lateralcast pretty much everywhere, and there are video highlights every week at youtube.com/lateralcast. Thank you very much to Julian O'Shea.
+Julian:Great to be here.
+Tom:Toby Hendy.
+Toby:Bye.
+Tom:And Matthew Schuchman.
+Matthew:Hoo-hoo!
+Tom:I've been Tom Scott, and that's been Lateral.

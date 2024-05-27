@@ -1,0 +1,438 @@
+Tom:Which company wished a Happy Father's Day to people who weren't their customers? The answer to that at the end of the show. My name's Tom Scott, and this is Lateral. Welcome to the show, a kind of full-body yoga where even your mind has to bend and stretch. So joining us in the studio today, we start with Beryl Shereshewsky.
+Beryl:Hi!
+Tom:Now, last time we were on, we rattled through a lot of questions between the group very, very quickly. So I'm going to ask... What is it that you're working on now that you are really looking forward to producing?
+Beryl:Do you mean for my channel? Or life in general?
+Tom:(laughs) I mean, I can ask it as a big existential question if you want!
+Beryl:Yeah, I wasn't sure!
+Tom:I was just going for the YouTube channel!
+Beryl:Oh, right! I was like, yeah, I don't know. Love, loss.
+Tom:(cackles)
+Beryl:Okay, sorry, I'll answer that more accurately. Can I just pick up, or do you have to ask that question once more?
+Tom:Honestly, that'll probably stay in.
+Beryl:Oh, okay!
+SFX:(Beryl and Jacklyn laugh)
+Beryl:Coming up... I have a new series launching that is gonna help people learn how to navigate international grocery stores a little bit better, where people from those cultures are gonna guide me through different stores. So we're going to a Filipino grocery store, we're going to a Middle Eastern grocery store. That way you could go and not just kind of walk around befuddled by everything.
+Tom:You keep having format ideas that I'm like... There's a point which an idea is so good that I get angry about it. And you keep having those! It's not like I could do that series. I've got no cooking experience. I'm just genuinely impressed by that.
+Jacklyn:Yeah.
+Tom:Also joining us, we have from Nothing But Tech, Jacklyn Dallas.
+Jacklyn:Thanks for having me on. I totally agree that the format is everything. If you have a brilliant idea— It's like Hot Ones on YouTube where the progressively hotter and hotter wings, and then the questions, that is just so brilliant.
+Tom:What's your format at the moment then? What are you what are you working on?
+Jacklyn:Ooh, yeah. I've been doing more day-in-life reviews for prod[uct] stuff. So again, that dual narrative, like Hot Ones, you watch to see how the guest reacts to the wings, and then also see their answers to the questions. And for tech videos, it's like, you're watching to see how the product performs, then also what I'm doing on a day-to-day. And then I'm also doing interviews with tech executives.
+Tom:Did I see a custom mug there? Was that your own brand of mug?
+Jacklyn:Yes! Oh my god, good eye!
+Tom:Same, same.
+Jacklyn:No way! I love it.
+Tom:We have experimental sample merch here.
+Jacklyn:I want that in my life.
+Tom:(chuckles)
+Jacklyn:Tom, I'm gonna instant buy that the second you make it available.
+Tom:And the third member of the panel, returning to the show, we have Alec from Technology Connections. Alec, how are you doing?
+Alec:I'm doing great. It's wonderful to be back.
+Tom:What are you working on at the minute? What is in the future as we record this, but in the past as people listen?
+Alec:I'm going back to basics, actually. I'm just talking about a very simple thing and how it works. And I was just staring at it and was like, you know, I don't really understand how those work. So, that's what I'm doing. You're gonna learn all about the photocell light controls that turn street lights off during the day.
+Beryl:I love that. I think about that all the time. I'm not even being sarcastic. I think it's such a cool idea.
+Alec:They are a lot weirder than you think.
+Beryl:I believe it.
+Alec:I was like, that's how that works? So hopefully it's a good video.
+Beryl:There's this one moment in New York City where you can be in Central Park and... (fingers snap) all of the lights come on. And it's always very magical if you can time it perfectly.
+Jacklyn:That's magic.
+Tom:Good luck to all three of you. Solving the questions on this show is a bit like living in a dreamscape. Nothing quite makes sense, and at some point tonight, you'll wake up going, "Aaah!"
+Jacklyn:(wheezes)
+Tom:But while you're still lucid, we'll start you off with the first question, which is: A question sent in by Ellis, thank you very much. Why was the Polish charity Ecologic Group doubly sad when it received an unexpected phone bill for $2,700? And one more time. Why was the Polish charity Ecologic Group doubly sad when it received an unexpected phone bill for $2,700?
+Beryl:I like that it was doubly sad, meaning they...
+Alec:Yeah.
+Beryl:They didn't know that they had a phone. Must have been the reason they had, so...
+Alec:Or they were expecting a bill that was only $13.50.
+Beryl:(giggles) Who were they calling? They were sad... They were sad... They were a Polish eco group. They were sad because it should have all been paid for by solar and wind power and not by money power.
+Jacklyn:Oh, interesting.
+Beryl:I'm guessing no. (snickers)
+Alec:(chuckles) My brain's not leading down any productive paths here.
+Tom:Well, you're right that the phone bill was one reason to be sad. That's a sudden bill for the charity they weren't expecting. But there was a second reason.
+Jacklyn:Is there anything to do with the amount? Like $2,700, that feels specific, you mentioned.
+Tom:Roughly $2,700.
+Beryl:They were sad because they had to work at a charity to save the world. That seems complicated to save at this point in time, so they were sad.
+Jacklyn:Oh no!
+Beryl:And then they got a phone bill, and they were like, "Just close up shop, we're done."
+Jacklyn:Yeah. They're like, everything is going wrong right now.
+Tom:Existential climate crisis jokes here, but sure, sure.
+SFX:(Beryl and Jacklyn laugh)
+Jacklyn:I wonder if that just shows the amount of calls they had to make to try to raise money. Like $2,700, that's such a high phone bill... that they'd probably run the phone for so much time, but then they didn't actually raise that much money. Maybe it shows that their efforts are not working.
+Beryl:Or maybe somebody was just calling their friends and having a chitchat, and actually they didn't raise any money, and the phone bill was all to call-in game shows like this one.
+Tom:Hey, hey, I am— I resent that. This is not one of those premium rate call-and-lose shows that we had for a while.
+SFX:(guests laughing)
+Tom:That reference is not going to land for any of the Americans. But for several years in the I think it was late 2000s, early 2010s, Britain had a fine line in late night call-in premium rate shows with just almost impossible questions, where you basically had to guess. And you would call the number and they'd be like, "We're waiting for a caller through to the studio. We're waiting for a call." And a lot of the times, just say, "Sorry, you've been unsuccessful." Because it was basically a lottery, and just, as soon as enough people had called, and they knew they were making a profit, they'd let someone through. Allegedly. I need to— Legal need to do a check through on exactly what the complaints were about that. But we had a long line in sort of what were termed call-and-lose shows for a while. And just to be clear, no one here is on a premium-rate call to be on this podcast.
+SFX:(Beryl and Tom laugh)
+Beryl:And definitely nobody from a Polish eco charity.
+Tom:Mhm.
+Jacklyn:I think there's something there with the, they weren't raising money, but the call bill was so high that they were able to see that maybe people were not being productive.
+Beryl:They were calling 1-900 numbers.
+Alec:Well, I was thinking maybe, is it a difference between the outbound and incoming calls, as far as how they're billed, does that matter?
+Tom:There were a lot more calls than expected.
+Beryl:People thought that it was the number for the president of Poland. And so they got a lot of calls.
+Alec:(snickers)
+Beryl:And everyone was like, "Hey", and they're like, "Yo, this is Oleg." And they're like, "That's not who I expected to pick up."
+Jacklyn:Oh, maybe they got complaints about an ad that they ran or something. And so they had a lot of calls come in about complaints about what they were doing.
+Tom:I should clarify, the US is one of the very few countries in the world that bills for incoming calls. Nearly everywhere else, incoming calls are free.
+Beryl:Oh, okay, so this must have been a lot of outgoing calls. They...
+Tom:A lot of chit-chat, like you said.
+Alec:Was it just that they were saddened by all the effort they needed to take to get the donations they needed?
+Beryl:No, you're way too serious. This has gotta be something silly. Think about the questions. This is not serious. Literally, they're making calls to, you know, sexy girls on the phone booths. There's something weird here. Something's not making... Someone's calling for something wrong.
+Tom:Yeah, you've spotted, Beryl, there is something strange going on with this phone.
+Beryl:The phone was actually a telemarketing phone that they didn't realize was a telemarketing phone that was just calling out everybody.
+Tom:That was one of those wonderful moments on this podcast where the first few words are like, "She's got it, she's got it, oh no."
+Jacklyn:And then it fell down a cliff!
+SFX:(Beryl and Jacklyn laugh)
+Tom:I'll tell you the words that were right in that sentence, it was: "The phone was actually."
+Jacklyn:Oh, okay.
+Beryl:Ooh.
+Jacklyn:Was the phone actually always on?
+Tom:What kind of ecological work would include a phone connection?
+Jacklyn:Okay. Hmm.
+Beryl:Burying the phone lines. If you wanna bury the phone lines, you gotta make some calls. That's a big initiative in my mom's town, because the power lines and phone lines get knocked over during storms.
+Jacklyn:Or above ground?
+Beryl:Yeah. Above ground.
+Jacklyn:Yeah.
+Beryl:And it's always like, "Bury the lines!" But maybe that's not an eco initiative. And also very specific.
+Alec:Did someone just leave a phone off the hook?
+Jacklyn:That would track.
+Beryl:But would a phone off the hook pay— Does that cost money?
+Alec:I'm just also processing how many people don't know what that phrase means these days.
+Tom:(laughs) Yeah, this was a cell phone bill, and it was a little more recent than that.
+Beryl:Oh, it's a cell phone bill. I was thinking just of a rotary phone. I don't know why.
+Jacklyn:I love that your mind went to rotary phone. That's so niche.
+Beryl:Yeah, that's also very— Because I don't know, yeah, it just seemed like a phone bill. You don't get phone bills on cell phones. It's just a monthly plan, right?
+Jacklyn:No, I think you do. Maybe they were sending a lot of texts? Did it specify it was phone calls?
+Beryl:Oh, international! You get bills if you do international calls.
+Jacklyn:Okay, and it mentioned that they were Polish. Right, so maybe they were doing something that's actually not in service of the... Poland.
+Beryl:They were doing a lot of prank calls to other countries.
+Alec:Did they realize that they had crossed a border?
+Jacklyn:Ohh!
+Alec:Because... ...of the phone bill.
+Jacklyn:And did work in another country when they shouldn't have?
+Alec:And so suddenly, they were roaming. And so all the phone calls that they were making turned into international calls.
+Tom:Well, you're getting closer there. They were roaming. But this was very much deliberate roaming.
+Beryl:But also we were saying the phone was actually a— The phone was actually a smartwatch. And somebody just had calls non-stop, because they'd slept on it weird.
+Tom:Yeah, you're getting closer.
+Beryl:Oh my god!
+Tom:It's not close yet, but you're getting steadily closer.
+Beryl:The phone was actually a...
+Alec:(laughs) Car? Like a car phone? I don't know.
+Beryl:I want to say sandwich. Is that...?
+Tom:(Tom and Beryl laugh) What else might an ecological charity... use a phone connection for? Particularly—
+Jacklyn:Oh, taking pictures or something?
+Alec:So maybe, what are they called, trap camera, or whatever, so that they had an automatic system that would dial out when it saw something, and would... the equivalent of 'fax' a picture. What? But it was bad news.
+Jacklyn:Oh!
+Tom:Yeah. They weren't expecting that big a phone bill from this. It's not a trap camera. But it's definitely that sort of thing. It's not a phone-phone, initially.
+Beryl:Oh, it was like a tattletale program? You saw somebody doing something bad, and they were like, call us?
+Jacklyn:No, maybe the phone automatically activates when it sees X thing happen, and maybe they didn't expect X thing to happen that many times. The water level hits a certain level or something.
+Beryl:What kind of phone is this, that has... is sentient and has sight, and makes calls on its own?
+SFX:(guests laughing)
+Tom:Oh... Not quite the phone, Beryl, but what might you attach the phone to?
+Alec:Is it a big button for bears that says, talk to the president of Poland or something?
+Tom:Actually, you know what, Alec? That's getting there.
+Jacklyn:Ooh.
+Alec:A big button for humans?
+Tom:No, you're gonna attach this transceiver. I'm not even sure I'd call it a phone, but it is technically a phone. You attach this to something.
+Alec:Oh, so an animal that they were tracking. Yeah. Don't tell me that the animal died, and that's how they found out.
+Tom:Well, that could be one of the reasons that they're sad, but they're not actually sure what happened to the animal.
+Jacklyn:Oh.
+Tom:They sent it off with this little phone tracker attached to it.
+Beryl:It's a pigeon. It's on a pigeon.
+Tom:It's on a stork, actually. But yeah, more or less there.
+Jacklyn:Hey, that was close.
+Tom:So where did the phone bill come from?
+Jacklyn:Oh, and then maybe it flew to a different country, and that's why there was roaming?
+Tom:Oh, they knew it was going to a different country. It's a stork. They're tracking its migration.
+Jacklyn:Yes.
+Tom:But that's not a $2,700 phone bill.
+Beryl:Well, if the stork had a lot of friends and was trying to throw a party and needed to call someone.
+Jacklyn:Did someone take the phone from the stork?
+Tom:Someone took the phone from the stork, took the SIM card out of the phone, and then proceeded...
+Jacklyn:Nooo!
+SFX:(group laughing)
+Tom:...to make a huge number of international calls on the charity's dime.
+Jacklyn:Wow.
+Alec:Who does that?!
+Jacklyn:You steal a phone from a bird? That's wild.
+Tom:It was somewhere in Sudan in the Blue Nile valley. They assume that the bird was either ill or had possibly died, because how on earth do you sneak up on a stork? But the answer is, they don't know. All they know is someone in Sudan was able to get the SIM card and charge $2,700 of phone bills to the charity.
+Beryl:So, you're saying the phone wasn't actually a sandwich?
+SFX:(group laughing)
+Tom:As always, our guests have brought questions with them, and we start today with Alec. What have you got for us?
+Alec:Okay. This question has been sent in by Pascal De Vries. In 1816, French physician and musician René Laennec watched two children scratching a long piece of wood with a pin. Later that year, this helped him overcome his deep shyness when helping a young lady, and made him famous. How? One more time. In 1816, French physician and musician René Laennec watched two children scratching a long piece of wood with a pin. Later that year, this helped him overcome his deep shyness when helping a young lady, and made him famous. How?
+Beryl:(stammers) How is he helping this young lady? What was he doing?
+Tom:I mean, physician and musician, so there's a couple of options there.
+Jacklyn:He could be giving her music lessons.
+Tom:Also, physician and musician is a hell of an overlap there.
+Alec:Very true. I just like the way that sounds. It's got a nice ring to it.
+Beryl:He overcame his intense shyness while helping a young lady because he watched two kids?
+Jacklyn:Maybe you have to perform music or something.
+Beryl:It's just weird phrasing, that he was helping somebody. Because you would think if you're a doctor, you would be treating somebody. Or if you're a musician, you would be playing for somebody, or performing. It's the word 'helping' her, I'm like, with her groceries? And he was too shy to ask, but then was like, "Remember those kids with the pin?"
+Tom:Pin on a long piece of wood, what's that gonna sound like? Please now enjoy the sound of the pen in my right hand, and my left arm, as I try and...
+SFX:(pen rattles)
+Jacklyn:Oo-u-ugh.
+Tom:It's not a great sound.
+Jacklyn:It's like ASMR, but not.
+SFX:(Tom and Beryl laugh)
+Alec:So why... Why do you think the kids would be doing that?
+Beryl:They were trying to write their names in the log, probably. 'Cause that's what kids do. They wanna leave their mark on the world.
+Jacklyn:Or they were trying to make an instrument or something, like make music.
+Tom:Yeah, I had it more as an instrument, They're scraping it down there to make a noise.
+Jacklyn:Yeah, like when I was a kid, I used to have something that looked like that, where you could play.
+Alec:That's a good line of thought, but... The noise wasn't necessarily what they were doing. They were sending signals to one another.
+Jacklyn:Oh.
+Beryl:They were like, "Hey, there's a weird guy watching us." And the kid was like, "Yeah, I know."
+SFX:(Tom and Beryl chuckle)
+Alec:I'd be similarly concerned.
+Tom:Okay.
+Jacklyn:They were using the sound as like a code almost.
+Beryl:Like Morse code.
+Jacklyn:Yeah.
+Alec:Remember, he helped a young lady, right? He didn't know her very well.
+Beryl:Okay, so he watched these kids scratch a log, and the kids were giving each other codes. And then he saw this young lady, and he was like, "Hey, let me help you." And then was like, "Oh yeah, remember those kids? Now I'm not shy." I don't see the connection. (giggles)
+Jacklyn:Ugh. Was he inspired—
+Alec:I mean, that is literally what has happened.
+Jacklyn:Yeah, I wonder if he was inspired by watching the kids interact. And it gave him confidence to help this person.
+Tom:So, if they're sending signals, you can do that by scratching into the wood. You can do that by leaving physical marks on it. Or you can try and use it as an amplifier or something like that to... send noises. But if you were doing that, I don't know why you wouldn't just... yell into it. For some reason, I assume this log was hollow. I don't know why I thought that. But if it's just a solid piece of wood, then you're just scratching things into it.
+Beryl:That feels like what kids do though, right? They just scratch things into things. I mean, I think the part that I'm caught up on is... overcoming his shyness seems like a part of it, because in overcoming his shyness, he was able to live a fulfilling life. Because before watching these kids and said log, he was, you know, I guess a very shy musician physician. Which did not get him very far.
+Jacklyn:Yeah, I feel like both of his roles, you have to be kind of a little bit extroverted, like a musician to perform and being a doctor, you have to be able to ask patients what's going on with them.
+Alec:He didn't want to invade the lady's personal space more than he had to.
+Beryl:I'm stuck because the only way that I can hear the term 'helped' a young lady with her groceries.
+Tom:(stammers) It's the guy who invented the stethoscope!
+Jacklyn:Ohhh!
+Alec:That's exactly what it is. I thought Tom knew this.
+Beryl:What?!
+Alec:I really did.
+Tom:I did not know this. But I just had this moment of... Sorry, sorry. (laughs) I realise that vague flailing and enthusiasm does not come across well on audio, but...
+Alec:This is the problem with having the YouTube channels that I watch. 'Cause I'm like, I know someone's talked about this. Was it Tom?
+Tom:They're tapping on the log. If you tap on one part of it, and you put your ear to another part of it, you can send noise through the log.
+Alec:They weren't tapping on the log. They were scratching on the log. So, Laennec saw two children sending signals to each other using a long piece of wood and scratching on it. And with an ear on one end, the child could hear the pin being scratched at the other end. And so later that year, he was diagnosing a young woman with symptoms of heart disease, and he didn't want to do the standard thing of pressing his ear against her chest. And so he thought back to those kids he saw scratching messages on a log.
+Beryl:I don't know. I call shenanigans on that story. That seems unlikely, but...
+SFX:(Tom and Jacklyn laugh)
+Beryl:Truly? He was like, "You know, young lady, I once saw these two kids playing on a log. BRB, I'm going to go create something."
+Alec:Yeah, and because of his musician background, you know, he actually had skill making wooden flutes. So he designed a wooden tube for listening to the chest, which was the precursor to the modern stethoscope.
+Tom:Next up is a question that has been sent in by a lot of people. The first one of which was anonymous, so we're not actually crediting any individual on this. Thank you to the many, many people who sent this one in. Good luck. Released in 2016 with a U rating, the film Paint Drying solely consists of a single shot of a newly-painted brick wall for over 10 hours. What was the director's motivation behind this? I'll say that one more time. Released in 2016 with a U rating, the film Paint Drying solely consists of a single shot of a newly-painted brick wall for over 10 hours. What was the director's motivation behind this? And U rating in Britain is equivalent to a G rating. So suitable for—
+Jacklyn:Okay.
+Beryl:Unbearable.
+Alec:(laughs)
+Tom:They went with 'universal' over here for some reason. We have U, which is just universal. I think we used to have one which was UC, which is particularly for little kids. And then we have PG, and then 12, 15, 18, which is like, this is the minimum age to see that. No, wait, sorry. This is just a rant about film ratings here, but we also have 12A, which is the equivalent of PG-13, which was brought in purely because parents were like, "Eh, my kid's fine to see this." So 12A is like, yeah, it should be 12 years, but, eh... we let 'em in. We let 'em in with an adult.
+Beryl:So 'U' does not stand for unbearable.
+Tom:Nope.
+SFX:(group chuckling)
+Jacklyn:It's gotta be around the expression of, "it's as boring as watching paint dry." Maybe he's trying to make a statement.
+Beryl:That it's actually not boring to watch paint dry for 10 hours. (laughs) He was trying— It was an ad for a quick-drying paint actually. Because that's a rather quick time for outdoor paint to dry.
+Alec:I just had a thought. The paint that's drying... I'm picturing just a camera pointed at a wall of watching paint drying. But I think there might be more going on than just that, or is that literally all we're seeing?
+Tom:That is literally all you're seeing.
+Alec:Oh, boy.
+Beryl:It reminds me of that Swedish— I think it's from Sweden, slow TV, right? Where it was like, you would be on the front of a train going across the country, and everybody would tune in to watch these 12-hour long+ broadcasts of just absolutely nothing.
+Alec:Well, you know, there's that paint that goes on purple and dries white. Was it something like that? I don't know. I'm grasping at straws here.
+Beryl:But I think the question... Wasn't the question, what was he actually trying to say?
+Alec:Oh, yeah.
+Tom:Yeah, what was his motivation behind this?
+Beryl:What was his motivation? His motivation was... ...was to kill the theater industry so that nobody would ever want to go back to the movies again.
+Jacklyn:We also don't know anything about what audio was happening. There could be something more dynamic going on with the audio.
+Tom:There really wasn't.
+Jacklyn:There's nothing. It's just the paint.
+Beryl:Where were they playing this?
+Tom:I'm not sure it was ever actually played anywhere.
+Beryl:Oh, so nobody was watching the paint dry. It just streamed possibly, or wait. If nobody watched it, it's like, if a tree falls in the woods and no one hears it, is the paint still wet?
+SFX:(Beryl and Alec giggle)
+Alec:If the paint's dry, but nobody's touched it, is it still wet?
+Beryl:Exactly, exactly.
+SFX:(Tom and Beryl laugh)
+Alec:I like that.
+Tom:I can tell you for sure, someone watched this.
+Beryl:The cameraman.
+Jacklyn:Maybe the person that approves films for a festival or something?
+Alec:Oh yes, I just had— so it was entered into a film festival.
+Beryl:Oh my god, they were— It was a dirty trick. They were trying to get back at somebody for you know, stealing their tractor.
+Jacklyn:Waste someone's time? You submit a 10-hour thing. it's boring, you're trying to waste the person who...
+Tom:Yep, this was mostly out of spite.
+Beryl:Oh, that's dirty. I love it. It's great.
+Tom:Very specific bit of spite here.
+Jacklyn:Okay. Ooh! Maybe someone commented about his last movie and was like, it was more boring than watching paint dry.
+Beryl:(gasps)
+Jacklyn:And then he was like, "Hey, I'm gonna actually show you how boring watching paint dry is."
+Alec:Yeah, and then maybe the person who made that...
+Tom:But why would they have to watch it? Someone has to.
+Jacklyn:Maybe they say they watch every single submission. And so he's like, "Okay, you say you watch every single submission? Here's 10 hours."
+Tom:So who had to watch it in the whole film process?
+Jacklyn:Oh, the judges that were mean about his last movie.
+Alec:Oh, the ratings agency.
+Tom:The ratings agency.
+Alec:'Cause they have to watch everything to see. So he probably—
+Beryl:What did the ratings guy do to him?
+Jacklyn:They must have given him a bad rating.
+Alec:So he probably got a rating. I bet he thought that either they missed something, or they rated something of his too strictly, and then they were—
+Tom:It was a protest against the cost of having films rated.
+Jacklyn:Oh. 
+Alec: Okay, okay.
+Beryl:(laughs)
+Tom:So he did a Kickstarter, worked out how much he'd got from that, and that was the length that the film could be: 10 hours, 7 minutes, at the rate of £101.50, plus £7.09 per minute of runtime. So, someone had to sit down at the ratings agency and watch 10 hours, 7 minutes... just in order to make sure that there wasn't some weird flash frame he'd put in there.
+Beryl:(giggles)
+Tom:Yep, his name was Charlie Shackleton, and he made the film to force the British ratings agency to watch 10 hours+ of paint drying as a protest against the high costs. Jacklyn, over to you for the next one.
+Jacklyn:Amazing, alright. This next question is sent in by Felicia Barker. And it says: In June 2022, 9 kilometres (or 5.5 miles) of track was added to Britain's railway network. It didn't connect any new stations or infrastructure, and provided no additional benefit. A few weeks later, it was gone. What happened? I'll read that again. In June 2022, 9 kilometres, (or 5.5 miles) of track, was added to Britain's railway network. It didn't connect to any new stations or infrastructure, and provided no additional benefit. A few weeks later, it was gone. What happened?
+Tom:I should know this. I should absolutely know this, and I do not. I've got nothing.
+Beryl:So, I had an idea.
+Jacklyn:Okay.
+Beryl:But then, I think the idea is wrong. But I know that in Japan, they've done this, where they've created stations that have no connecting points, that are there for you to marvel at the train system and at the nature around it. And there are actually two such stations in the UK for that, that you can get off at this station, but there are no on or off ramps. So you just stand there until the next train comes. And the idea is to marvel at the train system.
+Tom:That's definitely true for Japan. I think the one in the UK is more prosaic in that it's at an army base. So, the train station is National Rail property, and you can get off the train, but then you're just not allowed to go any further because it's a bleak military base in the middle of nowhere.
+Beryl:But this obviously is not correct for your clue, because they built the track, then they disassembled the track, correct?
+Jacklyn:It says it was gone.
+Alec:So what I— I know that there are some abandoned stations that get used as movie sets. And I'm thinking that okay, they needed to... connect a portion of it to roll a train in for filming, and that's all they did. And then... But, so it was added to the network just to get a train someplace. And then they didn't need it anymore.
+Jacklyn:I like that idea a lot, but that's not necessarily in the right direction.
+Beryl:But also, if it's not connecting to anything, it didn't go to any—
+Jacklyn:It didn't connect to any new stations.
+Tom:And that one that was purely built to get around US law was somewhere in Canada, I think? Or somewhere in northern US? There was one very short railway of about 300 metres that was built purely to get around a US law that says... some complicated thing to do with trains and boats having to connect, and you can't travel between two US ports on some— Anyway, they unloaded stuff, moved it 300 metres, and then put it back on the ship to do a loophole. But that can't be this, 'cause it's nine kilometres and it's in the UK, and I'm just annoyed I don't know this, 'cause it feels like something I should have filmed!
+Beryl:Maybe it's something to do with municipality laws, if they were like, "Oh, if you have X amount of train track in your town, then you get X amount of funding." And so they were like, "Yeah, no, we have it. It's... Just give us one week and just come. Yep, just, it's right over here."
+Jacklyn:I would think a little bit less about laws, and a little bit more about science.
+Beryl:(laughs)
+Tom:Oh, oh, hang on. Okay, not this, but... There is a railway up in Scotland that doesn't connect to anywhere.
+Jacklyn:Okay.
+Tom:It just goes to the beach for several kilometres inland in a straight line, and it's for cable and pipe-laying ships. They can just build a section of pipe, put it on the railway, move it along, put it on the railway, move it along, put it on the railway, move it along, and then at the end when it's all connected up, a ship can just connect at the end and drag the whole thing out to shore in one go. That is about nine kilometres... But it wasn't part of the network. That's just a thing that someone's built.
+Beryl:Wait, what if it's like a... runaway train ramps. They have those runaway truck ramps in the mountains. If a truck is going too fast down a mountain, then they veer up this little tiny road that they built so they can slow down. Maybe it was at the end of a hill, and this extra train track was so that the trains could slow down 'cause they were going too fast.
+Jacklyn:Okay, well, another interesting thing to think about is that it didn't cost—
+Beryl:(laughs) No.
+Jacklyn:I like the idea, but no.
+SFX:(Tom and Jacklyn laugh)
+Tom:We don't do yes-ands on this show. This isn't Game Changer. You're just... "Nah, not that."
+SFX:(group laughing)
+Jacklyn:I do the idea, though. I didn't know that was a thing. Okay, it did not cost the Network Rail any amount of money.
+Alec:Okay, here's an off-the-wall idea, which I'm sure, I hope it's not, I doubt this is the case, but...
+Jacklyn:Okay.
+Alec:Do they have two adjacent tracks, and the gauge was correct so that the two inner tracks could become a third track? And they were using this weird middle section for some reason?
+Jacklyn:No, but that's really smart.
+Tom:Oh, but it could be... It could be something that was kind of not a part of the network or anything, and it just kind of got added under British rails network for a while just before it was destroyed? You said it was gone afterwards.
+Jacklyn:It wasn't destroyed though.
+Tom:Okay.
+Jacklyn:It was gone. The word 'gone' is kind of important.
+Beryl:Maybe the tracks are made out of mud. They were mud tracks, like animal tracks. We're thinking tracks!
+Jacklyn:I like the idea of thinking about non-traditional ways that tracks are there.
+Alec:You said science. Yeah, you said a science experiment or something?
+Beryl:The tracks were made out of something that disintegrated when it rained. And they were gone because it rained. And they were actually made out of flour. (giggles)
+Alec:This is something to do with... developing the ballast or the stuff that the rails go in to hold them there. It was testing different materials.
+Beryl:Packing peanuts.
+Alec:Yeah, or some sort of a test track for testing a new technology or technique.
+Jacklyn:They didn't necessarily test something new, but something just happened.
+Tom:Oh, hang on, this is June... 2022, middle of summer.
+Jacklyn:Yes.
+Alec:Oh, that's when there was a heat wave.
+Beryl:They melted! The tracks melted!
+Tom:Or it was an old train track in a valley that had been flooded for a dam or something like that, and the water level got low enough to reveal the tracks?
+Jacklyn:That was really smart, Tom, but you were more on track with the heat thing.
+Beryl:(wheezes)
+Tom:Agh, okay.
+Jacklyn:There's something with the heat.
+Alec:Was it so hot that the rails expanded, and touched something to the point that—
+Tom:No, it was just so hot that the rails expanded.
+Jacklyn:Yes.
+Tom:Because the rail— there's thousands of kilometres of track, and thermal expansion in the middle of the heat wave added nine kilometres. Oh, I hate that question.
+Jacklyn:Yes.
+Tom:Well done.
+SFX:(guests laughing)
+Jacklyn:Killed it. Okay, yeah, so the— Basically during the height of the heat wave in the UK, the temperatures had risen so much that the track rails were expanding significantly. And on June 19th, Network Rail said that they expected the track to expand by 30 centimetres for every kilometre. So that would be like one foot for every 0.6 miles. And since they have 30,000 km of tracks, that added 9 km to the question.
+Alec:Okay. So now, I want to know. Do trains have an odometer or something like that, so they could actually tell, okay, today we've gone 30 feet longer than we normally go?
+Tom:They don't, but I found out that modern electric trains have a electric meter. It's not like a domestic one, but it used to be that the power companies would just calculate how many track miles each one ran, and just figured, "Ah, yeah, they probably cost about that much." And now, modern electric trains actually have a meter on them to see how much power they've been using. So, I guess in theory...
+Jacklyn:That's cool.
+Tom:You could work it out from that. But I feel like there's so many confounding factors.
+Jacklyn:Yeah, so it's wild that because of the heat wave, the Network Rail system expanded by nine kilometres, but then when the temperature went back down, it went back to its normal length.
+Tom:Thank you to Jonah Hyman for sending in this question. In a 2012 science documentary, Tadayoshi Kohno smeared honey on the window of an office door. What was he trying to demonstrate? And one more time. In a 2012 science documentary, Tadayoshi Kono smeared honey on the window of an office door. What was he trying to demonstrate?
+Beryl:So okay, My instinct is something— It's about like, oh, glass is liquid, and honey moves really slow as well. So maybe it was something there. But then I was like, no, it's not that. And then I thought about the— You catch more bees with honey than with vinegar. And then I thought about that he was actually protesting the tea conditions in the break room, because the quality was so poor.
+Jacklyn:I love the train of thought.
+Tom:I love the train of thought. Sadly, nowhere near, but I appreciate the multiple twists and turns that took.
+Jacklyn:Okay, what about— I feel like there's something with... the fact that it drips so slowly. Honey in particular has a very specific type of texture compared to other things. Like, why honey? And you can kind of still see through it.
+Beryl:But why an office door window? What does he not want you to see?
+Jacklyn:You can kind of see through honey, though.
+Alec:Was this office something to do with honey, or is it out of left field that this guy somewhere was like, "I'm gonna spread honey all over this door"?
+Beryl:(laughs) He was just a disgruntled office worker, and it was actually a spree across all of— I'm not sure what country he was from, but—
+Tom:If I was the production company, I could do this in my own office.
+Beryl:He was trying to catch— There was a fly problem. And he was— It was a natural way to get rid of pests in the office. He was doing everyone a favor.
+Jacklyn:Maybe he was trying to show that there was an issue with insects and stuff.
+Beryl:Well, I was just trying to think of the act of smearing honey. It just feels really sticky and gross and tactile and absolutely horrible. But... it's not going to completely obscure the view of something. Honey is just— you're only going to now just be like, "Why is there honey all over that office door window?" I don't think that he's able to hide behind the honey.
+Alec:Honey does crystallize after a while. So would it turn opaque if you have...
+Beryl:(snickers) Like he was frosting the windows?
+Alec:Yeah, yeah.
+Beryl:(cackles)
+Alec:Some bizarre way to frost the glass. Just smear honey all over it.
+Tom:Well, you are edging around the right area there. The window was a little bit special.
+Jacklyn:Oh, the window's special, okay.
+Beryl:It was a bathroom window. It was a bathroom door. Everybody was looking in the bathroom.
+Tom:When you say bathroom window, what do you mean by that, Beryl?
+Beryl:I mean, you know, your average bathroom, just full of windows on all the doors. (laughs) I don't know.
+Tom:If you did have a window on there, how might it be a bit different?
+Jacklyn:Oh normally it's kind of opaque, right? Where you can kinda see through, you can't fully see what's going on. It almost obscures.
+Tom:Frosted glass.
+Alec:Oh, oh, is it the thing? Okay, 'cause if you put a piece of tape on frosted glass, it makes the frosting go away. So, does honey do the same thing?
+Tom:Honey does the same thing.
+Beryl:Ew, he was trying to see through the bathroom windows? Oh, nasty boy.
+Tom:And that's why it was an office window. They found an office which had a frosted glass window. And yeah, it turns out that you can do it with tape. You can do it with honey. It smooths out the etching enough.
+Jacklyn:That's so cool, because it reflects the light.
+Tom:And the refractive index is close enough that it turns the etched glass, the frosted glass, into regular glass.
+Jacklyn:That's so cool!
+Tom:So yes, Yoshikono is a security expert. So he was demonstrating for the science documentary a hack that lets you see through frosted glass. Our last guest question comes from Beryl. Over to you.
+Beryl:Alright, here we go. On some old British trams, a brass strip was mounted on the front wall of the passenger cabin. It was about two inches long and contained four deep, horizontal grooves of different sizes. What was it for? Okay, I'll read it one more time. On some old British trams, a brass strip was mounted on the front wall of the passenger cabin. It was about two inches long and contained four deep, horizontal grooves of different sizes. What was it for?
+Tom:We have two British transport questions in this show, and I know neither of them. I've got nothing!
+Beryl:Well, it's also a show with all Americans.
+SFX:(Tom and Beryl laugh)
+Jacklyn:Yeah, that's true.
+Alec:Does this have anything to do with coins?
+Beryl:Yes.
+Tom:Oh, wow. 'Cause I was thinking, when you drive a tram, you have four or so settings of how much speed you can put into it, and you basically have to just put the engine on for a bit, and then off, and I was thinking it was to do with that. But no, it's to do with coins, never mind.
+Alec:'Cause the way you were describing it, I was thinking of a change holder, but now I'm wondering... Was this like a coin mechanism, and there's a coin-operated door... to let you into the tram?
+Beryl:No.
+Alec:Oh.
+Tom:Yeah, it's just like when you're in a car, and you just need some change for the toll booths. You know, the toll booth trams go through. I don't know where I was going with that.
+Alec:That's what I was imagining, is that it was a holder for the tram driver to keep change.
+Tom:But it's made of brass, and coins are conductive. So maybe it's meant to be a conductive thing? But I don't know why you'd use coins for that.
+Jacklyn:Maybe they're not monetary coins. Maybe they're a different type of coin.
+Alec:Is this some sort of revolutionary battery-powered tram, and you need copper and zinc, and so you're putting different coins in there?
+Beryl:This is just your average, run of the mill tram. Just your everyday tram. The kind that Tom drove, possibly.
+Tom:Could it be for signalling? There are old trains and tram networks where, rather than having... flashing lights or coloured lights or physical signals, you needed to carry an actual token. Which is what they called it. And then when you got to a single-track line, where in theory, you could meet an oncoming tram or bump something else, you had to have a physical token that there was only one of to have permission to get through. And then at the other side, you would hand it off, and so that person has the token. And they're allowed to go through that line. But I don't know why you'd have four horizontal grooves for varying sizes, unless the tokens were all different sizes?
+Beryl:You have a lot of obscure train knowledge.
+SFX:(Jacklyn and Beryl laugh)
+Tom:Of course! Look at me! I'm—
+Beryl:(laughs)
+Tom:That's not a surprising thing! I'm exactly that kind of nerd. It's— You shouldn't be surprised by obscure train knowledge. You should be surprised I didn't immediately get both those questions because I was subscribed to some obsure newsletter about British trains. Look, I'm, you know, I'm 70 kilos of asthma. You know, what else am I gonna be interested in?
+SFX:(group laughing)
+Beryl:Yeah, I think at this point, you have too much knowledge, and you're going too deep.
+Tom:I thought that might be the case, yes.
+Alec:Is this just— Could this be as simple as a coin sorter?
+Beryl:It's— I think the key word here is it's something simple. And Jacklyn was— She said something. I should've interrupted, because it was a while ago, but you did say it had to possibly do with—
+Tom:Sorry, I went off on a rant about tokens.
+Beryl:Yeah, we were too late. I had to let Tom continue down that bizarre path.
+Tom:It's not bizarre, it's— Ahem, sorry, carry on.
+Jacklyn:Bizarre, but interesting, okay.
+Beryl:But Jacklyn, you did say something about the coins being different.
+Jacklyn:Okay, yeah, I don't think that they're monetary coins.
+Beryl:They are monetary coins.
+Jacklyn:Oh, but they're different in some way? 'Cause my thought was maybe they're tokens, but they're shaped as coins.
+Beryl:Something would be inserted into the appropriate groove. And then something would happen briefly... to that object.
+Jacklyn:Ooh, maybe you put coins in, and they flatten them or turn them into something different.
+Alec:Is this just counterfeit detection?
+Beryl:Aha, ding-ding!
+Alec:Ah, okay. That's correct. But...
+Beryl:The grooves are to test whether the coins were real. And if the coins were not real... they would bend when put onto the grooves where the real coins would not. If a conductor had any doubt about whether they had been given a genuine coin by a passenger, they would insert it into the groove on the appropriate thickness for that type of coin. They would then try to bend it, and fake coins would bend, and real ones would not. The different grooves were used for the different thicknesses of coins. And this became obsolete in 1971.
+Tom:Which is when we decimalised, and we changed all our currency.
+Beryl:And that was when Tom was driving the tram.
+Tom:(grumbles) Hey, hey, look, Gen Z here. Don't you dare.
+SFX:(Beryl and Jacklyn laugh)
+Alec:Hey, I am a young millennial. I am not Gen Z.
+Tom:The very last thing then. And given that everyone smiled when I read this out at the start of the show, I suspect you'll know the answer. Which company wished Happy Father's Day to people who weren't their customers? Panel?
+Jacklyn:Trojan.
+Alec:Trojan is what I was thinking.
+Tom:It was Durex, but yes.
+Alec:Ah, the other one.
+Tom:Close enough. One of the condom companies. You're absolutely right, as a jibe against their competitors. With that, thank you very much to all our players. Let's find out what's going on with the shows you run, and your lives? Let's start with Jacklyn.
+Jacklyn:Ooh, thank you so much for having me. This is the most fun I've had on a podcast. I run a tech YouTube channel where I do real day-in-life reviews of the latest consumer tech and interview executives.
+Tom:And where can people find you?
+Jacklyn:Ooh yeah, I should have mentioned that. You can look up Nothing But Tech on YouTube, or my name, Jacklyn Dallas.
+Tom:Alec, where can people find you?
+Alec:You can find me at youtube.com, search for Technology Connections, and that will be my channel name.
+Tom:And Beryl.
+Beryl:If you want to continue to explore the world of food and cultures all around you, you can find my channel on YouTube under Beryl Shereshewsky. We have awesome episodes like food waste and durian, coming up.
+Tom:Thank you very much to all the players. If you want to know more about this show, then you can do that at lateralcast.com, where you can also send in your own questions. You can find us at @lateralcast on pretty much every social network, and you can catch video highlights every week at youtube.com/lateralcast. With that, thank you very much to Alec from Technology Connections.
+Alec:Bye, thanks for having me.
+Tom:To Jacklyn Dallas.
+Jacklyn:Thank you.
+Tom:And to Beryl Shereshewsky.
+Beryl:Yay, thank you.
+Tom:I've been Tom Scott, and that's been Lateral.

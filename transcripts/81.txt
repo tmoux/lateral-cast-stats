@@ -1,0 +1,378 @@
+Tom:What creative people work with both feet and metres? The answer to that at the end of the show. My name's Tom Scott, and this is Lateral. If you're looking for a podcast that's as witty as it is informative, you've come to the right place. If you're looking for the washroom, it's down the corridor, third on the left. Hoping to show a clean pair of hands today, we have two new players and one returning one. And we're going to start with a new player. Joining us for the first time, I don't know how to describe you other than the internet's favourite blacksmith, Alec Steele.
+Alec:Hello! That works fine for me. I'll take that.
+SFX:(both laughing)
+Tom:And what I love is there is a little bit of authentic shop echo on your microphone here. You are in your workshop, having just made stuff, presumably?
+Alec:Yes, I'm in the middle of making a steam power hammer. A miniature version of that thing that's quite fun. I'm in the middle of doing that as we speak. It's over there.
+Tom:A power hammer is one of those things that is just a giant whacking press that repeatedly hits something over and over, right?
+Alec:Yes, absolutely, absolutely. Except I'm making one that's about, kind of, eight inches tall.
+Tom:(laughs) Okay.
+Rowan:Awh.
+Tom:Are you gonna use the tiny power hammer to make a tinier power hammer (laughs) and then on and on and on?
+Alec:That would be quite fantastic. I wonder how small I could go. I definitely want to try and heat up a little bit of wire and forge, maybe a little, forge something underneath it. That has to happen.
+Tom:Well, very best of luck on the show today. Also joining us for the first time... Climate scientist? I don't know what to introduce you as these days, because partly you are talking on the internet about climate, and then I also saw you hosting Yogscast's Jingle Jam...
+Simon:Who Wants to be a Millionaire?.
+Tom:Who Wants to be a Millionaire? parody about Jaffa cakes. There's just a lot going on with you, Simon. How are you doing?
+Simon:Oh, I'm alright. There is a lot going on, and I feel every single one of those things right now.
+Tom:(chuckles)
+Simon:For context, listeners, I became a dad not that long ago. I am running on very little sleep. So if I lose today, that is exactly why. I'm leaning on that crutch.
+Tom:There is no winner or loser in this show. There are no points other than bragging rights and your own self-worth. So, given you have plenty of other things to judge that by, Simon, I think you'll be okay. Our third guest, returning to the show for... it's been quite a few episodes now, I think: Rowan Ellis from the Queer Movie Podcast and her own YouTube channel. Welcome back, how are you doing?
+Rowan:Thanks, doing great. Very excited to have an impaired... you know, tired dad on side so that there's a little bit of a chance that I might seem vaguely smart in front of people who seem to be very qualified in their fields of expertise on this podcast.
+Tom:Welcome to the self-deprecation special. Everyone is getting their excuses in early.
+SFX:(group giggling)
+Tom:Well, good luck to you all. This is the 87th show we've recorded. 87 is an unlucky number in Australia because it's 13 away from 100. But nothing will go wrong today. Nothing! ...And with that sword of Damocles hanging over our heads, let's tiptoe nervously into question one. In its early days, why did Amazon's computer systems repeatedly order nine copies of a book about lichens? I'll say that again. In its early days, why did Amazon's computer systems repeatedly order nine copies of a book about lichens?
+Rowan:How are we spelling /ˈlaɪ.kəns/? Which kind of /ˈlaɪ.kən/?
+Tom:I didn't know there was more than one kind of lichen?
+Simon:There's wolf kind of lycan.
+Rowan:There's the wolf, and there's the plant.
+Tom:What's the wolf?
+Rowan:Assuming that that's how they're both pronounced. Lycan's another word for werewolf.
+Simon:Like lycanthropic.
+Tom:I have never heard of that, but several people here have much better literary fiction knowledge than I have.
+Simon:I'd say it's more fan fiction knowledge, actually, to be completely honest.
+Rowan:Listen, Simon, you don't need to call us out on the live, on the podcast right now.
+SFX:(both laughing)
+Simon:Okay, so it could be the lichen thing, or it could be the nine thing, he says, desperately trying to pull the car back on the road.
+Alec:Is lichen the plant, the moss type plant?
+Tom:Yes, it is. You have the correct kind of lichen for this question, Alec.
+Alec:Okay, good.
+SFX:(both wheezing)
+Tom:I wouldn't normally clarify that so early on, but I feel like I want to steer this desperately...
+Alec:Away from wolves.
+Rowan:Away from the werewolf.
+Tom:Yeah.
+Rowan:I guess it's, why... So is it something to do with... in general, ordering something might be to do with testing, making sure that something's working properly, kind of a little tester order. So I guess the question is, yeah, exactly what you said, Simon, is the lichen important? Is the nine copies important, or are both of those together what matters?
+Simon:Well, and also, I mean, this is early Amazon, right? So it's not going to be something like machine learning that's being trained on a data set and is overreaching based on something. There's got to be a human input here, I'm guessing. Unless, is the book of a particular physical dimension that was useful to Amazon in the early days? Were they using the book to hold doors open in their office, or something like that?
+Alec:The same exact dimension as a certain bit of hard drive.
+Tom:(chuckles)
+Simon:Or as packing. What if they packed packages with the book because it was the right size?
+Alec:Does the word 'moss' have anything to do with computers or data storage? MOSS, M-O-S-S. Does that mean something? Where, like... "MOSS, all about MOSS." And the computer goes, "Where? We need more of these MOSS things."
+Tom:I can think of BIOS, and I can think of OSS for open source software. I don't think MOSS. I mean, it inevitably will be some computer algorithm, because you take any four letters, they'll work out to something. But in this case, that's not the connection.
+Rowan:Maybe... someone who worked at the company wrote this book and was like, "I want to try and make sure that my book is still in stock."
+SFX:(others laughing)
+Rowan:"It's in demand, that people know about it. I'm going to push it up to the bestseller list."
+Simon:People have been manipulating the bestseller list from the very beginning.
+Rowan:From the very start.
+Tom:That isn't the reason behind it, Rowan, but... you are getting closer there with thinking about stock. I seem to remember you have a bit of a background with publishing here.
+Rowan:Yeah. Yes. That's the end of that thought.
+Tom:(laughs)
+Rowan:Technically, yes I do. Does that— Has that given me any ideas? No, it has not.
+Simon:What if they constantly sold nine copies of it? If they were always being bought out by nine copies, they would immediately restock. So would there be a reason that any... an institution might buy nine copies of a book about moss?
+Rowan:Did it say in the question how often the— it was being restocked or being— those nine copies were being restocked or bought?
+Tom:The question says that the computer systems were repeatedly ordering nine copies.
+Simon:I think the nine thing has got to be important. The fact that it's one over a power of eight tells me that that's— it's a Mersenne prime.
+Tom:Oh, I love that you went with the full maths thing there, but it's not important that it's one more than a power of two. It is important that it's one less than ten.
+Simon:Okay, so computer systems care about powers of two. The fact that it's less than ten means that it's got to be a human thing, right?
+Tom:Yes.
+Simon:Was it to level out a stack of books or something?
+Tom:Ooh, not quite.
+Rowan:Or what can fit on a shelf?
+Tom:The books are being ordered. But that's all the question's saying.
+Simon:They're not being necessarily delivered.
+Tom:And this is the early days of Amazon. They're not really selling much at all at the moment.
+Rowan:Ooh, I could just— It's like— I just know that it's gonna be so, like, Tom's gonna tell us, and we're gonna be like, "Of course that's what it was." It's tricky because there's so many elements of this question that could be important.
+Alec:Could be something to do with testing delivery times, to see how long their orders are taking to ship, because, oh, we now have this kind of slightly... We've got this relatively he— No, but it's not being delivered. So it's not about how long it takes to get there, because it's not being delivered.
+Simon:Wait, so what if somebody was to order one object on Amazon, and then the computer would add on nine other items to make it up to ten items? For some reason, there was a problem with powers of ten and the number of items being ordered.
+Tom:Oh, apart from the last bit, you're right. Someone's ordering one thing on Amazon. The computer system is adding nine copies of a book about lichen, and then passing that order on. Why is it doing that?
+Alec:Does the one thing that they order happen to also be a book about lichen?
+SFX:(guys laughing)
+Tom:No, it could've been a book about anything.
+Alec:Gah.
+Simon:Was it the first book in their system?
+Tom:It's a workaround. Amazon can't afford warehouses at this point. Amazon hasn't really got anything. They're basically just taking orders from the public and sending them on to publishers.
+Rowan:Is it that publishers will only ship a certain amount of books out? A pallet has a certain amount in. And so it's like, we go through... Interesting, 'cause I know that with the way that books ordering works in publishing and traditional publishing is that a bookshop will order a certain amount, and they can also return the books that they haven't sold in a lot of cases. But the idea is that they kind of predict how many it will sell, they'll send it over, but it's unusual for them to send one copy of a book.
+Tom:Yes, that's it. The big book companies would not fulfill an order for one book, because that's a retail customer. So Amazon added nine copies of a book they knew would be out of print and unavailable to the order.
+Simon:Ohh!
+Alec:Brilliant.
+SFX:(guys laughing)
+Simon:Bezos, you son of a bitch.
+Tom:Right?
+Rowan:That's so sneaky.
+Tom:So the response was, "Oh, yes, here's the book you order. We couldn't fulfil the other nine, sorry. But you still get it at the wholesale price, not the retail price."
+Alec:Gosh, I really hope the guy that wrote that book was not alive at that point to just have his heart crushed when he realised, "Oh no, it isn't that people really are so keen about my book about lichen." This is just to get around minimum order quantities. (heavy sigh)
+Tom:Each of our guests has brought a question along with them. I don't know the questions. I definitely don't know the answers. We'll start today with Alec. Whenever you're ready.
+Alec:Alright, this question has been sent in by Shiro. The Jacksonville Jaguars NFL team spent $120 million on their new practice facility. Their locker rooms included innovative sensors that control traffic signal-style lights. What did the sensors detect? And I'll read it again. The Jacksonville Jaguars NFL team spent $120 million on their new practice facility. Their locker rooms included innovative sensors that control traffic signal-style lights. What did the sensors detect?
+Tom:The only thing I know about the Jacksonville Jaguars is that they're a punchline for not being a good NFL team.
+Alec:Oh no. (snickers)
+Rowan:(wheezes)
+Simon:I saw them live once. I saw them at Wembley. And it was them versus the Niners, and they scored a touchdown. And they were so surprised that they had scored a touchdown, that they had people run onto the pitch spelling 'Jaguars', but they came out in the wrong order. So it said 'JAGURAS' as they ran across Wembley Stadium.
+Tom:Oh, we've got an NFL question for an all-British panel as well, and we're all pronouncing it
+Rowan:I know.
+Tom:jag-yu-er instead of jag-wahr, and it's going to annoy so many NFL fans.
+SFX:(scattered snickering)
+Simon:Do the traffic lights respond to how smelly their socks were?
+Tom:(laughs)
+Alec:I think I'm allowed to say no.
+Tom:(snickers) Yeah.
+Simon:Augh!
+Tom:We'll talk about this for a while. If we spot something, let us know, but we'll just run through some things that NFL teams might... I imagine they change their socks every single game anyway. That feels like...
+Simon:But people have lucky socks, right? People might not want to change their socks.
+Rowan:But maybe they should, if the team is that unlucky.
+Tom:I just feel if you have a $120 million practice facility, you don't need to worry about the additional cost for a pair of socks.
+Alec:You can probably have all the lucky socks you want in the world.
+SFX:(both laugh)
+Simon:Yeah.
+Rowan:So if it's a traffic light system, I'm assuming the element of the traffic light system is like, stop, go, pause. That sort of... we're looking for something that people might wanna... be waiting for in order for them to be allowed to do something, or they have to stop doing something.
+Tom:Or it could be one of those parking systems they have in fancy car parks now where you can look up and see green lights wherever there's a parking space. Maybe it's that a shower is available or a locker is available. But it's the Jaguars. They're not gonna...
+Alec:Rowan is getting closer with that. There is some information that is useful... based on the traffic lights.
+Simon:Okay, so you're in a changing room. What do you need to know? You've got, you can change your clothes, you can take a shower. There could be capacity for a room. It's also American football, so... I don't know, it could be injury related.
+Tom:I like that's what we go to for American football. It's clothing and injuries.
+Rowan:Genuinely... the amount of head injuries in American football, it could have been just to test they're not— Can they— Are they colourblind? Are they looking up? Do they understand the lights? If not, get 'em to that doctor real quick. I feel like I can't really— It's a bit of cheating asking you. So I'll do that thing where I just say... questioningly to the crowd... Is it something that is— It's in the locker room, but is it something that will be used during actual games? Or is it something that's used during... practices or while people are changing after a game is finished? I don't know if there would be a difference or different things happening in the locker room because obviously they can come back in halfti— halftime? I think that's a football term. Sports!
+Tom:(laughs) Oh—!
+Rowan:Or it could be after it's done.
+Tom:Or it could be a warning for anyone else who's in there that, you know, 40 extremely bulky football players are about to all rush back in. Maybe you don't want to be standing next to this door right now.
+Alec:It's not that, Tom, but... it could be used... at any point the player might choose to use it. Probably not during the game, but you know, whenever they are going to the locker room.
+Simon:I'm trying— I can't tell if this is stupid or not. Is it to do with toilets?
+Alec:It is.
+Tom:(laughs brightly) See?
+Rowan:(gasps) Simon, you did it!
+Tom:I love it when someone starts with "Is it some— This is stupid, but is it?" And like, yes, yes it is. That's how the show works.
+Simon:Is it to do with how recently a cubicle has been occupied?
+Alec:It is not. (chuckles)
+SFX:(Tom and Simon groan)
+Rowan:That would be hilarious.
+Tom:That would be useful!
+Simon:Temperature of the toilet seat!
+Alec:Unfortunately not.
+SFX:(Alec and Tom laugh)
+Simon:(claps) Damn it! I would love that as well.
+Tom:What's the pressure on the bidet? Is it dangerous yet?
+Simon:Level of toilet roll. Yellow for danger. There's not much left.
+Rowan:With these questions, it's always, there's a bunch of info, and it's just a question of what is relevant particularly. So... it's like, for us, it's about figuring out, is this a thing that's specific to football players? To the Jacksonville Jaguars? To... Or is it like, this could be a system that you could use in any toilet in the world? Oh, Simon's had a realisation.
+Simon:Jacksonville Jaguars are in Florida. Is it to do with alligators in toilets?
+Tom:(laughs uproariously)
+Alec:No!
+Simon:Is it like one alligator, yellow light in the toilet?
+Tom:'Cause that's a normal amount of alligator. We can deal with one alligator. This is Florida.
+Simon:If you're a football player, if you're a tight end or something, you're like, "Yeah, that's fine. I really need to go."
+Tom:Why do you put traffic lights... I assume, on the toilet cubicles, like on the doors to whether it's... occupied or...
+Alec:It's not in the cubicle, in fact.
+Tom:Outside? On each one?
+Alec:Also not on... a toilet. A few minutes ago, Rowan talked about whether the traffic lights might give the players information about whether they should go see a doctor, well... If the traffic light went red... you should go see a doctor.
+Simon:So is it testing for something in urine?
+Alec:Yes, it is.
+Rowan:Oh, is it a drugs test thing?
+Tom:Or just a health check, or something like that. It's just... Are these on the urinals? It's just testing whether you have—
+Rowan:Dehydration, maybe?
+Alec:That's it!
+Simon:Oh my god!
+SFX:(guys laughing)
+Alec:So, the sensors were installed in the bathroom ur— Urinal? Urinals? Urinal? I'm stuck between America and England.
+SFX:(group laughing)
+Tom:Yeah, same here.
+Alec:And they would analyse the urine to see if the players were hydrated, and they're all good. "You're good, you're green, green light." If you are maybe a little bit dehydrated, you should take on some fluids, yellow light.
+Tom:(laughs softly)
+Alec:And if you get the red light, it's time to go see a doctor and maybe get some fluids put in you, because you are severely dehydrated.
+Tom:I feel like there's a better colour chart you can use for that!
+Simon:Yellow is a confusing colour to choose for your dehydration chart.
+Alec:If anything, it's perfect. I'm more concerned about green and red.
+Tom:(laughs)
+Rowan:Mm.
+Alec:The sensors were installed in the bathroom urinals, and they would analyse the urine and detect how hydrated the players were and give them that information in green for good all the way to red for severely dehydrated and bad.
+Tom:Our next question has been sent in by David Teresi. Thank you, David. Residents of the small Canadian town of Orono petitioned for a famous landmark to be relocated there. Made for the Pan Am Games in 2015, the landmark could have attracted visitors to the town after dismantling part of it. How? I'll say that again. Residents of the small Canadian town of Orono petitioned for a famous landmark to be relocated there. Made for the Pan Am Games in 2015, the landmark could have attracted visitors to the town after dismantling part of it. How?
+Rowan:I don't know if I'm allowed to ask this, Tom, but I just wanted the clarification on it being dismantled. I'm assuming we're talking about the monument and not the small town.
+Tom:Yes, part of the famous landmark would have to be dismantled, yeah.
+Simon:Okay, the 2015 Pan Am Games. I'm not— I've never heard of that before. Pan Am is an airline.
+Tom:Oh, this is just short for Pan American. So North and South America.
+Simon:Oh, right, okay.
+Tom:Which is also what Pan Am was short for, just Pan American.
+Simon:Yeah, are they still in business? I actually don't know.
+Tom:Absolutely not.
+Simon:I haven't flown in a while.
+Tom:They were the ones who famously sold tickets to the moon, just a holding amount that you could pay for being on the waiting list for when they inevitably had lunar flights available in the future.
+Simon:Well, weren't they in 2001?
+Tom:Yeah, that is part of the reason, yes.
+Simon:Yes.
+Alec:Would they have to remove a part of this... important structure that perhaps was not Canadian enough for them, and they wanted to make it... only a Canadian landmark by removing the American part of the landmark?
+Tom:This was definitely a Canadian landmark.
+Alec:It was already? You didn't have to modify anything to make it a Canadian landmark?
+Tom:Not at all.
+Rowan:Now I'm like, do I know any Canadian landmarks?
+Tom:(laughs)
+Rowan:Also the fact that just because a small town has petitioned for something, it doesn't mean that this has to be a realistic thing for the small town to be able to actually get. Small towns can petition for all kinds of weird stuff, so it's not even like a, "Oh, what is doable?" I'm like, they could ask for the Eiffel Tower if they wanted to. They can petition for it. Doesn't mean they're gonna get it.
+Simon:Orono. The fact that they're called Orono has got to be important though, right? I feel like the name has got to be... If you took letters off a massive sign, would it spell Orono?
+Alec:Was it a big rhinoceros? "Oh! Rhino!"
+Tom:(laughs)
+Simon:Or a big Oreo.
+Rowan:I'm like, have I got a pen? Can I figure it out?
+Tom:Honestly, I think you could. However, I realise now I've said that, that all three of you are scrambling for pens and paper, and that doesn't really work for an audio show.
+Alec:I have it in lo—
+Rowan:Hang on, wait. So if it's O, if it's how it sounds, it's O-R-O-N-O, is that right? Or different spelling?
+Tom:That is right.
+Rowan:Okay.
+Simon:Nuru. What else can you spell with that?
+Rowan:I'm trying to think of famous signs. Hollywood sign doesn't work. The "welcome to..." kind of signs.
+Tom:It's Canadian.
+Simon:Okay, ice hockey, maple syrup. Are Oreos Canadian?
+Rowan:Toronto?
+Tom:Rowan, you've got it.
+Simon:Oh!
+Tom:There was a giant Instagrammable sign just saying the word 'Toronto' set up in Toronto.
+Simon:(wheezes)
+Tom:And it's for the 2015 Games. If you've ever been to the centre of Toronto and done the tourist trail, it's a massive, massive sign. It's several metres high, each letter. And they decided that they were going to keep that sign. They were going to make a permanent version of it to be there. So Orono were like, "Can we have the old one, please? We don't need the T's, but can we have the old one?"
+Alec:Oh, brilliant.
+Rowan:I love that. Did they get it? Do we know if they got it? I hope they got it.
+Tom:They did not get it.
+Simon:Aww.
+Rowan:Aww.
+Simon:Boo!
+Rowan:Justice for Orono.
+Simon:The Isle of Man TT could've had the leftover letters.
+SFX:(scattered giggling)
+Tom:Rowan, over to you for the next question.
+Rowan:Founded in 2015, what is the aim of a group of volunteers called the 'Women in Red'? Nice snappy one. Founded in 2015, what is the aim of a group of volunteers called the 'Women in Red'?
+Simon:Is anyone else immediately going to Chris de Burgh?
+Tom:(laughs) That's the Ladies in Red!
+Simon:I know, but— I know it is but I can't get that out of my head.
+Tom:And this is being asked to three men. Here we go. (chuckles)
+Simon:Is it a Handmaid's Tale reference?
+Tom:Ooh, is there any other literary stuff there that we could go with? It's either that or a Taylor Swift reference.
+Simon:Is it literary, Rowan?
+Rowan:(harshly) No.
+Simon:What happened in 2015 apart from the Pan Am Games?
+Alec:(laughs) Very important year.
+Simon:Yeah.
+Tom:Yeah.
+Alec:If you had to describe this as an... upbeat thing, or a... "we need to make this group of volunteers because there are problems" type of thing, how would you describe it? Like a "Woo! This is really fun" or like a "Ah, we've got problems to solve"?
+Rowan:Alec, you'll understand when you know what it is, but that is a really interesting and tricky thing to answer in that they are solving a problem, but there is also a sense of excitement and joy around what they're doing when they're doing it.
+Tom:Is it Chris de Burgh? I'm just gonna double check because we never actually got a resolution to whether the problem was Chris de Burgh.
+Rowan:No. But this 2015 thing is interesting. So the 2015 in particular isn't important, but it is maybe interesting to note that this role, this volunteer system, would not have been even possible before 2001.
+Simon:Wikipedia was founded in 2001?
+Tom:Oh! Oh, that from the Wikicast person. Oh my— that— No, that's the solution. That's it. It's... Oh... They're fixing red links on Wikipedia. They are for specifically because Wikipedia articles about women were much more likely to have a red link saying that the article wasn't created yet. So they're fixing them.
+Rowan:Tom, you are exactly correct. Together with Simon's knowledge of the founding of Wikipedia... yeah no. That is exactly what it is.
+Tom:How was that your first fact for 2001?!
+Alec:(laughs)
+Simon:I host the Wikicast, a podcast about random Wikipedia articles.
+Alec:And it was bang on.
+SFX:(group laughing)
+Rowan:It was bang on.
+Alec:Wow.
+Rowan:Oh my gosh. Yeah, no, you're exactly right. This is essentially a group who provide missing biographies of women on Wikipedia, which is why, Alec, you're like, "Is it bad? Is it good?" I'm like, "Well, technically it's not a good thing, but it is an exciting, fun thing they do when they volunteer in a way." So it was a tricky one to answer. So yeah, it's... essentially, the Women in Red are a collection of Wikipedia contributors who have this aim where they work together to improve the coverage of women on the site, specifically aiming to turn so-called 'red links', signifying that there's missing articles or there's not enough information into blue ones, which have a bunch of information populating it, hence the name. And interestingly in a typical year, they add between 20 and 30 thousand new biographies of women to the site. Around 70 a day. So, very prolific.
+Tom:Next one's from me, folks. Good luck. Using a Sharpie, Penny hurriedly writes the number 7,692 on a piece of plastic and never refers to that number ever again. Why? I'll say that again. Using a Sharpie, Penny hurriedly writes the number 7,692 on a piece of plastic and never refers to that number ever again. Why?
+Simon:If she's anything like me, she's just got a new credit card, she's written down the PIN so she doesn't forget it, and then never uses the card.
+Tom:(laughs)
+Simon:Don't do that, folks. That's terrible security. Don't write down your PIN number.
+Tom:You know, Simon, how you keep kind of blundering very quickly towards the end of the questions in this episode?
+Alec:(laughs)
+Simon:No! I was joking, Tom!
+Tom:You have identified some of the elements of this. Not all of it. I'm not gonna give it to you.
+Simon:Oh, okay, thank god.
+Tom:But you're right, that's the piece of plastic.
+Rowan:Oh, I was going in a totally different direction. So thank you, Simon, for course correcting before we'd even gone off course.
+Simon:(wheezes) Sorry.
+Tom:I mean, we've got some time, Rowan. What was that direction gonna be?
+Rowan:So, 7,692... is— feels very like— Nine and six and seven and two can kind of be reflected and change and look like each other. And I was wondering if the plastic was... transparent in some way. If it that kind of thing that there was something going on with that. But... turns out it's not, so... Scratch that off the list.
+Tom:Yeah, the first hint I have on my sheet of paper here is there's nothing specific about 7,692. In fact, I even specifically said it as 'seven thousand six-hundred ninety-two', just because it might take a little bit longer to get to PIN number off that. Well done, Simon.
+Simon:I think, did every single one of us get a piece of paper and write down that number...
+Alec:With a Sharpie.
+Simon:And then look at it, by the way? Because that's, yeah, that's what I did.
+Alec:Did you mention earlier that the piece of plastic was a debit or credit card?
+Tom:Yes.
+Alec:And that was the part of Simon's guess that was correct there?
+Tom:Yes.
+Alec:Was she writing the amount of money that was in her account on that debit card?
+Tom:Simon's closer, much closer.
+Rowan:Is this quite a... Is this not a good reason for her to be doing this? 'Cause there's a really... I feel like if someone's demanding your bank card and telling you to write the PIN number down, and then she never sees it again, 'cause she's had to... give it to someone who's trying to rob her?
+Alec:I think I got it. She wrote her PIN backwards on her debit card, and gave it to the person that was robbing her because writing the PIN backwards would get the card lost inside the machine. I think if you write a PIN backwards, you'd get your account flagged as, you know, somebody's trying to steal your stuff.
+Tom:I think the backwards PIN thing is an urban myth, sadly.
+Alec:Ah, great.
+Simon:I was gonna say, if your PIN's a palindrome, you're just screwed.
+Tom:But you're along the right lines there. It's not hurriedly written because she's being mugged. But you're definitely along the right lines.
+Simon:Was she giving it to someone else, though? You said she didn't ever use the number.
+Tom:She never referred to that number again.
+Alec:But we know that it's not the PIN to that card that was written on there.
+Tom:It is not the PIN.
+Rowan:Do we know if it's her card? Or is she doing it for someone else?
+Tom:Oh, it is her card. It's her card.
+Rowan:Okay.
+Tom:It's not her PIN.
+Rowan:Ah...
+Alec:Penny is trying to commit fraud. Looked at somebody else entering their PIN and wrote it on her card. And then stole that person's card and has 20 minutes to go on a spending spree. It's a MrBeast video.
+SFX:(Tom and Simon laugh)
+Tom:Put your last two guesses together, Alec, and you've basically got it. This is about crime. This is about safety and security. You've basically got it.
+Rowan:Is Penny the criminal? Is Penny— Are we— Have we established that Penny's the criminal?
+Tom:Penny is defending against criminals here.
+Alec:This is a debit card that she is going to just kind of leave in a wallet somewhere. Somebody is going to go and put this into an ATM machine, type in those numbers, and they will now have a CCTV recording of somebody that just stole this wallet. And so it's a means of finding out if... you know, finding the thief... in some way, shape, or form.
+Tom:Nearly. You said, Alec, that she's written down deliberately the wrong PIN. Why would you do that? Why would you put the wrong PIN on your own card?
+Alec:So if somebody takes it, it gets the card locked because they enter the PIN in, and it's wrong. And so she then finds out, "Oh, at this period in time, my card got locked, therefore..."
+Tom:Yes?
+Alec:"My card's been taken."
+Tom:Honestly, it's not even that complex. It is to fool thieves. It is so that if the card gets taken... "Oh, they've been stupid. They'll put the PIN number on it." So why might you write that down hurriedly? You're not under any pressure here. Why are you scrawling this on the back of the card?
+Rowan:I guess so it makes it seem like it's... not been necessarily orchestrated or planned, like, "Oh yeah, this is just a thing that I've put down so that people think that it's just a casual thing I've done rather than a plan to trap you in the moment." Or actually also wait, hang on. Is it so that it's not necessarily entire clear what the numbers are, so that people type in it a few times to try and get it, so that it will lock you out? 'Cause you'll go through all the tries.
+Tom:Yep. It takes three attempts, usually, to get a card locked in a machine. So if you have a scrawled number that, "Oh, maybe that's a one, maybe that's a seven, maybe that's a nine, maybe that's a zero." Then, if someone takes the card, they will use the wrong PIN number multiple times. And it will get sucked into the machine, never to be seen again.
+Alec:What a phenomenal idea! That's brilliant! (wheezes)
+Tom:Simon, over to you for the next question.
+Simon:So this question has been sent in by Geraint Gough. In 2016, the computer system at East Lake County Library, Florida, had 2,361 books on loan to Chuck Finley. Rather than putting a burden on municipal resources, this ought to have saved money for the county. How? In 2016, the computer system at East Lake County Library, Florida, had 2,361 books on loan to Chuck Finley. Rather than putting a burden on municipal resources, this ought to have saved money for the county. How?
+Tom:We all wrote down 2-3-6-1, and were like, it's his PIN number. It's clearly his PIN number.
+Simon:(laughs)
+Rowan:That's the PIN number. So I know with libraries... it's one of those things where I think a lot of people think, "I don't know, it's just a library, they just get money." But the amount of books that are loaned out and the circulation of the books actually does make a difference to a lot of libraries, like the amount of budget that they get allocated. So I don't— But then that wouldn't necessarily be about saving money. It would have been about getting more income from a county by being like, "Yeah, we got two— thousands of books that are on loan." But that's not saving money necessarily.
+Alec:If you've lost books, and you admit that you've lost them, you would presumably need to purchase them again. However, if you pretend that the books are just simply on loan, you don't need to purchase them again. And so Chuck Finley is their pretend book lover, who stops people finding out that their books have in fact been... lost.
+Tom:Just racking up enormous amounts of fines that at some point, at some point the entire Ponzi scheme will come collapsing down, and the library will be in trouble. In my head, I was thinking phone books. And that's because I remember the library, when I was a kid, had a copy of every single phone book in the country. Which, again, dates me and, you know, how old I am, the fact that phone books were a thing then. But every town in its central library would have a copy of every phone book. Because someone needed to look up information sometimes. And I'm wondering if this library had decided to get rid of all their phone books to save money on storage, or something like that, and Chuck Finley, phone enthusiast... (laughs) had decided to take them off their hands.
+Simon:Chuck Finley is the name of a retired basketball player. They're a real person.
+Alec:And was this an alias, or it was in fact Chuck Finley that had these books?
+Simon:The books never left the library.
+Tom:Oh, there goes my idea of Chuck Finley being the famous person who tears phone books in half. Never mind.
+Rowan:(cracks up) Yeah, I kind of liked your idea, Tom, of the saving space. Like storage, not having to pay for storage stuff. But if they had never left the library, then that doesn't really save on storage fees or anything like that.
+Simon:You are on the right lines... that this is an efficiency-related issue.
+Rowan:I wonder, okay, so even though it is a real— Chuck Finley is a real person, but I think that Alec, your whole question about whether it's an alias, whether it's a code in the way that you have Inspector Sands and stuff where it's technically a person, but it's used as a code for something. It's kind of interesting because I'm assuming it isn't just that this Florida random public library was the right area for— But maybe it was. Maybe Chuck just was like, "Yeah, sure, use my account for your nefarious money saving schemes, library. I'll do that for you."
+Simon:Okay, I'll give you a hint on that one. Chuck didn't create this account. A libra— Two librarians created this account called Chuck Finley, named after the retired basketball player, but he had nothing to do with it.
+Tom:Oh, okay. So, why... They're being used to prop up basketball hoops somewhere else in the building.
+Alec:(guffaws)
+Tom:They couldn't afford to actually mount them to the walls, so they just kind of piled up a load of books. Which, in my head, are still phone books. I don't know why I'm obsessed with this.
+Alec:There'd be very tall hoops if it's 1,150 phone books either side of the court.
+Tom:Yeah, yeah.
+SFX:(scattered chuckling)
+Simon:They were not phone books. I'll tell you that, Tom.
+Tom:Okay, thanks.
+Simon:They weren't— They were similar to phone books in one regard. Which, if I told you, would give the game away.
+Alec:Bibles.
+Tom:Encyclopaedias.
+Simon:No, it's not to do with their size.
+Tom:Okay.
+Simon:The librarians were trying to prevent the loss of these books.
+Tom:Why might a book be lost? Either...
+Rowan:So, another thing that I know about libraries in terms of their stock, is that in order for books to stay in the library, they have to be loaned out in some way. That's the whole thing of if you have a book that hasn't been loaned in a while, that they will essentially dump it or recycle it or just throw it away. So I don't know if by saving the books— Are they books that are out of print or some other reason why you would want to keep them around, but they haven't technically been loaned out, so it's like, "Okay we're gonna say they're loaned out by this fictional account so that we can keep them in circulation?"
+Simon:You are almost precisely correct. So, if a book isn't borrowed for a certain amount of time, what happens to it?
+Tom:It gets sold, usually. The library will put it up as a cheap book sale outside. And if no one takes it, it'll go in the recycling.
+Simon:Right, so you lose money on the book. but then what happens if someone wants to loan that book in the future?
+Rowan:You have to buy it again?
+Simon:Exactly.
+Rowan:So it's a cheat around to be like, if we keep these in storage, we don't technically have to destroy them. Which means if they want it again, we don't have to buy it again.
+Simon:Exactly correct. So basically, if a book wasn't loaned for a certain period of time, they would have to sell the book and then buy it again when it became popular again at a higher price. So the librarians created this account called Chuck Finley to borrow 2,361 books over the course of nine months. So they didn't have to repurchase The Da Vinci Code or whatever it would be when suddenly everybody wants to read it again. The problem with that was, state funding was linked to the number of book loans taken out. So by adding 2,361 book loans, they had a 4% boost in their funding, which had nothing to do with actual demand. And so the librarians were suspended. This is what you get for trying to save the books. I think there's good intentions going on here.
+SFX:(guys laughing)
+Tom:The last question then. At the top of the show, I asked one that was sent in by David Lyford-Tilley. Thank you, David. What creative people work with both feet and metres? Anyone want to take a shot at that before I give the audience the answer?
+Alec:Am I able to say myself? I've been using both feet and metres this very day.
+Tom:Oh, do you have to work in both systems for...
+Alec:On the current project, I am working on a project that is in Imperial, with tools that are metric.
+Tom:Oh, I'm so sorry to hear that.
+Alec:I have typed 25.4 into a calculator at least 300 times this week.
+Tom:(laughs)
+SFX:(Simon and Alec snicker)
+Tom:Okay...
+Simon:There was a Mars mission that did this. Is it to do with that?
+Tom:It's not in this case. This is more a play on words, and I accept that there are valid alternate answers in specific things here.
+Rowan:I was gonna say, I don't think it's in reference to length. I'm assuming it's to do with... either feet, the physical body part, or metre as in the music term. So I don't know whether it would be something to do with combining those elements, or like a different version of, I don't know, 'feat' with an E-A? I dunno if there's any other versions of those words, you guys, that you know of that might pair together well.
+Simon:Bards in D&D. You can take feats, and presumably you sing in metre.
+Tom:You know what, Simon, I'll take that. It's poets.
+Rowan:Rhyme in metre and the feet of a poem, yeah.
+Tom:Yeah, so, metres are the basic rhythmic structures of a poem, something like iambic pentameter. Feet are the patterns of stress in words, and they are the basic units of metres, so... Yes, I will also accept Alec Steele as an answer, but...
+SFX:(group laughing)
+Tom:In this case, we were looking for poets. Thank you very much to all our players. Let's find out, where can people find you? What are you up to? What's going on in your lives? We will start with our new players... Simon.
+Simon:Yeah, you can find me on YouTube at @SimonClark. I host a podcast called The Wikicast that you've heard about, and also a podcast called How to Make a Science Video and brr, gosh, I'm in lots of different places. You can find me in bookstores with my book Firmament.
+Tom:Alec!
+Alec:You can find me on YouTube making things with both feet and metres with my name.
+Tom:(laughs)
+Alec:And I make things.
+Tom:And Rowan.
+Rowan:Yeah, you can find me on YouTube at Rowan Ellis, and on the podcast, Queer Movie Podcast, which does exactly what it says on the tin. And also in bookstores with my book for queer teen girls, Here and Queer.
+Tom:I need to write a book, don't I? I'm getting left behind.
+Simon:No, it's a trap, Tom.
+SFX:(group laughing)
+Tom:Thank you very much to all of you. If you want to know more about this show, you can do that at lateralcast.com where you can also send in your own ideas for questions. We are at @lateralcast basically everywhere, and there are video highlights several times a week at youtube.com/lateralcast. Thank you very much to Rowan Ellis.
+Rowan:Thank you for having me.
+Tom:Simon Clark.
+Simon:Thanks for having me.
+Tom:And Alec Steele.
+Alec:Thank you for having me.
+Tom:I've been Tom Scott, and that's been Lateral.
+Tom:See, I told you nothing would go wrong.
+SFX:(test card sine tone)

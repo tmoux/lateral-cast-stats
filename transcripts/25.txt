@@ -1,0 +1,353 @@
+Tom:In which film's end credits are four specific letters printed in a different typeface throughout? The answer to that at the end of the show. My name's Tom Scott, and this is Lateral. Welcome to the show where we prove that "Ah, they think laterally" is not just a euphemism for being clueless. Joining us today from the YouTube channel Real Engineering, Brian McManus.
+Brian:Hey, thanks for having me, Tom.
+Tom:Thank you for being on. Does this feel a little outside your wheelhouse, or are you— 'Cause you're concentrating 100% on engineering in everything I see. And I'll be honest, I don't see many engineering questions in front of us at the minute.
+Brian:No, and being on camera and everything else feels outside of my wheelhouse. So, hopefully I'll do okay.
+Tom:Alright, well... have all the confidence you want, because this is about finding the answer, even if it might seem to be a long way away. So good luck to you. Next up, we have: magician, author, podcaster, and professional conman, Nicholas J. Johnson. Hello there!
+Nicholas:Thank you. I'm probably more of an amateur conman. I really just do it for the love of the con.
+Tom:(laughs) I should say this is on-stage, professional— You do pickpocketing. You do sort of education about scams, things like that?
+Nicholas:Yeah, yeah. All of my work is about promoting critical thinking and scam deception and detection through magic comedy, sideshow stunts, anything to get people's attention.
+Tom:And finally, we have artist, YouTuber, and creator of The Color Cube, Sarah Renae Clark. Hello there!
+Sarah:Hi, how you going?
+Tom:I'm going well. I have to ask about The Color Cube. 'Cause you said that a lot of folks are gonna know you from YouTube. But also a load of folks seem to know you from The Color Cube?
+Sarah:Yes, I have one. But that doesn't really work for your listeners, though, does it? It's a box, it looks like a giant Rubik's cube. But it's full of color palettes that people can use to help them find colours that work well together. So it's made for art, but it works for so many other genres as well.
+Tom:Alright. Good luck to all of you. I'm gonna be asking some questions where the only limits are your imagination and obviously the laws of physics. Although if you can break the laws of physics, And teleport out of here... Please do. We'd love to see it. We start with this: This is a listener question sent in by Adam Austerberry. Software engineer Kent Mitchell was reviewing some code for a defense company. He informed them that the program had numerous memory leaks. They replied, "Of course it leaks." Why was the issue never fixed? So, one more time. Software engineer Kent Mitchell was reviewing some code for a defense company. He informed them that the program had numerous memory leaks. They replied, "Of course it leaks." Why was the issue never fixed? Good luck, folks.
+Sarah:(chuckles)
+Tom:Does anyone want to try and define "memory leak" as a first thing?
+Brian:That's my question.
+Nicholas:Yeah, I'm baffled by the phrase "memory leak." So this is a feature versus a bug situation? This is something that he saw as a bug, whereas they're saying, "No, this is a feature, it's supposed to do that"? That's how I understand the question.
+Tom:Not necessarily supposed to, but they did not care. I guess the first thing to work out is what on earth a memory leak is. Because I read that having a computer programming background and go, "Oh yeah, of course I know what that is." I will make the first part of this question, what on earth is a memory leak?
+Sarah:(laughs) A memory leak?
+Brian:Is it just bits being lost that it's not actually leaking— The information isn't leaking. It's just some of the data's getting corrupted over time?
+Tom:Yeah, that's fairly close. It's basically when a program doesn't quite keep track of everything it's doing, and just uses more and more and more memory over time... and will eventually just break because of that.
+Nicholas:Oh, like Chrome, basically.
+Tom:Yes! (laughs)
+Nicholas:Just Chrome all the time.
+Tom:Yeah, specifically it doesn't do a thing called garbage collection, which is that it kind of doesn't bother cleaning up after itself.
+Nicholas:So if they didn't care, was it because they were trying to... simulate something? You know, that they were trying to simulate a situation rather than actually have a fully functioning computer that was working properly? They almost sort of wanted to observe what would happen when this memory leak occurs?
+Sarah:Well, he was obviously surprised that it was leaking to be reporting it to them, but then they're saying, "Of course it leaks." So why was he surprised, if he's come in and looked at it? If it was something it was intended to do, he shouldn't be surprised.
+Nicholas:Well, he said it wasn't intended, but just they didn't care. So that suggests it's... I mean, being the military, it could just be a thing of we're gonna, you know... We've got billions of dollars, we don't care. We can just buy a new one. Or maybe they were just gonna trash it.
+Brian:I guess it depends what the software was actually for. A defense company is a very... Could be a wide range of things.
+Sarah:This is one of those moments where you watch all these Lateral episodes, and you're like, "Oh, this feels like it'd be really easy to be a part of." And then you see, you try to answer a question like... I don't what to say. (laughs)
+Tom:What I love is that Nicholas, twice now, has done that... And it's a linguistics thing. I remember studying it. You've done the intake of breath that indicates you're about to speak. And then you've just decided not to. You are vaguely along the right lines. Military contractor is certainly something you picked up on.
+Nicholas:I feel like if it's military, it's either waste... Like the military, they're just gonna blow money on something. They don't care if, you know, it's okay if it leaks memory because we don't care. Or maybe, oh! Is it something where they know that it's gonna be destroyed? It's like, I don't know, hang— Oh, it's a bomb. Maybe it's a bomb that has a computer in it. Do bombs have computers in them? Is that... I feel like that's circling something. It's gotta be something that's gonna be destroyed or tested.
+Tom:You are so nearly there. Yes to all those. You are missing one key word. You're right. Why would a bomb have a computer on it? And I saw Brian nodding here, 'cause I'm pretty sure he will have done a video about something like this at some point.
+Sarah:It's probably to do with the countdown timer. The countdown clock on a detonator.
+Nicholas:The one that has the red wire and the blue wire. It's the computer that the— Do you cut the green— the blue wire or the red wire? It's attached to maybe that kind of computer.
+Tom:You— yes. The thing's blowing up. But why does it need a computer, and not just a timer?
+Nicholas:Oh, is it a missile guidance system?
+Tom:Spot on.
+Nicholas:If the missile guidance system has a computer and then it's leaking memory, but that doesn't matter because it's about to be blown up, so who cares?
+Tom:They worked out how long that missile could possibly take to reach its target, doubled it, figured out that it's not gonna break in that time, and just did not bother fixing the bug, 'cause it wasn't worth it.
+SFX:(guests chuckling)
+Sarah:If it ain't broke!
+Nicholas:That's like, it reminds me of those home renovation shows where they come in and they just paint one side of the fence, because that's where the cameras are gonna be pointed, and no one's gonna look at the back of the fence, so why bother painting it, even though they probably should just, it seems,
+Sarah:It's like slapping some duct tape on it. Yeah.
+Tom:Yes, this is a story told by Kent Mitchell. He does not name the specific missile. He does not name the specific company he was working for. But apparently they did not care about memory leaks, because sooner or later, it was gonna blow up. We go to our guests for some of the questions in each episode. As ever, I don't know the questions. I definitely don't know the answers. And we start with Brian. What have you got for us?
+Brian:In the reception area of the Australian Red Cross, there is a set of eight electronic thermometer-type displays that are regularly updated. The displays are labelled with two or three symbols from a selection of five. What motivation do they provide? I'll give that to you again. In the reception area of the Australian Red Cross, there is a set of eight electronic thermometer-type displays that are regularly updated. The displays are labelled with two or three symbols from a selection of five. What motivation do they provide?
+Tom:Alright, well there's two Australians in this show.
+Sarah:I'm glad I'm not the only Australian, because I'm trying to even decipher that question, and my husband's off mouthing something to me, and I can't work out what he's saying either.
+Tom:Are you getting help from outside here?!
+Nicholas:Sarah and I, we obviously— They teach this in Australian schools.
+Tom:(laughs) 
+Nicholas:We know, we're just obviously just letting you have a chance. 'Cause it's so obvious to us as Australians, right, Sarah? Oh god.
+Tom:Weirdly, I think I'm gonna let you two take this, 'cause I think I know what this is. And I'll explain why I know what this is. ...later. So, I'm sorry to pass this one off.
+Nicholas:There's eight displays... and they look like thermometers type displays, but they're not thermometers. And they show two of five symbols? Is that right?
+Brian:Two or three symbols, of five.
+Nicholas:Of five.
+Brian:Yeah, and thermometer type meaning they're just a level that can go up or down.
+Nicholas:Oh, I see.
+Sarah:Ah, okay.
+Nicholas:So it's not just showing the symbol. It's showing the symbol at a specific level? Is that right?
+Brian:Right.
+Sarah:It's got nothing to do with temperature then. It's actually...
+Brian:They're not, it's not to do with temperature.
+Sarah:Okay.
+Nicholas:So I know the Australian Red Cross... I know they do a lot of different types of campaigns. And so it could be just eight different campaigns, you know, that they are sort of focusing on. But, it's... yeah. I mean, I went straight to bushfires and the bushfire... you know, the... what is it called, Sarah? You know the, whether you can light a fire or not.
+Sarah:Yeah, I was when— But see, that's where I got stuck on the heat thing. That's why my thought was temperature. And I was picturing the signs that when you go through the rural areas, the fire danger signs. And it has the sign on there that is low fire rating to high fire rating. That's exactly what I pictured. But then I feel like that's not the right direction for the question.
+Nicholas:No, no.
+Sarah:But that's what I picked initially. But it's also not Red Cross related. That feels like a completely wrong direction.
+Nicholas:Yeah. Well, they do bushfire relief things, but I still, yeah, I think you're right there. It's meant to motivate people coming in. So it's either meant to motivate— I imagine it's maybe to motivate people to donate money. So you know, people come in and they say, "Wow." You know, like, all good. Visualisations rather than just seeing the raw data, you see a picture of something, or you see a representation of it. It really makes you think and dig into your pocket and give money. That's what I think of when I think of, you know, a charity and motivation. Could be motivating staff.
+Tom:And that's what you'd expect from that sort of totaliser display as well. Sort of, this is...
+Nicholas:Yeah.
+Tom:This is a thermometer that's not showing temperature.
+Nicholas:Yeah.
+Tom:I hope I'm right with this! I'm gonna look terrible if I've gone, "Oh, I think I know this." And it turns out that...
+Nicholas:Is it money? Is it related to money?
+Sarah:Yeah, the thermometer display makes sense for a fundraising thing. That would make sense for that sort of reference, as opposed to just another reference. Like you think about the money counter. They use a thermometer. So the fundraising reference, that matches up with Red Cross.
+Brian:It's not to do with money.
+Sarah:Okay.
+Nicholas:There's measuring things in some way, like a thermometer would. I mean, I don't know, yeah. The number of people they've helped. The number of places they've been.
+Sarah:I'm getting smiled from across the room. He's not giving me any hints, but he's just smiling at me, so he obviously knows the answer.
+Brian:I will say... three of the five symbols are letters.
+Nicholas:Yeah, so three of them are letters. The other two... I mean, punctuation marks. Dollar signs, percentages. I'm just looking at my keyboard now.
+Sarah:Two or three from a selection of five.
+Tom:And am I right in saying that these are thermometers that can... They don't measure temperature, but they can go up or down depending on some things going on in the wider world and how...
+Brian:Correct. So I'd say think about... some eight things that are represented by symbols that can go up and down.
+Sarah:Eight things. Are we talking states? Are we talking... I feel like I'm just embarrassing all of the Australians right now!
+Tom:It's not specifically Australian, right?
+Nicholas:Right.
+Tom:Yeah.
+Brian:This is just an issue that affects every country in the world, not just specifically Australia. But it's something the Australian Red Cross does.
+Nicholas:Yeah, I mean, I go straight to climate change, obviously, when I think of things that affect everyone, and things that Red Cross would actually be... You know, like the effects of climate change. That's where I go straight away. I mean, the thing, the problem is that now when I think about the combination of letters and suddenly realise, oh wait, it could be measuring a huge number of different combinations of letters can be coming in, and that can be changing the things being measured.
+Tom:Nicholas, you said, "Was it about donating money?" And Brian very carefully replied that it wasn't about money.
+Nicholas:Ooh.
+Sarah:Okay.
+Nicholas:Is it about donating... is it like how many blankets and how many thi— you know, physical objects have been donated perhaps?
+Brian:The other two symbols are mathematical signs.
+Nicholas:Oh, so this is like algebra now.
+Sarah:You might be looking at a percentage sign?
+Brian:No.
+Nicholas:Just like a plus and minus.
+Sarah:Plus or a minus. A plus or minus.
+Brian:You're getting there.
+Nicholas:Oh! Blood. It's blood donations.
+Brian:Yeah.
+Sarah:Blood donations! Oh, that's why Shane's looking at me so obviously.
+Nicholas:Of course.
+Sarah:He donates blood regularly. So he's like, "Of course, of course!"
+Brian:Yeah, so the eight thermometers show the eight major blood groups and the current level, and encouraging people to donate when they're starting to get low.
+Tom:And the only reason I knew that one was because literally yesterday, I was doing research into blood groups. And that's the sole reason. As soon as he went, symbols and eight groups and thermometers, I thought, Oh, it's gonna be blood donations. Well, I'm gonna shut up here and let you guys sort it. Sorry about that.
+Sarah:Yeah, I feel like that's when... Because Shane does regular blood donations, and I don't. So he's here like, "That's so obvious!" And I'm just like... Not familiar with that.
+Nicholas:So you and I have really been punished here for our lack of civic duty. The fact that we haven't donated blood recently.
+Sarah:I'm the person you'll find if I do a blood donation, I've got terrible veins, sorry.
+Nicholas:Yeah.
+Sarah:Yeah.
+Nicholas:So really the message here is donate blood. Otherwise, you'll embarrass yourself on a podcast.
+Sarah:Yeah, that's it. Donate blood to win at Lateral.
+SFX:(both chuckling)
+Nicholas:To win at Lateral.
+Brian:So yeah, there's eight thermometers displayed in the Australian Red Cross that show the current levels of the eight major blood types in their supply.
+Tom:Next question's from me. According to legend, in the Middle Ages, people often signed various papers and documents using a symbol and a certain action. This tradition partly lives on today. What was that symbol and action? So one more time. According to legend, in the Middle Ages, people often signed various papers and documents using a symbol and a certain action. That tradition partly lives on today. What was that symbol and action? So I'm just gonna say this early on, that "according to legend" is in there because I will get emails, because this is a lovely story... but the sourcing is somewhat dubious. So it's one of those things that gets repeated as "Oh yeah, that's where that's..." Yeah, okay. Don't email me. I do not need pedantry on this one.
+Nicholas:I use that just in all conversation anytime I'm uncertain. It's like, did you feed the dog? According to legend...
+Tom:(laughs uproariously)
+Nicholas:I may have fed the dog. Yeah, that's right.
+Brian:That's how I start every video, just in case anyone says I'm wrong.
+Nicholas:(chuckles) 
+Brian:I said, it was according to legend. It's just a story.
+Tom:That's true, Brian. Two of us have to deal with pedantry on a regular basis. And two of the people on this show do not. One deals with art, and the other can just claim it was part of the plan all along.
+Brian:I got a letter in the post to my father's house, correcting a video before. To my father's house, so.
+Tom:What?!
+Brian:Yeah.
+Sarah:I have the opposite problem. I have the problem of when I make a statement, everyone comes at me and says, "There is no wrong way to do art. Don't tell people what to do!" So my problem's the opposite.
+Tom:I had that when I was doing stuff about linguistics. Because it's drilled into you from the very first day you study linguistics that there is no correct way to speak. As a linguist, you describe, you don't... But also, there are things such as Standard Academic English. And that can technically have rules that you should have to follow. And there's always a bit of a... what's the... I can't think of the word. It's literally my job to do this. And I can't think of the word for two things that conflict with each other.
+Sarah:Contradiction?
+Tom:That'll do, thank you.
+SFX:(group laughing)
+Brian:I was like, it can't be that. That's too obvious.
+Nicholas:You can see that played out in real life on the Twitter account for the AP Stylebook where they, every few days, will say what their particular convention that they follow, and people who follow the conventions of the AP Stylebook. And it's filled with people saying, "Don't you force your pedantry, political correctness going mad, wokeism, whatever it is down our throats." You know, "There's no right way!" And it's like, "Yes, but... if you're gonna use the Stylebook, then there is a right way."
+Tom:Yes, but we don't put a capital I on 'internet' these days. That's just not what we do. You're welcome to. That's not what we do.
+Nicholas:(chuckles) Around these parts.
+Tom:That's the one that's stuck in my head. It was, I think it was The Guardian's style guide a few years ago that made the decision that, no, "world wide web" and "internet" are now lowercase all the way through. There was some point where it changed from being a Thing that was important to just a utility we all talk about. And they said it was like putting a cap on electricity.
+Sarah:From a proper noun to just another noun.
+Tom:Mhm. None of that has any relation to the Middle Ages and people using a symbol a certain way.
+Sarah:Internet in the Middle Ages?
+Tom:That's just four people unloading their various frustrations about people with internet comments, so.
+Nicholas:Yeah. I'm hung up on the word 'action'.
+Sarah:Yes, same.
+Nicholas:So they— I can see them. So this is signing things on paper. And then they can— I understand that there's a symbol or a letter or something, but then they perform an action after...
+Brian:Was it the wax seal? Was that the action?
+Sarah:Yeah, that's what I was thinking. Or a wax seal. Or even so far as using a signet ring or something to seal.
+Nicholas:Yeah.
+Sarah:Using some kind of ring as their seal, because people would have different designs on different rings, so that becomes their— I don't know if that's even a thing. It just feels like it should be.
+Tom:Oh yeah. It abso— This is very much a question that feels like it should be. And it's not quite the right lines, but you're certainly thinking the right era and the right stuff that's going on.
+Nicholas:So if someone— Okay, so this is... Maybe I'm drawing a longbow here, but if you're signing something... and it's probably a legal document of— So no, it has the feel of a legal document. It might be an agreement, or it, you know— or it's essentially you want to commit that this is true. And so is it, they would write their name, and then they would, as a sort of signing on the Bible type thing, they would cross themselves? Like the, you know... religious action of crossing yourself. And then that turned into people signing things with a cross. You know, like when you sign with an X, and that's the thing that's still around today? That's my very long bow.
+Tom:You have fired the very long bow... and it has not quite hit the target. But the target is very scared. You have got some of the right words, but not necessarily in the right order.
+Nicholas:Alright. (giggles)
+Sarah:Okay, thinking about this kind of real strong oath thing, I'm then leaning into a blood oath. What if...
+Nicholas:Oh yeah!
+Sarah:Do people, instead of ink, use their blood and do a thumbprint with their blood or something to sign something off or...?
+Tom:This was ink. You actually said part of the right answer in what you were saying, Nicholas.
+Nicholas:So...
+Tom:People weren't writing their name here. In fact, the reason they'd sign like this is because they couldn't write their name.
+Nicholas:Is it just people would sign with a cross? You know, sign with a cross, because they couldn't write their name, and so they would just write a cross?
+Tom:That's the symbol. So what's the action that goes with it?
+Nicholas:So not crossing themselves.
+Tom:Oh Brian, you got a face there! You went, "Oh, I'm gonna do this!" And then, kind of backed out.
+Brian:No, I'm just confused. Like an action. Is the action something that they're not doing on the piece of paper? They're doing, they're crossing, doing the...
+Nicholas:Yeah.
+Brian:Dunno what that's called. I dunno, people can't see what I'm doing.
+Tom:It's a sign of sincerity.
+Sarah:Did they kiss it?
+Tom:Yes, they do. That is the right answer. They sign with a cross. They kiss that cross as a sign of sincerity. And that is, according to legend, where we get the idea of "sealed with a kiss" and where we get the cross meaning kiss.
+Nicholas:Oh, that's lovely.
+Brian:Oh!
+Sarah:Wow.
+Brian:That's interesting.
+Nicholas:My daughter just wrote a letter to our local Member to... Because she's five, and she's at that age of realising that there are, you know, bad things in the world like, you know, people not having enough to eat. And so she wrote a letter to our local politician, our local Member. And wrote it on this beautiful, pink handwriting set she had for Christmas, saying, "Can you please do something about poor people and the homeless situation?" in this whole long letter. And then went and got my wife's lipstick, and put it on and put a big proper kiss on this very serious letter. And sent it off in the mail. It was scented paper as well. So there was real mixed messages there. But it got a great reaction.
+Tom:I was gonna say, has she got a reply yet?
+Nicholas:Yeah, we got invited to go and meet the local Member and pose for photos. And she got to talk about the issues, and the, you know, the picture was there and it was very... So if you want to get the attention of your local Member, the politicians, doesn't hurt to, you know, make that little extra effort.
+Tom:Send the letter and seal it with a kiss. Yes, according to legend, letters were signed with a cross and then kissed for sincerity, which is where we now get the cross for kisses from. Our next question comes from Sarah. Take it away.
+Sarah:So this listener question has been sent in by Adrian Miguel. So in rural parts of the US, some people cause whimsical mischief by walking around the town armed with circular red stickers. How? So the question again: In rural parts of the US, some people cause whimsical mischief by walking around the town, armed with circular red stickers. How?
+Tom:The first thing that comes to my head with whimsical mischief and stickers is a gag from a TV show called Dick & Dom in da Bungalow. Which was a kids' breakfast show in the UK, which from, I'm guessing no one here has heard of. It was not— it was on when I was a student, so if I was awake that early, it's a sort of thing a student would turn on a Saturday morning. They had a bit of shtick where they had increasingly large stickers of each other's faces, the two presenters. And would have to go around town, interview people, get shots, and then subtly put the sticker on other people's backs without them noticing. So by several things in, you would just have shots of people walking away from the interview with a giant sticker of someone's face on their back. I don't think it's that. I just thought I'd tell that story, because it still amuses me years later. It's exactly that kind of whimsical, harmless prank that I'm imagining this is the sort of thing that's it's about.
+Brian:You said they're just circular red stickers.
+Sarah:Yes.
+Brian:And are they solid red stickers, or are they—
+Sarah:Yes.
+Brian:A circle with a...
+Sarah:There's nothing on the— No, they're just, it's a red circle.
+Brian:Okay.
+Tom:Alright, what can you use a red sticker on to cause whimsical mischief in a rural American town?
+Nicholas:I can think of plots of mischief, but none of it whimsical. Mostly malicious or political, like a little bit, yeah.
+Tom:(laughs) 
+Nicholas:I think of googly eyes when you mention that type of thing. You know, people who just like to stick googly eyes on things.
+Tom:Oh yeah, I've got a friend who has an enormous sack of googly eyes. Enormous sack. It sounds like he's bloody Santa Claus. He's got a big plastic bag that's like... He's got a half kilo of googly eyes, and they just keep ending up in places.
+Brian:Yeah, I'm imagining they're just going around sticking it on posters of politicians or something. I don't know if they do that in the US. I dunno. In the UK and Ireland, we put up the massive poster boards of the politicians when they're getting elected. I could imagine—
+Tom:Oh yeah. And someone will draw a mustache on them.
+Brian:Yeah.
+Nicholas:If they're plain red stickers, I would imagine that they're trying to cover something... Or they're trying to sort of add to something that is already red. You know so changing stop signs to...
+Tom:Yeah, I was thinking stop signs.
+Nicholas:Something like that to stop sign or something.
+Tom:Are they're covering up one letter in something maybe? Or they're blocking out one thing... But a circle. What would you use a circle for?
+Nicholas:Do you know— Are they grammar pedants, and they're going around covering... There's a particular sign that's everywhere that misuses a comma or an apostrophe, and they're just going around and covering the incorrect punctuation?
+Tom:I'm trying to think, American road signs. I can think of the speed limit sign or the... but it's only the stop sign that's red, isn't it? The rest of 'em are all yellow.
+Nicholas:Is the fact, I mean, obviously— So it needs to be a small place. Is the fact that it's rural— You mentioned rural, I think, in the clue. Does it— Is it something rural? Is it, are they putting them on cows or...
+Sarah:Yeah, so rural parts of the US is a big part of the description there. That's a big clue.
+Brian:They're making cows into Rudolph at Christmas. They're slapping it on its nose.
+Sarah:Actually, Brian's kind of heading in the right direction with what he's just sort of said.
+Tom:Are we on farm animals? Are we in the right area with farm animals?
+Sarah:You're on the right direction with the whimsical side of it. I'll give you that much.
+Nicholas:Are they clown noses? Are they turning certain pictures into clown noses, putting on people?
+Sarah:Well, you're in the right season as well.
+Nicholas:Oh, okay. So it's something to do with Christmas.
+Brian:They'll be putting it on truck lights or something to make the lights red.
+Sarah:So you did mention before Rudolph. Which, Rudolph, you were correct... that they are turning something into Rudolph. So leaning into that...
+Tom:Wow.
+Sarah:There is something...
+Nicholas:Okay.
+Sarah:that they are putting stickers on, that they are turning into Rudolph. We're looking more towards something that is city property.
+Nicholas:So it's something maybe that looks like antlers. And then they put a red nose on it, and it looks like Rudolph.
+Brian:I'm trying to think what you'd run across in a rural Texan town that you could turn into looking like Rudolph. Other than a cow.
+Nicholas:Oh! Is it tumbleweed? You know, tumbleweed?
+SFX:(others laughing)
+Nicholas:You know, put a nose on it, looks a bit like Rudolph?
+Sarah:When I saw the picture of this, I actually... This reminded me of something in Australia a lot more, Nicholas, that I see a lot in rural towns. But for a very Aussie thing. But this is like the American version of it. So if there was an Australian thing that's very iconic in Australia that we see, that we think is iconic to Australia, that's only in rural towns, that is city property... the American version of this that you could quickly turn into Rudolph with a red sticker. I dunno, that's probably just made it so much harder.
+SFX:(both laughing)
+Brian:A water tower?
+Tom:I was thinking water towers and I don't know why.
+Sarah:A water tower wouldn't look like Rudolph if you put a red sticker on it though.
+Tom:Something with antennas. So a broadcast tower? No, that's not a... You can do that anywhere.
+Sarah:Think— As much as we're thinking laterally right now, we can think a lot more literally. What, if it had a red nose, would look like Rudolph?
+Tom:A horse.
+Sarah:On a sign. (wheezes)
+Tom:That's less helpful.
+Brian:Oh, is it the sign for deer crossing?
+Sarah:Yes! (laughs)
+Tom:Oh!
+Nicholas: Oh!
+Sarah:That is, it is.
+Tom:Oh, we started on road signs! I couldn't think of the damn... Yep, okay.
+Nicholas:You know what would look a lot like a deer?
+Tom:Deer.
+Brian:A deer.
+SFX:(group laughing)
+Sarah:It felt like it was so close that we weren't gonna get there.
+Tom:That was an open goal that we didn't so much miss as just completely ignore! Just walk straight past it.
+Sarah:Oh, I feel like, yeah, no. So in the run up to Christmas, some people would add red circles to the deer crossing signs, which ironically look exactly like the kangaroo signs that we see here in Australia.
+Tom:That's the iconic Australian thing!
+Sarah:Yes. So they make them look like Rudolph the Red-Nosed Reindeer. One reported instance of this happening was in Limestone County, Athens in Alabama in 2014.
+Tom:Next one's from me. In 2000, soccer player Lee Todd was standing just in front of the referee. Once the referee started the match, Todd managed to break a football record just two seconds later. How? I'll say that again. In 2000, soccer player Lee Todd was standing just in front of the referee. Once the referee started the match, Todd managed to break a football record just two seconds later. How? I am glad that we don't have any Americans on here, because right now they'll be asking me about the rules of soccer. And I feel like between us, we probably have at least a decent grasp of how it works.
+Sarah:Well, I was about to ask, do we need to know much about soccer? But I guess the first thing to clarify is we know which soccer we're talking about, so that's at least okay!
+Tom:Yeah, the question deliberately said soccer and football, just to cover all bases there. Ironically, because that's baseball, but never mind.
+Nicholas:Yeah.
+Brian:I'm feeling I might... know the answer for this a little bit, but I'm not sure.
+Tom:Alright.
+Brian:I don't know a whole lot, but I feel like... the record part might be a bit too obvious of what he did. And I'm just guessing, but I don't, That's not the question, is like, how did he do it?
+Tom:So, I mean, if you wanna solve the first bit of that, go for it. You don't know the answer, go—
+Brian:Well, I'm just thinking it could be one or two things. It's like he scored a goal, or he got sent off.
+Tom:It is one of those two things.
+Nicholas:I mentioned—
+Sarah:Well, it has to be—
+Nicholas:I went the quickest to be red-carded. That's what I went with.
+Tom:Yeah. Yeah, you've got that right away.
+Sarah:It's a time related thing. If it happened in two seconds, it has to be a quick record.
+Tom:Yep. So you've got the first bit. Lee Todd was sent off after two seconds of the match. So what happened?
+Brian:He was standing in front of the referee, so I'm guessing he did something to the referee.
+Nicholas:This is my creative answer. He— They did the coin flip. The coin's on the ground. They both went to pick up the coin at the same time, and he accidentally headbutted the referee and got sent off.
+Tom:Oh, it's lovely, but that would be a minus on the timer. This is two seconds into the match.
+Nicholas:Oh, I see, okay.
+Brian:In my head, I'm just envisioning him... The game just starts, and he just... kicks the ball as hard as he can directly at the referee's head. And the referee just got annoyed and sent him off or something.
+Sarah:Yeah, I don't know what kind of level of violence against a referee's acceptable before you get kicked off the field.
+Tom:I think even sort of arguing too much with the referee. If you really push it, can get you yellow-carded or red-carded. There's a specific bit of conduct here.
+Brian:So it wasn't assault.
+Sarah:Did he give him the finger?
+Tom:Not quite, but you're in the right area.
+Nicholas:Did he just swear at him? Did he insult him? Say something rude to the ref... as the game was starting?
+Tom:Yeah, you're piecing together most of it, but in two seconds, what happened?
+Sarah:Is it family-friendly?
+Tom:That Sarah, that is a very good question! I am being very—
+Nicholas:Is it something we can say?
+Tom:I am being very cautious about how I'm gonna read out the answer here. There might have to be a little bit of edit work done.
+Sarah:Was there clothing removed?
+Brian:Oh, he pantsed him!
+Tom:Oh wow! That was... To be clear... the sequence of events in that would've been: Referee blows whistle. And one of the guys just turns around and pants the referee at that moment. I love it as an image. It's not what happened. It wasn't even really deliberate in that way.
+Sarah:I'm trying to think laterally.
+Tom:I mean, you're right that it was rude.
+Sarah:Okay.
+Brian:Trying to think of what soccer players would do to a referee that would appear harmless, but probably fairly insulting.
+Tom:It wasn't even really to the referee.
+Brian:So was it to another player?
+Tom:It was more just to the world.
+Brian:In football, you can get sent off for taking your shirt off.
+Tom:You can get sent off for a lot of things that are... I'm not sure if soccer has ungentlemanly conduct, but it's that sort of rule.
+Brian:Did he... give the finger to the opposing team?
+Tom:You are so close with the offense and the swearing and everything like that.
+Brian:Did he moon the other team's audience? I dunno why I keep on going to that.
+Tom:It is being sent off for being offensive. So why might that happen just immediately after the referee blows the whistle?
+Sarah:Did he start dancing?
+Tom:He is standing very, very clo— He's standing within punching distance to the referee.
+Nicholas:He punched the referee because the whistle was too loud?
+Tom:Oh, you're nearly there. It was that the whistle was incredibly loud, and he was standing right next to it. So what did he do to get himself sent off immediately?
+Sarah:Did they pull the whistle out of his mouth?
+Tom:You know what, I think you've got close enough, and I think the thing you don't know here that you need to know is that ungentlemanly conduct, unsportsmanlike conduct, that rule of football includes swearing on the pitch.
+Nicholas:Oh, so he just swore. He just swore about how loud it was.
+Tom:His exact words were: (bleep) me, that was loud!" At which point... the referee blows his whistle again and sends him off for ungentlemanly conduct, or unsportsmanlike conduct. That is two seconds where he is immediately red-carded and off just for being shocked that someone just blew a very loud whistle in his ear.
+Brian:That's...
+Nicholas:So the response to him complaining about the loudness of the whistle was for the ref to blow the whistle a second time.
+Tom:Yes, it was. Last guest question of the show then comes from Nicholas. What have you got for us?
+Nicholas:I have a question for you that I've written myself. It is one of my favourite stories. In 2015, officials from San Francisco's Public Utilities Commission confirmed that dogs had caused a car to be destroyed, nearly killing its owner. How? I will repeat the question. In 2015, officials from San Francisco's Public Utilities Commission confirmed that dogs had caused a car to be destroyed, nearly killing its owner. How?
+Brian:I'm just wondering why the Utilities Commission was reporting it.
+Sarah:Yeah.
+Tom:Yeah. And how— and it's phrased carefully like "Dogs caused the car to be destroyed."
+Sarah:Not crashed. To be destroyed.
+Tom:Just a lot of dogs peeing on the wheel and eventually just corroded the car entirely.
+Sarah:Well, was the car driving then or are they living in the car? Because it didn't say the car was moving when it was destroyed.
+Brian:But it nearly killed the driver.
+Sarah:Oh, it called him a driver, did it? Did it use the word driver or owner?
+Tom:Was it driver or owner there?
+Nicholas:It's owner.
+Tom:Wait, the owner of the dogs or the owner of the car, or are those the same thing?
+Nicholas:The owner of the car.
+Tom:Okay. So if this was like wild animals, I'd be thinking that they were nesting in there and that they, you know, clogged up an exhaust thing and... 'Cause if this is San Francisco then frankly there's a fair chance that the owner of the car was sleeping in the car. And I would say that wild animals clogged up the exhaust pipe and nearly sent fumes back into the... but that doesn't seem like something that dogs would do.
+Nicholas:I can say that the dogs... caused the car to be destroyed. But they didn't touch the car themselves.
+Sarah:Maybe. Okay, so maybe we're talking about a homeless person. And it's not the dogs that destroyed the car. Maybe the city destroyed the car, but the dogs drew attention to the car by barking and causing a scene. And therefore getting the person found out. And the city found out they were living in the car. And therefore got the car removed. But didn't realise there was a person living in it. Maybe the car was abandoned and the city didn't realise that— Or the utilities or whatever didn't realise there was someone living in the car when they went to remove it. I don't know.
+Nicholas:It could have been any car, really. It could, yeah. The owner of— who the car would belong to, or the owner isn't that relevant.
+Brian:Because it's a utilities company and you're saying that the dogs didn't touch the car... I'm imagining the dogs... caused a... They chewed through a light post or something and the light post fell on the car or something.
+Nicholas:Okay, so... That's pretty much the right answer. But... they didn't chew through it. I think Tom might've actually given the other half earlier.
+Tom:Wait... did they corrode... Did enough dogs pee on the light post... that it corroded it... and then fell on top of a car?
+Nicholas:That's right. Yep. Dog urine accelerated the corrosion of the metal base of the street lamp and the pole fell onto the car, narrowly missing the driver. And it's happened in other countries. I believe it happened in Japan as well. And it's a common issue in countries that have specific types of metal at the base of the street lamps.
+Brian:I dunno why I went to chewing on a wooden lamp post instead of peeing— Of course dogs pee on a lamp post.
+Sarah:Beaver style.
+Brian:Yeah.
+Tom:Between us, we got that one.
+Brian:I was thinking more...
+Tom:I think we both get half credit for that one, Brian.
+Brian:Yeah.
+Nicholas:So dog urine accelerated the corrosion of the metal base of the street lamp and the pole fell over onto a car, narrowly missing the driver.
+Tom:At the start of the show, I asked the audience: In which film's end credits are four specific letters printed in a different typeface throughout? Does anyone wanna take a punt at this before I give the answer? I mean, I'll be honest. I barely remember this film. It's 1997 science fiction.
+Brian:Yeah, I was going to something like Loki, where the actual title is in all different fonts.
+Nicholas:Oh. Gattaca. Is it Gattaca?
+Tom:Gattaca, yes it is.
+Nicholas:G, A, T, and C, yeah.
+Tom:Yep. It is about DNA re-sequencing and... It's cased based on genetics, I think, if I remember vaguely. And so those four letters, A, T, G, C, the four bases of DNA, are in a different font throughout the credits. Congratulations to all of you. Thank you very much for being part of all this. Let's see, where can people find you? What are you up to right now? We'll start with Nicholas.
+Nicholas:I've just relaunched my podcast, Scamapalooza, where I talk to psychologists and authors and con artists and magicians about why people get deceived. You can find it wherever you get podcasts.
+Tom:Sarah.
+Sarah:So you can find me, Sarah Renae Clark on pretty much everywhere, on my website, especially on YouTube.
+Tom:And Brian.
+Brian:You can find me on YouTube too at Real Engineering, uploading twice a month, and I won't turn this into a Nebula ad read.
+Tom:Thank you very much. That is our show for today. If you'd like to know more about what we do, then you can go to lateralcast.com. There are video highlights at youtube.com/lateralcast, and you can find us at @lateralcast pretty much everywhere. With that, thank you very much. It's goodbye from Brian.
+Brian:Bye-bye.
+Tom:From Sarah.
+Sarah:See ya.
+Tom:And from Nicholas.
+Nicholas:See ya later.
+Tom:I've been Tom Scott, and this has been Lateral.

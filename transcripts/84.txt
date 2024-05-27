@@ -1,0 +1,501 @@
+Tom:Why did a company design an especially resilient font called Bell Gothic? The answer to that at the end of the show. My name's Tom Scott, and this is Lateral.
+SFX:(store chime)
+Tom:(PA effect) Good afternoon, shoppers! Our special offers today include 50% more confusion on all questions. There's buy one, get one free on hints. And plus, we're giving double loyalty card points to all returning guests. And Sharon, clean up on aisle three, please. Thank you! (effect off) First of our returning guests for this show, we have: from Mythbusters, from Tested, from so many other things. Please welcome back Adam Savage.
+Adam:Hello!
+Tom:Thank you for being back on. The question I always ask guests on the second appearance, which will inevitably be a few months down the line from when we record is: What are you working on now that will be out and available to see by the time people hear this?
+Adam:I am actually currently taking apart half of my shop and turning it into more of a shop. So I'm completely rebuilding my entire persuasion in my shop right now. It'll take a few weeks.
+Tom:So just the all the stuff that has accumulated over time? Because I remember from watching Tested, there's a Star Trek captain's chair in there somewhere. There's a lot of stuff.
+Adam:There's a huge display area that is about to stop being display area, and is about to become more shop space because I have run out of room.
+Tom:Also joining us today, we have from the Taboo Science podcast, We have writer and saxophonist Ashley Hamer.
+Ashley:Hi, I'm so excited to be here, yeah.
+Tom:I'm going to ask you the same question. We've got more Taboo Science coming up, I think you said last time you were here. What sort of episodes are we going to see?
+Ashley:We do, so I wanted to do an entire themed episode on— a themed season on fetishes and kinks. It's a little racy, but I just did finish some epis— some interviews about furries that I'm really excited about. So, it's just delving into the science behind why people like some of these things. I'm pretty excited about it.
+Tom:And that is as far as we can delve into that on this podcast.
+Ashley:That's right!
+SFX:(group laughing)
+Tom:It's alright. That is a subtle way of putting a content warning on this one for your show.
+Ashley:(giggles)
+Tom:And the last of our trio, joining us again from Dropout, from Game Changer, from Make Some Noise, from so many other things, Sam Reich!
+Sam:Absolute pleasure, Tom. Thank you for having me back, considering how I did last time.
+Tom:(laughs) You did great. You all did great. Thank you. Same question then: What is launching soon on Dropout?
+Sam:Soon, you will be treated to Game Changer season 6. Game Changer is my show, a game show where the game changes every show, and the players don't know the game in advance of the show. This is truly the most mind blowing, boggling season we've ever done.
+Tom:Amazing. I did have this kind of little devil on my shoulder going, I should get in touch with someone and surprise Sam with a game of Game Changer on this podcast. But unfortunately, it is the same format as usual. So, very best of luck to all three of you.
+Sam:If there's anyone I would trust to do that, Tom, to take over my show.
+Tom:(laughs) Awh! That means a lot coming from you, Sam. Thank you. But we will put the mutual game show host admiration society aside...
+Sam:(laughs)
+Tom:and I will plow on with the show. I would like to reassure you that our questions are ethically sourced and free-range, raised in open air pastures where they can forage naturally. Unfortunately, they are so hard that I can't guarantee they'll be cruelty-free. And we start with this: Justin calls his friend William on a telephone landline. When William answers, Justin acts normally, but William is extremely confused. And moments later, they are both amazed. Why? I'll say that again. Justin calls his friend William on a telephone landline. When William answers, Justin acts normally, but William is extremely confused. Moments later, they are both amazed. Why?
+Ashley:Okay, so William's confused, Justin's normal, and then they're both amazed.
+Tom:Yes.
+Adam:I have been playing around with telephony here sort of casually, specifically around... the lack of delay in the old telephones. That there was no delay in old copper line, landline telephones, seven milliseconds. And today, on cell phones, we tolerate between 100 and 250 milliseconds of delay. So I'm just curious if the immediacy of the old phone system might not have something to do with the surprise.
+Tom:One of my favourite bits of British TV history was when they tried to bring back, for a one-off episode, a show called The Golden Shot. Which was kind of 1970s, 1980s, and it was interactive television. Because they would take live calls on the air in the '70s and '80s and have a camera attached to a crossbow. And the viewer would have to give instructions to a blindfolded camera operator going, "Right a bit, right a bit, up a bit, up a bit" with a clock ticking down, and it goes "fire", and they would have to hit a target or an apple or something like that to win a prize. And they brought it back for a one-off in I think it was 2004, 2005, just as they were starting to transition to digital. And they'd clearly given the instructions to the people on the line "Whatever you do, please make sure you're still watching on analogue." And they weren't. (laughs shakily) And there was just, the whole final part was just broadcast delays. "Go right a bit, right a bit. Keep going. No, go right. Go right. Go— No, stop, stop, stop!" As five seconds of broadcast delay! And you can just imagine the gallery going, (sombre) "No, no."
+Ashley:Incredible.
+Sam:I do wonder whether... teenagers are less into phone calls these days than we were growing up, specifically because the experience is less satisfying than we had.
+Adam:I'm so sure you're right, Sam.
+Tom:Yeah.
+Sam:Yeah.
+Adam:I mean, we were hearing, when I'm talking to my friend in high school in the '80s, I can hear their whole house behind them. There's no filters, there's no...
+Sam:Yeah.
+Adam:It's literally a direct copper line between me and them.
+Tom:Full, uncompressed, duplex comms. It's kinda tricky to do these days. If you're ever in Seattle, go to the Connections Museum. It is an old telephone exchange that is kept alive by both the telephone engineers who used to work on it, and a whole new crowd of people who just find it interesting to play with. And they have all the old clicky switch equipment, everything like that.
+Adam:Yeah, yeah!
+Tom:Everything is hooked up to this one big exchange. It's wonderful.
+Adam:There are hackers that maintain correctly configured old telephone systems, so that hackers can go try out their blue box on it, and try the old methods of hacking that Draper and Woz used to do.
+Tom:We've had a question about this! We had a question about the Cap'n Crunch boxes a few episodes ago.
+Adam:(giggles)
+Tom:I love this. I could talk about this for a long time with everyone on this call. And it is unfortunately completely the wrong direction!
+Sam:(wheezes) So this— 'Cause that's where my brain went immediately was old phones and sort of marveling at the technology period. But you're telling me this is a contemporary story.
+Tom:This is something that actually happened to our question writer's friend. We have a personal anecdote in this question. Landline is important though. Even though those are digital now, landline is important.
+Sam:Was the person who answered the phone confused because they didn't know they had a landline?
+SFX:(guests laughing)
+Adam:Comedy brain. I see it.
+Tom:Well, it is comedy brain, but it's not entirely wrong.
+Sam:Hm.
+Ashley:Oh? I mean, my— where my head goes is that one of them was in a strange location that you wouldn't expect to have a landline.
+Adam:Or was the person picking up did not know that the Mickey Mouse that had been on the shelves all those years was actually a telephone.
+Sam:A phone, yeah!
+SFX:(both laugh heartily)
+Sam:Totally, totally. "Why is this ringing?"
+Adam:"Why is this burger ringing?" Right, it could be a novelty phone.
+Tom:Again, you are not entirely in the wrong area. The element of surprise is very much tied on this being a landline.
+Adam:I would say it's a museum situation, except you wouldn't have said you should go to the Museum of Connection if there was a museum connection in this answer.
+Sam:I think a question that we should be asking ourselves, rhetorically or otherwise, and I may look to Tom's face after I say this, or I may not, is... Was the person confused in answering the phone at home... or elsewhere?
+Tom:That is definitely a question you should ask.
+Ashley:It's probably a payphone. It's probably an old payphone. Yeah...? And a payphone that you wouldn't expect to be connected.
+Adam:Oh.
+Sam:Interesting.
+Adam:They were both surprised because they didn't know that they would know each other.
+Tom:That's also very close. But Justin was calling William for a chat.
+Ashley:Okay.
+Sam:So Justin knew to try to reach out to William wherever William was. And, and... But William did not know... that Justin was going to reach them there, because William was confused.
+Tom:You have found almost all the elements of this.
+Sam:I thought payphone was terrific.
+Adam:Wait a minute. Is it... Is it Justin Trudeau and Prince William?
+SFX:(group laughing)
+Tom:No, no, Prince William and Justin Trudeau are not friends of our question writer. You were so clo— You were all kinda circling the correct answer, and then, oh no, absolutely, absolutely the wrong area. The thing you've forgotten is that they were both amazed afterwards.
+Ashley:Yeah.
+Sam:And clearly this was Justin Bieber and William Clinton.
+Tom:(laughs)
+Ashley:(chuckles)
+Adam:(wheezes)
+Tom:That's the first William you went with? Actually, I can't think of any other Williams right now.
+SFX:(guests laughing)
+Tom:Genuinely, I can't think of any other Williams. It's a complete blank. You know what's come to my head? William Riker. So, we'll just move on.
+SFX:(Sam and Ashley chuckle)
+Adam:They were both surprised.
+Sam:William was at first confused, and then they were both amazed.
+Tom:Yeah.
+Ashley:Yeah.
+Adam:Did the caller think that the recipient wouldn't answer? Or did they think that they were deceased? They were calling their old phone, and they picked up.
+Tom:Again, very close. Talk through the process of how it used to be with landlines. There's something with those that you don't do with modern mobile phones.
+Ashley:Oh, like an operator. An operator is between them.
+Tom:Not that old.
+Ashley:That connects them. Okay.
+SFX:(Adam and Ashley laugh)
+Sam:I mean... thinking it would go to voicemail?
+Tom:Somewhere between operators and voicemail, there is a key thing that you do with landlines that you don't do with mobiles.
+Sam:Your mom picks up, and then you have to ask for your friend.
+Ashley:Star-69.
+Sam:(cackles)
+Adam:Wow. This is fascinating.
+Tom:This is apparently a true story. It is... It's a mistake that they made that could have happened to anyone making the phone call.
+Adam:Calling William, did he dial the wrong number and still get William's location?
+Tom:It was a misdial. Somewhere in there, a number got missed. But—
+Sam:It was a misdial. He meant to reach William. He misdialed and nonetheless reached William.
+Tom:Yes.
+Adam:Wow!
+Tom:Yeah, you got it. This is being told to us by a friend of the question writer. Justin called William, accidentally got the wrong number. So William, a phone rings near him, he picks it up, and it's his friend Justin calling him. And by complete coincidence, the landline number, because obviously, it's tied to where you are, not who you are, the landline happened to be right next to him when it rang.
+Ashley:Wow.
+Adam:That's spectacular.
+Sam:That is unreal. I mean, what are the odds?
+Adam:Right, well, apparently one to one.
+Tom:Yeah, what are the odds that someone would then tell that story to our question writer, and they would use it as an example?
+Adam:This feels like a place for this story. When I was really young, when I was eight years old, my friend, John and I were messing around with the phone, and we put a banana where the handset was, which we thought looked really hilarious. The banana sitting on the phone. And we were laughing at that, when the phone rang. Which of course it would, because the banana was pressing down the two contacts. And the banana phone ringing was literally the funniest thing that ever happened to me in the world.
+SFX:(group laughing)
+Adam:The whole planet cracked open.
+Tom:Each of our guests has brought a question with them. We're going to start today with Adam. Whenever you're ready.
+Adam:Alright. This question comes— was sent in by Jet. And here it is: Halfway through finishing his rice dinner, Kevin grabs a jar of peanut butter, a can of evaporated milk, a dish of water, and a bowl. What are the three related reasons for this? I'll ask this again. Halfway through finishing his rice dinner, Kevin grabs a jar of peanut butter, a can of evaporated milk, and a dish of water, and a bowl. What are the three related reasons for his gathering of these ingredients?
+Ashley:This sounds like something that we need Adam Savage to be...
+SFX:(others laughing)
+Ashley:one of the people thinking about it. Sounds very science-y.
+Tom:If you get them in just the right order, and then just add a lot of explosive, it creates— No, sorry.
+Sam:Actually, if you do that, it creates Adam Savage. He appears...
+SFX:(group laughing)
+Sam:spontaneously in your living room.
+Adam:It's a summoning spell, yes.
+SFX:(group laughing)
+Ashley:Okay, okay, wait. So, we got he eats rice. Then there's evaporated milk, peanut butter, and a bowl of water, is that it?
+Adam:And a bowl. A dish of water and a bowl.
+Tom:Dish of water and a bowl. Okay.
+Ashley:Dish of water and a bowl.
+Tom:First thought is it's some kind of insect trap. That this is a thing that you set as a lure for insects, and they somehow get in but can't get out because of the water. Something like that. But I don't know how you'd use rice, peanut butter, and evaporated milk for that?
+Adam:I will say, Tom, you are drifting into the right zone of thought on this. However, your answer is incomplete.
+Tom:Okay.
+Sam:But, yeah, explicitly not to eat them because that would be one cohesive reason, not three.
+Tom:Reason two, it also happens to make a dessert or breakfast the next morning or something like that. You've got a combination—
+Sam:I mean, it would be interesting if one of these reasons was culinary.
+Tom:Combination mousetrap, dinner, and way to clean the plate. I don't know where I was going with that last one.
+Adam:You guys are really circling it closely.
+Tom:Okay.
+Sam:Okay. We're gonna say that one of these three reasons might be as simple as to feed himself.
+Adam:None of the ingredients are for eating.
+Ashley:Okay.
+Tom:Okay.
+Ashley:Yeah, peanut butter... People put peanut butter in mousetraps. Evaporated milk...
+Sam:Peanut butter for a mouse. Evaporated milk for a cat.
+SFX:(Tom and Ashley chuckle)
+Adam:Three objects are arranged in a tower.
+Ashley:Oh?
+Tom:Oh, it's a can of evaporated milk. Not just... a can of evaporated milk, if you know what I mean? This is a single object, rather than just some evaporated milk in a bowl?
+Adam:Yes, yes.
+Tom:So, you are assembling...
+Ashley:This is making me think of a Rube Goldberg machine kind of situation. First, you get the peanut butter, and then it dives into the can, oh.
+Adam:That is not entirely wrong, Ashley.
+Ashley:Okay. Okay.
+Adam:(laughs heartily)
+Tom:It's not like a Rube Goldberg machine. It's like a contraption for something, right? It's making a thing out of those objects.
+Adam:And you drifted into the reason for that thing correctly, Tom.
+Tom:Oh, it's a trap of some kind.
+Sam:It's a trap of some kind.
+Ashley:Okay.
+Adam:A multiple threat trap.
+Sam:So a series of traps for the same pest.
+Tom:So the peanut butter is a lure, if that's actually smeared on there somewhere? loor, lueyer, leur? I've lost how to pronounce that word. The evaporated milk is for the height to build it...
+Ashley:Is evaporated milk powdered? Is that...
+Adam:It could be any can. It could be any can. It doesn't— evaporated milk.
+Ashley:Got it, okay.
+Adam:It's not material.
+Tom:That's for the height.
+Ashley:Okay.
+Sam:Got it.
+Adam:Tom, it is not about catching, but it is about pests and... more than one.
+Sam:You're halfway through your bowl of rice. You look around. You see a parade of bugs and mice. Just a conga line of pests. Raccoons...
+Tom:(chuckles)
+Sam:wanting to get up in your business. You're like, I'm going to stop eating my half bowl of rice... to create an elaborate contraption.
+Adam:I feel like Sam might not have been totally serious, but Sam, you kind of got it entirely right.
+Sam:Honestly, this is the story of my life.
+SFX:(others laughing)
+Sam:Just stumbling... Stumbling backwards into... Just Mr. Magooing my way through life.
+Adam:This is a common practice in a specific country, actually, this arrangement.
+Sam:It's because in order to protect yourself against all the vermin who are going to line up to steal your food, you need a contraption that's going to protect against all of them. So is it— it's— Do each of these things attract a different pest?
+Adam:Ants and mice are correct. There is one more pest we have not mentioned in the chat.
+Ashley:S—Snakes? We're just talking about different parts of the country. I don't want to do the 20 questions.
+Tom:Mosquitoes, bugs, something flying. But... why do you need these specific things?
+Adam:Arranged in a tower?
+Ashley:I mean, ants are easy. You can create a little moat, and they can't get across it.
+Adam:That is totally correct, Ashley.
+Ashley:Okay.
+Adam:That is one of the keys.
+Ashley:Mice, peanut butter. I feel like somehow, peanut butter is involved there.
+Tom:It's something flying, right?
+Adam:Bingo! Flying insects are the third pest it is resisting. So let me walk you through this. Here we go. This is a common practice in Filipino households, especially in houses with no refrigerator. The dish with water goes on the bottom, the jar of peanut butter inside of that, and then comes the plate of food covered with the upside down bowl, weighted down by the can. The dish of water is a moat against ants, the upside down bowl protects against flying insects, and the weight of the can prevents mice from getting into the rice.
+Tom:(puffs slowly)
+Sam:Wow.
+Adam:(laughs uproariously)
+Ashley:That is complicated.
+Adam:That is super complicated. I'm really impressed with how well you guys did.
+Tom:(laughs)
+Sam:We get ants every summer, and we use the moat technique to guard against the ants getting to the pet food, which needs to be left out.
+Ashley:Yeah, we did that for a long time.
+Sam:All day.
+Adam:Yeah.
+Sam:So that tracks. So this is like a very sophisticated Rube Goldberg, Swiss Family Robinson moat... against more than just ants.
+SFX:(Adam and Ashley laugh)
+Tom:Yep. Thank you very much. We'll crack on. Former French Prime Minister Georges Clemenceau fought around 50 duels. On his way to one bout, he bought an item from a clerk who said, "Isn't that a little pessimistic?" "Not at all," replied Clemenceau. What was his explanation? I'll say that again. Former French Prime Minister Georges Clemenceau fought around 50 duels. On his way to one bout, he bought an item from a clerk who said, "Isn't that a little pessimistic?" "Not at all," replied Clemenceau. What was his explanation?
+Sam:It was a white flag.
+Tom:(laughs)
+Adam:Nice. I feel like I have something to contribute here because I've just been doing a bunch of dueling pistol research.
+Tom:Okay, I thought you were going to say, "I've just been fighting some duels."
+Adam:No, no! But I do know that if somebody was fighting 50 duels, they lived absolutely between 1750 and 1850.
+Ashley:Wow.
+Sam:Wow.
+Adam:If you're heavily into duels, those are the hundred years in which duels were going on all the time.
+Tom:It is a little bit later than that in France. This is— 1892 was the most famous duel he had. But yes.
+Adam:Oh wow!
+Tom:You are in the right kind of area here.
+Sam:That does feel late for a duel. I'm right there with you.
+Tom:It does feel late for a duel.
+Sam:My wife's grandfather was born in 1890.
+Ashley:But no, white flag is great. I mean, it's something like that. It's something that you would use if you lost bandages... A bouquet of flowers to put on your corpse. (giggles awkwardly)
+Sam:(cackles)
+Tom:It's specifically bought from a clerk though.
+Adam:So if it's a common item he buys, but it's pessimistic, what would be pessimistic to buy before a duel? That I think is our first question. Is it—
+Sam:For sure, for sure.
+Adam:A pair of pennies to cover your eyes?
+SFX:(group laughing)
+Sam:Yeah, absolutely. Anything that signifies, you're not gonna make it.
+Adam:That you didn't make it out. So an urn? (giggles)
+Sam:Yes.
+Adam:But that's not— A clerk wouldn't have an urn.
+Ashley:Yeah.
+Tom:This might be a sort of across-the-Atlantic language thing. I will say that we would not really call someone at a grocery store a 'clerk'. We'd use 'cashier' for that.
+Adam:Oh.
+Ashley:Oh.
+Tom:So it is not from a store.
+Sam:Interesting. Not from a store, but another transaction.
+Tom:Yes.
+Adam:Another transaction. So what would be pess— Feels to me like we just have to jump on. What is pessimistic to buy before a duel?
+Tom:To buy on your way to a duel.
+Adam:On your way to a duel.
+Ashley:Yeah.
+Adam:It's not a bullet. It's not gunpowder. It's not a gun.
+Tom:Talk through the day. Sam, you are the improv person here. I want you to get into character as a man.
+Sam:Yes, understood.
+Tom:You are in your house. You have a duel to go to. What's the plan?
+Sam:The year is 1892. Leave my house. Kiss my wife on the cheek. Tell my wife, "You know what? Might not be coming home."
+Tom:No, no, he's not pessimistic. The clerk thought he was. He's not.
+Ashley:Got it, okay.
+Sam:Got it. Utterly confident. Take my single gun and my briefcase. Get into my... What are we traveling? How are we traveling in 1890?
+Adam:Horse and carriage.
+Ashley:Probably a horse, yeah.
+Tom:Not in this case. And that, Sam, is the question you need to ask.
+Sam:Train?
+Tom:Train.
+Adam:Oh! Oh! He buys a one way ticket.
+Tom:Yes, he buys a one-way train ticket.
+SFX:(guests laugh heartily)
+Tom:So... The clerk thinks that's pessimistic. Clemenceau says, "No, not at all." Why does he not think that that's pessimistic?
+Ashley:So he's a politician of some sort, right? Maybe he's about to kill another politician and take over his— I don't—
+Sam:Oh, and take over his spot or something.
+Ashley:I don't think that's how politics works, but...
+Tom:Not his spot, Sam, but something.
+Sam:Oh, he's going to take his means of transportation.
+Tom:He's going to take his return ticket. Absolutely.
+SFX:(guests laughing)
+Sam:That is brutal.
+Tom:This is a man who fought so many duels, who was so laissez-faire about it, that he bought one-way train tickets. I mean, presumably this was partly for show, but his opponent having run away or been wounded or killed, he could just use his train ticket to get back to the city.
+Adam:Unbelievable.
+Sam:That's really— I mean, I've— I aspire to have that level of confidence in anything I do.
+Tom:(wheezes)
+Adam:100%.
+Tom:It is worth pointing out that duels were reasonably commonplace in France. And in one of the most famous duels, despite many shots from either side, no one was actually injured. So it was more about defending your honour and having the bravado to turn up that made it important. It was not always going to end up in death.
+Adam:In fact, I want to point out that actually, it was very specifically, dueling pistols were not rifled, even though they knew rifling helped bullets hit their target. They were specifically unrifled, which can mean a variance of five or six inches at 20 feet.
+Ashley:Also, this makes me wonder what's the destination for these duels? I mean, they're both getting train tickets out of the city to some...
+Sam:Yeah.
+Ashley:beautiful locale, I guess.
+Tom:I remember, and I think I may have got this from seeing Hamilton a few years ago, that there were usually dueling grounds that were kind of accepted somewhere outside the city, and that is where gentlemen would go to sort out their differences.
+Adam:Yeah, in fact, Hamilton was killed in Weehawken, which is exactly the same grounds his son was killed on a few years prior.
+Tom:It is mostly for bravado, this. This is not a serious plan to steal your opponent's return ticket, but it is... No, this is putting your flag in the ground and saying, "No, I'm going to win this." Ashley, the next question's yours.
+Ashley:Alright. This question has been sent in by Kris Fields. British police cars are famous for their 'blues and twos' – blue flashing lights and two-tone sirens. To reduce paperwork, Cheshire Police have begun to add another blue light that can be constantly lit. Why? And I'll say the question again. British police cars are famous for their 'blues and twos' – blue flashing lights and two-tone sirens. To reduce paperwork, Cheshire Police have begun to add another blue light that can be constantly lit. Why? And I think I'll just, because I wondered this when I first asked the ques— when I first read the question. This would be the same in the United States. There's no real difference.
+Adam:To reduce paperwork.
+Tom:I thought this was going to be about the lights that are on some traffic lights. Stoplights in the US. Where if they have a police cruiser parked there to try and catch people who are jumping the red light, people will sometimes claim, "Oh, well, how do you know it was red? You're looking away. You weren't there." So they have a blue light on the back of the stoplight that can be really clearly seen but not confused for anything else. So, the police officer who is behind the light can go, "Yes, I saw them cross the line and saw that the blue light was on, so they must have had red." It is overly complicated... and it's clearly not because it's not constantly lit! It's not, agh!
+Adam:I'm curious about the phrase 'to reduce paperwork'. It feels to me like the answer is somewhere in that, those words, 'to reduce paperwork'. Which presumes that every time an officer turns on his flashing lights or two-tone siren, that they perhaps have to fill out something that says why. That they have to answer later as to why they implemented their siren and their lights.
+Tom:I mean, I'm going purely on the movie Hot Fuzz there, on there being a lot of paperwork involved on anything like that.
+SFX:(guys laughing)
+Ashley:So, no, this is not— This does not have to do with them doing paperwork because they turned on their sirens.
+Tom:Is this blue light actually on the car? I just feel like we should establish that. I don't—
+Ashley:It's on the outside of the car.
+Tom:Okay.
+Ashley:Yes.
+Sam:You know, sometimes in entertainment, we post something to the outside of venues to say, "If you enter this venue, you are— you will be recorded." Maybe there's a light on police cars that says, "If we turn this on, you will be arrested."
+Tom:(laughs) I didn't expect that to end with the word 'arrested'.
+Sam:And then there's no paperwork to fill out. It's the same as, you know, an appearance release. There's no paperwork to fill out.
+Tom:Oh, it's just got "you have the right to remain silent" (cracks up) on it as the standard thing.
+Sam:(laughs) Right on it.
+Tom:Just in big neon signs on the back of the car.
+Adam:Just projecting the Miranda rights on the world.
+Sam:(chuckles) Sure.
+Ashley:(chuckles)
+Adam:Why do you turn on your lights and your siren? You do that to get to an emergency or to chase somebody. You do it to cut through traffic. So presumably the blue light would aid and abet the reason that the sirens and lights exist in the first place.
+Tom:They used to have infrared flashes on there, which would be picked up by stoplights. So if the light saw that particular pattern of flashes at the right frequency, it would just immediately turn to green and turn everything else to red. And that lasted until they realised that it was a pattern of infrared flashes that were completely unencrypted, and anyone could just flash that pattern and turn the lights green.
+Sam:Right, I wonder if this is... This is almost like a different siren that means something different. If, you know, our standard siren is to communicate... either we're in a hurry, or we're in a chase, that this is something to mean a third thing.
+Ashley:So this is— This solves an issue. You guys, you were— You have been talking around it. It does solve an issue that is caused by car chases. I think that was something that Adam said.
+Sam:Hmm.
+Ashley:It is also a split-second problem.
+Tom:I know British police chasers have to ask for permission to continue or confirm with base that they have— If they're in the middle of a chase through a town or something like that, you will hear them say things like... "50 miles an hour. No pedestrians, clear to continue." They're trained to make sure that's recorded somewhere. So is it getting permission back or— But even, no, it's constantly illuminated.
+Sam:That's interesting. I mean... Thinking about the trouble that you could have with car chases... the trouble feels to me to obviously be with other... pedestrian cars. And paperwork feels to me to be to do with, what if you... What if you get in other cars' way? You know, what if you hit other pedestrian cars?
+Tom:Also, pedestrian cars? I'm gonna call you up on that one.
+Sam:Sorry, sorry, but, you know.
+Ashley:Civilians.
+Adam:Civilians.
+Sam:The cars of the public.
+Tom:Yeah.
+Ashley:Yeah.
+Sam:Civilian cars, thank you.
+Ashley:So, I will say that... Tom's use of the word 'permission' is on the right track, and this is a problem that civilian cars also run into. What can be triggered during a police chase?
+Adam:Train platforms. Draw bridges.
+Ashley:This is something that can be triggered during a police chase that can also be triggered by civilian cars.
+Adam:Speed cameras?
+Ashley:Adam, speed cameras. So why—
+Adam:Speed cameras?
+Ashley:Why would a solid blue light help with that?
+Tom:Oh, wait, you're in California, right? Sam, Adam, so you don't have actual speed cameras. You don't know how they work. You just have people holding up radar guns, right? You don't have the automated things.
+Sam:If we did have speed cameras, I would have no idea how they work.
+Tom:Okay, okay, okay.
+SFX:(guests laughing)
+Tom:They take two photos at a certain amount of time apart. And there are markings on the ground... to denote every metre or something like that. So a human then looks at those two pictures and does the checking that there is actually a car there, that the licence plate is visible, that it has travelled that amount of time. But what they don't have a check for is, is this a police vehicle or an ambulance or a firetruck on an emergency call? Do they have an exception to that speed limit rule? So if you turn a blue light on constantly during blues and twos, instead of the flashing things, then that will show up in both those pictures, no matter what happens. And the person reviewing the photos can just go, "Oh, yeah, that's a police vehicle" and throw the potential ticket out.
+Ashley:That's exactly right.
+Adam:Wow!
+Tom:(laughs)
+Sam:I feel like I just watched Benedict Cumberbatch's Sherlock.
+SFX:(group laughing)
+Ashley:Yeah.
+Tom:But I wouldn't have got it without speed cameras, Adam. That was me going, "I know how those work. I can answer that."
+Adam:That's totally amazing.
+Ashley:Yeah. That's the brilliance of this show. Everybody works together. This is wonderful, yeah. Police cars are exempt from speeding fines if they're responding to an emergency. But police forces still receive hundreds of speeding fines every year. And speed cameras sometimes snap a speeding police car between one blue light turning off and the other light turning on. It's up to the local police force to provide evidence to show that the vehicle was in fact responding to an emergency. So by adding another light that is permanently lit during a chase, it shouldn't be necessary to challenge speeding fines manually.
+Tom:Thank you to Brian Devine for this next question. After 15 years of legal experience, Perry was about to achieve the status of 'QC', one of the highest honours a solicitor – a lawyer in the UK – can obtain. In 2022, he received the news that he could not be a QC anymore. He was sad, but not particularly disappointed. Why? I'll say that again. After 15 years of legal experience, Perry was about to achieve the status of 'QC', one of the highest honours that a solicitor – a lawyer in the UK– can obtain. In 2022, he received the news that he could not be a QC anymore. He was sad, but not particularly disappointed. Why? And reading that question, my accent went so much more British than it has for the rest of this episode.
+SFX:(guests laughing)
+Ashley:So he was sad, but not disappointed.
+Tom:Yeah.
+Ashley:He did something, and he knew that when he did that thing, he wouldn't be able to be a QC anymore, it seems like.
+Sam:Absolutely.
+Adam:Well, that's one way of looking at it. It could be that being a QC is really tiring, and while he liked the honor of it, the actual labor of it was boring and tedious.
+Sam:Or maybe there was something about becoming a QC that it didn't go as planned for him, or he rebelled against it in some way. And then when that happened, he lost his license, but he was simultaneously relieved.
+Ashley:Maybe there are just term limits on being a QC. Maybe you can only do it for 15 years or whatever.
+Sam:That'd be a great loophole.
+Adam:Could he have aged out of being a QC? Is it, you spend 15 years getting there, and then you only have a few years at the top before you start to get soft?
+Sam:Oh yeah, is the punchline here just that he retired?
+SFX:(group laughing)
+Tom:For reasons that will become apparent when the answer is revealed... no. And it's not quite retirement we're talking about.
+Sam:So we're talking about some sort of expulsion.
+Tom:Perry's prospects were actually not really affected by this.
+Ashley:Did he become... Prime Minister or something? He became something more important than a QC.
+Sam:Did he get promoted out of QC into something even better?
+Adam:That's lovely.
+Tom:It's not that. I'll let you keep talking for a while.
+Ashley:Okay, okay.
+Sam:Sure.
+Adam:It's not that he matriculated to something better or laterally different.
+Tom:Laterally different is not necessarily wrong.
+Ashley:Okay.
+Tom:There is an implied question here that none of you have gone for yet.
+Adam:What does QC stand for?
+SFX:(guests laughing)
+Ashley:Oh!
+Adam:Queen's Consort. Queen's Consort. I don't know what QC stands for. Quality control.
+Sam:Quarter-something?
+Tom:Queen's Counsel.
+Ashley:Oh, did the Queen die?
+Tom:Yes.
+Sam:(laughs uproariously)
+Ashley:Okay! (laughs)
+Adam:(laughs)
+Tom:2022. Specifically, 8th of September 2022. Probably shouldn't have been that much laughter at that reveal. But you know what? You're American, we'll take it.
+SFX:(guests laugh uproariously)
+Tom:So what's the result of that?
+Sam:Oh, but he's not that disappointed because he becomes the KC.
+Tom:He becomes a KC.
+Ashley:Oh.
+Tom:Absolutely right. At the instant that Elizabeth II's death was announced... all QCs immediately became KCs. Because the moment the monarch changes, the name changes, the abbreviation changes. There was also, Her Majesty's Theatre in London is now His Majesty's Theatre. The Master of the Queen's Music is now the Master of the King's Music. All those titles immediately changed at that instant.
+Sam:Imagine just the boom for the business card industry at that particular time.
+Tom:(laughs)
+Adam:I was actually talking to someone in the Canadian government who was like, "Man, there's so much for us to deal with around this in tiny little ways."
+Ashley:I'm just so used to British... Britishisms being like, "Okay, yeah, barrister is lawyer. Oh, QC, that's fancy lawyer. Got it." I was just not even...
+SFX:(group laughing)
+Tom:The departments that are fine are places like our taxes, which is HMRC, His or Her Majesty's Revenue and Customs. All the HM ones are fine. It's just when they use 'King' or 'Queen' that it had to get swapped over.
+Adam:I have to tell you, having spent some time in the last year replicating the crown jewels, just because I can't get them out of my head. I've become quite attached to the queen's cypher, and I'm starting to get to know the king's cypher, which is the little, you know, mark that delineates them. It's amazing.
+Sam:There is no question in my mind that Adam is going to be hanging upside down in a room full of lasers within the month.
+SFX:(others laughing)
+Sam:Trying to steal some important object from somebody.
+Adam:Wait, here. I want to show you something. One of the crown jewels that I made is here. I made the orb, the cruciger.
+Tom:Wow!
+Sam:Oh my god!
+Ashley:Oh my gosh!
+Adam:Because I couldn't figure out what to do with it. 'Cause it's the least interesting to me of the crown jewels. So, I turned this one into a cigarette dispenser.
+SFX:(clicks open, music box plays) (group laughs uproariously)
+Tom:(claps)
+Sam:Oh, it's just like the original.
+Adam:Yeah, exactly.
+SFX:(orb clicks closed)
+Tom:Amazing.
+Sam:(wheezes) That is the coolest thing.
+Tom:Last big question of the show then. Sam, it's over to you.
+Sam:Oh my god, Tom. I mean, this is such a doozy.
+Tom:Oh. (chuckles)
+Sam:Good luck. This question has been sent in by Ryan Neary. Adam Armstrong made a Batman joke on Facebook. This almost cost £220, but he found a creative solution that more than halved the amount. What is his story? Once again. Adam Armstrong made a Batman joke on Facebook. This almost cost him £220, but he found a creative solution that more than halved that amount. What is his story?
+Adam:Batman joke. That's a spectacular setup.
+Tom:Okay, does anyone know any Batman jokes?
+Sam:I've got ten clues for you.
+Tom:(laughs) We're gonna need them!
+Sam:(cackles)
+Adam:So... The first thing I think of is, what could you get fined for on Facebook for anything?
+Tom:And it is the UK, so the answer is quite a lot. But...
+SFX:(guests laughing)
+Tom:I mean, I'm assuming it's British pounds there, not like pounds of weight.
+Sam:That is correct, British pounds. This fine did not come from Facebook, but from... Or even to say 'fine' is not correct.
+Ashley:Okay.
+Sam:'Fee' is more correct.
+Tom:Yeah, because £220 is your kind of... ticket given out by a council for particularly bad littering or something like that. It's kind of you— It's not your one cigarette thrown in the street thing, but it's still within that kind of area, but... (sighs) I don't know.
+Adam:I just found myself wondering if there was a rights management aspect to this, that mentioning a franchise like Batman gets a... means you have to... Right, right, right. This means you have to pay something to be allowed to say 'Batman', but his creative solution was halving it by halving its impact?
+Tom:But a Batman joke isn't...
+Adam:Yeah.
+Tom:isn't something protected by copyright or...
+Sam:Yeah.
+Tom:I admit we don't have the First Amendment over here, but we're not that strict.
+Sam:I'm gonna say this. Because I think that this will at least let you know how complex this is, in a way that will get your minds thinking a little bit more creatively. He made this joke. It caused him an inconvenience. An unintentional inconvenience in the rest of his life that would have cost him that amount of money. The joke caused an inconvenience, and the inconvenience would have cost him this amount of money, but he found a creative solution.
+Adam:Did the joke cause confusion, or did it make a commitment he didn't intend?
+Tom:Why am I thinking name changes? That feels like... the kind of fee...
+Ashley:Ohh.
+Tom:that you get charged for a... We call 'em a deed poll. I don't know what the North American one is. But I feel like... it is the sort of thing that he's pulling a prank or a joke or— What was his name?
+Sam:His name was Adam Armstrong, but you are hot on the trail, Tom. Think about Adams and Batman.
+Adam:Adam West.
+Ashley:Oh yeah.
+Tom:(gasps)
+Adam:...is the original 1966 American television series, Batman. Adam West.
+Tom:Yes. Did he try and—
+Ashley:He changed his Facebook name to Adam West?
+Sam:(wheezes)
+Tom:And they don't let you change it back. No, I've had friends who've had that problem. They changed their name for a joke, and then they can't change it back.
+Adam:Ooh.
+Tom:Did he change his name to Adam West because Facebook wouldn't let him change his name back to Adam Armstrong?
+Sam:He did change his name to Adam West, and that is the result— That is what prompted this inconvenience.
+Tom:Oh, he changed his name on Facebook, or changed his name in—
+Sam:On Facebook.
+Tom:Okay.
+Sam:On Facebook.
+Adam:But he came to a clever conclusion that halved the amount of money he had to spend.
+Sam:But, Tom, when you said deed poll, you are absolutely correct.
+Tom:Okay. So it's £110 to change your name. And you only have to do it once instead of twice for some reason?
+Sam:No, but you are 100% correct. So, here's what you've gotten right so far, which is kind of amazing in this short amount of time. He changed his name to Adam West on Facebook. And then via a deed poll, in the face of this inconvenience, decided it would be easier to change his name in real life.
+Tom:(claps, stammers) I know the news story. This is why I was thinking of this. I've seen the news story somewhere. It's, I think I can tell you the airline. It's Ryanair. Is it Ryanair?
+Sam:It's Ryanair.
+Tom:Because that's where I've seen that fee recently. That's where I've seen £120 and names. It's not deed poll. That's the name change fee on Ryanair if you have booked the ticket and want to move it to another name. So...
+Sam:Yes.
+Tom:He has changed his name via deed poll, because it's funny and because he's done it on Facebook. And then he's realised he's got this flight ticket on Ryanair that he either has to rebook or... he has to change the ticket fee? Oh, something in here isn't add— Sam, put it all together.
+Sam:Yes.
+Adam:No, no, no, he goes to the government to officially change his name, which is cheaper...
+Tom:(laughs) Yes!
+Adam:than the Ryanair fee.
+Tom:That's it. Because—
+Sam:Yes. That is exactly right.
+Tom:Because he booked it through some connection with Facebook that just filled the name in for him or something like that.
+Sam:Yes, so, so you're all exactly correct. It was cheaper to change his own name than it was to rebook the ticket under a new name.
+Tom:There we go!
+Sam:He called his Facebook profile Adam West, referencing the actor who played Batman in the original television series. Adam was due to fly with friends and family to Ibiza. When Adam's girlfriend's stepfather reserved the plane ticket in his name, he looked up Adam's full name online and booked the ticket under 'Adam West'. Ryanair wanted to charge a fee of £220 to change the ticket so that it had Adam's real name on it. However, Adam found that it was free to change his name to Adam West by deed poll. It cost £103 to get a new passport bearing his new identity.
+Tom:All the bits were in my head, and I didn't quite put them together, but I knew there was—
+SFX:(Adam and Sam giggle)
+Tom:The only reason that connected is there was something in my head about Adams and names and fees. I'm like, it's in there! It's in there.
+Adam:Spectacular.
+Sam:I just can't imagine legally changing my name to save 100 and some odd pounds.
+Ashley:Right.
+Adam:I feel like if I met someone in a bar that had done that, I would want to give them £100 to change their name back.
+SFX:(group laughing)
+Adam:Let me help!
+Sam:Totally.
+Tom:Which means we have one final thing in this show, folks. We have the question I asked at the start. Why did a company design an especially resilient font called Bell Gothic? Anything from the panel before I give the answer for the audience?
+Adam:I consider myself a font nerd, but the word 'resilient' is throwing me here. Like, resilient in terms of extreme readability under all sorts of circumstances is my first thought about 'resilient' in relation to a font.
+Tom:Yeah, it's readable even though there's some... printing conditions involved.
+Ashley:Printing conditions. Is it for a plaque? Resilient from the weather is kind of what I'm thinking.
+Tom:No, but the name is a clue. Bell Gothic.
+Adam:Bell Gothic.
+Sam:It sort of makes you think about, you know, does this typeface in particular have a role in historical monuments, you know? Is it resilient in order to stand the test of time?
+Adam:So, 'Gothic' strikes me as a serif font, which are inherently... slightly more readable than a sans serif font. Bell strikes me as Bell Telephone.
+Tom:Yes.
+Adam:Perhaps from the US. So, a company that makes switching equipment.
+Ashley:And phone books!
+Tom:And phone books.
+Adam:And phone books.
+Sam:And phone books.
+Adam:Ohh!
+Tom:Spot on. This was designed in 1938 for AT&T. The Bell is a reference to Alexander Graham Bell, and it was designed to be legible at small font sizes, printed on very cheap paper of a telephone directory. Congratulations to all of our players. Well done tapping that last one in, Ashley. We will start today with Sam. What's going on in your lives? Where can people find you?
+Sam:People can find me at @samreich on socials, and dropout.tv for all your streaming entertainment needs.
+Tom:Ashley.
+Ashley:I'm at @smashleyhamer on most socials, and my podcast is Taboo Science wherever you get your podcasts.
+Tom:And Adam.
+Adam:You can see me every day on Tested on my YouTube channel. I'm @TheRealAdamSavage on most of my socials, and @donttrythis at Twitter – Titter – whatever it's called now.
+Tom:(chuckles) And if you want to know more about this show, you can do that at lateralcast.com. There are regular video highlights at youtube.com/lateralcast, and we are at @lateralcast basically everywhere in the increasing wasteland that is social media. Thank you very much to all our players, to Adam Savage.
+Adam:Thank you! This was so much fun, Tom.
+Tom:Ashley Hamer.
+Ashley:Thank you so much! This was great.
+Tom:And Sam Reich.
+Sam:Thank you, Tom. What a blast.
+Tom:I've been Tom Scott, and that's been Lateral.

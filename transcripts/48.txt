@@ -1,0 +1,476 @@
+Tom:What is the only film broadcast by the UK's Sky Comedy channel every February the 2nd? The answer to that at the end of the show. My name's Tom Scott, and this is Lateral. Welcome to the show that defies convention and celebrates innovation. Which is just as well, 'cause I've just accidentally put salt in my coffee. We start today with: From the channel Technology Connections, Alec Watson.
+Alec:Hello.
+Tom:How you doing today, Alec? It's first time on the show for you, but we've... we've done a lot of stuff, haven't we? You've appeared on Disconnected a while back, I think.
+Alec:Yeah, I think it was the first time I ever did anything with you. And then randomly you showed up in Chicago. So, that happened.
+Tom:(laughs) Yeah, that's the point. We've been on rollercoasters together. That's the...
+Alec:Yeah. For everybody in Chicagoland, I got Tom Scott on the Whizzer, so...
+Jacklyn:Oh.
+Alec:I did my part.
+Jacklyn:I feel like a rollercoaster is like an intimate experience.
+Tom:I mean, the Whizzer would be if we were in the same cart.
+Alec:Yeah, yeah.
+Tom:Because it's a very strange rollercoaster where you're basically sitting in an armchair with a lap belt? It's a very strange old thing.
+Beryl:Is it called the Whizzer because it would make you whizz?
+Alec:No, whizzes around.
+Beryl:Or for the sound, like whizzing?
+SFX:(Tom and Jacklyn laugh)
+Alec:Not really sure.
+Tom:I don't like the way this conversation has gone at all.
+SFX:(guests laughing)
+Tom:But we're gonna roll with it! (giggles) And we'll go next to... joining us from NothingButTech, Jacklyn Dallas.
+Jacklyn:Hey, thank you so much for having me on.
+Tom:We have never been on a rollercoaster together, but we were at YouTube headquarters. I think that's where we first met.
+Jacklyn:Yes, and Tom was recognized by many a people who were stoked about the videos.
+Tom:(laughs)
+Jacklyn:Freaking out every time they saw you.
+Tom:It turns out if you did videos about computer science a few years ago, and then you go to the YouTube engineering office...
+SFX:(Tom and Beryl chuckle)
+Tom:A few people might recognise who you are. It was a little awkward. How are things going with you, Jacklyn?
+Jacklyn:Good, I'm so excited about the show. I was watching a bunch of the episodes over the last few weeks. It's such a unique concept. I feel like no one's doing this on YouTube.
+Tom:(giggles) And you know why? Because finding three guests for every episode is really, really difficult.
+Jacklyn:(laughs) And finding good trivia.
+Tom:Which brings us to our third player today, Beryl Shereshewsky, who has I think the most joyful YouTube channel I've seen in a long time about different cultures' foods.
+Beryl:Oh, thank you. Yes, hi. (giggles)
+Tom:You gotta describe your format here, 'cause you are gonna do a better job than I am.
+Beryl:Yeah, the concept is I take one food, or like a feeling associated with food. So it was like comfort food. And then I ask my audience from all over the world what comes to mind for them. And I send them a guide, and they record an interview and talk about their dish to everybody, and I attempt to cook it. So it's five dishes from five countries or cultures per episode that I make in my tiny New York City kitchen.
+Jacklyn:That is such a cool concept.
+Beryl:It's crazy. On any given day, I'm cooking a Mongolian dish, a Cambodian dish, Nicaraguan food, and you know...
+Jacklyn:Wow.
+Beryl:I don't know, it's just wild. And I'm just like, cool.
+Tom:Occasionally someone will come up with a format that it's so good that I'm slightly angry I didn't think about it.
+Jacklyn:Yeah.
+Tom:Never mind I can't cook. It's just like, ah, that's a good idea.
+Jacklyn:Yeah, brilliant.
+Tom:Alright, well... Good luck to all three of you with today's show. Before we begin, I just want to say... Fish 42 Purple Wednesday. And if you thought that didn't make sense... here come the questions. We start with this: A replica bust is sold online. The rear of the bust has room to store 14 pens or pencils, though it should probably store nine more. Why does it look familiar? And one more time. A replica bust is sold online. The rear of the bust has room to store 14 pens or pencils, though it should probably store nine more. Why does it look familiar?
+Beryl:So, what— It needs to be storing 23... but I don't really know what ha— what— 23 letters? Wait. What is 23 significant of? (laughs)
+Alec:Chromosomes?
+Jacklyn:Ooh.
+Tom:A small percentage of the audience got this immediately on you saying the word 23, and will now be spending the next five minutes screaming at their speakers.
+Jacklyn:(giggles)
+Alec:Oh, no. It wasn't chromosomes, was it? The word that I just spit out?
+Tom:It wasn't chromosomes.
+Alec:Oh, darn. So when I think of the— When you say the rear of a bust, are we talking like the back of a skull? Like someone's head?
+Beryl:I automatically think of Beethoven bust for some reason, 'cause that's the most famous— Well, maybe that's not the most famous bust, but that's just the bust I always think about.
+Jacklyn:It feels like you're onto something with Tom's reaction to that.
+Tom:It's best not to second guess what's going on, on this face.
+Beryl:I guess I think I'm frustrated because I feel like 23 should be obvious as to what it is.
+Alec:It should hold 23, but it doesn't.
+Beryl:Oh, right, it doesn't. It only holds 14.
+Tom:Yeah, there wasn't quite enough room to fit 23 in there.
+Beryl:Pens or pencils and nothing else either, hmm. What would you need all those pens and pencils for?
+Jacklyn:Writing papers, art? Like an art kit?
+Alec:So is this... I mean, I'm not good with art, but like a bust of da Vinci?
+Tom:You're along the right lines with sort of person from history. I'll give you that much. It looks familiar because you will have probably seen something like this before.
+Beryl:I feel like— I'm fidgeting so much right now because I'm like, what is it?
+SFX:(group laughing)
+Alec:I know.
+Beryl:I can't figure it out. So I figure if I perch myself on a chair, I'll be in prime thinking position. Oh, who's that guy who thinks? Isn't that a famous bust as well? The Thinker. But that has nothing to do with 23. I'm just thinking of...
+Jacklyn:23 and 14.
+Alec:Well, I think if we're going with art, primary color sets or something like that.
+Jacklyn:Ooh. One of the palettes?
+Alec:Something like that. Or we could do... No, I think we were landing on art, so— but 2014. But there should be 23. There's a difference of nine.
+Beryl:14 days in the week. I mean 14 days in two weeks.
+Jacklyn:Okay. There we go.
+SFX:(group laughing)
+Jacklyn:We're gonna try to stay in the same track. I've perched too high.
+Tom:Here's the thing. I didn't even notice that. I was trying to think, "Is that close, is that?"
+Jacklyn:(giggles)
+Tom:And then I just completely didn't notice the number was wrong. That went fwoomph, straight over my head.
+Jacklyn:Yeah, 14.
+Beryl:Mine too. (laughs)
+Tom:You're right that it's a person from history.
+Jacklyn:Okay.
+Tom:The design is very apt. Think about how it might look, rather than specifically what you might put in.
+Beryl:Maybe because it goes in the rear, it's something with a butt. Instead of the back of a head being open.
+Alec:Well, I was, you know— when you said the back of a bust, I was thinking something with spiky hair, but... That's not ringing any bells.
+Beryl:Maybe it's actually their back.
+Alec:Ohh.
+Beryl:And not... Maybe it's like, maybe it's actually... I don't know.
+Alec:So what famous figure was stabbed 23 times in the back?
+Jacklyn:Ooh.
+Beryl:Julius Caesar was stabbed in the back!
+Tom:23 times! Absolutely right.
+Jacklyn:Killed it.
+Alec:See, I knew the question, but I didn't know the answer.
+Beryl:Whoa!
+Tom:Yes, this is a bust of Julius Caesar pencil holder. Because apparently tragedy and death do become entirely merchandisable after a couple thousand years. So this is—
+Beryl:(giggles) That is dark.
+Tom:This is a Julius Caesar pencil holder, which only has room for 14 pens or pencils in the back. We go to Jacklyn for the first guest question of the show. Whenever you're ready.
+Jacklyn:This question has been sent in by Ghabdidabdi, and it says: Though it varies, karate belts generally range from white (for beginners) through yellow, orange, green, blue, purple, brown, and black (for experts). Other martial arts have roughly similar systems. Why this order? Okay. The question again is: Though it varies, karate belts generally range from white (for beginners) through yellow, orange, green, blue, purple, brown, and black (for experts). Other martial arts have roughly similar systems. Why this order?
+Beryl:Is that the color of your bruise as it darkens when you've been hit by somebody who's a master?
+Tom:I love that idea.
+Beryl:(laughs)
+Tom:I don't think it is, 'cause I think older bruises get yellow? I feel like that's in reverse.
+Beryl:Oh, that's, I guess actually, that's right.
+Jacklyn:You're, so super close though.
+Alec:Really?
+Tom:Oh? Oh man, I—
+Beryl:For what, bruise color? (laughs)
+Tom:(laughs) I was thinking it was like, 'cause it gets dirtier over time. You just keep using the same belt for years and years and years, and they just steadily get—
+Jacklyn:Tom, you're— That's the answer.
+Tom:Oh, really?
+Beryl:Oh?
+Jacklyn:Yeah.
+SFX:(group laughing)
+Jacklyn:The answer is the belt color gets darker as your belt gets dirtier.
+Alec:I was just thinking like you said, it was, you started with... Well, no that's not right, 'cause it starts at red. I was like, that's the spectrum, but no it's not, so.
+Jacklyn:No, it starts from white.
+Alec:Right, right, right, but... with the colors went not quite rainbow order. My brain wasn't working.
+Tom:I was just going, they're getting darker and murkier. Like, "Oh, the..." And then you said bruises, and it's nearly that. Oh no, it's actually— okay. Well, what happened there was I accidentally said the right answer very early on.
+SFX:(group laughing)
+Tom:I did not know that one.
+Jacklyn:So interestingly, there were actually no colored belts in martial arts when it started. But... what happened is by not washing the belts, the belts were kind of used as a sign of progression. So naturally, the belt colors changed as people were doing more and more martial arts.
+Tom:Man, I just, I... Yeah, sorry folks. (laughs) Just went in on a punt and happened to get that one right. Sorry.
+Jacklyn:Yeah, well, dude, what's also wild is they were saying back in the day, people obviously didn't wash them, but now they recommend washing it for hygiene reasons. And in 1936, one of the main teachers moved to France, and he was the one that actually introduced colored belts to help the students feel like they were making some type of progress. And now you can wash the belts, but they're colored. I actually remember I did martial arts, and I only got to yellow. So it was the second belt, really no progress. But it does feel like you're completing a mission when you get a new belt color.
+Tom:Alright, we move swiftly on then to this one sent in by Luke. Thank you very much. The environmental play Are We Not Drawn Onward to New ErA begins cryptically: the audience don't understand the Belgian performers, nor the mess they make of the stage. Suddenly, the actors stop performing, and the audience becomes increasingly impressed. Why? I'll say that one more time. The environmental play Are We Not Drawn Onward to New ErA begins cryptically: the audience don't understand the Belgian performers, nor the mess they make of the stage. Suddenly, the actors stop performing, and the audience becomes increasingly impressed. Why?
+Beryl:So the idea is that in the beginning, the audience is just not impressed either? They're like, "Pfft, this is a joke." Even if they don't get it, they just become impressed. Whereas before... they were not impressed by what was happening on stage?
+Alec:When you said that they don't understand the Belgian performers, does that mean literally it's a different language? Or they don't understand what's going on?
+Tom:You know what? I'm gonna leave that question out there, because I don't think I can give that away right now.
+Alec:Ah, it's one of those, isn't it?
+Tom:But you're right. That is a very carefully phrased question, Alec.
+Beryl:Yeah, I feel like it probably— Well, I guess my gut is not a language thing, but they don't understand what's happening. Although... maybe it's also something meant to be a crude joke against...
+Jacklyn:I feel like they wouldn't mention Belgium if it wasn't important in some way. 'Cause otherwise they could have just said 'performers'.
+Tom:I would tell some jokes about oil, but they are all too crude.
+SFX:(guests groan, laugh)
+Alec:I thought what I was gonna talk about waffles was bad, but that was...
+Tom:(laughs) That's gonna— A hook has just appeared, vaudeville-style from off-stage just about to yank me off the screen.
+Alec:So, what I'm now picturing is like, do they immediately come onto the set and start destroying it?
+Jacklyn:I was kind of picturing people— A lot of people don't take the environmental issue seriously enough. And so there's a lot of chaos, and people just think it's normal. And then when they stop, then everyone notices the destruction on stage. That was my first thought.
+Beryl:My first thought was from that movie Hook where they have that food fight, and it's all that sherbet-colored Play-Doh, and it doesn't make any sense. And then as the audience, you figure it out. So I just imagined it was a ginormous food fight that then everybody got to be a part of. And I wanna go to that show.
+Jacklyn:Mhm.
+Beryl:If it exists.
+Alec:But it's when they stop... that then the audience becomes impressed.
+Tom:Increasingly impressed as time goes on.
+Alec:Increasingly impressed. So I imagine they're not just sitting there in silence impressed by that.
+Beryl:Increasingly impressed sounds like, "Whoa, whoa, whoa!" That's increasingly impressed. So they have to keep upping the ante. Otherwise, you would just be baseline impressed. If it was the same thing happening. Just a, "Oh."
+Jacklyn:So maybe it's hard for them to stop whatever they were doing.
+Beryl:Like acrobatic tricks, like at Cirque de Soleil. I'm definitely increasingly impressed when I go to that show.
+Jacklyn:Yeah.
+Beryl:Are they doing circus tricks?
+Tom:I haven't seen the play. I don't think they're performing circus tricks, but yeah, they're making an increasing mess during that confusing part.
+Beryl:Maybe it's like they're just— Yeah, maybe they're destroying the set, and then in the destruction of the set comes the rebirth of a new set.
+Jacklyn:Yeah!
+Beryl:And everyone's like, this is the set.
+Jacklyn:Yes!
+Alec:The construction when they begin is not the— is not— Or it's like a puzzle that's not put together, but it's put together in a different way that makes sense. So they destroy it.
+Beryl:(gasp) What if it's all in reverse? And make everything as a mess, and then they're doing it in reverse. And in reverse, everything comes back together.
+Jacklyn:That's it.
+Tom:I don't know where that came from, Beryl. But yes, that's it.
+Beryl:What?!
+Jacklyn:Whoa, just killing it.
+Tom:The actors stop performing. The entire first half has been filmed. And they then play it backwards for the second half of the show.
+Jacklyn:That's so cool!
+Tom:So what's the reason that the audience can't understand them?
+Jacklyn:It's all in reverse.
+Beryl:Because it's in the wrong order! I'm also increasingly impressed hearing all of this.
+Alec:So they're speaking backwards words.
+Tom:They are speaking English backwards for the entire first half.
+Jacklyn:No way!
+Alec:Oh, that's amazing.
+Tom:Increasingly making a mess of the stage. And then it's filmed and played in reverse. And as the cleanup happens on screen, the audience is now impressed with both... the trick and the fact that this was all said backwards.
+Jacklyn:That's incredible you just got that.
+Beryl:That is so cool.
+Alec:I would like to see this.
+Tom:There is a clue in the name, which is Are We Not Drawn Onward to New ErA.
+Alec:Ah, it's a palindrome?
+Tom:There we go, yes.
+Alec:Aaah.
+Tom:The last letter of that is a capital. It reads the same forwards as backwards.
+Jacklyn:That's it.
+Tom:And that was an Edinburgh Fringe show that's gone on to greater things since. Alec, next question's from you. Whenever you're ready.
+Alec:Alright. This question has been sent in by Robert Spencer. Trinity College in Cambridge, England hires out 'punts' – flat-bottomed, shallow boats – to students and tourists. The college has punts with names such as 'Fluffy', 'Lithium', and 'Grace'. What's the joke? I'll read that again. Trinity College in Cambridge, England hires out 'punts' – flat-bottomed, shallow boats – to students and tourists. The college has punts with names such as 'Fluffy', 'Lithium', and 'Grace'. What's the joke?
+Beryl:Is it a Harry Potter joke? Because Fluffy was the name of the three-headed dog in the first epi— in the first movie. And they all take the punts to get to Hogwarts?
+Tom:Sorry, I thought you were about to say they all take lithium there.
+SFX:(group laughing)
+Beryl:And they're all on lithium. (giggles)
+Alec:Not quite, but you're on a very good track there.
+Tom:I feel like I should know this. This is something that must have crossed my sphere of knowledge at some point. It's not like I went to Cambridge, but I know folks who did. I've seen the punts. I feel like I should know this. And it is incredibly frustrating that I cannot connect 'Fluffy', 'Lithium', and 'Grace' in my head.
+Beryl:What is the short— What is lithium as a shortened... chemical compound name?
+Jacklyn:Oh, like an element?
+Beryl:Is it L— Yeah, is it like Li?
+Tom:I think that's Li.
+Jacklyn:Yeah, I think it's Li.
+Alec:Pretty sure that's right, but that's not going to be—
+Beryl:It does not matter.
+Jacklyn:Yeah.
+Beryl:He's like, yeah, get off that track.
+Tom:Okay, so what other connections are there? If we're going with pop culture, Lithium is a Nirvana... album?
+Beryl:Nirvana song.
+Tom:Song, song, not album, right?
+Beryl:Oh, maybe it's an album, but it's definitely a song.
+Alec:I'm smiling because I'm really happy with the direction you're going.
+Jacklyn:Ooh.
+Tom:(laughs)
+Beryl:Oh.
+Alec:But don't think it's happy in a productive way.
+SFX:(group laughing)
+Tom:And Grace.
+Jacklyn:That's the generic name. It's like both of them are random, and then you just have Grace.
+Tom:Grace Jones, Grace Kelly. Grace...
+Beryl:Saying grace before you eat your meal.
+Jacklyn:Ooh.
+Alec:Well, I will say I have... Beryl, you have already said something that's very helpful.
+Jacklyn:I think it was the Harry Potter track, the first thing you said.
+Alec:Yes.
+Beryl:Oh yeah, about Fluffy from the first movie.
+Tom:So they're three-headed?
+Beryl:It was the dog that kept the... the orb thing. The...
+Tom:None of us have deep Harry Potter knowledge here. I've never...
+Beryl:I feel like I should have it, 'cause I'm peak millennial. But it's the thing—
+Jacklyn:I've never seen them.
+Tom:No.
+Alec:So, other colleges wouldn't have been able to do this joke.
+Tom:Oh, damnit, it's Trinity College. So it's three— Trinity, three.
+Jacklyn:Ohh.
+Tom:Fluffy has three heads. Trinity is three something. But, okay. Lithium... Is lithium the third element?
+Alec:I believe it is.
+Jacklyn:Ooh.
+Tom:And grace is the third of the virtues?
+Alec:In this case, 'Grace' refers to the three Graces, beautiful goddesses in Greek mythology.
+Tom:Trinity.
+Jacklyn:Wow.
+Tom:The clue is Trinity.
+Beryl:Nice.
+Alec:Yes indeed.
+Jacklyn:Boy, you killed that, Tom.
+Tom:I feel like I should have gotten a Matrix reference in there first before going straight for Trinity College there.
+Alec:Well, and also, some of the other punts that were not named were Wyrd Sister and Baryon. I dunno if that would've helped anyone.
+Beryl:Wyrd Sister I know. Baryon, I have no idea what that is. It sounds like a cereal from America though.
+Alec:It's a subatomic particle that contains at least three quarks.
+Beryl:Oh yeah, no, of course, of course.
+Tom:Okay, but I love that Baryon Crunch could be a thing.
+Beryl:Yeah, it sounds good. I'd buy it.
+Tom:Technically, you are eating a lot of baryons there. Uncountable numbers of them. And I only know that because of a Star Trek reference. I only know that because of a deep, nerdy Star Trek reference that in one episode of The Next Generation, they had to do something called a 'baryon sweep' to clear baryons out of the Enterprise.
+Alec:Ah, yes, I've seen that one.
+Tom:That is what everything is made of. That's just like saying you just need to remove all the atoms from this starship in order to clean it.
+Alec:There are even more punts called Wise Monkey and Wise Man, which I think would've been the final ones to help y'all out if we needed to get there.
+Tom:Next question is based on an idea that came in from Jojo. So thank you very much. In 2016, using a tiny sample size of 45, scientists were able to estimate that the average Chinese adult consumed 3.1 cigarettes and 8.1 millilitres of pure alcohol per day. How? One more time. In 2016, using a tiny sample size of 45, scientists were able to estimate that the average Chinese adult consumed 3.1 cigarettes and 8.1 millilitres of pure alcohol per day. How?
+Jacklyn:Okay, well I think my first thought is that averages are immediately skewed by extremes. So it's very easy to have a older part of the population, maybe smokes a lot or drinks a lot, then skew the data completely.
+Alec:I think I've landed upon something that is probably very close to correct, but I don't want to just say that.
+Tom:(laughs) Okay. You get to take the gamble here, Alec, which is that you get to sit back. You let Beryl and Jacklyn take this question, and we hope you're right. If not, you come back in later on.
+Alec:Okay.
+Beryl:Well, my thought is that the small sample size needs to somehow be representative of something much larger. So the 45 has to actually be way more, and like, how— Is it like 45 sets of identical triplets? And so they all have the same DNA, and so it could be representative of a larger sample size or so— Because yeah, 45 doesn't work on its own to give you an accurate number. So how can that 45 actually be really big?
+Tom:Yeah, you've spotted that it's not 45 people.
+Jacklyn:Oh, interesting.
+Beryl:45 districts, 45...
+Jacklyn:Groups from different age demographics.
+Tom:No, they only took 45 samples. They only had to analyse 45 samples here to get that estimate.
+Beryl:45 samples of what? Samples of spit? Samples of blood? Samples of toenails? Samples of hair? It could be a sample of anything. Samples of— This is a G show.
+Tom:(laughs)
+Beryl:I don't know, it could be—
+Jacklyn:It could be samples of the—
+Tom:Well, it was until that joke!
+SFX:(Beryl and Jacklyn laugh)
+Jacklyn:It could be samples of their garbage or something, and they could see how much— how many cigarettes are discarded or how much alcohol is discarded.
+Beryl:Like neighborhood garbage cans?
+Jacklyn:Yeah.
+Beryl:So that they would then be able to look through and be like, oh— But a sample— So they got a sample of 45, and figured out smoking and drinking habits.
+Jacklyn:Yeah.
+Beryl:Trash does connect.
+Jacklyn:Because that could easily be skewed, right? 'Cause if you have a chain smoker, they could be throwing out a lot more in the trash than the average person, which would show the skewed data.
+Beryl:Ah, what if it's public ashtrays? And it was 45 locations in around a town, because people walk and smoke? And also at the end of the night, at least, you know, in New York City, there's always empty bottles.
+Jacklyn:True.
+Beryl:In the morning. Usually filled with pee, but... before then, they're not.
+Jacklyn:Woah-gh.
+SFX:(both snickering)
+Beryl:But I just mean, the morning after, you can get a sense of what happened the night prior.
+Tom:You're getting very close with that.
+Jacklyn:Okay.
+Beryl:Alec, are we close to where you were?
+Alec:Yes, but I was thinking the sample was probably taken prior to consumption.
+Jacklyn:Ooh, what do you mean?
+Beryl:But then how would you know if they consumed it? I have a bottle of whiskey in my house that I've not touched. It doesn't mean I'm drinking it.
+Alec:I was just thinking, so maybe this isn't correct, but I was just thinking you could just look at 45 liquor stores and tobacco shops, and count the sales versus the number of buyers.
+Jacklyn:Oh.
+Tom:No, in this case, Alec, I don't think you could be more wrong with that statement.
+Alec:Oh no, really? Okay.
+Beryl:Whoa.
+Jacklyn:Ooh.
+Beryl:The girls were closer ♪
+SFX:(group laughing)
+Jacklyn:Okay, interesting. I feel like there's something with the public sampling, 'cause it has to be skewed, 'cause I would be shocked if the average person was having three cigarettes a day. So they have to be taking—
+Beryl:Because it was also like, I feel like we were close on the trash part.
+Jacklyn:I agree.
+Beryl:Right?
+Alec:Landfills or...
+Tom:Again, very close.
+Beryl:Gutters. People throw stuff into the gutter, and then it gets stuck in the drain pipes and stuff. So they cleared out and they checked... water treatment, 45 water treatment facilities.
+Tom:I'm gonna give you that one, Beryl. That's close enough. You know when you were just listing bodily fluids and things like that, and then you stopped, you shoulda kept going!
+Jacklyn:(laughs)
+Beryl:Wow, I never heard that before. But I will next time.
+Alec:My brain did think about the... COVID prevalence in wastewater. I was like, well, maybe they could do that with nicotine and alcohol.
+Jacklyn:Yeah.
+Tom:Sewage epidemiology is the term, yep. You can do that for COVID prevalence, but you can do it for nicotine and alcohol. And yeah, 3.1 cigarettes—
+Beryl:So it did come back to pee?
+Tom:It absolutely did come back to pee, yes! (laughs)
+Jacklyn:Wow.
+Tom:You cut yourself off on saying, "It's a G show, I don't wanna talk about bodily waste." And then, and then yes.
+Jacklyn:It looped right back around.
+Beryl:I was close on the pee, because I talked about the pee in the morning in New York City. I should have kept on that P-train.
+Jacklyn:Yeah.
+Tom:So yes, when I say accurate... it was not 3.1 cigarettes per person. It was the nicotine usage over the whole population can be pretty accurately checked by testing wastewater. Our last guest question of the show then is from Beryl. Take it away.
+Beryl:This question has been sent in by François Reincke. In 2005, a hunter was fined 200 euro for the unauthorised killing of a sparrow in the Frisian Expo Centre of Leeuwarden, the Netherlands. Many people were thankful, since the sparrow was an immediate threat to the annual event held there. What was it? I'll read it one more time. In 2005, a hunter was fined 200 euro for the unauthorized killing of a sparrow in the Frisian Expo Centre in Leeuwarden, the Netherlands. Many people were thankful, since the sparrow was an immediate threat to the annual event held there. What was it?
+Tom:There's... a lot of hooks in that question, that I dunno where to start.
+Jacklyn:Yeah. It's a lot of rabbit holes to go down.
+Beryl:(laughs)
+Tom:My first thought was that's a weird law to have for 200 euros to kill a sparrow. But I guess that just falls under cruelty to animals? You can't randomly go out and start killing sparrows.
+Jacklyn:Yeah. It's also interesting that people were grateful though.
+Alec:Yeah, I'm trying to think of an event that a bird is— You said expo center, right?
+Beryl:Yeah.
+Alec:So can we assume this is an indoor thing?
+Beryl:It could be indoor or outdoor, by the way, though.
+Alec:Okay, so that doesn't matter. Just what would a bird— So what does the Netherlands do? They have a lot of bikes there.
+Tom:(laughs) Okay, let's run through the Netherlands stereotypes here!
+SFX:(guests laughing)
+Tom:They wear a lot of orange. They've got a lot of canals and really good trains.
+Alec:And flowers, right? That's where the flower auction is?
+Tom:Yes, yes. But I don't think that's where the big flower market is. That's gonna be near the airport.
+Alec:Do flowers have anything to do with this?
+Beryl:No.
+Alec:Oh, okay.
+Jacklyn:'Cause I was gonna be like, I wonder if birds affect flowers, but yeah.
+Alec:Yeah, pollination or something, like they were gonna cause cross-breeding.
+Jacklyn:Yeah, pollination, that was... yeah.
+Tom:Okay, what else do I know about the Netherlands? New Year's Eve, they let off a dangerous amount of fireworks. (snickers)
+Jacklyn:I love that you know that. That's so neat.
+Tom:I've got a friend who lives in Rotterdam.
+Jacklyn:Okay.
+Tom:And every single year, she's just complaining on New Year's, because the Dutch just buy industrial quantities of fireworks you shouldn't set off near people... and then just set them off near people. It's, it's—
+Jacklyn:Wild.
+Tom:Year end in the Netherlands is just a lot of explosions. I suspect that's got nothing to do with the dead sparrow, but...
+Jacklyn:Yeah, maybe there's an expo for— Yeah, no.
+SFX:(both laughing)
+Beryl:I'm still stuck on the fact that you said that they wear a lot of orange. Is that general knowledge that the Dutch wear a lot of orange?
+Tom:I've just been in Amsterdam on Queen's Day, and... it's just a sea of bright orange. That is the national colour.
+Beryl:Oh, that's fun. I mean, that's not gonna help you over here, but
+Jacklyn:Okay.
+Beryl:That was a good tangent.
+Tom:Also, Frisian Expo. The only connection I've got with Frisian is like Friesian cows. But I don't think that's what was going on here. It's gonna be the region.
+Alec:So were the things in this expo particularly fragile?
+Beryl:They were difficult to set up.
+Tom:You said hunter. Is this one of those things where someone has brought in a bird of prey to try and take down... Because there's railway stations in the UK where they will hire in a bird of prey just as a pigeon scarer to keep the birds away.
+Jacklyn:No way.
+Tom:It's not actually meant to kill the birds. It's just meant to be, here is a giant predator flying around, and all the pigeons decide they'd much rather live somewhere else.
+Beryl:No. (laughs)
+Tom:There was a slight bit of joy in that 'no' there!
+SFX:(Beryl and Jacklyn laugh)
+Beryl:Try again, Tom.
+Alec:I wanna pull back on... If there were a random bird flying around this expo center, it would wreak some form of havoc.
+Beryl:Yes.
+Jacklyn:It would be scared. Probably be inconvenient. Oh, I wonder if there are other animals coming to this expo or something, and the bird would scare them.
+Tom:That's a tiny little bird though. Like it's the International Mouse Expo, and they're terrified that— Well, you said difficult to set up.
+Jacklyn:Oh. Yeah.
+Beryl:Mhm.
+Tom:Is it like a— It's like one of those domino runs where they're just setting up an enormous string of dominoes... and there is a bird that is gonna come in and flap and flap and at some point gonna hit it?
+Jacklyn:Yes!
+Tom:And they're just terrified.
+Jacklyn:And the airflow from the bird.
+Beryl:Yes, that's correct.
+Tom:Heyyy!
+Jacklyn:Cooool.
+Beryl:(giggles)
+Jacklyn:Killed it.
+Beryl:Yeah, so this was Domino Day, which was televised between 1998 and 2009, where builders were challenged to beat the record for the number of dominoes toppled. And if left to fly around, the sparrow would've caused a major section of the domino displays to fall early.
+Tom:I think I'd rephrase that as the sparrow would've won.
+Alec:(chuckles)
+Jacklyn:(giggles)
+Beryl:The notes are a little bit confusing. It says if left to fly around, the sparrow could have caused a major section of the domino display to fall early. And then it says it knocked over 23,000 dominoes before it was killed by an extermination company. So I'm not sure. Maybe there's two sparrow instances.
+Tom:No, 23,000 dominoes is not much for a domino run.
+Jacklyn:Yeah.
+Tom:That's a tiny, tiny fraction. They'd be putting millions up for something like that. It's gonna be a massive expo hall. That's why it's indoors. Gust of wind would start knocking that over.
+Beryl:Yeah, it says in 2009, there were 4.5 million dominoes in the expo.
+Jacklyn:Wow.
+Tom:So 23,000 is minor damage for a sparrow. And all of a sudden you have all these domino... setter uppers. There's gotta be a term for that, but I dunno what it is. Just kind of terrified of a tiny little bird.
+Jacklyn:Yeah, they're like domino artists.
+Tom:We have time for the rare bonus question, 'cause we've rattled through those so fast. Congratulations to all of you. And thank you to Alex Sloat for sending this one in. Fordite is a material that is cut and polished into jewelry stones. It's noted for its multitude of stripes or layers in different bright – sometimes psychedelic – colours. How was it produced? And one more time. Fordite is a material that is cut and polished into jewelry stones. It's noted for its multitude of stripes or layers in different bright – sometimes psychedelic – colours. How was it produced?
+Alec:This one I definitely know.
+Jacklyn:Oh?
+Tom:I thought you might! The minute I saw that, I thought, if there's anyone who knows this one, it's gonna be Alec. Which I actually might be a little bit of a clue to the other people here.
+Jacklyn:Okay.
+Beryl:So that means it's some old tech.
+Jacklyn:Yeah.
+Beryl:That's what I'm gathering. So it's not made the way that we made rock candy in middle school of a piece of wood and sugar that we leave in a Dixie cup overnight. Maybe it's a—
+Tom:Is that like an American thing? I've never done that.
+Jacklyn:Yeah, I've never done that before. I feel like that's just you, but now I'm gonna have to try it.
+Beryl:What? (laughs)
+Alec:I don't think that's a thing that I did.
+Tom:I was gonna let that roll past as like, oh, this is clearly something all the Americans know about that I don't.
+Beryl:Wait, what? You guys weren't all growing rock candy crystals in elementary school?
+Jacklyn:No, but that's dope.
+Beryl:Wow, my school was cool.
+Jacklyn:Yeah.
+SFX:(group chuckling)
+Beryl:Anyway, let's just brush past the... weird personal development we've now learned.
+Tom:(chuckles)
+Beryl:So this is a gemstone that uses old tech to make lots of psychedelic colors.
+Jacklyn:Yes, with stripes and patterns.
+Tom:I mean, not technically a gemstone. A material, but yeah.
+Beryl:Like a glass— a piece of— You know how like when you make a loom, and you have to string the different colors together and you knot it?
+Jacklyn:Yeah.
+Beryl:And then maybe you can press it down really hard with a lot of pressure, and then boom.
+Jacklyn:My first thought was CDs. Because CDs reflect light really interestingly. They have a rainbow. And that's old tech.
+Beryl:It's called Fortnite, like the game?
+Tom:Fordite.
+Beryl:Oh, Fordite. I was like, wow.
+Tom:F-O-R-D-I-T-E.
+Beryl:It's old Ford cars that get chopped up. And the seat belts become the pieces that you wear around your neck. "This is a Wrangler from 1995."
+Tom:That would be old tech, and you're in the right area.
+Jacklyn:Oh my gosh.
+Beryl:(laughs) Keep talking and eventually, you'll get somewhere. (laughs) So it's chopped up bits of something old?
+Jacklyn:Yeah.
+Beryl:Old eight-track players. Old VCRs.
+Tom:You're getting colder.
+Jacklyn:Colder. So it's gotta be related to cars then. Okay, so it's used car parts? And they're somehow taking the car parts and then making it this material.
+Beryl:Batteries.
+Tom:'Fordite' is from Ford.
+Jacklyn:Okay.
+Beryl:Oh, it's from Ford.
+Jacklyn:Okay. So a Ford part for a car.
+Tom:I mean, not necessarily Ford. It could be any similar old manufacturer. But yeah, it's named after the car company.
+Beryl:The only thing I can think of then are gear shifts that people like. The little knobs on that. And also hood ornaments. But what else in a car?
+Jacklyn:Hood ornaments is smart, 'cause those could be melted down.
+Tom:Could you talk to me about how you made that rock candy?
+SFX:(group laughing)
+Beryl:It's a sugar water, and then the sugar evaporates and sticks to a wooden dowel that you put in, and then it forms crystals. And then you can eat it.
+Alec:It's like a supersaturated solution. You stick a stick in there.
+Beryl:Yeah, it's great. You can buy it. Oh, does that have something to do with this? Something evaporates onto a wooden dowel, and you eat it as a eight year old?
+SFX:(group laughing)
+Tom:I mean, no? But...
+Beryl:(laughs)
+Tom:It's that sort of building something up over time.
+Beryl:Okay, every single Jeep Wrang— or every single Ford F-150 that's ever been done. They take little bits, and then they stack them on top and slice 'em like a piece of cheese and compress them down. And then that's the jewelry. Nailed it.
+Tom:That is...
+Beryl:(wheezes)
+Tom:You're missing a key part of that, but actually, that's kind of what happens.
+Jacklyn:Oh my god.
+Beryl:(laughs)
+Tom:It's—
+Beryl:What?
+Tom:There's one key section there that you're missing.
+Beryl:Sugar.
+Tom:But yeah. Every car that was manufactured, a little bit of it ended up in fordite.
+Beryl:Oh, like when they're grinding! When they're cutting the metal, and they're shaving the metal down. All that little bits and stuff. And then they gather it and then they sell it.
+Alec:But that wouldn't be very colorful, would it?
+Beryl:Then they put food dye in it, like Easter eggs.
+Jacklyn:No, maybe it's after they paint the cars or something. The extra on the assembly line.
+Tom:Yeah, that's it. It's the overspray. So for years and years and years, Ford cars would be spray painted. They don't use that anymore. They've got more modern ways of doing it. But they would just spray the cars. The paint would build up on every indoor surface around... steadily over time. And so at some point, someone started chipping that off and realised, actually all these different layers of colours from all the cars that've been painted... We can make jewelry outta that. And that is fordite.
+Beryl:I wanna know, I wanna be in that meeting where they were like, "I'd like to talk to everyone about a new product I'd like to bring to the table. I got some paint scraps. Put that in a nice little gold bracelet, and they're gonna fly off the shelves."
+Jacklyn:Sick.
+Beryl:And they were like, "Yes, Tim, we love that idea. Let's do it."
+Tom:Of course he's called Tim.
+SFX:(group laughing)
+Tom:At the start of the show, I asked the audience: What is the only film broadcast by the UK's Sky Comedy channel every February the 2nd? I suspect someone's gonna get this immediately. Let's go to the panel and see if anyone can take a guess.
+Alec:It's gotta be Groundhog Day, right?
+Tom:It is Groundhog Day, yes. February the 2nd is Groundhog Day. And on that day, Sky Comedy plays that movie on repeat. With that, thank you very much to all of our players. Let's find out, where can people find you? What's going on in your lives? Let's start with Beryl.
+Beryl:You can find me on YouTube. It's really simple, just Beryl Shereshewsky. Rolls right off the tongue. But just search Beryl, you'll find me.
+Tom:Jacklyn.
+Jacklyn:Also on YouTube. The channel's called NothingButTech. But if you also just look up Jacklyn Dallas, it would come up.
+Tom:And Alec.
+Alec:I am also on YouTube. You can find my channel name, Technology Connections. And yeah, that's pretty much the only place you find me these days.
+Tom:(chuckles) It's the same with me. The others just don't seem worth it, do they? But if you do wanna find out more about the show, then you can find us at @lateralcast, pretty much every social network still. And if you wanna know more about the show or send in an idea for your own question, you can do that at lateralcast.com. And you can see video highlights every week at youtube.com/lateralcast. With that, thank you very much to Alec.
+Alec:Bye!
+Tom:To Jacklyn.
+Jacklyn:Thank you for having me.
+Tom:And to Beryl.
+Beryl:Whee!
+Tom:I'm Tom Scott and that's been Lateral.

@@ -1,0 +1,617 @@
+Tom:In the computer games industry, what is 'FIGS localisation'? The answer to that at the end of the show. My name's Tom Scott, and this is Lateral. Welcome to this special edition of Lateral, which features questions that were so hard that nobody got them right in playtesting. That's not true. I'm only joking. But I really enjoyed seeing the panic on our guests' eyes there for a moment. Please welcome—
+Sabrina:It was excitement. I couldn't wait to be the victor!
+SFX:(group laughing)
+Melissa:Sabrina saw a challenge.
+Tom:Sabrina saw a challenge and just thought, "I can take this. No worries." As you can probably hear, we have back on the show, the team from Answer in Progress. It's always delight to have you. Thank you very much for being back on. Taha, do you wanna start off? Explain who you are, what is Answer in Progress?
+Taha:Hello, I'm Taha. We ask questions and then figure out the solutions and document the journey along the way. I am Taha. I said that already.
+SFX:(others giggling)
+Tom:And also, we have Melissa Fernandes.
+Melissa:Hello, I'm Melissa. Taha, you said that very well. I have nothing to add. No notes. Thumbs up.
+Tom:(laughs) And Sabrina Cruz, who sounds like she has some notes!
+Sabrina:(wheezes) Exactly! And my notes are, you did a great job, buddy.
+Tom:Awh.
+Taha:Yay.
+Sabrina:Yeah.
+Taha:Woo.
+Tom:This is remarkably wholesome. This is great. We'll see if we can tear that apart with some questions. Incidentally, I really was joking earlier. I can reassure you that we do not test these questions out on anyone. It would probably break some law about animal testing somewhere. Let's get going with the first experiment. We start with a question from Freddie Russell. Why does London's Science Museum display a knitted sweater from 1998 that has "1+1=2" in the design? I'll say that again. Why does London's Science Museum display a knitted sweater from 1998 that has "1+1=2" in the design?
+Taha:'Cause that's when they solved it.
+Sabrina:Mhm, that's when they wrote the proof.
+Melissa:Mhm, mhm.
+Sabrina:They figured out the axioms.
+Tom:I don't have enough mathematical knowledge to keep riffing on that. I just know I did once see a proof of "1+1=2" that was five pages long.
+Sabrina:It's always the simplest things that are the hardest to prove.
+SFX:(both laughing)
+Sabrina:That wasn't even a joke.
+Tom:(laughs heartily) That's just someone who's done a lot of research for a YouTube channel.
+Sabrina:(laughs profusely)
+Tom:"Can you fact check this obscure fact from 1894?" "Absolutely, here it is." "Can you prove the sky's blue?" "Well...!"
+Sabrina:(giggles) Okay, so it's a sweater from 1988.
+Tom:1998.
+Melissa:Huh.
+Sabrina:1998. That's the year we were born.
+Tom:Oh god.
+Sabrina:Except for you, Taha. (snickers) Did we miss you by one?
+Taha:Yeah.
+Tom:At some point when you're on the show, I always feel old. And this is that point. Let's try and keep it to just one this episode. Just one!
+SFX:(Sabrina and Melissa laugh)
+Sabrina:Um, hmm. Is it something to do with Y2K?
+Tom:No, but the date is important.
+Taha:What happened in 1998, Tom?
+SFX:(scattered snickering)
+Sabrina:Tell us about it.
+Taha:Sorry. It was too easy.
+Sabrina:So it's a science museum. When I think of a knitted sweater, I think of static electricity. But I gotta assume we figured that out a little bit earlier.
+Taha:Have you ever done static electricity in the dark? You can see it. It's really cool.
+Sabrina:Yeah. It freaks me out! I also accidentally electrocuted myself recently.
+Melissa:I was gonna say, it sounds dangerous.
+SFX:(both giggling)
+Taha:The feels.
+Sabrina:Well, I was trying to remove a plug from a wall, but I didn't realise that my fingers were on both prongs somehow while I was trying to pull it out. And I did feel it in the heart.
+Tom:North American plug designs are terrifying!
+Sabrina:(laughs hysterically)
+Taha:Yep. So you were trying to remove a plug from the wall, and then you remembered, "Oh wait, I'm not in the UK." That's what happens.
+Sabrina:We do have some— We sometimes have grounding pins. Sometimes. Not this time.
+Taha:(snickers)
+Sabrina:(laughs)
+Tom:But static electricity in the dark. Take a sweater outta the dryer when it's really staticky and dry in the air. Put it on in the dark, yeah. You'll have sparks going off all around you.
+Sabrina:Mhm.
+Tom:Nothing to do with the "1+1=2" sweater, unfortunately.
+Taha:It's when the company OnePlus was founded.
+Tom:The mobile phone company?
+Taha:Absolutely.
+SFX:(scattered snickering)
+Taha:They were like, "It's time to build a smartphone to disrupt the market." They were like, "What market?" "It will arrive soon."
+SFX:(Tom and Sabrina laugh)
+Sabrina:So it's at a science museum. It's a sweater, "1+1=2", 1998.
+Tom:Yep.
+Sabrina:Those are the pieces that we're working with.
+Tom:Yep.
+Taha:I don't know if this... This feels too late for this, but I know that knitting is a hard process ...to mechanise. Is it knitting or the other type of thing that you do with sticks?
+Melissa:Crocheting?
+Taha:Crochet is really hard. So maybe it was the first time they ...knitted a sweater.
+Tom:The correct words in that are "first time". It is to celebrate the first time that something happened.
+Melissa:Hmm.
+Sabrina:It's the first time we learned that 1+1=2.
+SFX:(group cracks up)
+Sabrina:Well, the use of "1+1=2" makes me think of, it has to be celebrating something that's deceptively simple.
+Taha:Or British.
+Tom:Of those two, I'd go with British. This was a British achievement.
+Sabrina:It's the first time British people learned how to do math!
+SFX:(group laughing)
+Tom:I set that one up, didn't I? I absolutely set that one up. Okay, fine.
+Sabrina:I'm ignoring Isaac Newton for now.
+SFX:(Tom and Sabrina laugh)
+Taha:Okay, I... I don't know anything about ...the monarchy's family, but was there some kid in the monarchy who wore the sweater? Or was born that year?
+Tom:In a science museum?
+Melissa:Yeah.
+Taha:That's true.
+Melissa:A history thing.
+Sabrina:Was the sweater itself relevant or famous, or is it more just like... it was created in celebration of something that was relevant?
+Tom:It was created in celebration. That's absolutely right. The thing you've all kind of glossed over is it's important that this is a sweater.
+Sabrina:The first time the British felt warmth. They've created fire. (laughter builds) I'm just completely declaring war at this moment.
+SFX:(group laughing)
+Tom:That's fine. We beat you last time.
+SFX:(guests laughing)
+Tom:Did we? I'm not even sure if we did. I was just putting a slam on Canada there.
+Sabrina:No, we kind of just backed out.
+Tom:Yeah, yeah.
+Sabrina:To be honest. We just stuck around, until we were like, "Can we leave? We'll keep you on the money." (wheezes)
+Tom:Think more about why it's a sweater. We've talked about some of the stuff here. There might be...
+Taha:Is the knitting part of it, or is it just a knitted sweater?
+Tom:It's a knitted, woolen sweater.
+Sabrina:Oh, Dolly the Sheep.
+Tom:Tell me more.
+Taha:Damn. Oh, yes.
+Sabrina:So it was the first time that they completed cloning. And I guess if it's a wool sweater, it's a celebration of the sheep. But there was a sheep named Dolly. And then they hit Ctrl-C. And they hit Ctrl-V. And then there was another sheep! (laughs)
+Melissa:Wait, is that...
+Taha:That's crazy.
+Melissa:...the one that they bred in an artificial... No, not an artificial womb? Something separate. I'm on a different track.
+Tom:Yeah.
+Sabrina:I genuinely wish that I could tell you more details about Dolly the Sheep, but I think Tom can.
+Tom:Yeah, Dolly was the first cloned mammal. Which was a British achievement. Late '90s. There's one key thing you're missing.
+Taha:Oh?
+Tom:Why is that sweater in the science museum?
+Taha:It's from the wool?
+Tom:It's from the wool from—~[$]
+Sabrina:They killed Doll— Sorry.
+Tom:No, that's not how sheep shearing works!
+Sabrina:(laughs)
+Melissa:They shear them.
+Tom:(bewildered laugh) That's not how sheep shearing works, Sabrina! It's fine.
+SFX:(group giggling)
+Sabrina:Mentally, I know this. But instinctively, it feels like the sheep needs to die before you can steal its clothes.
+Tom:Yeah, they took the wool from the first cloned sheep, Dolly. There was a competition, which a 13-year-old kid won, to make the sweater design. And then they made an actual sweater from Dolly the Sheep's actual wool. And that is what's on display in the science museum.
+Taha:I have a question. Is Dolly the Sheep the clone, or the original?
+Tom:The clone, the clone.
+Sabrina:Wait, who was the— What's the original sheep? Are they both Dolly?
+Tom:I'm told it was a clone of Finn the Sheep, who was not famous because they were not a clone.
+Taha:This is so upsetting. This is like when the Damn Daniel guy got on Ellen, but then the guy who was recording it and did all the jokes didn't get on Ellen.
+SFX:(Tom and Sabrina laugh)
+Taha:That's what it feels like to me.
+Tom:Taha, we're gonna go to you for the next question. Whenever you're ready.
+Taha:This question was sent by Petar Jenov. During the 1970s, a brutalist concrete trade union building was the first skyscraper constructed by Sofia in Bulgaria. No. That's not right.
+Sabrina:(cracks up)
+Tom:Constructed in Sofia.
+Taha:In Sofia.
+SFX:(group laughing)
+Taha:Yup. Yup.
+Tom:And let me tell you, she's still angry about it to this day.
+Taha:During the 1970s, a brutalist concrete trade union building was the first skyscraper constructed in Sofia, Bulgaria. At one point, people could take a photo from the top nine floors. However, nobody could do so from the lower ten floors. Why? During the 1970s, a brutalist concrete trade union building was the first skyscraper constructed in Sofia, Bulgaria. At one point, people could take a photo from the top nine floors. However, nobody could do so from the lower ten floors. Why?
+Tom:I was thinking no windows. It's just brutalist and just completely concrete.
+Sabrina:Cahn-creet!
+Taha:That is a really good guess, but it isn't the right answer.
+Tom:Okay.
+Sabrina:Ooh. Could it be that there were buildings that were shorter all around it, kind of blocking the view out of any windows?
+Tom:You could still take a photo though.
+Taha:Take a photo from the top nine floors.
+Sabrina:Is it because it was all concrete, it was blocking... Sorry, I'm an idiot. You don't need a cell phone service to take a picture.
+SFX:(group snickering)
+Tom:In the 1970s.
+Taha:Yeah. If it's not posted to Instagram, did it even happen?
+Sabrina:Did it even happen? (laughs)
+Tom:But there were windows on the lower floors?
+Taha:Yeah, I believe so.
+Sabrina:To clarify, that means taking photos from within the building, outside of the outside?
+Taha:Correct.
+Tom:Yeah. 'Cause even if there is another wall on the outside, you can still take a photo of that wall. Even if the view's not great, you can still do that.
+Sabrina:In celebration of it being the first skyscraper, they had a wraparound sign at the base of the building, saying, "This is the first skyscraper."
+Tom:(chuckles)
+Taha:That's very wrong.
+SFX:(others laughing)
+Tom:So you couldn't take a photo from the lower ten floors. Maybe you couldn't do anything from the lower ten floors. Maybe they just didn't know how to properly build a skyscraper. So for safety, the lower ten floors are just a single concrete block with an elevator going up through the middle, so you can reach the actual building.
+Taha:So that is... It is not the case, but I will say that people couldn't even enter the lower floors.
+Sabrina:Was it being used for something, like a political thing?
+Taha:No, the building's use was irrelevant. That's actually one of the things that it says on my question.
+SFX:(Tom and Sabrina chuckle)
+Tom:There just weren't floors on those lower floors. It's just a big, empty void with... some stairs in it. That's basically—
+Sabrina:Data storage.
+Tom:It's basically the same answer I just gave, and I think that's wrong as well.
+Taha:So, you are slightly closer by saying that there weren't even any floors.
+Sabrina:They forgot to put them.
+Melissa:Was it just stairs? Was it just a whole bunch of stairs?
+Taha:So this question describes a moment in the halfway point of the construction.
+Tom:Did they build the tower from the top down? They opened the top floors of the building first, because they built the shell and then worked down from there for some reason?
+Taha:Yes.
+Sabrina:(gasps)
+Taha:And it was even more remarkable, because it was concrete, so it was a very heavy brutalist construction.
+Tom:How on earth did that work? Did they eventually finish it later?
+Taha:Yes, I believe so. The building was a 19-storey headquarters of the Independent Trade Unions of Bulgaria, and it was built from the top down. The... I believe... This is not on my sheet, but I believe the Shard was also built similarly. In London.
+Tom:So what, they put the central core up, and build out from there?
+Taha:It was built from the top down. The support columns were— The support columns in the middle were erected first, and then the different floors were built on the ground and then lifted into the air. So the top floors were made first, with the lower floors gradually added later.
+Sabrina:That's such a baller move for your first skyscraper.
+Tom:Right?
+Sabrina:The first one, and they choose to build it in the wonkiest way? That's so sick!
+Taha:They hadn't figured out how to make skyscrapers properly, so they were just like, "I guess this is how they're made."
+Sabrina:(wheezes)
+Melissa:That's crazy.
+Taha:I believe that the Shard was made— They just made the top, and then pushed it up somehow.
+Tom:Oh, wow.
+Taha:I'm— This is uncited. If someone can correct me, that's fine.
+Tom:The producer has just popped in and said, yes, you're right. The first 23 floors were built first, and then... pushed up.
+Taha:There you go.
+Tom:Next one's from me. It was sent in by three separate people. Thank you to Lorenz Ipsum, Matthew Meek, and Allen. Uplands Airport in Ottawa, Canada was about to open its new, light and airy terminal building in August 1969. However, after a rehearsal for the opening ceremony, it could no longer open until the following year. Why? I'll say that again. Uplands Airport in Ottawa, Canada was about to open its new, light and airy terminal building in August 1969. However, after a rehearsal for the opening ceremony, it could no longer open until the following year. Why?
+Sabrina:Classic Ottawa transit!
+SFX:(group laughing)
+Tom:Eh, it's fine. They just wait till winter and just skate down the river instead.
+Sabrina:(laughs) So it's in August.
+Tom:Canal, it's a canal. I'll get angry emails from Ottowans 'cause I said it was the river.
+SFX:(Sabrina and Melissa snicker)
+Taha:I think it's because it's light and airy.
+Melissa:(snickers) So that people couldn't get in?
+Sabrina:The weather's real bad in Ottawa. It's pretty far up north. It could have just been, they've done it before. They didn't account for how cold it gets when they designed it, and then it stopped working. Could it be their runway? It was just covered in ice, so they couldn't land planes on it. (laughs)
+Taha:Or the opening day rehearsal was so bad that they needed a whole year to prepare for the actual opening ceremony.
+Sabrina:They crashed a plane on the opening day.
+Taha:Maybe it was used as a set of the moon landing.
+Tom:(despondent laugh)
+Sabrina:(wheezes)
+Melissa:Yep, that's it.
+Sabrina:(laughs)
+Taha:That's it.
+Melissa:Was there something political happening, where they just didn't want planes flying or planes landing?
+Sabrina:Ooh. (stammers) There might've been something political happening actually. But I don't wanna be tested—
+Tom:In 1969, there's a lot of political stuff happening.
+Sabrina:(laughs)
+Melissa:In Canada specifically?
+Sabrina:Yeah. Was it anything political, Tom?
+Tom:It wasn't political, no.
+Melissa:Steering clear!
+Tom:I think cluing in on 'light and airy' early on was definitely...
+Taha:Yeah.
+Tom:Definitely the right way to go.
+Taha:I'm starting to get in the head of the question writers.
+Tom:(laughs)
+Taha:I'm like, light and airy's that throwaway thing that they put in there.
+Tom:Yeah.
+Sabrina:The building fell over.
+Tom:After you've been on this show a few times, you start to metagame it.
+Melissa:(giggles)
+Tom:It's... something I have to try and avoid. "Oh, did they write that specifically to..."
+Taha:Okay, so if something is light and airy, you need to have—
+Sabrina:Did it float away? (laughs)
+Melissa:The terminal? The whole terminal flew away!
+Sabrina:It was a big balloon. They got Up house'd.
+Taha:Well, av— (stammers) The aviation engineers were too good. They built a building that could fly.
+SFX:(others giggling)
+Taha:I would say it's light and airy. And in August, there was no longer any light, so it was very unimpressive. And they were like, ah.
+Sabrina:(laughs) Taha, you've been to Ottawa.
+SFX:(group laughing)
+Tom:It's not that far north.
+Melissa:Was it too cold? Wait, what was light and airy? Was the ambience inside?
+Sabrina:The thing that it needed to wait for a whole other year...
+Melissa:Mhm.
+Sabrina:Makes... So it can't be a weather-based thing alone.
+Melissa:Right.
+Sabrina:Because the weather would repeat. You know what I mean?
+Taha:Okay, so if I'm doing an opening ceremony... What do I need? I need snacks. I need press. I need a ribbon. I need... some government person.
+Tom:I like how snacks came first. That came first. That's important.
+Taha:So, what... Okay, you need a government person.
+Sabrina:No, but there's no— It's not political though.
+Taha:Ribbons. That's fine.
+Sabrina:There was a— How could we possibly forget the great ribbon shortage of 1969? (laughs)
+Tom:In your mind's eye, how would you describe a light and airy building?
+Melissa:With lots of windows.
+Sabrina:Did the windows break? Was it like the Concorde went so fast that it smashed every single window?
+Tom:Sabrina, you've just nailed it.
+Sabrina:Ha-ha!
+Melissa:No!
+Tom:It wasn't the Concorde. It was a Lockheed F-104 "Starfighter"! Which is one of the big... extremely fast jets. So, talk me through the situation. What happened?
+Sabrina:This plane's like, "I'm gonna go so fast. I'm gonna show everybody at this opening day with all of their snacks that I can go so fast. Uh-oh, turns out physics happens. I went a little too fast, and then the wind from my speed smashed every single window in this air— this light and airy terminal."
+Taha:So is it that it also broke the sound barrier?
+Tom:It was a shockwave caused by a low-level pass. If you've seen that shot from the new Top Gun movie, where you've got the guy standing, watching the plane go over, and the roof comes off the building... That, but for almost every piece of glass in the entire building
+Sabrina:(wheezes)
+Tom:...and some of the support beams.
+Melissa:Oh my goodness.
+Sabrina:Oh!
+Tom:It added $300,000 to the construction cost in 1969. And they had to spend six months just replacing the glass and patching up the damage caused by the plane.
+Sabrina:This is so... classic Ottawa.
+SFX:(group laughing)
+Taha:Yeah. Everything I know about Ottawa infrastructure, after the video we made, is like, yep, that checks out. But I don't see what the problem is. It's just lighter an area.
+Sabrina:You don't need those.
+Tom:Right!
+Sabrina:(laughs heartily)
+Tom:Melissa, the next question's yours.
+Melissa:Alright. This question has been sent in by Josh from College Station. So, when Texas A&M University expanded its Kyle Field Stadium in the 1990s, why was a small electronic display installed outside the stadium in front of several plaques bearing the word 'Reveille'?
+Sabrina:Reveille?
+Melissa:When Texas A&M University expanded its Kyle Field Stadium in the 1990s, why was a small electronic display installed outside the stadium in front of several plaques bearing the word 'Reveille'? Spelled R-E-V-E-I-L-L-E.
+Tom:Texas A&M is the university, I think, that's based in College Station. So I feel like this is a current student sending in their local knowledge. Reveille is the name of the wake-up bugle call for the American military. That sort of... (imitates bugle) That piece is called Reveille.
+Sabrina:Okay.
+Tom:I hope that's the reference. If that's not the reference, I don't know what else Reveille is, but that's what I know it as.
+Taha:The thing that makes me confused is that it was an electronic thing. Why did they make it electronic? Because it would have to turn on and off.
+Sabrina:I would've assumed it's a counter ...that updates.
+Taha:How many times the song is played?
+Sabrina:So I assume Texas A&M has a big— I assume it has a big football culture.
+Tom:Of course they do.
+Sabrina:It's like, that's... So, and they do... Just in the South... Southern university football culture does do something else.
+Tom:They absolutely would just bugle call the entire university at 6 am on game days. Just 'cause that's a tradition! That's what we've always done! It's football, you can't mess with the football!
+Sabrina:So to be sure, is Kyle Field a football field?
+Tom:It must be, surely.
+Taha:It's crazy that guy's name is Kyle Field.
+Tom:(laughs)
+Sabrina:(wheezes) They extended him.
+Taha:Yeah, I assume his name is Kyle Field, and then they made a stadium.
+Tom:Yeah. It's the Kyle Field Field.
+Taha:'Cause it would be weird to name it after Kyle and just use his first name.
+Tom:Well, it could be 'someone, Kyle'. Kyle's a valid last name.
+Sabrina:(laughs) To be clear then, so they extend the stadium presumably?
+Tom:Yeah.
+Sabrina:And then, is the display inside or outside of the stadium?
+Melissa:It's outside the stadium. In front of plaques.
+Sabrina:So is it like it's— It feels like they play it after a win, after something very specific happens.
+Melissa:Okay, wait, let's... The focus of the question is why was the electronic display outside of the stadium? And what is.. What could possibly be on this display?
+Taha:The word. Oh, there could be more on that.
+Tom:Yeah, the plaques say 'Reveille'. And then there is—
+Melissa:The plaque says the word 'Reveille'.
+Tom:And then there's—
+Taha:Oh, I thought the display said the word 'Reveille'.
+Tom:No, the plaques say— Is it plaque or plaques?
+Melissa:Plaques. There's multiple plaques.
+Tom:Yeah, and then there's a display that says something or does something.
+Taha:Wait, so maybe it's literally just a screen to display the game? Or the score?
+Melissa:Yes. The display was showing the score.
+Sabrina:I no longer know what the question is.
+SFX:(group cracks up)
+Tom:I think the question is, what's going on here? After they expanded the stadium... they added a screen.
+Melissa:Yes.
+Tom:With 'Reveille' on plaques behind it?
+Melissa:No, they added a screen— They added a display outside of the stadium that was in front of plaques, of multiple plaques, that had the word 'Reveille' on it. Why was there a small screen outside of the field? That's what... Why would they put a...
+Taha:So the military could keep track of the score if on game day, if they were running drills. Because they're true Texas patriots.
+Tom:(chuckles)
+Taha:But also love football.
+Melissa:Okay—
+Sabrina:I think that's assumed with a true Texas patriot.
+SFX:(Tom and Sabrina laugh)
+Melissa:Okay, the focus that we actually should turn our attention to are the plaques themselves. So... the plaques that were— There was multiple plaques that the screen was facing.
+Sabrina:Oh, okay, okay! So it's as if— It's probably a hall of fame situation, where it's like, these are the greatest players who've ever played for the team, and we want them to be 'watching' the game, so they get to see the score. It's like an art piece.
+Melissa:Sabrina's getting really warm.
+Sabrina:I am. I'm sweaty.
+SFX:(both giggling)
+Melissa:She's getting toasty. Uh-huh.
+Taha:I have gone through my entire life not knowing what a plaque is. It's never, ever come up in a way that's relevant in my life. So I've just not really questioned it. What is a plaque?
+Sabrina:It's a really nice sign. It's a commemorative sign.
+Melissa:Yeah, a commemorative sign that's maybe made of a stone or something that's engraved with "Championship 2021".
+Sabrina:She's giving us the answer, Taha, take notes!
+Melissa:That's not—
+SFX:(both laughing)
+Tom:I think Sabrina got it right. It's a really fancy sign. It's a really fancy sign. But I think you might have nearly got it there, Taha, 'cause it's Texas A&M. And the whole patriot and military thing is a gonna be a big deal there. Is this a memorial to... military people from Texas A&M, and their names are on there? And so they... they expanded the stadium, which covered the view from the memorial of the game. So they set up a repeater screen so the memorial would still see the game?
+Melissa:Yes, but not people that need to get a view of the game.
+Tom:(grumbles) What?
+Sabrina:I've watched Gilmore Girls. Yale has a dog whose nose they rub. Is it famous pets? (wheezes)
+Melissa:Something like that!
+Tom:Louisiana State University has a mascot tiger. They literally just have a tiger in a... what used to be a small cage, and is now quite a big habitat because, you know, time's moved on. But...
+Sabrina:(wheezes)
+Tom:Yeah, they just have a tiger next to their football stadium, which is... bigger than most sports stadiums in the world. It's weird, but is there a mascot? Is Reveille the name of the mascot?
+Melissa:Bingo!
+Sabrina:Awwwh!
+Tom:They have a mascot called Reveille. And Reveille can't see the game anymore because they expanded the stadium, so they gave Reveille ...a screen.
+Melissa:Yeah.
+Taha:Reveille was into tennis this whole time anyway.
+Tom:What species is Reveille?
+Melissa:Reveille was a dog. It was their mascot. Their mascot was a dog.
+Tom:Is it just a statue of Reveille?
+Melissa:There was a dog. They had a mascot of a dog, and... They had multiple dogs. Because they—
+Taha:Over the years.
+Melissa:Over the— They had multiple dogs over the years.
+Taha:Oh, yep.
+Sabrina:No!
+Melissa:And the plaques were of the dogs that had passed.
+Tom:Their gravestones are memorial stones or something like that for the mascots that have passed. Oh!
+Sabrina:(snickers) This is the farm in the sky.
+Taha:Oh no!
+Tom:The thing is, LSU, the one I was talking about with the tigers, they lit— They have plaques for the previous tigers. For some reason, I think it's called Mike.
+Sabrina:Who keeps giving them tigers?
+Tom:I don't know, okay?! I don't know.
+Taha:The previous tiger. It's a tiger family.
+Tom:A dog is a much more reasonable mascot!
+Sabrina:At least tell me that the living Reveille gets to watch the game in person.
+SFX:(Tom and Sabrina laugh)
+Melissa:I hope so!
+Tom:Thank you to Xavier Goucher for the next question. Yasmin calls a record store, asking, "Do you have the album from Billy Joel's 1987 world tour? It's got a red cover, and I think it's called 'Kohuept'?" Why does the album have that title, even though it means nothing? I'll say that again. Yasmin calls a record store, asking, "Do you have the album from Billy Joel's 1987 world tour? It's got a red cover, and I think it's called 'Kohuept'?" Why does the album have that title, even though it means nothing?
+Taha:Backwards.
+Sabrina:What's it in reverse?
+Tom:Backwards, it would be 'Tpeuhok'.
+Melissa:Oh.
+Sabrina:That doesn't sound like anything.
+Tom:No, sorry.
+Taha:Sounds more like a word though. It was like, to pay or not to pay. Hmm. Maybe she read— Maybe it was the first time that they had ...a numbering system, like a barcode. And she just read the barcode instead of the title.
+Sabrina:(chuckles) So this was actually the title of the recording of the tour album?
+Tom:Yes, it is a live recording.
+Sabrina:Billy Joel seems whimsical.
+SFX:(Tom and Sabrina chuckle)
+Taha:Does he?
+Sabrina:He's the Piano Man? Does it stand for anything? Is it like an acrostic? Feels like something that would happen like that.
+Taha:Okay, so was it a... Was it a vinyl record?
+Tom:I don't know, but it wouldn't matter. The cover would be the same, no matter what format and size.
+Melissa:Hmm.
+Sabrina:Okay.
+Taha:So the cover.
+Tom:Bold red cover, yes.
+Sabrina:What year was it?
+Tom:1987.
+Sabrina:I do wish that I could think of any... Oh, well... Some tough things were happening to people in 1987. Blood-related, red.
+Melissa:Was that when Taylor Swift was born?
+Sabrina:(laughs)
+Taha:Do you think Billy Joel was commemorating—
+Sabrina:He dropped the Eras—
+SFX:(Sabrina and Melissa laugh)
+Sabrina:Unrelated, but it's just...
+Taha:"Ah yes, the Red album by Taylor Swift will come out soon. I can't take the name 'Red' because that's taken by a future artist. I guess I'll just call it a keyboard smash."
+Sabrina:This is how we learn that Billy Joel is in fact the Doctor, and he knew it.
+Tom:Also, Taylor Swift has a whole album called 1989, and I'm pretty sure that's the year she was born.
+SFX:(group snickering)
+Melissa:Sorry, Swifties.
+Sabrina:(cackles)
+Taha:Oh, oh. I dunno if we can put this episode out. We're gonna get cancelled.
+Sabrina:(cackles)
+Tom:Can tell you... nothing to do with Taylor Swift. I feel like that one can just go out there.
+Taha:Tom Scott's strong Taylor Swift demographic will be upset.
+SFX:(Tom and Melissa laugh)
+Sabrina:Does it have anything to do with a health crisis?
+Tom:No, but the bold red cover does have a meaning. It's just not that particular one.
+Sabrina:When did Princess Diana go?
+Tom:Much later than that.
+Melissa:'95...?
+Taha:I don't know anything about Billy Joel.
+Sabrina:Can you spell the album name again?
+Tom:Yes, I can. K-O-H-U-E-P-T.
+Taha:Oh, that is not how I thought it was gonna be spelled.
+Sabrina:Well...!
+Melissa:(snickers baffled) Is it like, you mix up the word, mix up the letters to make a new word?
+Sabrina:Yeah.
+Melissa:Can we do anagrams.
+Sabrina:"The koup"? "Pet... huo..." (sputters, laughs)
+Melissa:(laughs) It's not an anagram?
+Tom:I'm trying to anagram it now. I can tell you it's not an anagram, but I am now trying to find an anagram of 'Kohuept'.
+Taha:Yeah. And it was an album recording. It's a live recording of an album?
+Tom:It's a live recording of a show.
+Taha:Of a show, okay. Right.
+Sabrina:Is it the name of where it was recorded? Is this a town name?
+Tom:No, but where it was recorded is relevant.
+Taha:Is it an acronym of every single town that it was recorded in? 'Cause I know that when they record this, they don't just record the one.
+Tom:No, there's no real meaning... there. There's no meaning in 'Kohuept'.
+Taha:Why would he say things that don't mean anything?
+Sabrina:(giggles)
+Taha:The whole point of language is to communicate things.
+Tom:You've hit on quite a lot of things, kind of accidentally here: 1987, bright red cover, live performance.
+Melissa:It was the sound that the crowd was making. They kept...
+SFX:(scattered laughing)
+Sabrina:Just the cheering! He couldn't help it. Um, nine... This is when I wish that I knew anything prior to the year 2010.
+Tom:This is where we ask the Gen Z quest— I remember you not getting a Vietnam War one last time, 'cause it was just not...
+Sabrina:Technicolor? For the first time, ruby red slippers?
+Tom:That's more 1930s, 1940s.
+SFX:(Melissa and Sabrina laugh)
+Sabrina:Damn it. It's all the same to me!
+Taha:Are we not getting this because we are young?
+Tom:I feel like someone of my generation, particularly the generation before, would be much more likely to make a 'red' association with the 1980s here.
+Sabrina:Communism.
+Tom:Communism.
+Sabrina:No... Communism!
+Melissa:(gasps)
+SFX:(Taha and Sabrina snicker)
+Taha:And 'Kohuept' is a really bad spelling of 'communism'.
+Sabrina:(wheezes)
+Tom:Mmh. You are now dancing around the right area.
+Taha:No way! Is it Russian for communism or something?
+Sabrina:Oh, it's in Cyrillic?
+Tom:It's in Cyrillic. Keep talking, Sabrina.
+Sabrina:That's all I had, Tom.
+SFX:(group laughing)
+Taha:What is Cyrillic? Is that the Russian script?
+Melissa:Is it the characters?
+Tom:That's the characters that a lot of Eastern Europe and Russia use, yes.
+Taha:Okay, so, so it does mean something, just in a different language?
+Tom:Yeah.
+Taha:Or it— okay.
+Sabrina:And it just is 'Billy Joel' in Cyrillic?
+Taha:Yeah, or whatever the— Maybe it means red in Cyrillic.
+Tom:It's a lot more... It's not quite that metaphorical. Have a look at it. If you've written it down, have a look at that.
+Taha:Yeah.
+Tom:Try and figure out what word that might be, 'cause it's actually very close.
+Sabrina:Piano Man! Sorry!
+SFX:(group laughing)
+Taha:I really thought you had it. Just for the way you were about to announce that.
+Melissa:I'm writing it down.
+Taha:K—Kohuept.
+Tom:K-O-H-U-E-P-T.
+Melissa:Conc— It looks like the word 'concept', but that's... no.
+Taha:Or concert?
+Tom:Concert.
+Melissa:Oh, ohh!
+Tom:Between you, you put it together.
+Melissa:Look at that!
+Tom:So it is called 'Kontsert', which is more or less the same sounding word in Russian and in English. It is a concert from 1979 that he did in Russia, having been invited across the Iron Curtain to perform in what was a closed-off space for most Westerners. So he released it with 'Concert' in Cyrillic as the title. So why is 'Kohuept' how it's been referred to?
+Sabrina:Because we don't... We're not capable of pronouncing— People don't know how to pronounce Cyrillic letters, but they do look an awful lot like English letters sometimes.
+Tom:Spot on.
+Sabrina:Latin?
+Tom:Roman alphabet, but yes.
+Sabrina:Ah.
+Tom:Yeah. So when it was being put into computer systems in the Western world, this was way before we could cover any other languages, and people just typed in the letters it looked like. So in the Western world, every database just calls it 'Kohuept'.
+Taha:This is the most boring name for an album.
+Tom:Right?
+Taha:If you're Russian, you're like, "I'd like Billy Joel's Concert, please." And they're like, "Hmm, okay. You just want a concert? That's interesting."
+SFX:(Sabrina and Melissa snicker)
+Tom:Sabrina, over to you.
+Sabrina:Alright. Sam has invited junior stock traders to his New York headquarters. He shows his portfolio on the screen. All ten companies are displaying green numbers, meaning he's making money. However, one trader looks concerned, even though she doesn't trade in those companies. Why? I'll ask it again. Sam has invited junior stock traders to his New York HQ. He shows his portfolio on a screen. All ten companies are displaying green numbers, meaning he's making money. However, one trader looks concerned, even though she doesn't trade in those companies. Why?
+Taha:Because the Sam in question is (bleep)
+Tom:(laughs)
+Taha:The world famous crypto scammer.
+Tom:For legal reasons...
+Taha:And she knows!
+Tom:We have to bleep just a little bit of what Taha said.
+SFX:(Sabrina and Melissa laugh)
+Tom:Because right now, as we record this, he's not—
+Taha:Allegedly. (laughs)
+Tom:There are certain words that, for legal reasons, have just been bleeped. Do enjoy that.
+SFX:(guests laughing)
+Taha:Very nice man.
+SFX:(group laughing)
+Tom:Is (bleep) going to sue a small podcast from the UK from prison?
+Taha:Maybe.
+Tom:Almost certainly not. But you know what? I don't wanna take that risk.
+Sabrina:(laughs)
+Taha:Oh dear.
+Melissa:What's that last sentence, Sabrina, one more time?
+Sabrina:Yeah, so one trader looks concerned, even though she doesn't trade in those companies. Why?
+Melissa:Okay.
+Taha:What year was this?
+Sabrina:I'm pretty sure it's irrelevant.
+Tom:This is more a hypothetical than an actual thing that happened, okay. Do any of us know anything about the stock market?
+Taha:I know a fair bit.
+Tom:Oh, okay.
+Taha:I mean, as in, I just studied it for a year.
+Tom:Alright, that is a year more than I have.
+Sabrina:This is not financial advice.
+Tom:(laughs)
+Taha:Yeah. Buy stocks, all of them. It'll only ever go up. (giggles) Don't do that. Sorry.
+Sabrina:Taha's just getting bleeped this entire—
+Tom:No, that's fine. We can leave that in. That's what you're responsible for, Taha.
+Taha:Oh, no! Someone was concerned because all the numbers were green?
+Tom:I feel like if this was the answer, the question would've said 'him', but I'm gonna go for it. That trader is colourblind and cannot see red and green, and...
+Sabrina:It is not about colourblindness.
+Tom:Damn!
+Sabrina:It's actually a little bit more of a cultural thing.
+Taha:Okay, so... I noticed that you said that the person who was concerned was a woman? Was I wrong?
+Sabrina:Yes.
+Taha:Is that relevant?
+Sabrina:No.
+Taha:Okay. So there wasn't a tech bro bias going on?
+Sabrina:No... (giggles) we're really just focusing on these stocks. They all seem like they're green. It's going up. Number go up, to the moon? Well, why concerned?
+Melissa:We don't have the context of the year.
+Taha:We don't have the context of the year, what the stocks are.
+Tom:We don't have the context of anything!
+Sabrina:Yeah, so in that way, you could just focus in on, what few elements do you have?
+Melissa:Things go up, that's bad? I thought things go up, that's good.
+Tom:But he's a stock trader. He's gonna know about this stuff. Sam is presumably looking at this and going, "Yeah, everything looks good."
+Sabrina:Yes, but remember, Sam has invited junior stock traders who might not be as experienced. And he's invited them specifically to the New York HQ. So they might be coming from not New York.
+Taha:Right.
+Tom:All these stocks accidentally spell out something. All the stock names, by complete coincidence, just spell out, "This is a scam."
+Sabrina:Spell out the words, "You will die."
+SFX:(group laughing)
+Sabrina:It's just like a Final Destination situation.
+Tom:Oh man, that is a good premonition thing to happen. All the numbers and gaps just line up for a moment, just to show a picture of a skull.
+Sabrina:(guffaws)
+Taha:I'm thinking if they're here from other places, then if this is pre-super fast communication, then maybe they're concerned 'cause they've been selling things at the wrong stock price. The junior traders, 'cause they have delayed information. In remote areas of the world or something.
+Sabrina:I think that's a fair guess, but I wouldn't say that's relevant to this situation.
+Taha:Yeah, or maybe some of the stocks are inversely correlated to the other ones. I feel like I'm too in the weeds of stocks here.
+Sabrina:I think that we could take a step back from imagining the complexities of stocks, right? It's not a futures trade. There's no options. She's just seeing the fact that while everybody else is looking at this, at these green numbers, and they're happy with it, for whatever reason, she isn't.
+Taha:(gasps) Wait, they're green numbers, but that doesn't mean that they're in the positive. Maybe they're green numbers, but there's a negative sign.
+Tom:Is there a different culture that sees green as being a bad colour? Is there a different part of the world where green numbers... mean that things are going down? I don't know what that could be, but there's gotta be somewhere where green is bad luck.
+Sabrina:I'm just gonna give it to you, but... you almost have it inverted. Maybe you're colourblind. Here's the thing.
+SFX:(group laughing)
+Sabrina:So this trader is actually from China, where red is seen as a lucky colour. So when stocks are performing well... the number is presented in red. And actually, green indicates a fallen price. So, she was just a little bit concerned. Rightfully so.
+Tom:Isn't that the reason why the... I seem to remember something about emoji on this. I'm literally gonna pick up my phone and check. There is a stock price emoji or something like that. And...
+Sabrina:Oh, the red graph. It is a red line that goes up.
+Melissa:Yeah.
+Tom:Yeah, red line goes up, blue line goes down. I know that's Japan, not China, but yeah. Different colours, different regions. Which means there is one last thing to do. At the start of the show, I asked the audience: What in the video game industry is FIGS localisation? Does anyone wanna take a guess?
+Sabrina:'Figs' is short for 'figures'. And they are localised. So your NPC vanishes as you leave them behind.
+Melissa:So nothing to do with fruit.
+Tom:Nothing to do with the fruit, no.
+Sabrina:(wheezes)
+Melissa:Got it.
+Taha:I don't even know. I barely know what you would localise 'FIGS' to. So I... Because I'm thinking localised, like regional changes.
+Tom:Yeah.
+Sabrina:Oh, localises, as in you want your NPC to look appropriate for the region.
+Taha:Oh, maybe.
+Sabrina:That the game is played in.
+Tom:To speak appropriately. I think Taha, you're right. It's about translation. About moving things between languages.
+Sabrina:It's when wasps find— sorry.
+Tom:Oh yeah, that's someone else who learned the life cycle of figs at some point, yeah.
+Sabrina:(laughs)
+Taha:FIGS localisation.
+Tom:Mhm.
+Taha:I'm thinking menus. I don't know why. But FIGS—
+Sabrina:Let's come up with an acronym for FIGS as a group.
+Tom:Yep.
+Sabrina:Shall we?
+Tom:Let's do exactly that.
+Sabrina:French! (giggles)
+Tom:Keep going.
+Sabrina:French?!
+Taha:Italian, German.
+Tom:And...?
+Sabrina:Spanish.
+Tom:Correct. It is the localisation of translating things into the main European languages for selling the game. French, Italian, German, Spanish.
+Melissa:Did you just pick the word 'French' out of thin air?
+Tom:We were talking about translations. That was a decent guess.
+Sabrina:(laughs)
+Melissa:Nice.
+Sabrina:I was trying to take the piss. I'm not gonna lie.
+Tom:(laughs)
+Sabrina:(laughs)
+Tom:Congratulations to all of our three players. Well done on a great show. At this point, who do I throw to? Who do I say hello to? I don't— Sabrina, start us off.
+Sabrina:Hi. Welcome to the end of this podcast.
+SFX:(both laughing)
+Sabrina:If you're interested in hearing more— (snorts, laughs) If you're interested in hearing more from the three of us, you can go to youtube.com/answerinprogress.
+Tom:Melissa, what will they find there?
+Melissa:You'll find fun videos of us answering questions like...
+Tom:Taha, what questions?
+Taha:Hello and welcome to the second half of the end of this podcast.
+SFX:(others laughing)
+Taha:And you'll find questions like... why do they have fake buildings in your city? And why does Japanese internet look so weird?
+Tom:And if you wanna know more about this show, you can do that at lateralcast.com, where you can also send in your own ideas for a question. You can find us at @lateralcast pretty much everywhere on social networks, and you can catch video highlights at youtube.com/lateralcast. All the team from Answer in Progress, it is as ever a pleasure to have you. Thank you very much to Taha Khan.
+Taha:Wahey!
+Tom:Melissa Fernandes.
+Melissa:Hello— Bye. Not hello.
+SFX:(group laughing)
+Tom:And Sabrina Cruz.
+Sabrina:I'm sorry.
+Tom:I've been Tom Scott. That's been Lateral.

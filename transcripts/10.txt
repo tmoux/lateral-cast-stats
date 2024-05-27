@@ -1,0 +1,445 @@
+Tom:One weekend, I notice that there are four different days in the week that begin with the letter T. What are they? The answer to that frustrating question at the end of the show. I'm Tom Scott, and this is Lateral. As always, I brought with me an orchestra of three people, and we're gonna see if they can think their way to making beautiful problem solving music together. Joining me are: from the Fearless STEM Careers podcast and BBC Earth's How Do They Build That?, Hayley Loren.
+Hayley:Hello.
+Tom:From Corridor Digital, Corridor Crew, and the Corridor Cast, Wren Weichman.
+Wren:How's it going? Thanks for having me.
+Tom:And from the MKBHD channel and the Waveform podcast, Marques Brownlee.
+Marques:Hello, hello.
+Tom:Thank you very much for joining me, folks. We are gonna go straight into question one. Our questions are lateral thinking. They're like crabs. They move sideways, and once you crack them, they're quite tasty. Sorry, just, I love it.
+Hayley:(laughs)
+Tom:I was gonna try and say that with a straight face. And I just didn't quite get through it.
+Wren:You had no hope.
+Hayley:Do you write that? Did you write that one?
+Tom:No, of course I didn't. I've got a... Our producer wrote that, and I'm sure he is very proud of himself. As always, no prizes, no points. It is just for bragging rights and reputations. So, with the best of luck to you, here's the first question of the day. According to the Stress Management Center in North Carolina, USA, an estimated $700 million of US business was lost on May the 13th, 2005. The situation was three times worse in 2009, 2012, and 2015. Why is that? I'll give you that again. According to the Stress Management Center, North Carolina, an estimated $700 million of US business was lost on May 13th, 2005. The situation was three times worse in 2009, 2012, and 2015. Why is that?
+Marques:Okay, that happened every three years. Was it three times worse each successive time? So then nine times worse, and then 27 times worse?
+Tom:No, just three times worse than 2005 on those years.
+Marques:It was the same May 3rd date on each of those years, or it was just during that year?
+Tom:No, it was May 13th, 2005, and then the situation was three times worse, years later.
+Hayley:So something really good happened every three years then, and progressively better if it was a stress management company that lost money.
+Tom:Oh, no, no, they—
+Hayley:Surely people are very happy.
+Tom:I realise now—
+Hayley:Have I missed this completely?
+Tom:That is ambiguously phrased. The Stress Management Center does not have nearly three quarters of a billion dollars revenue. This is an estimation of the loss to the US economy on May 13th, 2005.
+Marques:Ah.
+Hayley:Oh, so the opposite.
+Tom:Yes, unfortunately. I would love there to be a stress management company that has that sort of revenue and everyone is just really relaxed.
+Hayley:Yeah.
+Marques:I guess I've seen stories of a search engine goes down or something, and then for those 10 hours or however long it was down, nobody could buy things, or nobody's ads were working or whatever. But yeah, I'm not sure if that would happen every three years specifically.
+Wren:'Cause I was thinking, what if it had something to do with some time-based thing? It can't be leap years, 'cause that's every four years.
+Hayley:Didn't the major... There were major crashes in recessions? So there was one in 2009, and then wasn't there a partial double dip recession in 2012?
+Tom:I mean, I'd be surprised if these did something that big. But you're right about there being some sort of repeating pattern here.
+Wren:I wonder if it's... So, lost... Collectively lost money for the entire country. So they're probably measuring a bunch of like tiny intangibles, like productivity or something like that. Maybe they... Because I think I've seen something about we lose a lot of productivity after or we lose a lot of sleep after, say, the clocks change. Wasn't May, it's...
+Marques:Oh, yes. Daylight savings.
+Wren:Daylight savings, yeah. But that's every year, not every three years.
+Marques:Oh, true.
+Hayley:But May, the time shifts slightly, I think every year.
+Tom:I mean, the problem would've happened in other years as well. It's just, it was three times worse those years.
+Wren:Was that 'cause it fell on a Monday or something?
+Tom:Funny you say that.
+Marques:That's definitely it.
+Hayley:Oh.
+Marques:If it falls on a weekday... it's gonna hit worse than if it falls on a... Although daylight savings is usually a weekend, no?
+Wren:Yeah, isn't it always a Sunday?
+Tom:One of my issues with this is, I'm not sure it lost the US economy, as more moved it. They said it lost. I think it more moved things to other days.
+Wren:Uh-huh, okay.
+Marques:I'm going down the path of one hour lost every year, or every daylight savings.
+Tom:It's not daylight savings. That's not May, and it wouldn't have happened three more times. But you're right that it is a repeating pattern, and I've left one very important bit of information outta that question.
+Wren:Gee, thanks.
+Tom:It would also be the answer to the question, unfortunately.
+Wren:Oh.
+Hayley:So is it linked to the people themselves? Or is it an external factor that happens every three years?
+Tom:It's an external factor. It is to do with repeating patterns. It's to do with the calendar.
+Wren:So... The days fall on... Or the days of the week fall on different days.
+Hayley:Oh.
+Wren:Of the month.
+Hayley:Leap years?
+Wren:Every year.
+Hayley:Like every three years is a leap year?
+Wren:But a leap year is every four years.
+Hayley:Oh.
+Wren:Right?
+Marques:Yeah, and this is every three.
+Wren:And that's every three.
+Marques:This is 2009, '12, and '15.
+Tom:So this is something that happened once in 2005, and three times in those other years. It'll happened other times as well. But... it happened three times in those years.
+Wren:Oh. Oh, I mis— I thought you were saying it was three times worse, not three additional.
+Tom:No, it...
+Wren:Times.
+Hayley:Yeah.
+Wren:Oh.
+Marques:Ah.
+Wren:Crazy. I have no idea.
+Tom:You, which is, you are so close. You were nearly saying it a moment ago.
+Wren:May 13th. Oh, is it Friday the 13th?
+Tom:And that's it!
+Hayley:Ah!
+Tom:May the 13th, 2005 is Friday the 13th. The Stress Management Center said, well, that costs $700 million because people don't buy stuff. They don't travel, they don't go, they don't drive the car. They don't go to meetings. They put off things. And 2009, 2012, 2015 all had three Friday the 13ths. So according to the Stress Management Center, that is three times worse, those years.
+Marques:That's incredible. I do know that every month that starts on a Sunday has a Friday the 13th. I did not know it happened that much.
+Tom:Yeah.
+Marques:Wow.
+Wren:My wife is a nurse, and she says that on the hospital floor, there's a couple times throughout the year. All of her patients go crazy, and it's whenever there's a full moon or it's Friday the 13th, and it seems completely stupid. Like I don't believe in that sort of thing. And yet she's like, "I don't either. Why do all my patients consistently be crazy on those days?"
+Tom:Yeah, I've heard that from a friend of mine who's in medical industry as well. It's like something on full moons and Friday the 13th makes a difference.
+Hayley:Is it like a placebo effect though, where people feel like they're allowed to act more crazy, so they unleash their inner crazy?
+Tom:Yeah, I can believe that.
+Wren:I'd believe that, yeah.
+Hayley:Yeah.
+Tom:So yes, the Stress Management Center said that $700 million of US business was lost because of Friday the 13th, and it was three times worse those years, because there were three more Friday the 13ths. Now the tables are turned. One of our guests is going to take over as the host. As ever, I do not know the question. I definitely don't know the answer. I'm gonna start this time with Hayley. What's your question, please?
+Hayley:I hope you like cars. So, a Californian car bears the registration plate, 710 ON. What type of car is it, and why?
+Tom:I have... I'm gonna do the thing where I go, I've got the answer to this, and I'm gonna shut up.
+Wren:You would know the answer to this.
+Tom:No, because I'm gonna— and I'm gonna shut up about why and everything. I'm gonna let you two handle that, because...
+Wren:You probably did some sort of video about this two and half years ago, still sticking around in your head.
+Tom:I'll explain it later. If I explain it more, I will give you the answer. So this one's on you, Marques and Wren.
+Wren:So... License plates usually have more characters than that, unless they're vanity plates. I think. Usually they're like eight characters long, not six. Or five, I guess, right? It could be some sort of government vehicle. Is it a emergency vehicle, like a...
+Marques:California, I do know that there's certain sign, yeah, there's certain signifiers, like in New York, every commercial car, like a taxi or an Uber starts with O, I think. So like, starting with a certain number in California, I don't know exactly what the rules are, but 711... Say it again, what was it? Seven... 710 ON?
+Hayley:710 ON, yeah. N for November.
+Marques:Okay. So I could just, I mean, it probably stands for something.
+Wren:Isn't the 710 a highway in California too?
+Marques:What types of vehicles are there? Motorcycles. Cars.
+Wren:Motorcycles. Dirt bikes.
+Marques:Vans.
+Wren:Non motorized vehicles.
+Marques:Three, four.
+Wren:So this is probably some sort of classification about a specific type of vehicle. And... I don't know. I feel like that's something I would have to look up, you know, it's like... Unless the hint is in the name of the license, or rather, is the license plate name, number, does that actually give us the hint on what type of vehicle it is?
+Hayley:I would say that it's not important in terms of classification. There's important information in all of it. But the 710 specifically, I wouldn't get so hung up on the number.
+Wren:But it is a three digit number.
+Marques:Are they like the 710th... something in California? I don't know.
+Wren:(heavy stuttering) 
+Marques:I'm trying to think of what there could be 700 of in California, like school districts or something. There could be 710... Golf courses.
+Wren:Golf courses. There's probably a lot more than 710 fire stations.
+Hayley:Okay. Forget the 710 specifically. Let's say. I like what you were— So near the beginning. You said something about how many digits are in a normal number plate, and what a shorter number plate might mean as well, so.
+Wren:'Cause I've seen like those government vehicles that look kind of like a police car, but kind of not, and it says CA exempt or whatever on its.
+Tom:You are exactly right, Wren, that this is a vanity plate. Assuming that I've not completely got some coincidental answer here, you're absolutely right. This was a chosen vanity plate.
+Hayley:Oh, sorry, I didn't hear you say that before.
+Marques:A real, is this a current plate or a historical?
+Hayley:It is a current plate. Yeah, so it's somebody boasting.
+Wren:So maybe this dude has 700 something somethings, starting with O and N. O and N might be... the initials of whatever this is, the...
+Marques:Yeah.
+Wren:He has 710... orange nuggets.
+Marques:Oh, I like that.
+Hayley:Can I give another hint? Although the hint would be like a big hint maybe.
+Wren:So, I mean, are we on kind of the right path here in terms of like...?
+Tom:I'm gonna come in with a thing here, and that's there's a reason that I got this immediately. And it's nothing to do with knowledge they already had, and nothing to do with anything like that. It's the fact that I'm holding a pen.
+Marques:Oh, whoa.
+Wren:Huh.
+Tom:And I was taking notes.
+Wren:Well, you can't take notes with a pen if you don't have hands. This guy might be an amputated, a doctor who does amputations.
+Tom:I thought that was just a threat. I thought that was just a threat. No, I was just taking notes as the question came out, and just sort of got it.
+Hayley:It could help.
+Marques:Oh, should I draw 7-1-0 O-N...
+Wren:Loon? 7-Loon, Sloon? N-O-O-L-K?
+Marques:K?
+Hayley:Hmmm?
+Marques:N-O-O-L.
+Wren:Newl— N— Newells?
+Marques:Nool.
+Wren:Nook.
+Marques:N-O-O-L. T maybe?
+Tom:I know this is primarily audio, but for those of you who are just in audio, I wish you could see the looks on Hayley and my faces right now because it's so close.
+Wren:We're so close.
+Tom:Marques, we got this. I'm like it. We have to get it.
+Marques:I'm drawing it in front of me. So 7-1-0-0-N. 0-0-N is obvious, right? Zero-O-N is O-O-N. Theoretically so it's— What is a 7-1? So 7-1 to me could be a K backwards. I need to write it down, hold on. Let me open my notes app.
+Wren:Seven out of...
+Tom:Are you using an iPad to write this down?
+Marques:Yeah. 7-1-0.
+Tom:Yep, that's on brand.
+Marques:O N.
+Tom:You've tried reflecting it, and you've tried reading it backwards.
+Hayley:Yep.
+Marques:Okay, turn— If I go upside down with it, that's N. Upside down is still N. O-O.
+Wren:Nool. Noolt?
+Hayley:Getting close.
+Marques:Seven.
+Wren:Seven would become an L upside down.
+Hayley:Yes.
+Wren:But the— nool— Newell— No-I-ul? Is the one an I, or L as well?
+Hayley:Think of cars.
+Marques:Newly married, newly... It's a California car. Newly...
+Tom:You've literally got it. It is N-O-O-I-L.
+Hayley:What do you have to put in some cars?
+Marques:No oil? It's a Tesla?
+Hayley:Yes!
+Wren:Oh my god!
+Hayley:Yes!
+Wren:I've seen this one before, all the time, "No oil"! This is on an electric car! The most cliche of electric car license plate jokes ever! And I couldn't guess it!
+Marques:I've probably seen this car. That's brutal.
+Tom:The first thing I did was, the only reason I got that immediately, I would've been flailing around the dark as well, is I just, I wrote down those up. Well, that's got all my notes on it. But I wrote down those letters, and my brain just did the inverse. "Oh no, I've got this. That's a pun." So, sorry folks. The looks on your—
+Marques:Wow.
+Tom:I've not seen you that angry, Wren.
+Wren:I should have gotten it!
+Hayley:You were like so there as well for so long.
+Marques:Oh man. I was gonna say it earlier, 'cause we were talking about vanity plates. There is somebody in California with the MKBHD license plate on their car. I don't know who they are, or when they got this plate, but it exists somewhere over there, and it is a Tesla. And I was gonna bring that up, but I never said it. But now that would've been even weirder.
+Hayley:That is specifically the answer. It's on a Tesla and it says no oil. Yeah.
+Tom:Next question is from me. I think Wren is still angry about the last one. So we'll move on. This one is a lot shorter and a lot quicker. Why did some British police forces start giving out free lollipops? I'll give you that again. Why did some British police forces start giving out free lollipops?
+Hayley:Is this when it was the massive heat wave, and it was so, so hot and 40 degrees, and everybody needed ice lollies? I went to the train station to get a train, and people just kept handing me ice cream, and it was amazing.
+Tom:No, but I saw both the Americans' brows furrow for a moment when you said it was really hot and 40 degrees.
+Wren:I know Celsius.
+Marques:Yeah, that would be Celsius. Yeah, yeah.
+Tom:No, this is a story from 2011. The one police force tried it, and then a few others rolled this out.
+Wren:Everyone was being a little too bitter about their lives, so they tried to sweeten it up.
+Tom:It's the only thing I can...
+Hayley:I like that.
+Wren:Okay, but what is the purpose of a lollipop though, right? It's a sugary substance someone licks on for ten minutes, and then it's done. Why would they hand those out for free?
+Marques:Sometimes they have gum in the middle. But maybe not all of them. Some of them.
+Hayley:To cheer people up?
+Marques:It sounds like they're trying to cheer people up, and maybe... So some police forces tried it and it worked, so some more of 'em did it. But why were they, I mean, lollipop seems like... I was gonna say they're arresting a bunch of kids and they're like, "Oh, we kept lollipops in the back of the car." But that's kinda dark.
+Wren:The back of their white van.
+Hayley:Is it? I always remember when I was young that my mum would always say, you know, stranger danger, and never take lollipops off a stranger. So were these police officers pretending not to be police officers and testing whether kids were actually following them?
+Tom:It's not that, but I know way, way back when I was at university at some point the local... I guess the US translation would be like RAs, The kids whose job it was to keep an eye on the halls of residence, on the dorms, would check people's doors, knock and see if they— And if they could get into an unattended room, they'd just kind of leave a sticker behind that said, "I could have nicked your laptop" or something like that.
+Hayley:Ah.
+Tom:Unfortunately, not quite that sort of thing, but you're all right in that it was a behaviour type of thing. It was trying to get people to do something.
+Wren:To shut up.
+Tom:Well... you say that Wren. Yeah. Yes. That was the goal. Why would they want that to happen?
+Wren:This happened in 2011.
+Tom:Yeah, I mean, it could have happened any time. I'm sure some of them are still doing it.
+Wren:Some sort of like political speech perhaps?
+Marques:Like a pacifier?
+Tom:Well...
+Wren:An adult pacifier.
+Tom:I mean... you're not far away. You've lasered in on this fairly quickly. There's one key element that's missing, which is why would the police be trying to get people to shut up?
+Hayley:Were they, were people filming something really important, and then there was a crowd and they were shouting? No?
+Marques:Was there a noise complaint?
+Tom:There might well have been, yep. You gotta remember also this is... particularly for the Americans, this is sort of British community support police. So it's not necessarily investigating a crime or anything like that. It is trying to quite literally keep the peace.
+Wren:Was there like a concert and it was too
+Marques:loud for the neighborhood? And they're like, "Alright, everyone stop yelling. Put this in your mouth."
+Tom:Oh, you're so nearly there. You're so, so nearly there. Yeah, it's absolutely trying to get a big group to be quiet. But there is a particular reason and location, and a reason why this will particularly work right then.
+Marques:Is it some sort of a tourist location where people are making noise and they want the residents, the residents want them to be quiet, so they... the police hand them lollipops, and now it's quieter at that location?
+Tom:Yes. It's not a specific location. It's a place and time. Not like a specific one, but just when you'd have a rowdy crowd waking people up.
+Hayley:Football? Why does my head go there?
+Tom:Man, this says something about the personal lives and entertainment lives of folks who are on YouTube and doing podcasts right now. I will say that I have seen this firsthand once.
+Wren:Whoa.
+Marques:Nightclubs?
+Tom:Yes.
+Marques:Just that night?
+Tom:Absolutely spot on. The police were...
+Marques:Wow.
+Tom:As the nightclub was kicking out, as a big group of rowdy, drunk people went out into the night, the police handed out lollipops to try and keep people quiet while they got away and didn't wake up the residents. You are absolutely right.
+Wren:Wow.
+Tom:That was a lovely team effort from people there.
+Wren:Wow!
+Marques:Wow. That's so, that's really interesting.
+Wren:That makes a lot of sense.
+Hayley:I never had that, whenever I went back in the day, when I used to go clubbing. I never had that.
+Tom:Yeah apparently it happened first in Canada. The reference we've got is from Britain in 2011. But yes, I have once left a nightclub. 2011 was after I left university, so honestly, I'm not sure which one it was or where it was, but I was given a lollipop as I left, as kind of a... "Could you just stay quiet for a bit?" And equally like in some cases, the nightclub started paying for them themselves, because it was just better than getting all the noise complaints from the residents down the road.
+Wren:Dang.
+Tom:So, yes, in 2011, a few British police forces started giving out lollipops to get nightclub goers to shut up after they left. Time for the tables to be turned again. We're going to Wren for this question, and as ever, I've got no clue what this is. So when you're ready, it's over to you.
+Wren:Alrighty. In 2012, the athlete Maria Dmitrienko from Kazakhstan won a gold medal at an international shooting competition. However, a mistake at the medal ceremony caused her country's team to complain, so the ceremony was restaged. What went wrong?
+Tom:A mistake at the medal ceremony?
+Wren:I'll say this one more time. So, in 2012, the Olympics... I hope I'm pronouncing this name correctly. Maria Dmitrienko from Kazakhstan won a gold medal at an international shooting competition. International shooting competition? I was presuming it was the Olympics, perhaps it's not. However, a mistake at the medal ceremony caused her country's team to complain, so the ceremony was restaged. What was the reason for the restaging?
+Marques:There's a bunch of things that happen at the medal ceremony. I think national anthem is always one of them. They might have played the wrong one or something. They could have also pronounced their name wrong, which would be... rough.
+Hayley:Yeah.
+Marques:But I don't know if they would restage the whole thing for that. Did they... You know how you stand on those podiums? Did they mess up the flag or put them on the wrong podium or something like that?
+Tom:Yeah, I feel like there's a limited number of things that can go wrong at the medal ceremony, unless you bring the medals in by like eagle and it flies off with them. Are we anywhere close?
+Wren:Perhaps. I think it's important to note that Dmitrienko had not been expected to win. So the tournament organizers were not really prepared for it.
+Tom:Oh, they've... Did they not have the flag? Did they just not have flag or anything ready, and they had to like just improvise it with someone else's?
+Marques:Yeah, if you're not expected to win, sometimes they preset some different version of the ceremony. A lot of trophies will have the name of the winner carved in it right as they're walking off the final thing or whatever. But I don't, I don't...
+Tom:What year was this?
+Wren:This was in 2012.
+Tom:Okay, so I was weirdly, for some reason I was gonna say Napster. Someone went on YouTube and downloaded the wrong national anthem, 'cause they typed the wrong country or something. Cause they were panicking. You're giving me a look into the camera there, Wren.
+Wren:I mean, this happened to the winner. It wouldn't have happened to second or third place.
+Tom:It's gotta be flag or anthem. It's gotta be, surely, Wren.
+Wren:I mean, yes, you're on the right course. Absolutely the correct course.
+Hayley:Is it something to do with the medal itself? Did they not have the appropriate gold medal or the wrong one?
+Wren:I believe she received the correct medal.
+Hayley:Okay.
+Tom:What was the country?
+Hayley:Kazakhstan. Are you smiling?
+Tom:Wren's got a smile on his face. There's a clue there, alright.
+Wren:Kazakhstan is very relevant.
+Hayley:Do we know what the flag is?
+Tom:I don't know that I... It's the sort of thing that a quiz nerd would know immediately, but I don't have the Kazakhstan flag or national anthem in my head.
+Wren:Yeah, does anyone know what the Kazakhstan national anthem is?
+Tom:I mean, it's gonna be to the tune of God Save the Queen. They all are, but...
+Marques:Yeah, I have no idea. That's a good question.
+Wren:Kazakhstan. That's the biggest hint you can have. Kazakhstan. I can't believe this actually happened.
+Marques:Did they play a different country's national anthem?
+Wren:Close.
+Tom:Is it like a an internet prank thing, where there is like a wrong version of Kazakhstan's national anthem and they just like... Someone quickly googled it and went, "Oh my God, we're just gonna play this out."
+Wren:Who do you think might have made a different Kazakhstan anthem?
+Hayley:Oh, it wasn't Borat's Kazakhstan's anthem, was it?
+Tom:Oh my god. It must have been. Wren's got a smirk on his face.
+Hayley:No!
+Tom:Oh!
+Hayley:No way.
+Wren:I can't believe it. Instead of the actual Kazakhstan national anthem being played, a parody anthem from Borat was played at this event.
+Tom:Wow!
+Wren:So of course, Maria Dmitrienko was a little upset over that.
+Tom:Yeah!
+Wren:Of course.
+Marques:Understandably.
+Hayley:Oh my goodness.
+Tom:Wow.
+Wren:But you prob— I don't know if this was, if there was malicious intent here or not. Like maybe it was exactly what you said. "Oh, what is the anthem? We didn't expect her to win. YouTube it." Oh, here's, oh yeah, Kazakhstan Anthem, cool." It's like...
+Hayley:(pained chuckling)
+Tom:Oh.
+Hayley:That is so bad.
+Marques:Somebody got fired. Wow.
+Wren:So yes. In 2012, Maria Dmitrienko from Kazakhstan won a shooting competition, and they weren't really prepared for it. So the anthem they played was from the movie Borat. Very controversial film at the time, makes fun of Kazakhstan quite a bit. So of course, her team was not pleased, and they had to restage the ceremony.
+Tom:The last big question from me then. One left from a guest but the last big one from me. Why might a company advertise a telephone number that is one digit longer than its actual number? I'll give you that again. Why might a company advertise a telephone number that is one digit longer than its actual number?
+Marques:I believe that it won't actually input the last number. So maybe they wanted to spell a word, and you spell the word, and it's got an extra letter, but doesn't matter. You typed the right number anyway?
+Tom:Well yes. That is the correct answer.
+Marques:Oh, okay.
+Hayley:Oh, Marques!
+Marques:Tight.
+Tom:Wow, okay.
+Wren:Here I was thinking they just didn't want anyone to actually call them.
+Tom:Normally we have some discussion at this point, but Marques, your knowledge of telephone exchange protocol means that you've got that exactly right. Immediately.
+Wren:Wow.
+Tom:Yeah. 1-800-MATTRESS would— is one letter too long, but it doesn't matter, 'cause by the time you press a second S, it's through. 1-800-CONTACTS. There's all sorts of numbers like that,  where they just add an extra one. It's called vanity overdial. So... cool. Well that question got beaten. Congratulations. I'll just screw that up, and we will move on.
+Hayley:Yay, go Marques.
+Wren:Good work.
+Tom:Which means we move on very rapidly. Marques, it's your question. Take it away.
+Marques:Alright. Here's a fun one. Metallica's tour took 11,592 days to do this. Khawla Al Romaithi did this in just over three and a half days. What was the feat? So I'm gonna give you it one more time. So Metallica's tour took 11,592 days to do this. Khawla Al Romaithi did it in three and a half days. What did they do?
+Wren:I'm pretty sure I know this because...
+Tom:Oh no, hold on, hold on.
+Wren:A notable thing.
+Tom:If you think you know it... Do you wanna take that risk and just leave Hayley and me to go for this? 'Cause we've already lost one question to Marques just getting it right. If you wanna take the gamble on this, write down your answer. We'll see if we get it.
+Wren:Okay.
+Tom:I'm gonna write down what I think the answer is. And it has everything to do with the final concert of Metallica.
+Hayley:I was gonna say, is it Metallica specific?
+Tom:Okay.
+Wren:Not the final concert, but the final concert of this feat is notable.
+Tom:Okay, Wren has Metallica knowledge and has got this. It's on you and me, Hayley.
+Marques:Yeah.
+Tom:11,592 days. I mean, that is... I mean, back of the envelope maths, that is... 30 years?
+Hayley:Yeah.
+Marques:Yeah, that's correct.
+Tom:But we know from Wren, it's something about the last bit of the tour. They completed a feat.
+Marques:Yes.
+Tom:What sort of things do bands do on tour?
+Hayley:Get drunk?
+Tom:(laughs)
+Hayley:Have fun?
+Tom:Bite the head off a bat. It's the wrong group, but...
+Hayley:Yes.
+Tom:It took, so it's something that can be done in three and a half days, but can also take 25, 30 years.
+Hayley:But that's a feat, so it's an accomplishment, is it?
+Tom:Yeah, it's not like they suddenly started crowd surfing or something like that. Could they have done this on day one, Marques, or is this something you would have to have worked up to and built up to?
+Marques:This could not have been done on day one, and they did have to work up to this, yeah.
+Tom:Alright.
+Hayley:But then it can also be done in three and a half days. So is this the loudest cheer or something like that in decibels?
+Tom:Breaking the world record or something like that, for the loudest... for the loudest crowd, loudest amplifier.
+Hayley:Or the loudest guitar solo?
+Marques:It's funny you mention a world record.
+Hayley:Mm?
+Tom:Okay. Large— Biggest crowd, something like that? Did they... What was the other band person's name?
+Marques:So Metallica took 11,592 days to do this. Khawla Al Romaithi did this in three and a half days.
+Hayley:So it does need to build up as well. So...
+Tom:Three and a half days to rattle through something that can be done in 25— Is it like accumulating something here? Like there's...
+Marques:I am nodding.
+Tom:Okay. So what can you accumulate that slowly or that quickly?
+Hayley:Out of interest as well, is Khawla, is she a similar... in a similar area as Metallica? Is she like heavy metal, right, heavy rock?
+Marques:No I—
+Wren:She is the master of puppets.
+Marques:Yeah. What they've both done is very impressive, and some might assume reasonably costly. Both parties were recognized by the Guinness Book of World Records.
+Hayley:Is it something specifically to do with Metallica? Could any band have done this, or is it quite specific to Metallica?
+Marques:Any band could have done this, but Metallica was the right band to do it.
+Hayley:Okay, so it's pretty crazy.
+Marques:It's pretty crazy.
+Tom:Romaithi... Is that the same genre of music, or is this like something completely different?
+Marques:Romaithi is not playing music. She wasn't even performing.
+Hayley:Interesting.
+Tom:Oh, I should have asked that question a lot earlier. Okay.
+Wren:That kind of changed my thought a little bit here.
+Tom:Oh, this...
+Wren:Are you backtracking?
+Marques:You're, I can tell you're still correct, but you might be learning about Khawla.
+Wren:Yeah, I think that's it. I didn't know about her.
+Marques:Yeah.
+Hayley:Okay.
+Tom:Oh!
+Wren:Remember, it took them that long to do the tour.
+Tom:Most locations in a tour? Like Romaithi just did a whistle stop tour around a hundred stadiums in, in three and a half days?
+Marques:You're warmer. You're very warm.
+Tom:Okay.
+Hayley:Ooh. Going round every single country?
+Marques:Spicy. You're hotter.
+Hayley:Spicy. I like that.
+Tom:Wait, Metallica had a single tour that lasted 25 years?
+Marques:More or less, their touring career.
+Tom:Okay.
+Hayley:Okay. So visiting every single country. Or every single city.
+Tom:Every single state, every single something, every city, every arena, every... they've completed a grand slam of something in the world. And the look on your face, Marques, is that we cannot identify the damned something! They've managed to do every... (growl) 
+Marques:So again, Khawla did this in three and a half days, really impressive Guinness World Record.
+Tom:And what, Metallica were the first to ever do it. So she's the fastest and they're the first? Okay.
+Hayley:Okay. Is it more impressive, Khawla doing it in three and a half days? In a physical sense?
+Marques:Yes.
+Hayley:Metallica did this, so walking...
+Marques:Oh, you're so close.
+Hayley:To every single country?
+Marques:Just keep going down that trail.
+Hayley:Running around every single country. Literally walking around the world.
+Marques:Oh, you're...
+Hayley:Running around the world.
+Tom:Help me, Tom! I don't know!
+Hayley:Around the world.
+Tom:I dunno. This is deeply, deeply frustrating!
+Marques:Oh man.
+Hayley:We're in the same place.
+Tom:Wren, you might have to just save us here.
+Wren:There's one specific location that makes it very difficult to complete this challenge.
+Tom:Hawaii. Space. The... under the sea.
+Hayley:Antarctica. Playing in every continent.
+Marques:Yeah, that's it. That is it.
+Tom:Oh.
+Marques:That is the one.
+Tom:Oh, that was like pulling teeth!
+Hayley:Oh my goodness.
+Wren:I wrote concert on every continent. But perhaps concerts isn't the correct word. Since this other performer didn't sing or perform music.
+Marques:So Khawla simply had to, she simply had to visit all seven continents in three and a half days, which is incredibly impressive. Which is the fastest that anyone's ever done it. So, Metallica's concert started in Anaheim, California, March 14th, 1982. And in 2013, they played their final concert for 120 scientists and competition winners in a transparent dome in Antarctica. The concert was called Freeze 'Em All.
+Hayley:That's so cool.
+Tom:So it wasn't a performance, it was just getting to all the continents as fa— Metallica did it first.
+Hayley:Wow.
+Tom:And she did it fastest.
+Marques:Metallica did it first, and she did it fastest. So they completed that same feat.
+Hayley:That's so cool.
+Marques:Khawla's route, by the way, unbelievable. Khawla started in Antarctica, then did Africa, Asia, Europe, and the Americas before setting foot in Oceania.
+Wren:Well, dang.
+Tom:Wow.
+Wren:I would've expected Antarctica to be the last one. 'Cause that is like, you do all these ones that are close together, then go to Antarctica. That's far away.
+Tom:No, 'cause you don't want the plane to have to wait for you. You do the difficult journey first, and you start the clock just as the wheels go up.
+Wren:Mm.
+Marques:Yeah. Sounds like you've done this before.
+Hayley:I love that it's for the scientists as well, because yeah, all of those folks who are out in Antarctica, they don't come back for six months, or even a year, because they can't get access to them. It's amazing. In fact, being in Antarctica is almost being more distant and further away than if you go to space, because there's more communication in space.
+Marques:Yeah, super isolated.
+Tom:But less Metallica.
+Hayley:Yeah, exactly.
+Marques:So Metallica's tour took 11,592 days to perform in all seven continents. And as we know now, Romaithi was able to visit all seven in three and a half days. Both world records.
+Tom:One last order of business then, folks, which is the deliberately frustrating riddle of a question that I got at the start of this, which is that: One weekend, I noticed that there were four different days in the week that begin with the letter T. What are they? And I just, I feel like I should— this is the audience question. I'm not gonna ask you to pour over it for ages, but does anyone have any ideas what the little trick in here is?
+Wren:There's only two. There's only two days in the week that start with T: Tuesday and Thursday.
+Tom:Yes.
+Wren:Unless there's Tunday and Taturday.
+Tom:There's clearly a trick here, and I'm pointing out that I said that this was noticed on the weekend.
+Wren:The weekend. Days of the week.
+Tom:So there are some other words you can use to describe days.
+Hayley:Oh, thirsty— thirty—
+Tom:Oh no, that is thirsty Thursday.
+Wren:Thirsty Thursday.
+Hayley:Thirsty Thursday.
+Marques:The top of the week.
+Tom:But you're thinking the right, with top of the week and with 30th. I can't really let you have 30th and 31st. That wouldn't work. But there is some other words being used to describe days of the week here.
+Wren:So there's Tuesday, Thursday, there's probably two more fun tricks.
+Tom:You you use these words all the time.
+Hayley:Oh. That's definitely something for Friday then.
+Marques:On the weekend?
+Tom:Yeah this is just a really, really riddley, horrible question.
+Wren:It's gonna be some sort— Okay, you said it's a common word we use frequently, so it's probably not some sort of...
+Tom:You'll have used, you'll have used it today. You'll use it tomorrow.
+Marques:Oh, that's it, today and tomorrow.
+Tom:Yes it is. It is. I knew I was gonna get more anger outta that from Wren! It is Tuesday, Thursday, today, and tomorrow. I'm sorry. I'm so— It's in my script.
+Hayley:That is infuriating.
+Tom:Blame our question editors for that one. That was...
+Wren:That's a good one though. I like that one.
+Tom:Thank you very much. With that, tell us what's going on in your world. Marques, let's start with you. Where can people find you?
+Marques:I'm out here making tech videos on the internet, /MKBHD anywhere. That's me.
+Tom:Hayley, go for it.
+Hayley:You can find me on the Fearless STEM Careers podcast, if you're a scientist and engineer or anybody working in STEM. And I am at @TheHayleyLoren.
+Tom:And Wren, what have you got going on?
+Wren:You can find me at Corridor, Corridor Crew. We do a lot of filmmaking videos, technology, AI driven stuff. It's pretty fun.
+Tom:That is our show for today. Thank you so much. Wren, I'm sorry for making you so, so angry there. If you wanna know more about the show or send in a question, you can do that at lateralcast.com. You can find us at @lateralcast on basically everywhere, and you can catch video highlights of the show at youtube.com/lateralcast. Thank you to Wren Weichman.
+Wren:Yeah, thanks for having me. I'll never forget "no oil".
+Tom:To Marques Brownlee.
+Marques:See you later y'all.
+Tom:And to Hayley Loren.
+Hayley:Thank you so much. It's been super fun.
+Tom:Thank you very much. I've been Tom Scott, and this has been Lateral.

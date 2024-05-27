@@ -1,0 +1,464 @@
+Tom:In 1981, why did 300,000 people turn up for a funeral ceremony when no one had died? The answer to that at the end of the show. My name's Tom Scott, and this is Lateral. Alright, take five factorial, integrate that with respect to x, add Graham's number, divide by pi, equals... three. Yeah, we've got three guests. We are good to go. And those three guests are, first of all: someone who in the pre-game chat suggested that he should be described as "writer and YouTuber and whatever, I guess." Please welcome Brian David Gilbert.
+Brian:Hello.
+Tom:Welcome to the show. You are one of three first-time players today. How are you feeling about being on the show?
+Brian:I'm gonna crush it.
+Tom:(laughs)
+Brian:I'm going to absolutely destroy, and I'm here to win, and nothing else. Not be entertaining, not be fun, just very competitive and angry. The entire time.
+Tom:Aren't you doing some appearances on Dropout right now? I feel like there's more of a... there's more of a competitive vibe than I'd normally get from you.
+Brian:Yeah, you're right. I think it's just slowly been seeping into my psyche over the course of however many game shows things I've been doing.
+Tom:Well, thank you very much for joining us. Good luck today. Next up, we have professional domino artist and YouTuber, Lily Hevesh. How are you doing?
+Lily:I'm doing amazing. I'm so excited. I don't know the most about trivia, but, you know, I think we're going to work together and get some good stuff. So it's going to be fun.
+Tom:Yeah, this is absolutely a show where... if you think of an answer that might be completely off base, completely ridiculous, say it anyway, because if it's wrong, it probably will set something off in someone else's head. I have to ask: domino artist. There aren't that many people who can claim to have that level of success with what you're doing. How often are you spending days now on the ground just racking up dominoes?
+Lily:Yeah, you know, it varies. Sometimes, I'll be on the floor for five days a week just setting up, really intense. But then there's other weeks where I'm literally not even touching a domino. I'm just on my computer, planning things, emails, calls. That admin kind of stuff. So it varies.
+Tom:Alright, well, very best of luck today. Our last player is mathematician Hannah Fry, who I last saw... Did we last meet... was it the Christmas Lectures? I think we've seen each other since then, haven't we?
+Hannah:Yeah, we have. But I think that's where— I seem to remember being on a bus with you somewhere in Alabama.
+Tom:(laughs) That was it.
+Hannah:In the middle of nowhere.
+Tom:Yes.
+Hannah:Very tired. I think you've been on about day 580 away from home.
+Tom:Yep. Yep. It was exhausted traveling through Huntsville, Alabama. That was it. The last time the world saw us on the same place, that was the Christmas Lectures a while back. How are you doing? What are you working on at the moment?
+Hannah:Oh gosh, all sorts of things. I'm writing a new book. I have just finished making a new series for the BBC called Secret Genius. I've got a new podcast that's out. I mean, lots of things. Lots of things, Tom. Too many to mention.
+Tom:Alright. Good luck to all three of our players. Looking at my wristwatch, it looks like Mickey Mouse is telling me it's puzzle o'clock. So let's get going with question one. Paul Brown earned over $13 million by working out how to turn something upside down. What was it? I'll give you that one more time. Paul Brown earned over $13 million by working out how to turn something upside down. What was it?
+Brian:It was a lottery ticket, and he had originally written the number six, but then he flipped it over to a nine, and then that was the winning number, and that's how he won all that money.
+Hannah:What about an aircraft? So... I mean, I'm not really sure where I'm going with this, but aircraft can fly upside down, and the first person to have done that must have been like, worth a lot of money.
+Tom:Hold on. I know aircraft can do barrel rolls. I've been in an aircraft doing a barrel roll. I did not know aircraft could fly upside down?
+Hannah:Yeah, well, this is the whole thing. That's the whole reason why aerodynamicists get really, you know, hoity-toity with each other arguing about Bernoulli versus Newton. Because all the Bernoulli people are like, oh, it's because pressure and speed, and that's the reason why aircraft can fly. And then the Newton people are like, how come planes can fly upside down? I— I mean, I've never been in one when it flew upside down, but I...
+Tom:I recommend it. It's fun.
+Hannah:(giggles)
+Brian:Wait, Hannah, I'm sorry. I just want to double check that you are saying that actual aerodynamic physicists are like, "I guess planes can do it," and they're just, and we're all just cool with that? We're all just 100% fine with that?
+Hannah:Yes!
+Brian:Okay, I'll drive, I guess, everywhere from here on out.
+Hannah:No one really knows how planes fly. And I have a PhD in aerodynamics.
+Brian:Okay.
+Hannah:So...
+SFX:(Tom and Lily laugh)
+Hannah:That's the official line.
+Brian:That makes me feel great. That makes me feel super, super good.
+Lily:I feel like it's something that, it's like... You turn it upside down, but it's something unexpected, but makes total sense. You wouldn't think of it, but it's like, oh yeah, obviously, you know?
+Tom:Yeah, almost certainly, all three of you will have seen this thing. Both right side up and upside down.
+Lily:So it's something very common.
+Tom:Yeah, most Western households will have this product, or will know someone who has this.
+Hannah:So you reckon I've got one in my house?
+Tom:I think there's a... 50-50 chance that you've got something like this in your house.
+Lily:Is it in the bathtub, when you turn the knob, and you turn it upside down? I don't know. Something like that?
+Brian:Someone pushed too far, and found that it still worked, and made the water warmer, and it was nice. (chuckles) If— Okay—
+Lily:(chuckles)
+Brian:When you first said that it's in every Western household, that stopped my original idea, but I'm still gonna say, was it the inventor of... Oh my god, why am I bl— The hourglass. That's what the term is. Is it just—
+Tom:Oh.
+Hannah:That's cute.
+Brian:But then I was like, every Western household, every weird alchemist in the world still having their hourglasses ready to go. And I was like, there's no way you made one— or $13 million or whatever it was off of just being like, hey, check this out, isn't that fun?
+Tom:Man, I can use my hourglass more than once now!
+SFX:(group laughing)
+Brian:Exactly. It was single use for the first centuries of it. It was wild.
+Hannah:I mean, to be fair, the things— the time pieces that predated hourglasses were candle clocks, right? Which essentially were single use. So I mean, I'm into it. Okay, wait, Tom, can I ask a question?
+Tom:Yeah.
+Hannah:When you have it in your house, do you only ever have it one way up?
+Tom:Yes, in this case. For this new, improved version of it.
+Hannah:Improved version?
+Tom:And, you're absolutely right. Between you, you've honed in that this is definitely an invention.
+Lily:I don't know why, my brain is going to... food that's stuck in a container, but then you spin it around, so then it can come out easily. You know, something like that. Or shampoo that's at the end of the bottle, and then you have to get all the rest of it out.
+Tom:Yes.
+Lily:Wait, really?
+Tom:I don't know where that came from, Lily.
+Lily:No way!
+Brian:What?
+Hannah:What is it?
+Tom:—where on earth that sudden bolt from the blue came from.
+Lily:Oh my god.
+Tom:You're gonna have to nail it down a little bit more than that.
+Hannah:Hang on, is it ketchup? The upside down ketchup bottle?
+Tom:Yes, it is.
+Lily:Okay, I have a story about that. I have a good friend. His name is Joseph's Machines. He does Rube Goldberg type stuff, and he made a machine that spins around like a giant fan, I think, and it has ketchup attached to it. And that gets all the ketchup out. I think that was just in the back of my brain.
+Hannah:Amazing.
+Tom:Yes, you are absolutely right. It was Paul Brown, 1991. He designed a valve that would allow shampoo bottles to sit upside down in the shower so you could squeeze out just the right amount. And that was eventually sold to Heinz, and eventually he sold his company for $13 million.
+Brian:And also super, I just want to say. Definitely deserved all that money because that is extremely important in my personal life. I really care a lot about that invention. That's very important to me. I can't believe I didn't think about it.
+Hannah:The main thing that I'm thinking about now though, Tom, I've got to be honest, is your estimate that only 50% of Western households have ketchup.
+Tom:I think that, I think I stand by that number. I'd guess about 50%.
+Hannah:Hang on, hang on. Let's do a study here.
+Tom:(laughs)
+Hannah:Lily and Brian, do you have ketchup in your house?
+Lily:You know, it's funny. I actually don't really like ketchup except on hamburgers and hot dogs. So I have one singular ketchup packet that I got from Wendy's. That's it.
+Tom:Also, there's still some people who are gonna buy the old school glass bottles.
+Hannah:Yeah, that's true. That's true. This is very true.
+Brian:They're the same people that have hourglasses in their house. It's the same exact Venn diagram there.
+Tom:Each of our guests has brought a question along with them. I think after that, Lily, we're going to go with your question first. Whenever you're ready.
+Lily:Sure. So this question was sent in by Phillip Hodgson. And the question is: Why are children all around the world grateful that Eric McMillan looked at a jar of pickled onions in the 1970s? One more time. Why are children all around the world grateful that Eric McMillan looked at a jar of pickled onions in the 1970s?
+Hannah:Is he the guy who invented Monster Munch?
+Tom:(laughs)
+Lily:I don't believe so.
+Tom:Okay.
+Hannah:Lily, I don't know whether that's transatlantic.
+Brian:That definitely isn't, but I have been in the UK, and I have to say I'm so upset that I can't get pickled onion Monster Munch in America. Sorry, if we can't talk about that brand's name. I don't know if that's allowed.
+Tom:How do we translate that, Brian? Between us, we've both spent time in both countries. How do you translate pickled onion Monster Munch to that side of the Atlantic? I'm not worried about Australia. Australia will have something equally...
+Hannah:Disgusting.
+Brian:Absurd, yeah.
+Tom:I was gonna go with tangy, but let's go with equally mouth puckering.
+Hannah:So Lily, have you ever tried them?
+Lily:Pickled onions?
+Hannah:Pickled onion Monster Munch.
+Lily:No. What is Monster Munch? I actually don't know what that is.
+Tom:Monster Munch are like maize snacks. Like corn snacks, in the shape of... monsters, ostensibly. They're just weird.
+Hannah:Monster feet, specifically.
+Tom:Monster feet, yes. So it's just like if you took a really cheap corn chip and then just covered it in onion and vinegar flavouring so much that you kind of go (sharp slurp) when you eat it.
+Hannah:It sort of leaves you with ulcers.
+Tom:Yeah.
+Brian:Also, I think that when you desc— it's an intense flavor, and I want to say that the texture specifically, it's like, what if you took a normal cheese doodle, and you made it painful? It's, just like, what if it was harder and sharper? What if you took it and then you eat it, and it feels like you're chewing glass? But also, you want to. It's the best. I love it.
+Hannah:(snickers) They are amazing.
+Tom:It's the savory equivalent of Cap'n Crunch.
+Brian:(wheezes) Yes.
+Lily:Okay, got it. Sounds like it's for certain people.
+Hannah:Oh, yeah.
+Tom:I kind of assume that this is a British question because we have pickled onions, the 1970s, and a bloke called Eric. And I just feel like this is a British thing.
+Lily:Yeah. It could be considered, yes.
+Tom:Okay, so what else looks like... Pickled onions is like— And they're tiny... miniature onions. I don't know what the technical term for it. Silver skin onions or something like that.
+Lily:Small balls in a jar.
+Tom:Yeah, small balls in a jar of murky looking fluid.
+Lily:Yeah.
+Brian:Yeah, yeah.
+Tom:Is there anything like that, that school children are... used to seeing? Some cartoon character that's based around that? I don't know. School children, specifically?
+Lily:So, parents are actually grateful that he looked at this jar, too.
+Hannah:'Looked at' seems like such a strange...
+Brian:Yeah.
+Tom:It's gotta be visual inspiration for something that he designed, invented, made.
+Lily:Yes, you're on the right track.
+Brian:Did he invent the first... one of those plastic ball pits that you find in... the weird little playgrounds in—
+Lily:Yeah! That's it. That was so fast.
+Brian:Is that it?
+Lily:Yeah. It inspired him to create the ball pit.
+SFX:(group laughing)
+Hannah:Wow.
+Brian:I was just shooting from the hip. I cannot believe that. Okay, wait a second though. Why are parents grateful for this? It feels like that's a thing that kids get lost in all the time. I feel like you just throw your kid in there, and then they come out in maybe four hours if you're lucky? I don't know.
+Tom:And weirdly, smelling of pickled onions.
+Hannah:Yeah, yeah.
+Brian:(giggles)
+Hannah:As someone who has a child, I can confirm that those ball pits are genuinely the most disgusting places on earth.
+Brian:If you want to catch a disease, you just throw your kid into the ball pit. It's done. The end.
+Tom:I guess someone had to invent the ball pit. I kind of thought that would be an earlier thing than 1970s. But of course, they're plastic. It's not like before cheap plastics came along, you could have a ball pit.
+Brian:Okay. Yeah, I did think about that. In my head, I was like, surely in the 1920s, people were having fun in ball pits. But no, I now think that is a difficult thing.
+Tom:No, they'll be made of glass. They were made of glass, and then they were made of asbestos, and finally we got safe ball pits.
+Hannah:Figured it out.
+Lily:And apparently there's ball pits with bars. They have a bar, a ball pit in London apparently.
+Tom:Yeah, it's called Ballie Ballerson, and I just hate it just on principle for that name.
+Lily:Yeah.
+SFX:(group snickers)
+Hannah:Where, what, for adults?
+Tom:In Shoreditch, there is a ball pit bar, yeah.
+Hannah:Oh my god, that is— You're gonna need a tetanus jab to even enter that building. (giggles)
+Brian:Are you allowed to bring your drinks into the ball pit? Because that seems like a disaster.
+Tom:I feel like it's kind of a requirement at that point.
+Brian:Oh my god.
+Lily:But yeah, great guess, Brian. The English inventor Eric McMillan is sometimes referred to as the father of soft play, and his pioneering designs appeared in play areas in the US, Canada, and beyond. The idea for the ball pit... it was hit to him when he went to the kitchen one day, and he later said, there was a jar of onions, and he was sort of saying, "Wow, how about if you crawl through those?" The first ball pit was in San Diego, and it contained 40,000 balls.
+Hannah:Amazing.
+Lily:And also, as a side note, the London nightclub Ballie Ballerson has the ball pit for adults, and it contains over 1 million balls, which are actually regularly cleaned.
+Tom:Okay.
+Hannah:Oh. What do they mean by regularly, though? I've been out in Shoreditch.
+Brian:Okay.
+Tom:They're disinfected with alcohol. Unfortunately, it's just whatever spills out of the shot.
+Lily:Yeah.
+Brian:You just have to hope that someone's ordering pure grain alcohol every night and that's it.
+Hannah:Yeah.
+Brian:I'm sorry, the first ball pit had 40,000 balls in it?
+Lily:40,000, yep.
+Brian:That is really calling your shot.
+Tom:I don't know. I'm not sure that's that many. Because that's a volume calculation. That's got a cubed in it. And I'm not sure if you get 40,000, that's actually going to fill that much space. Because I've been—
+Hannah:Depends on the size of the balls, though.
+Tom:(laughs) Well, yes. Many, many years ago, back when I was a student, because of course this was back when I was a student, a friend of mine threw a party where they filled their living room with polystyrene balls to make like a beach party. The packing beads.
+Brian:Oh.
+Tom:The tiny ones. And it required so many more than they thought it would. They did the maths, and it's like, oh no, we need to order sacks and sacks and sacks of this. And then they had to clean them up somehow.
+Hannah:Was it worth it?
+Tom:Yeah, it was totally worth it. It was amazing. The next question was sent in by Gabin Monchaux. Thank you very much. The small French town of Cugnaux had a storage problem. So in 2007, they passed a law that prohibited its citizens from aggravating this situation. The townsfolk dearly wanted to obey this law, but often violated it. What was banned? I'll say that again. The small French town of Cugnaux had a storage problem. So in 2007, they passed a law that prohibited its citizens from aggravating the situation. The townsfolk dearly wanted to obey this law, but often violated it. What was banned?
+Hannah:That's interesting that they dearly wanted to, but then couldn't. That's kind of interesting.
+Brian:Yeah.
+Hannah:So it sounds like they're, it's sort of against... Yeah. What could you really, really want to adhere to, but then just... Did they did they not adhere to it because they were weak willed? Or was it something that they didn't have autonomy over?
+Brian:Was it just purely, they were like, nobody can buy Funko Pops anymore? And they're like, "But the new ones just came out. I really need to get them. I gotta build my collection." And they were just so upset about it. That's what I feel like.
+Tom:I realise this question is not about Funko Pops, but could anyone explain to me why anyone collects those things? Or grabs them? I just do not understand the appeal.
+Brian:Yeah, this is a different lateral thinking puzzle, which is—
+Lily:I mean, they look cool.
+Hannah:Okay, the French equivalent of— Okay, so what about— Is it to do with cheese?
+SFX:(group laughing)
+Lily:Or bread?
+Tom:Okay, we—
+Hannah:I really want to not have cheese, but I just couldn't help myself.
+Tom:There's another show I do called Technical Difficulties with a group of friends. And we got into the habit of going down the French stereotype route for jokes very often. And we just had the thing where, the wheel would spin of which country we're going to offend that day, and it would land on France. Because the wheel always lands on France. Because the wheel is 90% France. And just for a moment, I feel like I'm back in that show, because I did not expect a cheese joke to suddenly appear.
+Hannah:(giggles)
+Brian:Look, we talk about storage in France. It has to be. We've gotta bring it up.
+Hannah:Yeah.
+Brian:If you have your big cheese wheels, you got to make sure you have spaces to put them. I feel like that's a totally legitimate answer.
+Tom:It is a totally legitimate answer. But unfortunately, not the correct one.
+Hannah:Is it something where the storage itself ends up multiplying? So, let's say that some people in France got hold of some rabbits, and then they were like, we desperately don't want to have any more rabbits. The rabbits are overtaking us, but then the rabbits are just, they've got a mind of their own. Is there something about the storage, the thing that was being stored, multiplying?
+Tom:There isn't, but 'storage' is a somewhat flexible word in this question.
+Hannah:Ooh.
+Lily:Oh, okay. I wonder if it goes against their culture or the way they go about life, because they... they couldn't do it. Or what, was it they could do or they couldn't? They wanted to.
+Tom:They dearly wanted to obey this law, but often violated it.
+Brian:Okay, this is a stretch, but when you say that storage is a bold or is a very open-ended term here, was it sewage storage? Were they told not to poop anymore?
+SFX:(group laughing)
+Tom:...No? In a way that will seem terrible when the answer is revealed, you are slightly closer, but only very slightly.
+Brian:Okay, only very slightly.
+Tom:Early on, someone said whether this was a thing that they had any control over. They were not willfully disobeying this. It wasn't a self-control issue.
+Hannah:It wasn't a self-control issue. Just like, I didn't mean to do it, but I did it.
+Tom:Mhm.
+Hannah:What about houses? Is it a population question? And then they keep accidentally having babies.
+Tom:Um, I... Very definitely not. Very, very definitely not. You could not be further away with that one, and yet...
+Hannah:Oh.
+Brian:What's the opposite of having babies? Now I'm having—
+Hannah:Dying. Oh, it's the cemetery!
+Brian:Oh!
+Tom:It's the cemetery.
+Lily:Oh, okay.
+Brian:There you go. It really was the opposite of having babies.
+SFX:(Brian and Hannah laugh)
+Tom:I knew that was going to be too much of a clue there, but there wasn't anything else I could do with that. And also, now you know when I was— when you said sewage, I was like, no... But it is kind of a bodily function thing. It is kind of... something that isn't going to come back out the ground, so...
+Brian:Yeah.
+Hannah:Bodily waste. Bodily waste, but just a different definition.
+Brian:Yeah.
+Tom:Yeah, the town ran out of space at both cemeteries. There's a water table that's too high. The only land available was owned by the French Ministry of Defence, who said no. So unless you already had a tomb arranged for the future, the town passed an attention-seeking law that said it was illegal to die there. Now, in practice, this is not a law that was meant to be enforced. It was deliberately absurd. But that was what they pushed through. Things did eventually improve in 2017 with a new site, but the law has not been repealed.
+Brian:That's a really fun way to go out if you're a super rebellious person. If I knew I was on my last legs, I would fly there and then just be like, one final screw you to the rest of the world for getting an illegal death.
+Tom:Next question is from Brian. Take it away.
+Brian:Yes. This question has been sent in by Sean Sandquist. There is a 1-to-1 billion scale model of the Solar System, nearly six kilometres in length along Melbourne's coastline. Which other scale object is a short walk from the model Sun, and why is it there? There is a 1-to-1 billion scale model of the Solar System, nearly six kilometres in length, along Melbourne's coastline. Which other scale object is a short walk from the model Sun, and why is it there?
+Hannah:Which other scale object? Is it at the same scale? Is it 1-to-1 billion as well?
+Brian:Mhm.
+Hannah:It is?
+Brian:Yeah.
+Tom:Huh, okay.
+Hannah:So then it's gonna have to be something giant, otherwise it'd be...
+SFX:(group snickering)
+Lily:Yeah, I was gonna say.
+Tom:Because Australia normally goes the other way. Australia has a lot of big things. Like, there was a fad in the 20th century. I'm not sure any more precise than that, where a lot of Australian towns just decided that their local landmark was going to be the big chicken, or lobster, or penguin, or whatever the local mascot was, whatever the local food stuff was, they would just build a giant fibreglass version of it, and that was their landmark. However, the scale's the wrong way for that. My brain was running through the ones I've seen on the Great Ocean Road, and it's like, I can't, I can't.
+Hannah:Unless there's a bit of naval gazing going on, and it is actually Australia. Because, I mean, 1-to-1 billion is going to be pretty small, right?
+Tom:(laughs)
+Hannah:But I like the idea that it's like, right, that's exactly where the sun is. And that's exactly where Australia is. And in there, that's the giant chicken.
+SFX:(group laughing)
+Tom:It's actually just a chicken. They've just taken a regular chicken.
+Brian:Yeah.
+Tom:And...
+Hannah:But, a billion times bigger, in this universe. Yeah.
+Tom:Yeah, yeah.
+Lily:Is it specifically 1-to-1 billion, or could it be 1 billion-to-1? 'Cause I was thinking, what if it was like a giant cell?
+Hannah:Oh.
+Lily:Something that's micro, you know?
+Brian:That's a clever idea. It's, unfortunately, it is still the same scale. So it is still 1-to-1 billion. But that would be a fun way to do it.
+Tom:Okay.
+Hannah:Is it a celestial object?
+Brian:It is a celestial object.
+Tom:It's got to be... something on a giant scale, like you said, Hannah. It's gotta be something that you can see when it's a billion times smaller.
+Hannah:Is it? But I want to know if it's near the Sun, right? So, okay, what celestial object is near the Sun? If this is a scale model, you've got to have something that should be there, presumably.
+Tom:I mean, relatively speaking, like Earth. If you're building a six kilometre model, Earth's still going to be within the first 500 metres, maybe the first 200 metres?
+Hannah:I feel as though that would be too easy an answer for this game.
+Tom:Oh, yeah, it's not that, but it's like, is there something like that? But what else is there that's at that scale?
+Lily:The stars? Like the map of the stars or... Meteors?
+Tom:Is it important that it's in Melbourne? There's an Australian connection here, surely.
+Brian:I wish that there were an Australian connection, but no, there's indeed nothing related to that. But Lily, I wouldn't say that you're on... You're on the right track, potentially, there.
+Hannah:Could it be something that is passing by? So, something that is... Maybe, what about Voyager? Which is launched from the Earth, and is off on its way out? But it went in the other direction, didn't it?
+Tom:No, that's, and again, it'd have to be a billion times smaller, at which point you're... at atomic scale, surely. Maybe they've built something that is that small? You need to get a microscope to actually look at this thing? They've not just installed the tiny thing somewhere there. They've installed a microscope so people can look down at the tiny thing and go, this is the scale.
+Brian:That, If I were the designer, I'd say that that would be a great idea, but I don't believe that that's what they went with. If— I think you should pitch that to them as another fun little thing to add, because I think that sounds great. I would love that if I went there.
+Tom:(laughs)
+Brian:So, it is... You had talked a little bit about Earth and things like that, but I will tell you that this object is positioned between the Sun and Mercury. And, again, Lily, you are on the right track when it comes to star stuff.
+Hannah:So is it solar flares?
+Brian:It's not solar flares, but that's... I would say that it is something that... I want you to think about this in terms of how you're travelling in that distance on that 1-to-1 billion scale.
+Tom:Hold on a minute. Is this just a pop culture reference? Rather than something that's actually physically in the solar system? It's some... It's a starship of some kind. It's something from science fiction. It's something... They'd all have to be so tiny though!
+Brian:It's just Hugh Jackman standing next to the sun because he's one of Australia's biggest stars. That's really all that it comes down to. You figured it out.
+Hannah:Is it a Dyson Sphere? Is it how we might harvest energy from the Sun?
+Brian:I would love it if it were a science fiction, "And here is our plans for..." yeah, building that Dyson Sphere around the Sun to become infinitely powerful.
+Tom:But no, wait, you said early on, it's definitely a celestial body of some kind. It is some big star-shaped thing? So what fits between the Sun and Mercury... that's that big?
+Brian:Now I'll give you another hint there and say that yes, it is a star-shaped object indeed. But again, when we're thinking about the scale and how you're walking to it, think about it as to just how far you could be travelling on that scale.
+Tom:Oh god, okay.
+Hannah:How you could be travelling. What, so as in, if you were— Well, you're now an absolute— Oh, I know, is it a rubber sheet?
+SFX:(Brian and Tom laugh)
+Brian:No, it's not a rubber sheet.
+Hannah:Where you're—
+Tom:Just to do the gravity.
+Hannah:Because you're then a billion times bigger. Is it to do with you being a billion times bigger?
+Brian:No, unfortunately it's not.
+Tom:Hold— Oh, oh, oh. Hold on. There are multiple routes you could take to get there. And in theory... If you walked the long way 'round, if you walked all the way 'round the planet, which is about... Ah, I'm doing vague calculations in my head, but did they put Alpha Centauri next to the Sun? Because at that scale, if you walked all the way 'round the planet, that would be the nearest star.
+Hannah:Oh, that's cute.
+Brian:That's correct. It's Proxima Centauri.
+Hannah:Heyyy!
+Lily:Oh!
+Brian:You nailed it.
+Tom:Proxima Centauri, okay.
+Brian:Proxima Centauri.
+Hannah:That's cute.
+Brian:It was indeed that, because at this scale, one million kilometres in space is equivalent to one metre on the model. So if the Sun— The model of the Sun is 1.4 metres wide, and the distances between the planet models are also correct. But after the Sun itself, the next nearest star is Proxima Centauri, which is over 40 trillion kilometres away from us. But on the model scale, that's about 40,000 km, which just happens to be the circumference—
+Tom:Which is about the circumference of the Earth. Yep.
+Hannah:That's extraordinary.
+Lily:Gotcha. Wow.
+Brian:Yeah.
+Hannah:Amazing.
+Brian:It's tricky though, because again, I was— I ran in— As I was reading the same question, I was like, there's nothing that big. There can't be anything between— I learned the solar system in elementary school, and I know that there's nothing between Mercury and the Sun. Come on.
+Hannah:What an absolute fluke that it happens to be... That's a really extraordinary bit of serendipity, isn't it?
+Tom:Thank you to Chris Dickson for this next question. At the 1912 Summer Olympics, Eric Lemming won a gold medal in the javelin with a throw of 60.64 metres. Three days later, another man won a javelin gold medal at the same Games with a distance of 109.42 metres. Both gold medals still stand. How? I'll say that again. At the 1912 Summer Olympics, Eric Lemming won a gold medal in the javelin with a throw of 60.64 metres. Three days later, another man won a javelin gold medal at the same games with a distance of 109.42 metres. Both gold medals still stand. How?
+Hannah:Was one Paralympics?
+Tom:Both—
+Hannah:What year was this?
+Tom:1912 Summer Olympics.
+Lily:And it was the same... Olympic event, right? The same one?
+Tom:Yes.
+Lily:But there were two distances, and they both got gold medals.
+Tom:They're not the same... It's the same Olympics.
+Hannah:It's not the same event.
+Brian:Same Olympics.
+Hannah:Was one a heptathlete, or a triathlete, or something? Whatever they're called.
+Tom:Sometimes, someone comes in with an idea, and the very first note that I have on the question is, it's nothing to do with a multi-party event like the decathlon. Sorry.
+SFX:(Lily and Hannah laugh)
+Tom:You just absolutely QI klaxoned your way into that one. Sorry about that.
+Hannah:Thank you very much.
+Brian:Okay, if it was back in 1912... Everyone was absolutely bonkers for the javelin. Everyone loved that, specifically. So they had two different versions of it, where one was short-distance javelin, and one was long-distance javelin. And they were both javelin sports.
+Hannah:How about, during the celebration of the first javelin victory at 60 metres... someone threw a javelin in excitement, and it skewered the winner.
+Tom:Oh.
+SFX:(Tom and Brian chortle)
+Hannah:And they decided to let his medal stand posthumously, but continue the competition.
+Tom:So, of those two guesses from Brian and Hannah there, I'll say Brian is definitely closer.
+Hannah:(laughs)
+Brian:Really? No way. There's no way. I feel like the skewering was spot on.
+SFX:(Tom and Brian laugh)
+Tom:I was assuming you were going to say that he was skewered, and then he sort of staggered forward for about 40 metres and that, then they awarded the gold to him then. But that was not it either. There were two different events going on. It wasn't through some fad for javelin sports right then, but yes, two different events.
+Hannah:Are they weighted differently, the javelins?
+Tom:It is a difference between them, it's not the javelin.
+Lily:Is it the environment itself?
+Brian:Was it, yeah, if it was an—
+Lily:Maybe it's a different area, or weather?
+Brian:Yeah.
+Tom:Javelin against a strong wind. Just to...
+SFX:(group laughing)
+Lily:I don't know.
+Tom:Oh like a ski jump for the javelin. That would be amazing.
+Lily:Yeah, you'd throw it down, and it goes, foof, all the way down, instead of just straight.
+Tom:Yeah, or... you just set it off going down the ski... I want to do this now. I want to send a javelin down a ski jump and see what happens.
+SFX:(Brian and Lily laugh)
+Lily:That'd be great.
+Brian:Yeah.
+Lily:It's a new sport.
+Hannah:'Cause if it wasn't the environment, and it wasn't the javelin, then presumably it had to be something different about the competitors.
+Brian:Hmm.
+Tom:As I said, it could be environment. It could be competitors. It could be the third thing you mentioned, which I cannot remember, even though it's only ten seconds later. There is another factor that could play into it as well.
+Brian:Was one of them... standing still, javelin throw? And the other was running javelin? Getting a good sprint start?
+Tom:It's not that... but you're right that it's a rule change.
+Hannah:Mmm.
+Tom:That it is a very different javelin event. And a rule change that would be enough to change from 60 to 109 metres.
+Lily:That's a big difference. That's double.
+Tom:Yeah.
+Lily:Do they get two tries? They throw it, and they pick it up, and they throw it again?
+Tom:Not exactly that. It's not two continuous throws, but you are so very close.
+Lily:You just get two tries, and then... the distance gets added, and then the person who gets the longest from the two tries wins.
+Tom:You are dancing around it. You're dancing around it so much. I'll tell you this, 60 metres is a pretty good throw for a javelin in 1912. 100 would be ridiculous.
+Hannah:So it's double. Basically.
+Tom:Nearly.
+Hannah:Was it left-handed javelin?
+Tom:Yes, more or less. Put together everything we've heard. Le— Le— Le—
+Hannah:Two throws at left hands in javelin versus one throw at right. I don't know.
+Tom:Think about how you would... Think about what rule would make sense for that. You're so there, but I want someone to put this together, 'cause I don't want to give this one away.
+Lily:Two shots, one with each hand, and then they add it together.
+Tom:Yeah, Lily, you've got it. Okay. It's one with the left, one with the right. They added them together, and that was how javelin used to work until the early 20th century. And the 1912 Olympics was the transition between the two styles.
+Hannah:No one got skewered.
+Tom:No one got skewered!
+Hannah:(giggles)
+Lily:Maybe that's helpful for lefties who are maybe sometimes more ambidextrous. I don't know.
+Tom:Yeah. Well, now I think you get to throw with either hand just once.
+Brian:Ohh.
+Lily:Okay, so you get to choose.
+Tom:Hannah, over to you for the next question.
+Hannah:Okay, buckle up, right. This is a question that was sent in by Darcy. And Darcy says: London's Natural History Museum has a 19th century stone fragment that is taken from a water trough in Tyneside, England. The pale rock is made from calcium carbonate deposits, and it's got thin, dark stripes that come in sets of five or six. Why? London's Natural History Museum has a 19th century stone fragment that was taken from a water trough in Tyneside in England. The pale rock is made from calcium carbonate deposits, and it has thin, dark stripes that come in sets of five or six. Why might that be?
+Lily:Is it like a fossil? Something was imprinted on it, and it's just stayed there?
+Hannah:So it's taken from a water trough.
+Tom:And calcium carbonate is... Is that— That's not chalk, is it? I'm cal— That's limestone or something like it. It's the sort of stuff that gets left behind when you have hard water.
+Hannah:Exactly.
+Tom:Just running over something a lot.
+Hannah:Mhm. Yeah. It's limestone, basically.
+Tom:Limescale, that's it. Not limestone, okay. It's the stuff that builds up on your kettle.
+Hannah:Exactly.
+Tom:Okay.
+Brian:Was it— Did they— They took the rock out, and an artist thought it would look nice with lines of five and six on them, and they just painted it on because... Maybe that's it?
+Hannah:It's actually a 19th century barcode.
+Brian:Yeah. 
+Tom:Yeah.
+SFX:(guests laughing)
+Brian:Well, if it's in a water trough, it makes me think that it's about... something seasonal or something related to the village around it, of people using something in that time.
+Hannah:Absolutely. You are so on it. Seasonal, great. Exactly where it is being important, great.
+Lily:Wait, so can we define exactly, what is a water trough? I just want to make sure I'm understanding.
+Tom:It's going to be like the sort of thing that you get water from for cattle or something like that. A big thing, the size of a big old table with a semi-circular shape you just fill with water, and that's where the cattle drink the water from, or maybe the people pick up water from. Could be filled by a river, could be filled by a stream, could be filled by someone just chucking water into it.
+Lily:Okay. Wait, so is this man-made, or is it in nature?
+Hannah:The trough is man-made.
+Lily:Okay, gotcha.
+Brian:It has to be something like, you know, the rings of trees. You can tell when there was a bad winter or something, right? But I don't know what it would make it five and six. That's the thing.
+Hannah:Mmm. Hmm. I like being the quiz master.
+Tom:It's fun, isn't it? It's really fun.
+SFX:(both laugh)
+Hannah:Okay. Five or six is a strange number. They're never seven. Never seven.
+Tom:So what can you— There's one of these happens every month, and it's just twice during the year, they stop. Oh— Oh, no, I was going to say it was something to do with weekly, and it doesn't happen on Sundays, but it's not like they skip a day in the calendar sometimes.
+Hannah:Interesting. Interesting.
+Lily:Or a leap year kind of thing? I don't know. Something about the moons.
+Hannah:So remember, these are dark stripes. That are... come in the rock, right? In sets of five.
+Tom:It's camouflage to avoid tigers.
+Brian:(wheezes)
+Hannah:Yes. In Tyneside.
+Tom:In Tyneside. Yeah, the famous Tyneside Tigers. I think they play rugby league. I assume that these were vertical stripes going down it, but they could be deposit layers built up.
+Hannah:In fact, in the question it says, made from calcium carbonate deposits.
+Tom:Right. I was assuming it was running down the side, but it's not. It's like, this has been built up, so it goes— it must go light, dark, light, dark, light, dark?
+Hannah:Correct. And Brian was right, that it's like the rings of a tree.
+Brian:(whispering) Okay. Okay.
+Tom:So what happens? And also, that's not going to build up quickly.
+Hannah:I don't know. Tyneside, famously hard water.
+Brian:I don't know. They all go out and do their laundry at a certain point every month, and then it's too hot in the summer, so they don't do it for July, and then it's too cold in the winter, so they don't do it for December. And like that's, they just skip one of those, and that's where that gap comes in.
+Hannah:So, you are actually quite close.
+Tom:Oh, hold on, if it's days...
+Hannah:Exactly, it's days.
+Tom:It's gotta be days, and they're breaking— It's something they're not doing on Sundays.
+Hannah:Yes!
+Tom:And then occasionally other days. Because it's Christmas, or it's something like that.
+Hannah:Yes.
+Tom:So, is it laundry? Is it, these are the days when they did laundry, and it's just, this has stains in it?
+Hannah:You are so close. It is stains, it is stains. And you are right about Sunday being the reason. This is where, this is the important thing about where the— where it is in particular comes into play. And the 19th century as well. So 19th century in the north of England.
+Lily:Is it a religious thing? Like, on Sundays they don't work or do laundry?
+Hannah:They don't work on Sundays, that's true.
+Brian:Is it mining related? Is it getting—
+Hannah:Yes!
+Brian:Yeah? Okay. So they're going into the mines, and they've got stuff on their clothes, and then that stuff gets put into—
+Tom:Coal dust! It's coal mines!
+Hannah:(applauds)
+Lily:Oh!
+Hannah:Well done! That was an excellent group effort. I enjoyed that enormously. Well done, yeah. So the thing is, that this trough came from the bottom of the mine. So you've got the water flowing through, it's right at the bottom. Soot's going around all over the place.
+Tom:So it's not from washing clothes or something like that. It is just the water in the mine only got dark when they were mining.
+Brian:Oh, okay.
+Hannah:Exactly.
+Brian:I truly did just believe it was like they all were hopping in after a long day's work, need to bathe off and have a good time. But no, it seems much more industrial.
+Hannah:And then light-coloured calcium carbonate deposits, which are, you know, quite similar to limestone. They are formed when the mine isn't in operation. So it goes, you know, dark when it's open, light when it's not. So at weekends or the only day off, you get those light strokes. And this rock has been given the name Sunday Stone.
+Lily:Sunday Stone.
+Hannah:Lovely.
+Brian:That's very nice.
+Hannah:Yeah.
+Tom:One final thing then. At the top of the show, I asked a question that was sent in by Sam Riley. In 1981, why did 300,000 people turn up for a funeral ceremony when no one had died? Before I give the answer, any quick guesses from the panel?
+Lily:I do have a guess. I watched a movie recently where someone had a funeral, but it wasn't really a funeral because she was dying and she wanted to have people come together for one last celebration while she was still alive. Is it something like that?
+Tom:I thought in the first few words, you were going to nail that immediately. 'Cause we are talking about a film, but it's not that one.
+Lily:Oh, okay.
+Hannah:Was it a character in a film that everyone was saying goodbye to?
+Tom:I mean, not really a character. You've basically got it Lily, at the moment you said film. Frankly I'm willing to give you the point for that, that it's fictional. But if anyone can name a 1981 film that might have needed 300,000 extras?
+Hannah:The Godfather?
+Tom:Definitely not.
+SFX:(group laughing)
+Tom:Very, very definitely not.
+Hannah:Can you tell I haven't seen it? Can you tell? I don't know whether it's obvious.
+Tom:Last call I'll give: it was a biopic. Bi-op-ic? Bi-o-pic? I don't actually know how to pronounce that word.
+Hannah:Oh, I know. The Last Emperor.
+Tom:Gandhi, unfortunately.
+Brian:Ohh.
+Lily:Oh, I haven't seen that.
+Tom:Gandhi. The movie was Gandhi. It was released in 1982. It was the funeral scene. And 95,000 contracted performers, who got about 50 cents each, and 200,000 volunteer extras. For two minutes of screen time.
+Lily:Wow. Wait, how do they gather that many people?
+Tom:Honestly, I couldn't tell you that, but there's probably a very good DVD extra about it.
+Lily:That seems like a logistical nightmare to get everyone together.
+Tom:My producer's just chimed in with: a van and a loud hailer. With that, congratulations on getting through the show. Well done to all of our three players. Let's find out, where can people find out more about you? What are you up to? We will start with Hannah.
+Hannah:You can follow me on social media, @FryRsquared, and I'm doing stuff all the time. Too many things to name. Just keep your eyes open and I'll be there. Like rust, I get everywhere.
+Tom:You sounded really surprised I was going to ask you that question. I feel like I should have gone to—
+Hannah:Ah, shadadap! No one cares about me. Do the other good people. I want to know about the dominoes.
+Tom:Lily?
+Lily:You can find me on YouTube, Instagram, Facebook, Twitter, or I think they call it X now, at @Hevesh5, and I just topple dominoes. So if you like seeing that kind of stuff, it's very, very satisfying.
+Tom:And Brian.
+Brian:You can just look up my name, Brian David Gilbert, on Google or whatever, and you'll find whatever you find. Good luck, I suppose.
+Hannah:(giggles)
+Tom:And that is our show. If you want to find out more about this, you can go to lateralcast.com, where you can also send in your own ideas for questions. We are at @lateralcast basically everywhere, and you can see video highlights multiple times a week at youtube.com/lateralcast. With that, thank you very much to Brian David Gilbert.
+Brian:Thank you.
+Tom:Lily Hevesh.
+Lily:Thank you so much for having me, this was a blast.
+Tom:And Hannah Fry.
+Hannah:Thank you, what a treat.
+Tom:I've been Tom Scott, and that's been Lateral.

@@ -1,0 +1,451 @@
+Tom:10, 9, 8, 7, 6... 4, 3, 2, 1. When is a countdown like that used? The answer to that at the end of the show. My name's Tom Scott, and this is Lateral. Three people responded to my Bat-Signal for help with questions this week. Let's see how many wacky sound effects and comedy violence there's going to be over the next 40 minutes or so. From his own MKBHD channel and the Waveform podcast, Marques Brownlee.
+Marques:Good to be here. Good to be here. Thanks for having me.
+Tom:From the Fearless STEM Careers podcast and BBC Earth's How Did They Build That?, Hayley Loren.
+Hayley:Hello.
+Tom:And from Corridor Digital, Corridor Crew, and the Corridor Cast, Wren Weichman.
+Wren:Yo, how's it going? Glad to be here.
+Tom:Thank you very much, all of you, for turning up. We are gonna go straight into the first question. The questions I have for you have a maze of twists and turns, and your job is to find your way to the exit without chopping down too many hedges in the process. There are no points. There are no prizes. This is all just for reputation and bragging rights. So good luck to you all. Your first question is: In 1976, Steve Jobs avenged his previous employer, Atari, by choosing a specific name for his new company. Why did he pick that name? I'll give you that one more time. In 1976, how did Steve Jobs avenge his previous employer, Atari, by choosing a specific name for his new company?
+Wren:So I have a sneaky suspicion he named his company Apple. I'm pretty sure.
+Tom:Yes, that is definitely right. The first thing I have to ask is, does anyone know this? Has anyone heard this story? If you know it outright... Marques, you have you hand up, right. You get to be the smug one here. You get to sit out this question. We'll take your word for it. If you have pen and paper, write down your answer. We'll take you— We'll check in at the end, which means this one is for Hayley and Wren. You're absolutely right, Wren, that the new company was Apple.
+Wren:(laughs)I'm also not at all surprised that Marques knows the answer to this. This is one of those stories that I feel like I probably know and have just totally forgotten over time. For some reason, I keep thinking of Newton. Like walking around his apple orchard, and an apple falls on his head and he invents gravity. That's how it works, right?
+Tom:Yeah. There was—
+Hayley:That's where my mind went to as well.
+Tom:There was no gravity before Newton. He obviously invented it.
+Wren:Nope, it was gravity-less before then.
+SFX:(group laughing)
+Wren:So, okay. Steve Jobs famously invented Apple along with Steve Wozniak and another dude whose name I will never remember. But why did he choose the name Apple? Was he inspired by the whole apple diet that he had, where if you only eat apples, you never have to shower? Wasn't there something like that? Hayley, do you know?
+Hayley:I have never heard that in my life.
+Tom:I know there's a load of people interested in a potato diet at the moment.
+Hayley:What?
+Marques:I feel like I've heard that too. I don't know what—
+Tom:It's been going around. I honestly don't know whether it's just a food conspiracy theory or some weird science thing that someone's found, but...
+Hayley:I thought carbs were meant to be out. Or is it now back in? I got confused.
+Tom:Honestly, I'm not gonna try and endorse diet advice on a podcast about weird questions.
+Hayley:(laughing)
+Wren:Here's a follow-up question. Was he inspired by a whole apple, or an apple with a bite taken out of it already?
+Hayley:Maybe he stole his apple. Maybe in the last day, he had an apple in the fridge, and he just thought, "You know what, I'm just gonna take a bite out of yours."
+Tom:Until you said 'fridge', I had that confused with the story of Genesis. No, this is just about the name, not the logo.
+Hayley:Okay.
+Marques:Should I give hints? I feel like I got some decent hints.
+Wren:I would love a hint.
+Tom:Yeah, go on. Drop one in.
+Marques:So think if you were petty, if you were really petty, and your previous—
+Wren:Oh...!
+Marques:Yeah. Yeah. Okay, right?
+Wren:I think I know.
+Marques:So your previous job was at Atari, and you just wanna get back at them. You wanna make sure you've got the upper hand on them. Maybe you even wanna beat them, specifically in the seventies...
+Wren:On a list?
+Marques:Yeah.
+Wren:Alphabetically?
+Marques:Yeah, you definitely got it. Yeah.
+Hayley:No way!
+Marques:So if you're gonna open up the phone book and look for computer companies, Apple shows up before Atari, because P shows up before T. But they both start with A. That's my guess.
+Tom:Yeah, you are absolutely right, Wren. This was—
+Wren:(laughs heartily)
+Tom:Jobs said that was partly the reason— Yep. You got it, Marques. There's the phone screen! 1980 presentation, Jobs admitted the name was partly chosen for that. Also because... Actually, does anyone wanna guess the other reason he picked, or at least the other reason he claimed in that presentation?
+Hayley:'Cause he loves apples.
+Tom:Absolutely right, Hayley, yes. "I like apples" were the exact words he used there. That's been tried in many other brazen ways. Can anyone just name some other companies that might have tried that?
+Marques:I'm guessing it's an A like Acme or...
+Tom:You won't know the companies. Just some—
+Wren:AARP.
+Tom:Keep going. Keep going.
+Hayley:Orange?
+Wren:AAA.
+Tom:Keep going!
+Marques:Triple-A.
+Wren:Quadruple-A?
+Tom:AAA-Answerphone would be a valid answer to that question.
+Wren:Wow.
+Tom:People have just come up with as many as possible just to get that listing slightly higher.
+Wren:Would a one or a zero or any numbers show up before an A alphabetized?
+Tom:And they've tried that as well. Yes, absolutely right. When it went on to ordering by computer, as opposed to physical typesetting, then yep, people just used whatever came up first.
+Wren:Dang, okay.
+Marques:So the first three pages of the Yellow Pages are just the most petty business owners in the world, just right at the very top.
+Hayley:You just skip the first few pages, and go to W and you've got a good guy there.
+Wren:I always just started from the back. That was my lot in life. Two Ws for my name, I was always at the end.
+Tom:You and Wonder Woman.
+Wren:Yes!
+Tom:Honestly don't know where that came from, but never mind. Yes, in 1976, Steve Jobs was, in part, getting back at Atari by naming his new company Apple. We now go to one of our guests for the next question. And as always, I have no idea what the question is, and I certainly don't know the answer, unless I'm very lucky, as Marques was. We will actually go to Wren for this first one. Wren, what question do you have for us?
+Wren:Here's a question for you: The organisation '5th Pillar' prints a bank note to dissuade people of India from contributing to a rampant problem. What is this bank note's unique feature? I will say that one more time. The organisation '5th Pillar' prints a bank note to dissuade the people of India from contributing to a rampant problem. What is this bank note's unique feature?
+Marques:Yeah, so 5th Pillar is not associated with the government?
+Wren:It is recognized by the United Nations. 5th Pillar.
+Tom:Wow, okay.
+Hayley:Okay, so they print money?
+Wren:I believe so.
+Tom:And that'll be a useful skill to have.
+Hayley:And do we have a date? Have I missed that? Because I'm trying to think what might've been going on at that specific time.
+Wren:I don't have a date, but this is a rampant problem punishable with jail time.
+Tom:Okay. 
+Marques:  Wow.
+Hayley:Oh my goodness.
+Marques:Okay, so that narrows down... One of my questions was gonna be like, what's the rampant problem? And the only two I can think of are counterfeit or inflation. Punishable by jail time bends me towards counterfeit.
+Tom:Inflation is not punishable by jail time.
+SFX:(group laughing)
+Marques:Exactly. So maybe there's some crazy anti counterfeit feature in this bill, maybe? I mean... we have bills here that have... They're printed by not the Treasury, the Mint, right? And there's special little filaments in them and tiny details so that they're hard to counterfeit. So in India, maybe 5th Pillar is just all the bank notes.
+Tom:5th Pillar, what if the name means anything?
+Hayley:But is— I feel like— So it's more about why they're trying to dissuade them. So if it's about fraud... I feel like there should be some sort of— this is just stupid— but some sort of electrocution thing in the bank note, or something like that. Can you imagine that?
+Wren:"That'll be $10 please." "Aaah!"
+Tom:Didn't someone make a thing like that? It's a watch that hooks up to your Apple notifications for Apple Pay or something, and gives you a mild shock every time you spend money to try and dissuade you? I seem to remember that being some Kickstarter product at some point.
+Wren:That sounds like a Michael Reeves thing.
+Tom:You're not wrong, it does.
+Hayley:I feel like I need that in my life.
+Tom:I love the idea there's something in the bank note or something like that though.
+Wren:So I will say that knowledge of counterfeit techniques is not required.
+Tom:Okay. Which is a shame, because there's a lot of cool feat— We're gonna talk about those features for a while, you know?
+Hayley:Yeah.
+Tom:So...
+Marques:Yeah.
+Tom:It's not gonna be weird watermarks or anything like that, it's not...
+Hayley:It's a feature. Is it that they can't fold it? Is it a material thing? I don't know.
+Tom:Unfoldable bank notes. That... Oh! I'm stuck on '5th Pillar'. I can't think what the other four pillars could be. My brain is stuck on 'fifth column', which is not '5th Pillar'. That's like a group of people who are working against... the society they're in, I think. And I don't think this is a mistranslation of that.
+Wren:I'm pretty sure the 5th Pillar is a very specific organization that prints money in India. The rupees, I believe?
+Tom:Is it like those novelty bank notes that churches produce with, "In God We Trust" in enormous letters and that give you "eternal reward in heaven" and they give them as tips. Just to make people think they've been given 100 dollars, and then, oh no, Jesus.
+Wren:I'm not exactly sure on that one!
+Tom:Is this a government thing, Wren, or like a non-government thing? Are they printing... Are they printing actual money you can spend?
+Wren:They are printing actual money. Whether or not you can spend it is a different question.
+Hayley:Fake money then. So it's like Monopoly, Monopoly money.
+Marques:Oh, so maybe inflation is the problem. Or no, so okay. Theft is one possible problem, right? Maybe they're printing money with a certain feature where it looks like real money, but then once you steal it you realize— Oh, ooh, okay, so here's a guess. There's some type of ink on it or something. So when you steal it, you get stained hands, and then they can find you later.
+Tom:Have you ever seen that?
+Marques:There's like anti-theft...
+Tom:Yeah, those dye packs.
+Marques:Yeah, in clothes in the mall, where if you steal it, it breaks or you can't rip it off. What if the currency has some type of: if you steal this, you will be marked for the police to find you later type of thing? Could that be it?
+Wren:What if the police is the problem?
+Tom:Hang on, hang on, hang on. Wren.
+Marques:Whoa.
+Tom:The denomination of these bank notes... You said they were real bank notes. You didn't say they were real money. You said they were real bank notes, right?
+Wren:I believe I said something similar to that, at the very least.
+Tom:Is the denomination of these bank notes zero?
+Wren:Ding, ding, ding, ding!
+Marques:Ah.
+Tom:It's for bribery! It's for bribery.
+Wren:You nailed it.
+Tom:And I only know that because my brain connected it to a story that I read... I've read this somewhere ages ago. It's, if you're asked for a bribe, you give them this $0 bank note, and it's this shaming thing?
+Wren:Yeah, apparently just the very sight of these notes was enough to reduce the problem. Apparently corruption was starting to become a widespread problem, and they didn't really know how to deal with it, so they just started issuing a bunch of zero rupee banknotes, worthless banknotes as money. And so if you'd hand it to 'em, maybe it'd cause the police officer to maybe be like, "Okay, I'm gonna nope out of this."
+Tom:Wow!
+Hayley:That is just so clever.
+Marques:That's kind of hilarious.
+Hayley:I like that.
+Wren:And apparently this idea is spreading to other countries like Nepal and Mexico.
+Tom:That's a lovely plan. So it's like the good version of the Jesus bank notes that I just apparently had stuck in the back of my head and went on a minor rant about. That's, yeah.
+Wren:So yeah, the official banknote that they were issuing had zero value because it had zero literally printed on it. It was a zero rupee note. To cut down on corruption.
+Tom:Alright, our next question. This one's back to me. Good luck. The actor Ian McKellen once gave the Pet Shop Boys this piece of celebrity advice: "When—" I nearly did an Ian McKellen impression there. And I'm just not gonna try and do that. "When p—"
+Wren:Aw man.
+Tom:(sigh) Fine. "When posing—" No, it just sounds insulting. It just sounds insulting. I'm not aiming for Ian McKellen. I'm aiming for Gandalf. And it's gonna miss. "When posing in a group photograph for the press, always stand on the extreme right." Why did he give that advice? I'll say that again. The actor Ian McKellen once gave the Pet Shop Boys this bit of celebrity advice: "When posing in a group photo for the press, always stand on the extreme right." Why?
+Wren:Interesting. Why the extreme right, instead of the extreme left?
+Hayley:I was just gonna say, I feel like maybe the bar is always on the right or something, so they just wanna get there first.
+Tom:Oh, that's such a— I wish it was that. That's lovely. There is a definite reason for this.
+Wren:So, press photos. Are we talking like red carpet type stuff? Do those usually go from left to right?
+Marques:Yeah, if it's a group photo, only one of them can be on the extreme right, right? If it's a group of people. Only one person can be the first.
+Hayley:Do they mean all of the Pet Shop Boys? If they're in a big photo with loads of other people or just them? Are the Pet Shop Boys fighting amongst themselves to be on the extreme line?
+Marques:How many of these Pet Shop Boys are there?
+Tom:I mean, there are only two Pet Shop Boys.
+Marques:Okay.
+Tom:Oh, this is— Okay, so— '90s British pop acts, not the panel's specialist subject. Yes, the Pet Shop Boys are two people. You will have heard at least one of the songs in your life, but never mind, never mind.
+Hayley:Oh god, my dad is gonna be so ashamed.
+Wren:It makes me wonder. I wonder if it's a psychological reason, like when you're looking at a group photo, do you scan the faces left to right, and you wanna be on the far right so that you have a lasting image in that person's mind?
+Marques:That seems like a little celebrity inside baseball. You know, the weird thing that came in my mind was like, one of 'em is married, so they want their right hand to always be out the side so you can see their wedding ring or something weird like that. Like you always have a feature on your right side that you want people to always see. If that makes sense. But there's two of them, so only one of them could...
+Tom:Do any of you have a best side, by the way? Do you know which way you...?
+Hayley:Yes.
+Wren:Yes... Top side. Okay, are we talking stage right or camera right?
+Marques:Like, right from the group's perspective, or right from the camera's perspective?
+Tom:That is a very good question, Wren.
+Marques:Ah, okay.
+Hayley:I thought you'd explain up.
+Marques:That's probably... I think it's stage right, so that you're camera left. I think that would be the advice, right?
+Wren:Huh. That would make you the first person to see if you're reading left to right.
+Marques:Exactly. Exactly.
+Tom:There's—
+Hayley:He's nodding.
+Tom:There's one more jump to get there.
+Wren:Okay.
+Tom:Why might you always want to be camera left? This is—
+Marques:Oh, do they have writing on their... shirt?
+Tom:Oh, this is general celebrity advice. He gave it to the Pet Shop Boys. But this is freely given to any celebrity. You're in a group photo, you wanna be on the right of the group. So yeah, as you said, camera left.
+Wren:Is this one of those things where you like stand up and wait for your host to sit— or wait for your guest to sit down and then you sit down type stuff?
+Tom:Is there some sort of weird,
+Wren:"Because I'm on this side of you, I'm more important"?
+Hayley:Or you get more camera time, because often the camera will stand there longer before it starts panning. Are we talking about photo or TV?
+Tom:We're talking about photos here. But you're all dancing around the right thing. It is... the left thing, I guess. There is a particular reason, when you are having those big photos taken, that you wanna be on that side.
+Wren:Is it 'cause they're more likely to crop the other side? God, I don't know! This is, I don't know.
+Marques:I'm trying to picture these big photos.
+Tom:You're really close. And it's very much about the way that that will be displayed.
+Wren:Oh, it's 'cause when the names are listed on all the faces underneath the photo in the newspaper, your name will be first.
+Tom:Absolutely right. It will say something like, "Ian McKellen, pictured with..." And it is this really petty thing that puts your name front and centre in the caption and make sure it doesn't get cut off. Whether that's on like the caption underneath a web picture or something like that, it makes sure you are the star. And the Pet Shop Boys put this in one of their magazines as the advice that Ian McKellen had given them.
+Wren:Wow.
+Marques:That is... even more incredibly petty, alphabetically related.
+Hayley:There's some great advice there.
+Wren:Notably, does not apply to movie posters.
+Tom:That's true. Do you know why not?
+Wren:Billing, first billing, whoever gets paid most.
+Tom:Yep. And it doesn't—
+Wren:Their name gets displayed first, regardless of the order of faces in the poster.
+Tom:Yep. Absolutely right. So yes. Ian McKellen's advice to the Pet Shop Boys was to always stand on the right. That way you'll appear camera left, and your name will be first in the caption.
+Wren:Man, I'm gonna carry that with me for the rest of my life now! Wow!
+Marques:Yeah. Next group photo.
+Hayley:Me too. Anytime I'm going in a newspaper, that's happening.
+Hayley:Yeah.
+Marques:I'll stand to the right.
+Wren:I'll be like, "Hey, Sir Ian, can I get on this side of you, please?"
+Tom:"No, you shall not pass!" There we go! There it is! Marques, we are coming to you for the next question. What have you got for us?
+Marques:Alright, I've got a question for you guys. So, it's pretty simple. A man looks up into the night sky. As a direct result, he goes on to kill dozens of people. Why? Just one more time. A man looks up into the night sky. As a direct result, he goes on to kill dozens of people.
+Tom:Dozens?
+Wren:Oh, okay.
+Tom:Not a specific number. Dozens.
+Wren:He looks up into the sky.
+Hayley:Oh! Maybe it was... Oh, the night sky.
+Tom:Night sky.
+Hayley:It wasn't that he looked at the sun, and then got in his car and accidentally ran out over people, okay.
+Tom:Hooh, that's...
+Wren:Dozens of people.
+Tom:We get these bleak questions sometimes on here.
+Hayley:Night sky... Was there a comet? And it was just super bright and it's still blinded them?
+Tom:I mean, if this turns out to be the Heaven's Gate cult, I mean, that's quite a question just there. A man—
+Wren:So the question did not clarify intent. It said that he killed people as a direct result, but it didn't specify that he intentionally murdered dozens of people.
+Marques:Said he would go on to kill.
+Hayley:Accidental.
+Marques:So they're directly connected, but it's a causation. He would go on to kill dozens of people as a result.
+Tom:And it's not like he was a serial killer for other reasons that just happened to look up in the night sky. Alright.
+Wren:Did he also kill himself as a direct result?
+Hayley:I like that question.
+Wren:Is he one of those dozens of people?
+Marques:Good question. No.
+Wren:No? Oh!
+Tom:We got a look from Marques there like, "Good question." "Oh, Wren's got a thing!" "No. Okay, fine."
+Wren:Okay, so he survived somehow and killed dozens of people, but perhaps not hundreds.
+Tom:What could you see in the night sky? So we've got: stars, Moon, satellites. What—
+Wren:Clouds?
+Tom:Oh, yes, fair.
+Hayley:Comets.
+Wren:Aliens.
+Hayley:Was there... I feel like there might have been some sort of event happening. I dunno, where the sun aligns in a certain way.
+Tom:An eclipse or something like that. Is this a real world thing, Marques, or is this some kind of metaphor for a thing?
+Marques:This is a real world, actual historical context, yes.
+Marques:This is real.
+Hayley:Wow. So it hap— Wow.
+Tom:I'm gonna steer you a tiny bit. Alright. Which— What was it? What was he looking at in the sky?
+Marques:Ah, okay. He is looking at the Big Dipper constellation.
+Tom:Huh.
+Wren:Was it Jack the Ripper inspired by the Big Dipper or something?
+Tom:Oh, just what? Just 'cause it rhymed? That was... I mean, it looks like a pan, sort of.
+Hayley:So does he then get inspired to use a pan to kill people?
+Wren:Yeah, I guess—
+Hayley:He's kinda making a face. This cannot be right, surely.
+Marques:No.
+SFX:(group laughing)
+Tom:Is there something special about the Big Dipper, or about... how those stars are laid out? Wait, that's used for navigation. Isn't the Big Dipper one of the things that's used for navigation? You line up the points.
+Wren:The tip of the Big Dipper points to the North Star. It's about five lengths of the end of the Big Dipper. Measure it out, that points right to the North Star, which stays centered in our night sky. Basically the earth's axis points right at it, and it spins around, so it doesn't move.
+Tom:Did this save someone who was lost at sea? Is this Christopher Columbus? That he was lost at sea, happened to see the Big Dipper in the night sky, that pointed him on the right direction, and he went on to...
+Wren:To shipwreck his whole boat?
+Marques:Yeah, that's not— That is an interesting train of thought, but no, it is... You were on the right path where you're thinking about the Big Dipper itself though.
+Tom:Is he looking through a telescope?
+Marques:He is not, and that's important.
+Wren:Oh, maybe he got it wrong and he was looking at the wrong star.
+Marques:There are just some details about the Big Dipper that make it interesting. So a man looks up into the night sky. He looks at the Big Dipper. And then he goes on to kill dozens of people. If he hadn't... Think about if he hadn't looked up at the night sky
+Marques:and seen the Big Dipper.
+Tom:It would've been cloudy.
+Marques:What might have been—
+Tom:Oh! Oh no, not dozens. I had a moment of going... No, hang on. Is this... Is this a World War II thing? Is this a bomber? Is this the navigator or the bombardier on a World War II aircraft, and they needed the skies to be clear to navigate or something like that?
+Wren:I think you're onto something, Tom.
+Marques:So... yeah, it's a little earlier, but I do like that you went to war there. It is a little earlier though.
+Tom:Killing dozens of people by— It's some sort of warfare thing. So why do you need a clear sky? To launch some sort of weapon?
+Marques:I will say that him looking into the night sky actually qualified him to kill those people.
+Tom:Is this like a biblical story or something like that?
+Marques:Not specifically, but it might be from around that time.
+Tom:Agh, it's a history and science question! It's a history and science question.
+Wren:That means this is probably some sort of sign. He probably saw this and was like, "This is a sign from God. These people need to die."
+Hayley:Yeah. Or the Danes.
+Wren:What people though?
+Hayley:Do we know where? Did you say where it was? Is this...
+Marques:I did not. It would be a pretty massive hint.
+Tom:Okay, right.
+Hayley:Okay.
+Wren:Yeah, it's like Babylon?
+Tom:Oh.
+Wren:Ugh!
+Hayley:Is this like the Vikings, when they believed in all of their different gods and...?
+Wren:Right, so like the Greeks, perhaps, the Romans? There's a bunch of groups of people back— The Egyptians, perhaps? What if there was a Pharaoh who saw the Big Dipper and was like, "Because of this, I need to drink the blood of dozens of babies?"
+Marques:So you were... I'll pause you at the Romans. That is the closest we've gotten. You ever looked at those apps where you can look at the sky, the constellations, and it labels them for you?
+Tom:Yeah.
+Hayley:Mhm. 
+Wren:  Yeah.
+Marques:You ever notice how some of 'em are so faint that you can't really see them, but you just take their word for it? It must be in there.
+Tom:Mhm.
+Marques:Imagine being back around the Roman Empire, not having that app.
+Wren:That's too bad.
+Marques:But the fact that you could see the entire Big Dipper qualifies you to go on...
+Tom:To be an archer!
+Marques:...to kill.
+Wren:Oh! Yeah! It's an eye vision test.
+Marques:Yeah, there you go.
+Tom:Oh! It's a Roman vision test.
+Marques:Yes.
+Wren:Okay. That's the qualification. So it's a soldier, not anyone special. It's literally just a person. "Okay, I have now qualified to be a sniper— or archer."
+Hayley:Because you can see it.
+Tom:Because your eyesight is good enough.
+Marques:Yes. So there are parts of the Big Dipper, that was used as a sort of an ancient form of an eye test to become an archer for the Roman army. There are actually some stars that are so close together that if you can tell them apart, then they would say, "Okay, your eyesight is good enough. You're good to be an archer. Go on and kill dozens now."
+Hayley:How would they know that they're telling the truth though? Because can't you just say, "Oh yeah, I can see that bit."
+Marques:I don't know. That's a good question. But they somehow validated and qualified, yeah.
+Hayley:Yeah, 'cause you'd just be like, "Yeah, I can see that." Or, "No, because I don't wanna be an archer and kill those people."
+Tom:They just point you at a different star, and if you lie about that one, you get shot.
+SFX:(group laughing)
+Wren:It's like, "Alright, you failed the test. Get outta here." Dang, what a question.
+Marques:Yeah, so in summary, a man goes up to look into the night sky. As a direct result, goes on to kill dozens of people. That is because he was a soldier taking an ancient eye test to join the Roman army to become an archer. The Big Dipper has some stars called Mizar and Alcor, and if you can tell those apart, your eyesight is good enough to be an archer and go on and murder, murder, murder.
+Tom:Okay, the next question is back to me. Good luck folks. In September 1970, an aerial photo was taken of the island of Cozo Alcatraz in Cuba. The photo shows a soccer field, tennis court, volleyball courts, and a basketball court. How did that provoke a major crisis? I'll give you that again. In September 1970, an aerial photo was taken at the island of Cozo Alcatraz in Cuba. The photo shows a soccer field, tennis court, volleyball courts, and a basketball court. How did that provoke a major crisis?
+Marques:Interesting.
+Wren:Huh.
+Hayley:'Cause they're having far more fun than everybody else by the looks of it.
+Wren:How dare they.
+Marques:Alcatraz, Alcatraz being the one with the prison or no? Is that different?
+Tom:Cozo Alcatraz is just the name of an island in Cuba.
+Marques:Different, okay.
+Wren:So, Cuba... The only crisis I could think of surrounding Cuba is the Cuban Missile Crisis.
+Marques:Yep, same.
+Tom:It's not the Cuban Missile Crisis, Wren, but I will tell you, you are immediately honing in on the right area there.
+Wren:Interesting. So I wonder if the aerial photo just revealed that because there's all of these sort of activity locations on this island, that implies that there must be a lot of people here to... do those activities.
+Marques:And people. People using those tennis and soccer fields, versus not using them. Maybe that would imply something. Maybe it's a crisis if they aren't using them, or are.
+Hayley:That's clever. I know how I keep coming in with the silly things, but now, all I am thinking of is Thunderbirds. As if it's like this island and it's pretend and it's— all the tennis courts open up and these rockets come out.
+Tom:I mean, I think you've just basically described the Cuban Missile Crisis there, but... Different kind of rockets!
+Wren:Man!
+Marques:Okay. Four different sports.
+Tom:Yes— soccer, tennis, volleyball, and basketball.
+Hayley:So is that important? The specific sports?
+Tom:You might wanna start talking about that.
+Marques:Cause some— So, soccer. 'Cause tennis and volleyball are like, you could play with four people. But soccer, you need a couple more people.
+Hayley:Ooh.
+Marques:Soccer, tennis, volleyball.
+Tom:When I say aerial photo... might be worth thinking about what that photo might have been.
+Wren:Aerial photo... that could cause a crisis in 1970. Perhaps it's from a spy plane of some sort, spying on this island in Cuba? The Cold War is still going on. So Cuba, as a Russian satellite of sorts, is going to be very... friction high. I don't know how to phrase that, I don't know. There's a lot of friction between Cuba and the United States. So I imagine there's a United States spy plane, checking out what's going on on this island. They see a lot of sports places here. But is that a red herring? Are they trying to imply that maybe some school kids might be coming here, but really, no kids are here?
+Hayley:Are they trying to hide guns or something, in amongst all of these sports, when people are playing, and there's this club, and they're actually selling guns and missiles and stuff? I don't know.
+Tom:You're certainly along the right lines here. Not necessarily with what's being hidden, but the spy photo, the specific courts. Something in there is gonna cause panic.
+Marques:I'm trying to think of why those sports particularly. Can you go through them one more time?
+Tom:Soccer, tennis, volleyball, basketball.
+Wren:Did it have anything to do with the Olympics? Were they trained enough for the Olympics and they...?
+Tom:Cuba has not hosted the Olympics, unfortunately.
+Wren:But they participate, right?
+Tom:They do. They do. Which sports would they favour?
+Marques:Cuba... track and field... Cuba...
+Tom:I mean, you're right with the Cold War connection here as well.
+Wren:So if it's America taking that spy photograph, they're not going to care about anything unless it's a sort of national defense emergency type situation. So whatever they saw in this photograph posed a danger.
+Marques:And they saw those four courts.
+Wren:Maybe they weren't— I mean, I don't know. Hayley, I think you might be right. Maybe they were straight up just like facades to open up for missiles. I don't know. I feel like Tom's already shot that down.
+Tom:They are real courts. They are absolutely real courts.
+Wren:Okay.
+Marques:It would be interesting if it's like the crisis is that they saw people actually using the courts, meaning they're not doing something else, or they saw that the courts... were empty, meaning something else. I don't know. That's what I keep coming back to, whether they're used or not.
+Wren:Maybe it was kids using the courts, and they were about to do a missile strike on this island, and they're like, "Uh-oh, there's a lot of families and kids here. We can't do that, I guess."
+Tom:One of those pictures seems wrong. You've got that list of four. You've got soccer, tennis, volleyball, basketball. One of those isn't right.
+Marques:Oh.
+Wren:Wait, okay.
+Marques:Soccer...
+Wren:Like, basketball court?
+Tom:Soccer, tennis, volleyball, basketball.
+Marques:So a basketball court... Ah, okay. So a basketball court has to be paved. The other three don't, right? So soccer can be grass. Volleyball can be grass. Tennis is probably grass. And then basketball court implies... I don't know, recent construction? Maybe there's people where they didn't expect people.
+Tom:I mean, you got the last bit of that. There are definitely people that they didn't expect. They might not have been able to pick them out, but there's something in those sports.
+Marques:There's... balls.  
+Tom:That's gonna get taken outta context!
+Marques:Basketball doesn't require that much more people than soccer. Theoretically, you can play 1v1.
+Tom:Might be some different people though.
+Hayley:You have to be really tall to play basketball. So...
+Wren:Maybe they saw some— Yeah, maybe you're right. Maybe they saw some tall people and what the heck? Those aren't Cubans.
+Tom:Ah! Now it's not the people, but you've getting very close there, Wren, with the, "those aren't Cubans."
+Wren:Russia was interested in Cuba... right?
+Marques:So you saw a bunch of... Can you tell skin color from a aerial?
+Tom:You wouldn't need to. This would just be the fact that one of those courts is there, and that a different one isn't.
+Marques:Okay, so it's soccer instead of football.
+Hayley:I do not know enough about sports or history for this.
+Tom:It's soccer instead of something.
+Marques:So soccer on— Soccer's the biggest field. And they would typically put a soccer pitch where they would normally be like an American football field, or cricket?
+Tom:You know what you're, close enough. You are close enough. 'Cause I think there's a bit of 1970s knowledge that I wouldn't have had either here. I think you're close enough there, Marques. The story goes that Henry Kissinger, the National Security Advisor, storms into Nixon's office with this photo, puts it down and says: "The soccer fields mean war. Cubans play baseball. Russians play soccer." And the idea was that there's a soccer pitch there, and the only reason they're gonna build that is if the Russians are coming to Cuba.
+Marques:Wow.
+Hayley:Whoa.
+Marques:Wow.
+Wren:Okay.
+Marques:That's... That is very insider.
+Tom:It really is.
+Marques:Well played, man.
+Tom:Possibly worryingly so, but never mind.
+Wren:Dang.
+Hayley:I feel like I'm gonna take that with me. That's some incredible knowledge there.
+Tom:So yes, that photo produced a national security crisis, because as a general rule, the Cubans play baseball, and the Russians play soccer. Our last guest question of the day then comes from Hayley. When you're ready, give us the question.
+Hayley:Yeah. So being an engineer, has to be engineering related. So, the British engineer and manufacturer Matthew Boulton once remarked that it was very appropriate that he was born in the year 1728. Why?
+Tom:Wow.
+Marques:A British engineer and manufacturer.
+Tom:Matthew Boulton.
+Marques:1728.
+Tom:So I'm—
+Wren:Did he invent the bolt?
+Tom:Yeah. Yeah, he just—
+Marques:Yeah, that's a long time ago.
+Tom:Yeah, he just partnered up with Chris Nut and just complete coincidence, that's how they got their names.
+Wren:Nailed it.
+Hayley:You're not too far off a partnership.
+Tom:Oh, okay. 'Cause I was trying to do numerology on that immediately and trying, "Alright, that's... A is one, and seven is G."
+Wren:1728. Is there any...
+Marques:Is this a math— is 1728 representative obviously of something, but... I might have to mess with 1728, add the digits together.
+Wren:If you add it up, it equals 18.
+Tom:Is it like the atomic weight of something? No, it was far too early for that. We didn't have periodic table. Did we have periodic— I don't think we had periodic tables in 1728. Certainly we didn't know atomic numbers of stuff.
+Marques:I don't think so. So what was significant about 1728?
+Wren:Engineer, manufacturer. Is he American? Or I guess he wouldn't be American. That didn't exist yet.
+Hayley:He's British.
+Wren:British.
+Hayley:Yeah. I said that, yeah. English, specifically, from Birmingham. You were kind of... yeah, with the whole maths thing.
+Wren:So I wonder, is 1728... Is that the cube of something interesting?
+Marques:Probably, yeah.
+Wren:What's the cube root of 1728?
+Tom:For some reason, I've got a pen and paper here, and I just put "square root 1728" as if I was somehow gonna be able to calculate that immediately in front of me. It sounds like it's something like— It sounds like you can multiply a load of numbers together and get 1728, but I don't know.
+Marques:What would his math...?
+Tom:So what sort of stuff do engineers work with? What have we...?
+Marques:Weights and... materials.
+Tom:Engineer and manufacturer. Marques, so you just said weights, right?
+Marques:Yeah, just if I was an engineer and manufacturer, what types of numbers would be significant to me? Yeah, like yeah, materials, weights of materials. Maybe he worked a lot with a certain material that had a certain number weight.
+Tom:I was thinking like the number of inches in a mile or something like that. I mean, we've got two Americans here, so... With your systems that I don't understand. Do any of those multiply together to 1728 or something like that?
+Wren:I will say that the cube root of 1728 is 12.
+Tom:Did you just calculate that, or did you just... Did you just have a calculator?
+Wren:I calculated it.
+Tom:Okay, right.
+Wren:I don't know. Is that cheating?
+Tom:So it's 12 times 12 times 12.
+Marques:Oh, so that's his birthday?
+Tom:Is this some old imperial measurement that was... You take 12 x 12 x 12, something like that, becomes a 'flurgleschnitz' or something like that? I don't know... sorry.
+Wren:How many stones make up a kilogram?
+Marques:Like a two by four is... you probably measure some block or something in 12 inches, like some cube. Does he work with cubes, I guess is my question?
+Hayley:Yes.
+Wren:Oh, there are 1,728 cubic inches in a cubic foot.
+Hayley:Yes!
+Tom:Oh!
+Hayley:Sorry, I got very excited there.
+Wren:What?!
+Marques:So, he works with cubic feet in some way.
+Tom:The engineer and manufacturer? Yeah, they're gonna be dealing with stuff like that all the time, so...
+Wren:Volumes. So maybe he deals with a lot of cubic feet, but he has to deal with the units of cubic inches, and he has to remember how many cubic inches. "Oh wait, no. I was born in 1728. We good."
+Hayley:I feel like you've— I mean, you have got the answer. It's not really linked to it, it's just that engineers are pretty geeky, and the fact that he's born in a year that is 1728, which is a cubic inches and a cubic foot. So that's like, "What?"
+Tom:It's exactly the sort of thing that mathematicians and engineers are gonna be nerdy about. Yep.
+Hayley:Yeah. And he even wrote a letter to his business partner, James Watt, who was basically... He invented, or made a really big improvement to the steam engine. And in his letter to him, he said, "Oh yeah, it's my birthday." And he said, "As sure as there are 1,728 inches in a cubic foot, so sure was I born in that year." I mean, who puts that in a letter other than an engineer, right?
+Wren:Classic.
+Marques:Wow.
+Wren:Okay.
+Hayley:Yeah, and you were right with
+Marques:I say that all the time.
+Hayley:the special name as well, because... It's known as a great gross. Yeah, a great gross. So a dozen grosses. A gross is basically 144. So a dozen grosses are 12 times 144.
+Tom:A dozen dozen dozen. Because it makes much more sense to do everything in multiples of twelve.
+Hayley:To put this in practical terms, because I always have to do this in my head, you know when you move house, and you buy a box to move house, most of those boxes, if you go somewhere proper to get one, they're 12 by 12 by 12, because it's a perfect cube, and it's a perfect packaging to put your books in. So yeah, next time you are moving house, just think about that. So engineer Matthew Boulton once remarked that it was very appropriate that he was born in 1728, and that's because he was basically a very nerdy engineer and loved the fact that there are 1,728 cubic inches in a cubic foot.
+Tom:One last thing to cover then. At the very start of the show, I asked the audience a question which was: 10, 9, 8, 7, 6... 4, 3, 2, 1. When is a countdown like that used? So, very quickly before we go, any of the panel heard that one before? Got any ideas about it?
+Wren:Because the guy forgot five.
+Marques:I think I've been on a live show and heard that countdown before and I forgot why.
+Tom:Oh, I wonder if 'five' sounds too similar to 'fire', and that might cause panic. Spot on. Exactly right.
+Wren:Really?
+Tom:With explosives experts— I don't know what show it was you were on, Marques. But yes for, anything that's got pyrotechnics or explosives, it is sometimes used as a tradition that you miss the number five just 'cause it sounds like fire.
+Hayley:I didn't know that actually. That's quite cool.
+Tom:That is our show. Thank you very much. Marques, tell us what's going on. Tell us where people can find you.
+Marques:Oh yeah, I make tech videos and it's that time of year where I'm making a lot of them. So any... /MKBHD anywhere.
+Tom:Hayley, where can people find you?
+Hayley:You can find me at @TheHayleyLoren. Also the Fearless STEM Careers podcast if you are an engineer or a scientist who work in STEM at all.
+Tom:And Wren, tell us what's going on in your life.
+Wren:You can find me on the YouTube channel
+Wren:Corridor Crew or Corridor Digital. We do a lot of VFX-based videos. I do a lot of scale-based contextual videos. Fun stuff.
+Tom:And that is our show for today. Thank you very much to all the guests. Congratulations on plowing your way through those questions. If you wanna know more about the show or you wanna submit an idea for a question, our website is lateralcast.com. You can find us at @lateralcast on basically everywhere, and you can catch video highlights on youtube.com/lateralcast. Thank you very much to Marques Brownlee.
+Marques:Thanks for having me on. See you later.
+Tom:Hayley Loren.
+Hayley:Hey, thank you.
+Tom:Wren Weichman.
+Wren:Thank you for having me. This was a lot of fun, man.
+Tom:I'm Tom Scott, and this has been Lateral.

@@ -1,0 +1,410 @@
+Tom:On the 21st of August 2017, one NASA Twitter account blocked another for two hours. Why? The answer to that at the end of the show. My name's Tom Scott, and this is Lateral. Three brave pilots are gonna send their Starships of Truth through the Asteroid Field of Pitfalls and Red Herrings to reach the Planet of Answers. I regret writing that joke. Please welcome our guests. We start with maker and YouTuber Becky Stern.
+Becky:Hello, great to be here.
+Tom:How are you doing? This is your first time on the show. How are you feeling about it?
+Becky:First time guest, not first time watching.
+Tom:Oh right.
+Becky:I'm super excited. This is my kind of jam.
+Tom:And I have to ask, this is gonna go out maybe a month or two after recording. Is there anything you're working on right now that you can tell the world about that you're excited about?
+Becky:I have a new craft video out on my YouTube channel.
+Tom:Alright. You know what? I was gonna ask for more specifics, but we're gonna just leave it there, and people can find it out for themselves. Also joining us: AI expert, currently working on a dual university PhD, returning to the show, despite clearly not having time for this, Jordan Harrod!
+Jordan:Thanks for having me again. I know nothing about space. So, your joke went completely over my head.
+Tom:To be honest... I had less confidence in that joke the more time went on! Since we last talked, ChatGPT has come out.
+Jordan:Oh god.
+Tom:As someone who's been studying this for a while, how are you keeping track of a field that is changing while you're studying it?
+Jordan:I mean, if anyone who follows me has probably noticed my increasingly inconsistent upload schedule... And part of that is because it's a field that has been growing exponentially, and has been increasingly harder to keep up with. But I think, you know... On some level, it's been really interesting. The ChatGPT stuff in particular has been really interesting. But it's also definitely pushed me to look into things that aren't language models, that I might be interested in making content about.
+Tom:And rounding out the show, we have maker and YouTuber, Xyla Foxlin, who I most recently saw sending a Christmas tree into the atmosphere on a rocket for the second time.
+Xyla:Yes. I do like explosions and chaos. Thanks so much for having me.
+Tom:How are you feeling about lateral thinking questions? Is this in your normal wheelhouse?
+Xyla:I am typically really bad at thinking really hard if there's a camera on, so we're gonna find out how it goes. That's why all of my videos are in voiceover. I gotta think about it in hindsight!
+Tom:Alright, well, we have questions that you need to look at from a variety of angles. So good luck with the mental protractors. We go with question one. Most hotels have room numbers in the place you'd expect them — about eye level outside your room door. However, a few hotels also have a second room number sign, positioned about one foot above the floor. Why? I'll give you that one more time. Most hotels have room numbers in the place you'd expect them — about eye level outside your room door. However, a few hotels also have a second room number sign, positioned about one foot above the floor. Why?
+Jordan:Small robots.
+Xyla:The dogs that can read.
+Becky:Guys, I can— Dogs that can read.
+Xyla:Yeah, thank you, Becky.
+SFX:(group laughing)
+Becky:Babies. Babies that can read.
+Xyla:The babies that can read! For the toddlers that escape their room, and they can't find their way back. You know, like when a toddler grabs the wrong dad's legs.
+Tom:(laughs)
+Jordan:I don't.
+Tom:So, I don't either, but... I feel like at some point during my childhood, I would've done that, and just my parents have never told me about it. I love that you seconded the tiny dogs that can read over the robots.
+Becky:I just stayed in a hotel
+Tom:That's the one we're riffing with.
+Becky:the other night with my dog, and he had the most fun time finding the room by smell. He didn't need to read to find the room. He's like, "I was there before," and he found his way back. Very silly. Yeah.
+Xyla:That's so cute!
+Becky:It's like, this is our room. I also used to clean hotel rooms in high school at this really gross truck stop hotel in my hometown.
+Xyla:That's a great high school job story to have.
+Becky:It's my first time I got to work alone, and I realized "Oh, this is great." I could have my headphones on. And although I had to wear big gloves, and was not very pleasant otherwise, at least I got to be by myself, you know? And chilling out. So I'm trying to think, 'cause I wheeled a cart around, and the cart blocks the door, but not the eye-level part of the door.
+Tom:This is an entire tangent, but I'm gonna go with it anyway. I remember reading a news story about there being training schools in Las Vegas for people who clean hotel rooms. That there is a standard, and it's now such a hyper-efficient, optimised system that they're expected to do everything in so few minutes, that they now have to pay for their own training. Which feels like another failure of the system somewhere?
+Jordan:Yeah, I don't love that.
+Xyla:Wait, they have to pay for their own training?
+Tom:Yeah, in the same way that a lot of companies won't hire an engineer without a degree. A lot of hotels won't hire someone unless they've been to one of these schools, so they don't have to train them themselves.
+Becky:I see. This is a kind of gatekeeping thing to keep the quality of a certain level and all. But also if they work at the fancier hotels, the fancier tips they get. So maybe it works out if it's the more expensive hotels. I don't know.
+Tom:I just have a feeling that it doesn't work out. But that's me.
+Becky:That was not my experience. I required no training.
+SFX:(Becky and Xyla laughing)
+Tom:Okay.
+Xyla:Still untrained, Becky Stern.
+Tom:That's a good title for a podcast.
+Xyla:That is a good title.
+Jordan:That is a great title.
+Becky:I think I know the answer.
+Xyla:Ooh?
+Jordan:Ooh.
+Tom:Ooh? Oh, you're just gonna come— Let's go for it.
+Becky:In case of a fire, and you're crawling on the floor, and the fire people need to be able to find which room.
+Xyla:Oh my god!
+Tom:Yes.
+Xyla:Becky, big brain.
+Jordan:Wait, why don't all hotels have that then?
+Becky:They want you to die in a fire.
+Jordan:Yeah.
+Xyla:Okay, I was recently at a hotel where I was in the shower, and the fire alarm went off, and I was like, "Crap, I'm literally naked in the shower." So I kind of finished up, and I dried off, and the fire alarm's still going out. And I poke my head out, and people are kind of poking their head out, and no one has left the building. I looked, I walked down the hall and looked out the front door, and no one left the building. And I was like, do we not believe in fire alarms anymore? We've all lived through so many.
+Becky:It's just usually a drill.
+Xyla:It just doesn't matter.
+Jordan:Yeah, because everyone's like, "It's probably a drill."
+Becky:Statistically.
+Xyla:Do they do drills at hotels?
+Becky:They do drills everywhere they have a fire alarm. It's the law. I mean, at least where I live.
+Tom:Oh, okay. I've been outside a hotel at night, three or four times in my life now, and it's just a lot of grumpy people, but it's... The alarm's so loud that there's nothing you can do about it. It's just, I felt like well, either I stay in my room and get hearing damage and possibly die of a fire. "Oh fine. I will put on a coat, I'll get outside." But everyone, everyone was grumpy about it. When I was at university, if there was a fire alarm in the block I was in, you could go to the centre of the quad and the admin building, and read off the fire alarm whose room it was that set off the alarm.
+Jordan:Ooh. That's brutal.
+Xyla:Oh!
+Tom:We found that out in the first week of staying, 'cause we're all freshmen, 18–19.
+Xyla:No one knows how to make macaroni and cheese yet.
+Tom:We're all outside... and it's two in the morning. And a delegation arrives from the house three doors down, led by a drunk Scotsman wearing a dressing gown who is being pushed in a shopping cart by someone else who's just like, "Who's room nine?" "It's that guy." "What were you doing?" "Smoking." And he's like, "Could you not?" "Yeah, okay, fine, wonderful." That was the best deterrent anyone had, knowing that you were gonna be publicly shamed for setting the fire alarm off.
+Xyla:Exceptional.
+Jordan:Yeah, I was about to say, I wish that happened in my undergrad.
+Xyla:I got written up for having... or I had to write an essay for disciplinary reasons in college on fire safety in dormitories. (nervous laugh) And... Okay, I'm just gonna say. If you don't want rocket matters in dorms, then give rocket people fire safety boxes. Anyway, so I ended up pulling the fire logs for the entirety of the history of the fire safety records of my university. And 25% of fire alarms in freshman dormitories were caused by Easy Mac.
+Tom:Yes, Becky, you are absolutely right. I'll try and drag this back from the fire anecdote.
+SFX:(group laughing)
+Tom:You're absolutely right. It is accessibility. It is so that if there is smoke from a fire, and you're crawling along the floor, you can find your way out, but also firefighters coming in can look down and check the room numbers. Each of our guests has brought a question along. As usual, I don't know the questions. I definitely don't know the answers. We're gonna start with Jordan. What have you got for us?
+Jordan:Alright. Here's my question for all of you. In the UK, McDonald's sells chicken strips called Chicken Selects. A man found a hack to buy four Chicken Selects from McDonald's for less than the price of a three-pack of them. What was it? And I'll repeat the question. In the UK, McDonald's sells chicken strips called Chicken Selects. A man found a hack to buy four Chicken Selects from McDonald's for less than the price of a three-pack of them. What was it?
+Tom:I think I might have done this at some point. I genuinely think—
+Xyla:Were you the man? This is actually a question about Tom Scott.
+SFX:(group chuckling)
+Tom:I think this might have been—
+Xyla:Going to McDonald's in the UK.
+Tom:This might have been independently discovered at some points. I can't actually remember if it was me or someone with me who... I'm gonna sit out of this one. 'Cause I...
+Jordan:Alright.
+Tom:If not, I have a different hack that lets you do it as well.
+Xyla:It's you and me, Becky. I've never bought chicken strips in the UK. I feel a disadvantage too.
+Tom:Oh, these are just, the US would call 'em chicken tenders.
+Becky:So does it matter? It doesn't matter that it's the UK versus the US? It has nothing to do with the currency or anything like that?
+Jordan:No, it doesn't have to do with the currency.
+Becky:Okay, so it could have, it could be in the US, and we could change it for chicken nuggets.
+Xyla:Does it matter that it's Chicken Selects? Why is it called Chicken Selects for starters? That's like, we don't wanna admit that it's fully chicken.
+Becky:No, it's because it's real pieces of chicken, instead of chicken Play-Doh.
+Tom:And we didn't really have the phrase "chicken tenders" until America imported that a few years ago. So they just gave 'em a different name.
+Jordan:Oof.
+Becky:I don't know what they call 'em now here, but they're like, in order to have it be a real contiguous piece of chicken, it's called something else than the chicken nuggets, which are put together with glue, meat glue.
+Xyla:I will never get the term "chicken Play-Doh" out of my head.
+Jordan:Did you not see the pink chicken goo thing from McDonald's when we were all in like middle and high school?
+Xyla:I did, I just didn't put it in my brain as chicken Play-Doh.
+Jordan:Yeah.
+Tom:I think in the UK, for it to be a chicken tender, it actually has to be a whole chicken tenderloin. And I'm not sure that's true in the US.
+Jordan:Contiguous.
+Tom:So I think we have to use a different name.
+Jordan:I would believe that's not true in the US. That also has nothing to do with the answer to this question.
+Xyla:Dang, okay. So it could be chicken nuggies. It could be chicken tendies. It could be chicken fingies. It could be anything.
+Becky:Is that something to do with there being a meal price? I used to work— my very first job, when I turned 16, was at a Dunkin' Donuts, and you could charge someone for... You could... ring up something without the cup, and you have to ring up the item, and then subtract the cup. So is there a meal minus extra meal items?
+Tom:I love that all these questions so far have something to do with your high school jobs, Becky. This is like...
+Becky:Two outta two.
+Tom:The Slumdog Millionaire episode of this, and it's all yours.
+Becky:Next, are we gonna talk about stocking Christmas ornaments at the craft store, because I also have a lot of experience doing that.
+Jordan:In terms of...
+Xyla:Does it have to do with an app?
+Jordan:No, it does not have to do with an app. Becky is on a closer track.
+Xyla:Okay, is it like, there's a deal where you can buy... a certain number plus a drink, but you're allowed to subtract the drink?
+Jordan:Not the drink.
+Xyla:Fries. Oh, can you replace fries?
+Becky:The three-pack overpriced?
+Jordan:It's not a meal.
+Xyla:If you get Selects and a fries, but you can substitute the fries for an extra Select.
+Jordan:Mm-mm.
+Becky:Is there a bonus... There's... if they come in a three pack... how would you even get four, unless there's some kind of way to order... for the kiddy meal.
+Tom:My brain immediately— When you started talking about numbers like four and three, I was like, "Oh, what you do is you get a three liter jug and a five liter jug, and you pour in the—" That's not how chicken works.
+SFX:(guests laughing)
+Xyla:Well, if we're still on the chicken Play-Doh track.
+Tom:Right!
+Becky:It works if it— Oh, okay so before it's made into the chicken tenders.
+Xyla:Before it's cooked.
+Jordan:Yep. No, not that.
+Xyla:You have to bring your own chicken.
+Tom:Jordan, I'm not convinced that the US actually has the same menu as the UK. So I think there might be something that the Americans are missing here.
+Xyla:Cool. There's a lot that Americans are missing, I think.
+Becky:Yeah, but I don't know a lot about the McDonald's menu in the first place. I always get a chicken nuggets, which used to be six pieces, and now it's ten pieces. And I'm like, "Yes, I am 40% fatter. Thank you for noticing."
+Xyla:(giggles) 
+Becky:So you think it has something to do with the structure of the UK menu that's different than the US menu?
+Jordan:I guess what's offered on the menu. What else is offered on the menu?
+Xyla:Okay, is it like if you buy a burger... Oh, you can get, is it a kid's meal? A kid's meal, you could get like two of them for cheaper. And so you could get two kids' meals for the same price as a three pack adult sized.
+Jordan:You're very close.
+Becky:Or it's like the Cardi B and Offset meal, where as long as you bring your boyfriend who likes the double cheeseburger...
+Jordan:Not that one.
+Becky:With discount on the chicken tenders.
+Tom:I'm sorry, is that an actual thing? Is that like...
+Becky:Yeah, it's an actual thing.
+Xyla:You actually have to bring Cardi B with you to the McDonald's.
+SFX:(others laughing)
+Becky:And they'll give you as many chicken tenders as you want.
+Jordan:Hell yeah, they will.
+Becky:Chicken Selects, sorry.
+Xyla:Just be Cardi B actually. You have to be Cardi B.
+Becky:I'll go with that answer.
+Xyla:Yeah, final answer! No. Okay.
+Jordan:So...
+Xyla:The kid's meal comes with an extra—
+Tom:Can I try dropping a hint in here?
+Jordan:Go for it.
+Tom:It's worth thinking about how fast food places tend to construct special stuff. If they've got a single— If they've got a new thing on the menu... It's often just stuff they've already got moved around.
+Becky:Something to do with the dollar. Isn't the "McDollar Menu" is McDonald's, right?
+Jordan:No. Not the dollar menu.
+Becky:But it's not the dollar menu.
+Jordan:First of all, the dollar menu is barely the dollar menu that it used to be, but that's a whole other...
+Becky:I was thinking of marketing. As food marketing things that I've heard of.
+Xyla:Becky, we're embarrassing ourselves with our lack of McDonald's knowledge.
+Becky:I'm not embarrassed that I don't go to fast food restaurants very often. That does not embarrass me!
+Xyla:(laughs uproariously) 
+Tom:Yeah, this is my poor student hack from years ago for me. Okay, I'm gonna come in. I'm gonna see if my hack's the same as the one in the question, Jordan.
+Jordan:Alright.
+Tom:McDonald's in the UK sells wraps. I know, like most of the world. Europe, Australia, New Zealand.
+Jordan:Yeah.
+Tom:Right, okay.
+Xyla:What?!
+Tom:So they will sell a snack wrap, which is just a tortilla with some stuff in it. And so they made it, 'cause they want some kind of vaguely healthy-looking lunch option, even though literally all they're doing is replacing...
+Xyla:Do they put a chicken tender in a tortilla and call it a new item?
+Jordan:They put two chicken tenders.
+Tom:Two!
+Xyla: That's a scam.
+Tom:They put two in there
+Xyla:No!
+Tom:and a bit of lettuce, a bit of mayo. And they sell two of those for cheaper than just three of the chicken tenders.
+Jordan:Wendy's used to do a chicken Caesar wrap that had two chicken tenders in it, which was cheaper if you bought two than the chicken tenders.
+Tom:Yeah.
+Jordan:I know this.
+Tom:Yeah, this is the student being cheap question. It was... It makes absolutely no sense, apart from the fact that people are still willing to pay more for just a box of three chicken tenders, if that's what they want.
+Becky:I think if this question— I might have guessed something like that, if the question were around Taco Bell. Because I think now that I think of tortilla, you know, I think of Taco Bell's menu as more of a mix and match... separates, outfit planning, and McDonald's.
+Jordan:I've literally never eaten at a Taco Bell, so I would totally bomb that question.
+Xyla:I don't know if I've ever been to a Taco Bell sober. But I've been to Taco Bell plenty.
+Jordan:The answer to this question is that he bought two chicken wraps but told the restaurant to remove everything else except the chicken. So he orders two chicken wraps. Each wrap contains two Chicken Selects. So four Chicken Selects in total. He then removed all of the optional ingredients: cucumber, lettuce, tomato, and mayo, as well as the tortilla wrap itself. This left just the four Chicken Selects on their own, which costs less than three Chicken Selects. And apparently this hack was posted by someone named "Dazza" on Facebook in December of 2022.
+Tom:Of course it was someone called Dazza. Of course it was. That's exactly the name... This is the sort of thing you can do at those ordering kiosks, 'cause you don't actually have to make the awkward request to a person.
+Jordan:(snickers) 
+Tom:The next question is from a listener. It was sent in by Marian. And I will tell you in advance that you don't need to write down the exact sequence of things I'm gonna say. The password 'ji32k7au4a83' has been found in over 100 data breaches. Why are so many people using that set of characters?
+Jordan:I was about to say no. (snickers) 
+Xyla:I can see Becky prepping to write it down anyway.
+Becky:I'm looking at my keyboard.
+Tom:I'll give you that one more time. The password 'j32k7au4a83' has been found in over 100 data breaches. Why are so many people using that set of characters? Now for everyone listening to this and going, "Oh my god, do I have to write that down?" No, you don't. I'll give you that in advance. You don't need to memorise that sequence.
+Xyla:Is it something that one of the auto password generators has kind of glitched and latched onto, and inserts it into a lot of random passwords?
+Tom:Does anyone here use a password generator? 'Cause I still do. I have a password manager just make some for me. Okay, literally everyone here, good! It's almost like makers and nerds and people who are doing PhDs are good at operational security for some reason. I can't imagine what that would be.
+Xyla:Or our YouTube channels have been hacked at some point, and we learned our lesson!
+Tom:Oh, yeah.
+Jordan:Crossing my fingers so that I don't have that.
+Becky:Yeah, it's called identifying as female on the internet.
+Jordan:Also that.
+Becky:It sounds like an okay password, except it doesn't have any special symbols in it. How many characters is it long?
+Tom:Ah, now that is 12 characters.
+Becky:Seems pretty normal.
+Jordan:Okay, so that's longer than, yeah.
+Xyla:Is it an example password used in a blog about how to make a good password? It's a random string of characters.
+Jordan:Well, that's a good guess.
+Xyla:For example, jik72, something, something.
+Tom:You remembered way more of that than I thought you would. It's sadly, not an example.
+Becky:That's a good guess though.
+Xyla:Oh, thanks, Becky.
+Becky:Like Googling, make a good password.
+Xyla:Google how to make a good password. This one.
+SFX:(group giggling)
+Xyla:I can see myself doing it. That's...
+Tom:I could see myself, I could see younger me, when I did stuff like this, set up a website that was like "how to generate a password" or automatic password generator, secure password generator.
+Jordan:And it's just the same thing.
+Tom:Get it to the top of Google. It's just the same thing every time. Enter your email address, and we'll generate a password for you.
+Becky:So the answer to the question is in an alternate reality, past Tom Scott made a website that did this.
+Tom:That would be such a good gag!
+Jordan:You've been pwned repeatedly.
+Tom:20 year old me is angry that he didn't make that now.
+Jordan:Is it some sort of... I don't know. I feel like if everyone is using this password, it can't be a cryptography thing. But is there some very easy—
+Becky:It was found in breaches. That doesn't mean it was actually used as passwords, does it? Does that mean that there could be some kind of interpretation of the leaked database where some entry is always getting somehow converted into... Are all the numbers—
+Jordan:I guess, is this the password that people have actually used, or something else?
+Tom:Yeah, people have actually used this password.
+Xyla:Is it a password that was auto-assigned by a really large company to a bunch of employees, and then all the employees... signed up for stuff... and then it got breached?
+Tom:No, this is all independent.
+Xyla:People are independently coming up with this password?
+Tom:Yeah.
+Xyla:Was it on TikTok?
+Becky:Use this password.
+Jordan:Yes.
+Becky:Are they all...
+Tom:Secret Hack. Make your TikTok account more secure with this password.
+Xyla:Mr. Beast said to set it as your password, and all the teens set it as their password.
+Jordan:Is it... So I study other languages. So is it a keyboard from a different language?
+Tom:Yes.
+Becky:Yeah, like Chinese? Is it a Chinese password?
+Tom:Yeah, it's... I'll give you that, it's— Oh, although... No, I'm not gonna give you that.
+Xyla:Is it like QWERTY, but in Dvorak?
+Tom:I'm not gonna give you "it's Chinese" for political reasons. So where might it be?
+Jordan:Taiwan?
+Tom:Yes, it's Taiwan. This is the Taiwanese keyboard layout, who are typing in what is roughly— I'm not gonna explain the full thing, but they are typing what is basically "my password". And after going through various translation systems, and then putting it into ASCII characters, what you get is that sequence of letters. It is basically just "my password"...
+Xyla:Fascinating.
+Tom:But typed in a different language and then translated back.
+Xyla:Wait, but... Okay, maybe I fundamentally don't understand. When I have typed in Chinese, it's like you type out the pinyin and the tone, and you kind of just pick a character. Or wait, are passwords— I've never said a password in a character language. Are they actually the character? Does the person typing in the character, or is it they have to type something in a standard keyboard... Or in ASCII? It's gotta be.
+Tom:I'm just gonna read my notes here, 'cause I am not gonna try to understand how Taiwanese text entry works. It is the zhuyin fuhao system. Trying to get that as close as I can. The tones will be wrong. It allows Chinese characters to be typed on a QWERTY layout, so they're typing in four characters that are "my password". And so you have letters and numbers that from those that get turned into ASCII. I do not understand how this works. All I know is that enough people in Taiwan just typed in "my password" when asked to enter "my password" that it turned up in breaches.
+Xyla:Wow, that's funny.
+Tom:This is the trouble with having a load of people that understand computers, and a question about computers. If people didn't— If I had a question about farm animals, and it involves some extreme detail, no one would ask any follow up questions! And right now I'm sweating, 'cause I don't understand what's— I don't quite understand what's in front of me!
+Xyla:Sorry.
+Jordan:My parents do now have a farm in upstate New York, so...
+Tom:I will try not to ask any more questions about farm animals. Yes.
+Xyla:I'm sure whatever your next question is, it'll relate to Becky's high school jobs, though, so.
+Tom:(laughs)
+Jordan:Yeah!
+Becky:Do you wanna relate this one to my current job? I teach a bunch of international students in the class I teach at School of Visual Arts, and several of them have this keyboard layout. You know, they're always swapping back and forth their keyboard layout. And I'm sure they would know the answer.
+Xyla:Remind me never to play a trivia game actually against Becky.
+Tom:This is totally your Slumdog Millionaire episode. Good luck with it.
+Becky:I'm not good at sports.
+Tom:So yes, that long string of characters is "my password" typed on a Taiwanese keyboard and sent through a lot of computer stuff. Our next question is from Becky. Please tell us it's something about what you did in high school.
+Becky:It very well could be, yeah. Okay, so here's your question. Coincidentally, this listener question had been sent in by both Marion Halim and Tom Hartley. Nintendo released The Legend of Zelda: Twilight Princess on the GameCube and Wii consoles simultaneously. The Wii game is a mirrored version of the GameCube game. Why? I'll read it again. Nintendo released The Legend of Zelda: Twilight Princess on the GameCube and Wii consoles simultaneously. The Wii game is a mirrored version of the GameCube game. Why?
+Xyla:Mirrored like it's flipped... inverted?
+Jordan:I might know the answer to this, 'cause I play games.
+Tom:Alright, I definitely don't know the answer to this, 'cause I don't usually play games.
+Becky:There's a lot of good games that debuted on the GameCube. I didn't have one personally, but...
+Tom:It's still the best version of Mario Kart, 100%.
+Jordan:I had one growing up, so yeah, it's great.
+Tom:Yeah. Just the ability in Mario Kart to have two teams of two. Which for four people in a college dorm just meant there was way more shouting than usual as you actually tried to coordinate with someone as well.
+Xyla:Wait, if there's a two person Mario Kart team, is one person controlling speed, and the other one's controlling direction, or is it you both have your own car?
+Tom:No, one person's the driver, and one person's the gunner.
+Becky:Oh, that's right. Oh yeah, okay.
+Xyla:That's amazing!
+Tom:And if you both push a button, you can swap over. which meant that halfway through you'd be like, "You're driving terribly! And it's my turn. (zwip)" And you're just now on the back, throwing out shells at someone behind you.
+Xyla:That sounds really fun.
+Tom:And the person on the back... This is one of the last big video game memories I have, is being in a college dorm room and having the shoulder buttons— 'Cause the person on the back, as the gunner, you also could save your cart from going off a cliff by shifting your weight— by pushing a button, rather than actually shifting your weight. But it's like, oh, you're about to go over a cliff. Nope, saved you. And it was great, until he pushed the wrong button, and send it over a cliff, and someone punched you in the arm. I might have some memories from back then. I had less stuff going on, you know. More time to play video games.
+Becky:I think I did play Zelda in high school, but not at work.
+SFX:(group laughing)
+Tom:Yeah, but for me, it's playing video games and my college dorm experience. And for Becky, it's crap jobs she had in high school. So I feel like one of us is getting the worse deal here.
+Becky:Well, this, it looks like the Wii came out in 2006. So yeah, I would've been not in high school when this game came out. But, you know, the Zelda franchise...
+Tom:Yeah.
+Becky:is long enduring, so...
+Tom:So why do you mirror an entire video game? I mean, Jordan's just gonna get to sit here smug, but...
+Xyla:Are the controls flipped?
+Becky:If you've played Zelda...
+Tom:Ooh.
+Xyla:I've never played Zelda. I've never played on a Wii. And I've never played on a GameCube. And I really am feeling a little inadequate.
+Tom:The Wii definitely has motion controls, right? So, 'cause I remember the Wii is the one with the weird stick of a controller that you can bowl with, and... throw things with, so... is there some reason that you would want to use your left hand?
+Xyla:The control— a standard game controller, a lot of the primary actions are on the left side, and a Wii is typically held on your right side. And then the Nunchuck, the joystick thing, is on the other side.
+Tom:Wait, is this the one where you draw back a bow? Is this a Zelda game where you have to repeatedly do this motion, where if you've got the Wii controllers, you're holding them up and pulling back and drawing a bow and firing arrows?
+Becky:This— the description does not mention that as being the action. Link is— It's about the regular weapon that Link usually uses.
+Tom:Oh, is it then that you're holding your sword in your right hand, instead of pushing the left hand button to... Spot the person who can't remember how the controls are laid out. Normally you're pushing the left button to swing your sword now, but what— No, why would you swing— Why would you mirror the entire...
+Becky:It has something to do with the character trait of Link.
+Xyla:Oh man, I have no idea.
+Tom:Oh man, you've got... Jordan is literally bouncing
+Becky:Jordan knows the answer.
+Tom:back and forth in the scene.
+Xyla:Yeah!
+Becky:'Cause Jordan's played Zelda. I actually, coincidentally, just learned this the other night. I'm not a huge Zelda fan. Haven't played it in a really long time, and I did not know this person, this character trait.
+Jordan:I had a Wii and a GameCube growing up, and you can use GameCube games on the Wii, so I experienced this.
+Tom:Oh, Jordan. Just put us out of our misery here. You had it from the start.
+Jordan:Link is left-handed.
+Tom:Oh, and most players on the Wii are right-handed.
+Jordan:They mirrored it, they mirrored the entire game, so that on Nintendo, you wouldn't have to...
+Becky:On the Wii, you wouldn't have to play with your left hand.
+Jordan:Sorry, on the Wii, you wouldn't have to play with your left hand.
+Becky:Exactly, it was a lazy way to accommodate for Link canonically being left-handed, but the Wii Controller is gonna be usually used by somebody in their right hand. And it's kinetic, like you mentioned.
+Jordan:Yeah.
+Xyla:We were close. We were very close.
+Tom:Yeah.
+Xyla:I'm just not up on my Zelda lore at all.
+Tom:(chuckles) I wonder if Link is left-handed because some animator many, many years ago, when they were designed the first pixel version of that character just was like, "Yeah, sure. It's easier this way." And now years later, someone is having to mirror an entire game because of it.
+Becky:It's kind of a lazy, lazy move. But also brilliant if they're like, "What are we gonna do?"
+Jordan:Yeah, I mean, I feel like... I assume this was ready for deployment, and then somebody was like, "Oh no." And they were like, "Just mirror the whole game. It's fine."
+Becky:They tried to play it. That's what happened. Is they tried to play it. (laughs)
+Xyla:(laughs)
+Tom:Oh, my producer— sorry. Becky, I know this is your question, but my producer has just popped up on my screen here saying that Shigeru Miyamoto, who created the Zelda series, is left-handed. So I was completely wrong when I was like, is it some lazy designer? No, it's the creator going, "I'm gonna make him like me."
+Becky:Representation.
+Xyla:It's like how Ariel ended up redheaded.
+Jordan:Wait, what?
+Tom:Really?
+Xyla:The Little Mermaid. 
+Jordan:Wait, explain.
+Xyla:She was like, I think it was just the producer was redheaded, and she's not redheaded in the original fairy tale. And they were like, what if we just gave her red hair?
+Jordan:I did not know this.
+Becky:In the original games, Link is left-handed. However, the Wii had the facility of the Wii Remote for such things as sword fighting. And since most people are right-handed, it made sense to turn Link into a right-handed character for the Wii version. And rather than remodel the character, they lazily mirrored the entire game world.
+Tom:Next one's from me. Good luck, folks. South Korean supermarkets have found an ingenious way of reducing the number of bananas that people throw away at home. How do they package them? I'll say that again. South Korean supermarkets have found an ingenious way of reducing the number of bananas that people throw away at home. How do they package them? You had a look of such excitement on your face there, Xyla.
+Xyla:Well, okay. I think I saw the answer to this on Twitter, and I was like, oh my god. It satisfies all the parts of my brain that need to be satisfied.
+Tom:Alright, you step back from this one. I'll leave it to Jordan and Becky.
+Jordan:Oh god.
+Becky:I've seen bananas with their stems wrapped with something before.
+Jordan:I don't know how you'd package this. So it's, they packaged it in a way that reduces food waste, I guess?
+Tom:Yeah.
+Becky:So it makes the bananas last longer before they go bad?
+Tom:I'll let you talk this through for a while. It just says it reduces the number of bananas that people throw away.
+Becky:Oh, they pack— Oh, they package it with a recipe for banana bread.
+Tom:Oh, that's a lovely idea.
+Xyla:That's amazing.
+Becky:So when you're like, "Oh, my bananas are sad. Oh, I know what I'll do!" But that's not the answer.
+Tom:There are a lot of— There's a lot of banana bread made for that reason. But, unfortunately not this time.
+Jordan:I guess I don't really eat bananas. So I'm thinking about this in the context of avocados. And why do I throw out... I mean, I throw out avocados, 'cause they all get ripe at the same time. So do they give you bananas that... some of them are ripe and some of them aren't?
+Tom:Yes, there's... Yeah, you're nearly there. But bananas are not... You can't normally sell bananas in a way that that's possible. 'Cause they come in bunches.
+Becky:So this way is not selling bananas in bunches?
+Tom:It's simple as that. You've got it between you. Xyla, what did you see on Twitter?
+Xyla:It was bananas in this beautiful gradient from green to yellow. And so it was like each one ripens. They're each harvested a day apart, so that they ripen sequentially.
+Tom:Yep, that's it. The key part is they break them out of the bunches, and package them up over several days of ripeness. So you have essentially a week's pack of bananas available to buy.
+Jordan:Wait, so, question. As someone who doesn't consume bananas, but belongs to a household full of people who do. I've totally gone to the store and had a bunch of bananas, and then taken a banana off of the bunch and bought that banana.
+Becky:That's allowed.
+Tom:I think everyone does that.
+Jordan:Yeah! Is that not a thing?
+Becky:So you could do this yourself, even if it's not offered.
+Jordan:Okay, yes. I just needed to clarify that this is something that you can do.
+Tom:And it does mean that you now have a plastic wrapped package of bananas, which is arguably not the best.
+Becky:So you should just go to the store and do this yourself, and just break out seven bananas from seven different bunches. And then—
+Xyla:But then... You're gonna be putting them in one of those plastic grocery bags anyway though, to keep, right?
+Becky:No, you have to bring them in and remove them from the bag, or else they will all ripen up faster.
+Xyla:Yeah.
+Becky:I don't know. I don't really eat bananas either, but I watch them go bad a lot.
+Jordan:I mean, when I do the avocados, I'll buy a couple avocados, and then I'll intentionally buy a couple, and then go back to the store three days later and buy a couple more. And then the ones that I originally bought I can eat. And the other ones are like...
+Xyla:Do you put them in different parts of your house?
+Becky:Yeah, a warm place or a cooler place. I definitely buy two different of...
+Jordan:Yeah.
+Tom:I was about to just assume that Becky had a high school job on a banana plantation picking them, so...
+Becky:I'm trying to think if I had a high school— I don't think, I didn't have a high school connection with bananas, sorry.
+Xyla:I worked at a Froyo shop and cut a lot of bananas, so I'll cut you... I'll lend— you can phone a friend on this one, Becky.
+Becky:Great.
+Tom:Yes, South Korean supermarkets started packaging up bananas as a gradient of ripeness. Our last guest question of the show then is from Xyla. Whenever you're ready.
+Xyla:I'm actually very excited about this one. In 2022, a pickup truck hit a car outside a shopping center in Roseville, California. Although the driver fled in their vehicle, police investigating the wreck soon arrested the culprit. They needed a little mental agility, rather than witnesses or CCTV. How? And I'll read that again. In 2022, a pickup truck hit a car outside a shopping center in Roseville, California. And although the driver fled in their vehicle, police investigating the wreck soon arrested the culprit. They just needed a little bit of mental agility, rather than witnesses or CCTV. How?
+Tom:Okay, my immediate thought, and that's because we've talked a lot about animals in this, is that there was just a dog driving the car accidentally. It had just got in, it had hit the accelerator. And just kept going.
+Xyla:But was it a dog that could read hotel numbers?
+Tom:Yeah! (laughs) It had actually just checked out of the hotel next door, and just done a really bad job of reversing.
+Becky:Did the place— Okay, so not all states have a— require both a front and back license plate. So I don't know if— I don't know off the top of my head if California requires a front license plate. Maybe Xyla can answer that question.
+Xyla:California does require a front license plate. I drove around for a really long time without one, and my excuse was gonna be that I couldn't figure out how to use a screwdriver to put it on. I wanted to see if I could get away with that.
+Becky:Good one. You would be, yeah. If they didn't Google you then sure. So, I'm gonna guess, and I feel like this is a pretty far-fetched guess, that the pickup truck license plate made an imprint on the car, and they just had to read it backwards.
+Xyla:That is correct. And actually this happened to one of my friends. One of my friends drove his brand new car off of the lot, was super excited, was on a wait list for this car for a while, got rear-ended, took the bumper off, and they caught— Also got hit and run. They caught him because it they left an imprint of the license plate on the bumper.
+Becky:I'm really surprised. I thought that was pretty far-fetched.
+Tom:I would never have got that. British license plates are just printed. They're not raised up.
+Xyla:So one of the— One of the hints is that this method doesn't work in the UK. It only works in the US, where they're embossed.
+Becky:Not all... Some license plates in the US are printed also. I think the new Connecticut license plates are printed and not stamped. I could be wrong.
+Xyla:This is the part where we learned that Becky worked at the DMV in high school.
+Becky:I didn't.
+Jordan:Yeah, exactly.
+Tom:It wasn't until you used the word 'embossed' that my brain went, oh, yeah. They're not printing out big Xs and sticking them on with— No, they just get a stamp and put it into the metal. Of course they do. It has taken me until today to realise that that's how those license plates are made. That it's just stamped in.
+Becky:I'm really surprised. If I had thought that was right, I wouldn't have guessed so early.
+SFX:(group laughing)
+Xyla:It was a fantastic guess.
+Jordan:Yeah.
+Xyla:Yeah, so that was exactly right. An imprint of the truck's license plate became embossed onto the car that it hit, and so they just had to read the license plate number backwards and identify the correct vehicle.
+Tom:So one final thing for the show then. We have a question that I asked the audience at the start. Thank you to Marcus Cameron Bent for sending this one in. On 21st of August, 2017, one NASA Twitter account blocked another NASA Twitter account for two hours. Why?
+Becky:Wasn't there an eclipse?
+Tom:Yes, there was. So who blocked who?
+Xyla:Oh! Oh!
+Becky:Oh!
+Xyla:Did the moon block the sun?
+Becky:Moon blocked the sun.
+Tom:Yep, and NASA's Moon Twitter account blocked NASA's Sun Twitter account for two hours on the 21st of August, 2017.
+Xyla:That's adorable.
+Tom:So thank you very much. Thank you to all our guests. Let's find out, where can people find you? What's going on in your lives? We'll start with Xyla.
+Xyla:I am Xyla. I build stuff and I fly stuff on the internet. I don't fly things on the internet. I just build things on the internet, and then I fly myself elsewhere. And I am currently in the middle of building a sailboat. So if you are interested in that or in any of my flying adventures, you can find me at @xylafoxlin on anything.
+Tom:Jordan.
+Jordan:I talk about artificial intelligence and how it's going to impact our lives. And these days how ChatGPT is gonna gaslight you. So @JordanHarrod on all the things.
+Tom:And Becky.
+Becky:I'm a maker. I make things and I document them and share them on the internet. A lot of electronics, a lot of craft. I'm beckystern.com, and you can just search me and find my YouTube channel.
+Tom:If you wanna know more about this show, or send in a question yourself, you can do that at lateralcast.com. You can find us at @lateralcast pretty much everywhere. And there are video highlights at youtube.com/lateralcast. Thank you very much. It is goodbye from Becky Stern.
+Becky:Bye!
+Tom:Jordan.
+Jordan:See you.
+Tom:And Xyla Foxlin.
+Xyla:Bye!
+Tom:I've been Tom Scott and that's been Lateral.

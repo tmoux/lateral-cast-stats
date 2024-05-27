@@ -1,0 +1,499 @@
+Tom:When a light aircraft suffered engine failure after takeoff, how were all six people rescued by deploying one parachute? The answer to that at the end of the show. My name's Tom Scott, and this is Lateral. Backwards is line opening the even that laterally so thinks which show the to Welcome. I really, really don't like the scripts I get sent sometimes! First on the show, returning from one of our very first episodes, we have, from the Queer Movie Podcast and her own YouTube channel, Rowan Ellis.
+Rowan:Hello! I'm very excited to be back.
+Tom:Welcome back. How are you doing?
+Rowan:Yeah, really good. I have not been practicing. I have not been preparing. So you're going to get the raw, unfiltered, terribly unlateral me that you got in the previous episode.
+Tom:And it worked so well, we'll have no complaints at all. Joining us for the first time, we have maths communicator Katie Steckles.
+Katie:Hello.
+Tom:Katie... we go back a while on various projects and things. The thing I remember is you doing a version of Nim in real life, and just taking on all comers, and not technically stealing their money because that would have been illegal.
+Katie:Yeah, I mean it's— So Nim is a kind of mathematical game that has a lot of logic to it, and it turns out if you know how it works, you can't lose? So it wasn't so much of a gamble, but it's certainly a fun thing to get people to try.
+Tom:Well, I'm hoping you can bring some logic and order to the chaos that is going to be our guests this week, because our third player is returning for... honestly at this point, I've lost count. At this point, I think I'd also describe you, as a fan favourite from Escape This Podcast, Bill Sunderland.
+Bill:(gruff voice) I'm here.
+Tom:(chuckles)
+Bill:Welcome, newbies. I've been on Lateral... I've been here on Lateral since before you were even born. Let me show you the ropes, kids!
+Tom:The man of a thousand voices... and all of those thousand voices are from the Bronx.
+Bill:I've been on every episode of Lateral. Including the ones you can't even hear me on. Hey, it's me, I'm Bill. I'm back. I'm back on the show!
+Tom:And the character work has preceded you. How are you doing?
+Bill:I'm doing well. I'm doing well. It's late here, so if I don't get anything right, that's how, you can blame it on the time of day. If it was four hours earlier, ooh, I'd be on it, I'd be getting them all. But I'm, you know, I'm sleepy. I'm tired.
+Tom:That's a fair excuse. I mean, so am I, but that's just a permanent state of affairs at the minute, so...
+Bill:(laughs)
+Tom:This show is a bit like solving a Rubik's cube. There's 43 quintillion possible solutions, and absolutely none of them seem to be correct. We're going to start you off with this: A man is in a remote area of Canada. He chops down four tall, wooden posts and then does nothing with them. Why? One more time. A man is in a remote area of Canada. He chops down four tall, wooden posts and then does nothing with them. Why?
+Rowan:Everyone's got to have hobbies, Tom.
+SFX:(Tom and Katie chuckle)
+Rowan:This chop shaming going on on this podcast is...
+Bill:Yeah, this is self care. Sometimes you just have to take a breath, take a day to yourself, and chop down four large wooden posts.
+Rowan:I mean, initially, my thought is if it's Canada, then I don't know whether there are any indigenous communities there that use totem poles. Whether the posts were totem poles, potentially?
+Bill:So this guy's a terrible person.
+Rowan:And he was just like, "I hate these. Get out of here!"
+Bill:Welcome to colonial Canadian history.
+Rowan:You know, it's a possibility. We went first with the hobbies, then with the hate crimes.
+Tom:I was going to say, I shouldn't laugh at that. I have been to parts of Canada with some really dark history in them. We should move on from this, and I'll tell you definitively, not totem poles.
+Bill:Good!
+Rowan:I was going with for a reason, not just for hatred.
+Tom:(laughs) Alright. Just to be clear, not totem poles. I'll just cut that one off at the pass.
+Rowan:Okay, got it.
+Bill:(laughs)
+Katie:I think because initially chopping a thing down makes you think of trees, and that makes you think of harvesting wood in order to use the wood. And the idea of not doing anything with it makes me think maybe it's some poles that were kind of in the way of something? Like a flight path or, you know, some wires that needed putting up or... you know, something.
+Bill:Well, when you mention Canada and trees, the image I get is, have you seen those... all the images of the border between... I think it's the border between America and Canada, which is like, it goes through long, long swaths of forest, and they have to just go... And they clear it to make it clear who owns what tree, I guess. I'm not quite sure. I can't remember the reason. But they just chopped down all the trees in this long, long line to be like, "Hey, when you pass this creepy gap in the forest, you've entered Canada."
+Tom:I think it's called the Slash.
+Bill:See, that's even creepier!
+Tom:They just clear cut a huge wide swathe of forest to say, "Yeah, this is the border. You wanna try and sneak in? You're gonna have to cross this wide open area that we've probably got cameras on."
+Bill:"You have to cross the Slash!" That's exactly as creepy as I thought it was.
+Rowan:Seems very un-stereotypically Canadian.
+Bill:Yeah, well, maybe Americans cut it.
+Tom:It's not Canada doing that.
+Rowan:Oh, that makes sense.
+Katie:I'm just imagining who got the wood and whether they distributed it based on which side the trees were on. But any trees that were on the border, you kind of cut it in half and you get half a log each.
+Tom:Actually, I wonder who does the cutting. Do they have to have a Canadian company cut the Canadian side and an American company cut the American side because they can't cross?
+Bill:Ooh, maybe.
+Tom:I don't know the answer to that. I'm just posing the question. And if there's a video from me coming out in a few months about that...
+SFX:(guests laughing)
+Tom:This might be where I got the idea from.
+Bill:It's like when you see those bits of shared lawn, where only one person just does their half of the lawn. And so one's overgrown and the other's... nice and well kept.
+Tom:I did say posts though. I didn't say trees, I did say posts.
+Rowan:Could I ask a question? I don't know if you're allowed to answer this with the information that you have. When you say didn't do anything with it, does that also mean didn't move it from where it fell? Or just didn't process it into something?
+Tom:I mean, I would have been very surprised if he'd done anything other than just let them fall.
+Bill:Okay, so... what's a good post to cut?
+Rowan:(laughs)
+Bill:Let's get some posts out there.
+Katie:Yeah, is it some kind of infrastructure?
+Bill:Yeah.
+Katie:Like a telegraph pole or...
+Bill:Telegraph pole, good post.
+Tom:Very good post.
+Rowan:Ohh?
+Katie:Right.
+Tom:Haven't you just done a thing with telegraph poles, Katie?
+Katie:It's this weekend, we're gonna go and make a giant sundial out of a telegraph pole. Basically, just...
+Rowan:That's so cool.
+Katie:measure where the sun moves and where it casts a shadow. And it turns out the maths is horrible. But we're just gonna look at where the shadow is and knock it on the floor.
+SFX:(Tom and Bill chuckle)
+Rowan:The man in question hated sundials. He was like, we can't let anyone know the time. Cut 'em down.
+Tom:I worked recently with a long barrow. Just a modern burial mound chamber that someone's built. And it lines up with the summer solstice. And the guy who designed it's just like, "Yeah, you know, they think it takes lots of computing and tables, and actually we just got up on the solstice and put some sticks in the ground and drew some lines."
+Bill:We just saw where it was.
+Tom:You are right, Katie. It's power poles, not telegraph poles, but that's what we're looking at here.
+Bill:Okay, so we're back to vindictive.
+Katie:Yeah, is he trying to cut off the power to something? Or if you cut the poles down, does the wire just not drop down and still be connected?
+Tom:It did cut the power.
+Katie:Okay.
+Rowan:I feel like protest, crime... japes. Those are my three.
+Tom:(laughs)
+Bill:And what about this question? I know you love protest, crime, and japes, but what about in the context of this question?
+Rowan:I mean, it could be any of them to be honest.
+Tom:Those are actually names for identical triplets in a Disney movie.
+Bill:Perfect.
+Rowan:Oh, I wish. (giggles) I mean, so crime, obviously, if you're wanting to, you know, cut communications or power to someone.
+Tom:By definition, yeah, it's criminal damage or the Canadian equivalent.
+Rowan:Yeah, that in itself is crime. But in terms of why you might do it, if it was gonna be... Especially if I feel like with crime, you wouldn't be worried about cleaning up afterwards. You wouldn't be worried about like, "I gotta, I just cut the power to this person's house so I can like rob them or something. I'm gonna just clear those out of the way."
+Tom:It's not vengeance, and it's not japes. And while cutting down was a crime, It wasn't in service of something more.
+Bill:Yeah, so he wasn't cutting the power to a bank somewhere.
+Katie:One thing that's occurred to me is if it's— I mean, I don't know if this is included in vengeance, but if there's just a really annoying light that's just been winding up and shining in his house, and he wants it to go off.
+Bill:Heh, maybe.
+Rowan:Ooh, someone's he's— One of his neighbours has one of those extreme Christmas decorated houses. And he's like, "Absolutely not. We gotta get rid of all of these." Way quicker to chop down these posts than it is to unscrew all these light bulbs.
+Tom:Remote area of Canada.
+Katie:No neighbours then.
+Bill:Yeah.
+Rowan:No neighbours, hm.
+Bill:So you're in a remote area. Pick— Cast your mind to remote Canada.
+Tom:(laughs)
+Bill:Why do you not want power?
+Katie:I'm imagining it, but only from episodes of Due South. I've not been there, so...
+Tom:(laughs)
+Bill:(snickers)
+Tom:So, it's not vengeance. It's not japes. It is desperation.
+Katie:So there's something that's electrically powered that's doing something bad?
+Bill:Could it— Oh, oh! No, maybe, it's not what the power's doing, but... Is it like an SOS? Is it like, the Canadian grid knows when the power is out, and if four po— If one gets knocked, they're like, "Ah well, one of them got knocked." If four of them get knocked out, they're like, "What the heck's happening in rural Canada?" And they drive up and they find the man.
+Tom:That's close enough. It wasn't quite that. It was cutting off power to an entire community down the line. So they had to send someone out by helicopter. Spotted the lines were down, and spotted a guy going, "Yeah, it was me. Hello, help, please rescue me."
+Katie:Wow.
+Bill:Alright.
+Rowan:Oh my gosh. How did he end up in rural Canada? Do we know?
+Bill:He kept cutting people's power and they exiled him.
+Tom:Hah! Bad weather in northern Saskatchewan apparently.
+Katie:Wow.
+Tom:But this used to be a thing in Australia as well. There used to be the telegraph that went across the country. And if someone was lost in the outback, they would find some telegraph poles, break the wire, and they knew at some point, some poor sod would have to trek out there, fix the wire, and give them a lift back.
+Katie:I'm just sort of imagining someone who's lost enough that they can't get themselves home, but they do have a saw and can cut down a pole. Like, that fit, you know?
+Tom:So yes, this was a man in northern Saskatchewan, lost in bad weather, who cut down power poles so he could get rescued. Each of our guests has brought a question along. I don't know the question. I definitely don't know the answer. And we start today with Rowan.
+Rowan:Hello! So, this question has been sent by Steve. Soon after the 9 storey-high BBC Broadcasting House was built in London, a large loudspeaker was installed on its roof to solve a noise problem for the neighbours. What was it? Soon after the 9 storey-high BBC Broadcasting House was built in London, a large loudspeaker was installed on its roof to solve a noise problem for the neighbours. What was it?
+Bill:Not enough noise.
+Katie:Yeah, I was gonna say. A speaker doesn't feel like it's gonna solve a noise problem. Unless it's something like a load of birds that came and roosted on the roof, and then they put some kind of bird-scaring speaker that stopped the birds from being there and squawking.
+Bill:"Get outta here, birds! Get outta here! Hey!" That's a much— I'd love— If I could hear a pigeon cooing, or a big voice being like, "Get outta here! I don't need birds over here!" I'm going for the loudspeaker every time.
+Tom:That is the scientifically proven way to get rid of crows. They're smart birds. You just yell at them in an accent, and they just don't like it.
+Bill:They'll understand!
+Rowan:No, that's not the answer, just in case you needed clarification.
+Bill:Oh, I thought we had it!
+Tom:If you look at BBC News now, it's been expanded a lot over time. They've got a whole new glass structure next to it, but Broadcasting House is just a fairly... bulky stone old building from... gonna say 1940s or '50s? I think it was originally radio? I might be out by a decade or two there, but it was after they moved in from Alexandra Palace. So it's a, you know, big, bulky stone building in the middle of London.
+Bill:Mm-kay. Thank you, 'cause I've never seen it. (snickers) So... big bulky building. Big bulky building for the BBC. Big bulky building for the BBC Broadcasting. And they say, and they think— Oh, okay. I'm nearby. I'm in London. 'Ello, it's me. I'm in London, and I'm nearby. And I have a problem with all the noise. And they say, "Fine, we'll put a loudspeaker on there." This doesn't seem like it solves the problem!
+Katie:I feel like if it's a building where they're doing TV stuff or radio stuff, it'll... There'll potentially be noise being created by the recordings, but potentially not loud enough to wind up the neighbours. I'm just wondering what could be loud enough that it would be annoying people nearby.
+Tom:The BBC Radio Theatre, everywhere they recorded shows, was soundproofed.
+Katie:Yeah.
+Tom:Very, very well soundproofed. Even back then. There used to be audience queuing outside, down the street, to go in and see and... hear shows being recorded, I guess. But I don't know what more...
+Katie:Well, maybe it was the audience that was noisy?
+Bill:Maybe it was the queues down the street, yeah. If you look at the queue down the street, that's not— Maybe the loudspeaker is just like, "Hey, hey, shh. Hey, there are— People are sleeping. Hey, shh, it's okay. Shh, quiet."
+Rowan:I think it might help you to know... that it didn't cancel out any noise.
+Tom:Yeah, you wouldn't have had the tech to do that. And I don't think you've got the tech to do that now. It's not like you can put noise-cancelling headphones on a building.
+Rowan:Well, it wasn't, not even just noise cancelling, but it wasn't trying to cover up any noise.
+Tom:Oh, okay, okay. And besides, you're in central London. So it's gonna be noisy.
+Bill:Yeah.
+Katie:Yeah. So is it somehow making the noise less annoying?
+Tom:Or was it that the people nearby... couldn't tune in? Okay, I seem to remember there's something about antennas. Where if you're too close to an antenna... you can't receive the signal because it's broadcasting outwards from there. Is that true, or is that something I've just remembered from a completely lying science textbook when I was six years old? No idea. But if you're that close to the broadcast antenna, was it that they couldn't pick up the radio that close? So they literally just put a speaker on and broadcast the BBC radio?
+Bill:Oh, they just played it!
+Rowan:No, sadly not.
+Tom:Ah!
+Bill:Ah, that is a noise. 'Cause hey, we're playing Lateral, so that's a nice twist on a 'noise complaint'. The complaint is, not enough noise.
+Rowan:Well...
+Bill:Oh, is that the complaint?
+Rowan:You kind of are there. So the speaker was creating a noise that the neighbours wanted to hear.
+Tom:But it wasn't just the broadcast. It was something else.
+Rowan:But it wasn't the broadcast.
+Tom:So had they scared off the birds that were meant to be there? I don't know why anyone would want to hear the pigeons. They're in Trafalgar Square. There used to be a noise there, and they're replacing it with a taped track. No, I started off on that... And I sort of lost faith in my own argument halfway through.
+Rowan:I mean, it's not— You're really circling around it. It's not birds.
+Katie:Is there something like the pips or that they want a thing on the— Oh, because, would they do something like not be able to hear Big Ben striking the hour Big Ben striking the hour because they didn't want it to interfere with the BBC broadcast, so they had to replace it with something that played Big Ben striking the hour?
+Tom:They had to replace it with a live feed from Big Ben.
+Rowan:Yes, you are exactly right. It was so that they could still hear the chimes from Big Ben. So, essentially, when the building was constructed, it was so tall that neighbours were concerned that they'd no longer be able to hear the bongs which chime the time for Big Ben, which is— I love the fact that within the notes of this, it specifies that Big Ben is in fact the colloquial name for the clock on the Houses of Parliament, officially called the Elizabeth Tower since 2012. Let's— The pedants are going to come for the Elizabeth Tower versus Big Ben slander.
+Tom:We will get complaints, always.
+Rowan:(laughs) But yeah, so BBC Radio already broadcasts a live feed from Big Ben before its news programme. So, it was basically very easy and simple to put a loudspeaker on the roof and play the chimes at a volume similar to the natural strength that the neighbours would have heard before the building was constructed.
+Tom:I remember there being a episode of Captain Scarlet, the kids action puppet series from the '60s, where the plot hinged on someone hearing Big Ben strike 13 times.
+Bill:(gasps)
+Tom:And the schtick being that they were listening on the radio, and they could hear Big Ben. And they were, by coincidence, at the exact radius required for the bongs to be delayed by one second... by sound. But the lightspeed transmission of radio meant they heard— Anyway, point being...
+Bill:(laughs)
+Tom:That doesn't work anymore 'cause digital transmissions, but... It doesn't work anymore because you can't hear Big Ben that far out. And I don't know why I even mentioned it, but never mind!
+Rowan:Yeah, so, it turns out that the neighbours had a little sway over the BBC and demanded to be able to hear those bongs. And so the BBC broadcast it specially for them, to hear the bongs of Big Ben.
+Tom:Thank you to Patrick S. for sending this listener question in. On Wednesday, 6th of March 2019, a decree was enacted banning the residents of a small Bavarian town from shaving or having a haircut for one year. They'll have about nine years off before the same ban is enforced once again. Why? And one more time. On Wednesday, 6th of March 2019, a decree was enacted banning the residents of a small Bavarian town from shaving or having a haircut for one year. They'll have about nine years off before the same ban is enforced once again. Why?
+Katie:So how long is the ban for? Is it a nine year ban, or is it a ban for a small amount of time?
+Tom:It's a ban for one year.
+Katie:Okay.
+Bill:That's the weirdest response you could have given.
+SFX:(others snickering)
+Bill:That's so, it's like— Either it should be like a real proper, you can never do this, or it's like, oh, it was just for the day. Because it's Coronation Day! And nobody shaves on Coronation Day! But a year is too long! Do you like my Bavarian accent?
+Katie:So I've had a sort of vague idea, and I feel like that fits with it okay. Which is that it's something to do with plumbing, and that people shaving and putting bits of hair in the sink was clogging up the town's plumbing system because it was some kind of old, historical plumbing system, and the engineers decided that a year was enough for it to kind of flush out what was in there, and then it took a while for it to get blocked up again?
+Bill:We told everybody to stop shaving, and Johann has ruined it for everyone! So nobody gets to shave! You're all banned! No shaving for a year!
+Tom:I will tell you this is a decree, and not a law.
+Rowan:Is this by... royal decree? Do you know what I mean? Is it one of those sort of religious decrees or royal decrees where it's not, you don't have to do it, but it's sort of like, if you're within this belief system, or if you're going to be supporting this thing, then do this?
+Tom:Yep, exactly. It's something that pretty much everyone is going along with. But it's not like someone's going to get thrown in jail if they decided to shave.
+Bill:(giggles) They're not going to kick your door down.
+Katie:And if you think about the effect of not shaving or cutting your hair for a year, you're going to have a lot of hair. And potentially a beard.
+Bill:That's a lot of hair.
+Katie:Was it like they wanted more people to have beards? And have long hair? Or maybe they're harvesting the hair for something?
+Bill:Ooh, it's a big hair harvest! Who needs hair in 2019?
+SFX:(Tom and Rowan laugh)
+Bill:And will again in nine years afterwards?
+Tom:The Bavarian hair harvest!
+Bill:The Bavarian...
+SFX:(both laugh)
+Tom:Bav-hair-ian... There's a pun there somewhere, and I can't quite work it out.
+Rowan:Stunning.
+Tom:They do want people to have long hair and beards. But it's not for harvesting.
+Bill:(chuckles)
+Katie:...Right.
+Rowan:Okay, does this specific town in Bavaria host the nine yearly annual hair plaiting competition? And they're like, we need models who have the hair and it would be too annoying to have to ship in these models with long hair.
+Bill:Well, COVID. COVID's coming. They preempted and they really know, they understood. We're not going to be able to get models in!
+Rowan:We simply must plait your long hair, residents of small town in Bavaria.
+Tom:It's every 10 years, and they are hosting something. It's not the hair plaiting contest, but yeah, you're actually starting to circle around the right answer here!
+Rowan:(wheezes)
+Katie:Is it 'cause they want everyone to look like a particular person or thing with long hair? And if they've got a beard, then a long beard?
+Bill:Oh, there is actually a really fun fact about... I don't know if it's specific to Bavaria. It might just be kind of a lot of that area of Europe. They really, really love the Addams Family. They read— They play the Addams Family movies every year at Christmas. And, but they only care about Cousin Itt. It's only the scenes with Cousin Itt. So, I think maybe that could be, they're all— it's a big Cousin Itt cosplay competition.
+Tom:So, at the risk of getting in trouble for what I'm about to say...
+Bill:(giggles)
+Tom:It's not Cousin Itt. But it might be... someone and some people known for having longer hair.
+Rowan:Hippie vibes.
+Bill:The... Beatl–gees. The Bejeez. Ooh, it's the Bee Gees.
+Rowan:Is it a historical thing? I feel like... Long beards and long hair, especially on all genders, feels quite historical.
+Tom:Yep.
+Katie:It feels quite ABBA.
+Bill:That's pretty historical.
+Rowan:Is ABBA history?
+SFX:(Tom and Rowan laugh)
+Tom:When you find out the answer to this, and we go back and listen to these suggestions, they are a lot funnier than you might think right now, given Bee Gees and ABBA.
+Katie:It's not— is it Jesus?
+Tom:Yes, it's Jesus!
+SFX:(Tom and Katie laugh)
+Rowan:Bee Gees, ABBA, and Jesus.
+Katie:Yeah.
+Rowan:Okay, was it a church decree thing, in that case?
+Bill:It's gotta be church, because we're in Germany, right? We've got no one else can make a decree. We don't have a German king, do we?
+Tom:So why might it have been Wednesday, 6th of March 2019?
+Bill:That's an early Easter, that's an Ash Wednesday. Is that the one right before Easter?
+Tom:That is an Ash Wednesday.
+Bill:Okay, we're getting closer. Ash Wednesday, no haircutting for a year. It's the 10-year nativity.
+Rowan:It's a grossly long Lent.
+Bill:(laughs) It's a big Lent!
+Tom:You pretty much got it. It's the 10 year passion play.
+Bill:They do a big passion play!
+Katie:So, everyone in the town is Jesus?
+Bill:Yeah.
+Tom:No, but everyone in the town is a cast member. Pretty much the whole town comes out to be part of this passion play. And so, by decree, they do not cut their hair or shave for a year. With the exception of 80 roles as Roman soldiers. Which there is competition for, because they do get to shave.
+SFX:(guests laughing)
+Bill:And one little guy playing the baby Jesus. He can be as clean shaven as he wants.
+Katie:You know what the Passion is, right?
+Bill:Oh wait, it's the Passion. I've gone to Nativity.
+Katie:That's at the very other end of Jesus's life.
+Bill:Hold on, wait, wait. In Germany, Jesus was crucified as a baby.
+Katie:I feel like a whole town nativity play would be awesome. Just like, you know, hundreds of people with long hair and a tea towel on their head being a shepherd.
+Tom:And the 2,500 wise men, yeah.
+Rowan:Yeah, myrrh. God, they couldn't get enough of that myrrh.
+Tom:Yes, before we get any more complaints in, this is the Oberammergau Passion Play, a theatrical production about the resurrection of Jesus, performed every ten years by the whole town. Bill, we go to you for the next question. Whenever you're ready.
+Bill:Okay. So this question was sent in by Mike Salter. Thank you, Mike. The Hamburg European Open is an annual sports event. Its logo consists of the title in standard lettering, overlaid with a single yellow line of several continuous curves. Why does this logo change every year? So, one more time. The Hamburg European Open is an annual sports event. Its logo consists of the title in standard lettering, overlaid with a single yellow line of several continuous curves. Why does this logo change every year?
+Tom:I don't suppose you're going to tell us the sport, are you?
+Bill:Mmm, no.
+Tom:Okay. (laughs)
+Rowan:Is the sport relevant? Or is it just, you're just being fun and cheeky in not telling us?
+Bill:It's quite relevant.
+Katie:I feel like we're assuming it's a sport, but you can have an open for... you know, Rubik's cubing or you know, it could be— I mean, obviously, that is a sport, but anything... The traditional sports that we're thinking of.
+Tom:Well, I'm gonna get complaints from Rubik's cubers. It's gonna be Christians and Rubik's cubers who are complaining about this one.
+Bill:And the Christian Rubik's cubers, ohoho.
+Katie:Yeah. It's because I feel like it could be, you know, if it's golf or something, the lines could be the shape of the course that you have to play. Although presumably that would stay the same if it happens in the same town where there's a golf course, unless they dig it up every year and rearrange all the holes. But something that changes each year to represent how the competition is different. But I don't know why it's yellow.
+Rowan:In my head, it was either the— So things that change every year. The number of year that it is, is one. The thing like what Katie just said of, you know, where is this year or what's going on this year in particular. Or a throwback to what happened the previous year? So I don't know if it was the... arc of the ball for the winning thing. Do you know what I mean? That it's just a tradition where they're like, "Okay, this is something we reused from last year." Because they're different every year.
+Katie:I would love it if the answer to this is just, it's the year written in lines, and it's a different year every year.
+Bill:I will say of the things you've thrown out, don't go any further. Because at least one of the things you've said is... very, very close.
+Tom:Okay, so it's gotta be the course that changes every year or something like that. But, when I heard continuous curves, I was thinking it's something on a water course or a river or something like that, but Hamburg does not have a river that—
+Katie:Or a skiing thing?
+Tom:No, I don't think it's in Hamburg for skiing.
+Katie:Or mountain biking or, you know, trials riding or something that you drive a route, or...
+Rowan:I'm trying to picture it in my head. I'm like, what's a wiggly line? A snake, a worm? A course?
+Katie:Well, it said curves, right? It doesn't have to be... It could be— A curve could just be one slightly curved line.
+Bill:Well, I will say, it is not one long curved line. It is one line made up of several curves. So it's sort of... goes and then changes direction and curves off in a different way. Changes direction, curves again.
+Tom:Okay.
+Bill:There's a bit of a ziggy-zagginess to it, if you will.
+Tom:So what do I know about Hamburg? Hamburg... Hamburg has Miniatur Wunderland. It has the big— It has the greatest miniature railway in the world. It has a big old tunnel under the river. I'm just trying to think of Hamburg facts at this point.
+Bill:Yeah, just throw them out.
+Tom:I've not really got much.
+Rowan:Yeah it's, a rollercoaster course. It's a train track, it's a river, it's a snake. It's... just naming curvy things.
+Tom:And a yellow line as well.
+Katie:Yeah, yellow feels important. Is yellow important?
+Bill:I was going to say... that it wasn't. My first impression, but no, it is. It is quite relevant. So relevant in fact, that one of my clue ideas listed on this question is the colour of the line is relevant. So yes, it is relevant.
+Tom:(laughs)
+Katie:(chuckles) Good.
+Bill:So what's something yellow, I suppose, is the follow-up question.
+Rowan:The sand, the sun. The balls in some different sports, I guess. I don't know enough about sports to say if that is accurate.
+Katie:Bananas are both yellow and curved.
+Bill:Ooh, it's the national banana competition!
+Rowan:Breaking open a new line of inquiry here, Katie.
+Bill:It is a sport, it is a sport. Contained within the question, it is an annual sports event, so... 100 percent down on sport. And definitely some of those yellow— At least one of those yellow things you listed is the correct answer. It is the relevant—
+Rowan:Oh, for— Why do I keep listing things? Why can't I just stick to one guess?
+Tom:I can't remember what yellow things you listed!
+Bill:Banana?
+Rowan:The sun... The sand... and then a sports ball which feels the most likely for a sports event, to be fair.
+Katie:Like a tennis ball?
+Bill:Tennis balls are famously yellow.
+Rowan:Is it something to do with the s— 'Cause if you're talking about a zigzag, that feels like it's the bounce of a tennis ball or something? Is it something to do with the curve of...
+Tom:Okay, it's the path of a ball being thrown and bouncing off the ground.
+SFX:(imitates bouncing)
+Tom:That kind of...
+Bill:It very is explicitly the path of a ball. But why would that change every year?
+Rowan:They just get some— The graphic designer just goes, "Oi, intern, chuck a ball." And they're like, bing, bing, bing, and they're like, "That's it, that's the logo. You've got it."
+Bill:You've done it, kid. You're going to make it in this world of ball-throwing advertising.
+Katie:It was sort of suggested, something from the previous year. Could it be the winning shot from the previous year? The winning rally or something?
+Bill:Yes, that— You've cracked it. You did kind of crack it earlier— Well, Rowan cracked it early on. But I let you all stew for a while until you knew that you found it. But yes, so it is the trajectory of the championship point from the previous year's tennis event. So the winning rally will be drawn out over the logo, up and down, curves back and forth. Presumably some years, it must just be a single line from an ace that won the competition.
+Tom:(laughs)
+Katie:Yeah.
+Bill:Made it a little bit less exciting visually.
+Tom:One year someone wins because of a double fault. There's just a dot on the logo. Just nothing.
+Bill:Well, actually, Tom, that did happen in 2020. The winning point was a double fault.
+Tom:Alright.
+Bill:They used the lines of the two serves, and the opponent's attempted return of the serve. So at least it still looked visually interesting. So yes, the yellow line in question is the trajectory of the championship point from the previous year's tennis event.
+Tom:Thank you to Landon Kryger for this question. In 1994, after a 6.7 magnitude earthquake disturbed the residents of Los Angeles, people rang 911 about a large, eerie cloud overhead. Why did operators tell callers there was nothing to worry about? And one more time. In 1994, after a 6.7 magnitude earthquake disturbed the residents of Los Angeles, people rang 911 about a large, eerie cloud overhead. Why did operators tell callers there was nothing to worry about?
+Rowan:They were covering up for the truth, Tom, which was that an alien invasion was happening.
+Bill:They were the cloud seeders!
+Rowan:Right, it wasn't because there wasn't anything to worry about. It's because they didn't want the people to know.
+Bill:Yeah, you say 'earthquake' like it wasn't the tremors of an alien spaceship crashing into California... Tom!
+Rowan:The kaiju are rising, Tom.
+Bill:Way to be on the side of the government, Tom. We're here for freedom!
+Tom:I'll update the question. What was the official explanation for why operators told callers that there was nothing to worry about?
+Rowan:Because there wasn't, the end. It was fine. It was a cloud.
+Bill:It was just a normal cloud?
+Rowan:It was just a cloud.
+Bill:Just a cloud, Tom!
+SFX:(group giggling)
+Bill:It was slightly rainy. I know Californians don't know what the rain looks like, but they got too excited!
+Katie:I have three initial thoughts here. One is, I have no idea what a 6.7 magnitude earthquake is like, whether that's a bad one or a really bad one, or...
+Tom:Bad, but not devastating.
+Katie:Right, okay. The two thoughts that occurred to me was, number one, it could be a perfectly innocuous cloud, you know, like a sugar factory that got shaken up so much that it released a big cloud of icing sugar into the sky, and it was absolutely fine.
+Bill:What a whimsical world.
+Katie:I know.
+Rowan:That's so true.
+Katie:Just candy floss everywhere. And number two is that, I dunno how this would happen, but somehow the earthquake had caused the top bit of everyone's windows to be clouded. And that that was what they were seeing, and they were all looking out the window and going, "Oh, there's a big cloud up there." And it wasn't. But those obviously both wrong.
+Bill:Yeah, 'cause you're right. The explanation for why they said there was nothing to worry about is pretty much just probably there was nothing to worry about. It was a cloud. (snickers) So maybe the question is... why would you get a cloud after an earthquake? How does it—
+Tom:Why would you get a cloud after an earthquake? Yes, that's what you'd hone in on there.
+Katie:Sugar factory.
+Bill:It's the sugar factory.
+Rowan:Is it? I mean, if it's... Could there have been volcanic questions? I'm like, are those things connected?
+Katie:That's what they're called, yeah.
+Rowan:Do you know, the cloud from a volcano that could have been activated by the tectonic plates moving around? I did not even do GCSE geography. This might be not how nature works.
+Katie:They're definitely related. Earthquakes and volcanoes are the same bit of science. But if there isn't already a volcano somewhere... can you just get one? I guess you could open a crack in...
+Tom:Only in a disaster movie from the mid 2000s, I think. I don't think there's much chance of an actual volcano.
+Rowan:Yeah, so entirely possible and very realistic.
+Tom:Yeah, entirely, yeah.
+Bill:Just like that documentary, 2012.
+Katie:Yeah. 
+Rowan: Yeah.
+Tom:Yeah, yeah.
+Katie:Oh, I remember when it was like that in 2012. God, it's so weird.
+Bill:(chuckles) I know.
+Rowan:Is it— So when we say a cloud that they were seeing, I'm also assuming that it wasn't a naturally formed water vapour in the air, water cycle situation, and it was some kind of—
+Tom:That is a fair assumption. They were seeing something that was not actually a cloud.
+Rowan:And not powdered sugar.
+Tom:Definitely not powdered sugar, no.
+Katie:Not spontaneous window frosting.
+Tom:(laughs) And not spontaneous window frosting.
+Rowan:We were so close to that one.
+Tom:Which is also what you'd get if there was too much icing sugar in the air, so...
+Bill:(laughs) It's true!
+Katie:Yeah, the top of everyone's sunglasses was somehow damaged by the earthquake.
+Bill:And it is California, they're all wearing sunglasses.
+Rowan:I mean, it also can't be something like some kind of horrendous gas leak, because then I feel like they'd be like, "There actually is something to worry about. There's a gas leak." So it's not something like that.
+Bill:I also have an image of, you know when there are wildfires and/or bushfires. And they'll just try and drop water from planes. They'll fly them over and they'll just drop water. And so you might get... So I wonder if, is it— Could it also be the remnants of an emergency response? Someone is like, "Don't worry, the cloud's good. We made the cloud. It's a good cloud. It's working for us. Leave the cloud alone."
+Tom:There was even less to worry about than that. The earthquake had caused something else to happen.
+Katie:Was it birds?
+Bill:(gasp) Birds are a cloud!
+Tom:(laughs)
+Katie:Birds are a cloud.
+Tom:We're just gonna take that one just out of context, just park that over there.
+Bill:Everybody called 911 and they said, "911, I can't hear bird sounds anymore. I need you to come and install a new loudspeaker to play bird sounds into my ears. This is terrible!"
+Tom:Now, it's not that, but this is Los Angeles.
+Katie:Right.
+Tom:So, they're not used to having that many bird sounds around in Los Angeles. There's different noises, different things that you expect to see there.
+Rowan:Is it something to do with Hollywood movie industry special effects stuff?
+Bill:All the actors got flung into the air, and they formed a cloud of talent rising above Los Angeles.
+SFX:(others laughing)
+Bill:Underpaid talent, I think. The writers too.
+Tom:I did say 'disturbed' in the question. The earthquake disturbed the residents of Los Angeles, which kind of implies something we haven't quite told you here with that.
+Katie:I mean, when you say disturbed, do you mean quite deeply upset?
+Rowan:Or just like, "Oh, that's a noise."
+Bill:Yeah.
+Rowan:"That's bothering me."
+Bill:How do you get disturbed by an earthquake? Other than just being... quaked?
+Katie:Yeah, literally, there's been an earthquake.
+Bill:Yeah, and things fall, and you hurt yourself. And a building collapses, and everyone's really worried. I can't believe Tom's making light of this terrible situation.
+Rowan:And also not giving us any clues!
+Tom:People were saying it was a large glowing cloud overhead.
+Bill:They thought it was a nuclear attack. They saw a big cloud and the ground shook, and they were like, "Oh no, we're being attacked."
+Katie:A glow stick factory.
+Bill:A glow– Oh.
+Katie:Just going to continue listing types of factory.
+Rowan:Yeah. Because everyone knows after an earthquake, whatever has been disturbed floats into the air and forms a cloud.
+Bill:Flies into the air, exactly. This is basic physics.
+Tom:Have a think about Los Angeles and the weather there and everything. Why would you look up in the sky and think something might be glowing?
+Bill:West coast, sun, sets over the ocean... Make stuff glow.
+Katie:Is it just sunlight coming through some regular clouds?
+Bill:Dust? Just debris and dust?
+Tom:Oh, we've been a real jerk about this question. Y'all are assuming that the sun was out.
+Katie:Ohh.
+Rowan:It was night time?
+Tom:Night time. It was night time. That's why the residents were disturbed, and that's why they thought the cloud was glowing. If you're in the middle of the day, and you look up, and you're not going to describe anything as glowing. You're just going to see it.
+Bill:It's like the angle, it's high enough that the sun has set below the horizon, but not for the cloud. And it comes up at an angle and lights up the cloud. And they go, "Whoa, look at that! It's glowing."
+Katie:I feel like the earthquake has become less relevant now.
+Bill:Who needs an earthquake? It's all about the sun.
+Tom:So yeah, after an earthquake disturbed the sleep of the residents of Los Angeles... why did they call 911 and report an eerie, glowing cloud overhead?
+Katie:So they're not normally awake at that time of night? Is this some kind of Hollywood studio big lamp thing that... You know, like they have the Bat Signal or whatever? I don't know how America works.
+Rowan:It was Batman!
+Tom:Katie... and I mean this as a clue... you could not be further from the truth.
+Bill:Was there just a blackout and they were like, "Stars?! The Milky Way! Look at that Milky Way!" For the first time in their lives?
+Tom:Exactly right. It was the Milky Way because the earthquake had knocked out the power. All the lights were off, and the residents were like, "There is an eerie glowing cloud in the sky." That's why it was Los Angeles.
+Katie:That's what that guy from Canada was doing. No.
+SFX:(group laughing)
+Rowan:I know, right?
+Bill:I just want you to see the stars!
+Katie:Yeah.
+Rowan:That is wild.
+Katie:That tracks, I like it.
+Bill:That's beautiful.
+Tom:So yes, in 1994, after an earthquake at night, 911 operators in Los Angeles had to reassure residents that it's okay, that's just the Milky Way. Katie, last big question of the show is yours. Take it away.
+Katie:Okay. From 1988, why did the German company Kinder have to supply a handful of plastic, inedible 'egg men' characters – wearing a red hat and large, white shoes – to every supermarket? I'll say that again.
+Tom:(laughs)
+Katie:From 1988, why did the German company Kinder have to supply a handful of plastic, inedible 'egg men' characters – wearing a red hat and large, white shoes – to every supermarket?
+Rowan:Okay, my first instinct is that... this was when Kinder eggs were created. And children are stupid. And they were like, "Let's eat this plastic." And they were like, "Ho ho, we're the egg men saying, don't eat us, you silly kids."
+Tom:(laughs)
+Rowan:"We're inedible."
+Tom:I was thinking it was more when Kinder eggs were first banned in the US, and they were sending over tiny toys to go next to the eggs so they could package them up. But that doesn't work for every supermarket. It doesn't work for the egg men.
+Bill:My first thought was— and I have to say this, because I cannot think if I don't say this out loud and clear the image out of my brain— but my first thought is that they'd send three of these egg men and a big, fat kind of aquatic mammal with tusks. So the first one would be like,
+Tom:There we go.
+Bill:"I am the eggman. They are the eggmen." "Oh, and I am the walrus." And then the walrus says, "I am the walrus." And now that I've said that, and it's purged from my brain, I can finally think. What are we talking about? Kinder, 1988? Alright, let's go.
+Katie:Well, so, I mean, it is related to Kinder egg. 'Cause egg man and Kinder kinda gives you that away. The Kinder egg was invented in 1974. So it wasn't just when the Kinder egg launched.
+Bill:We've had 14 years of eggs. Everyone's happy. Suddenly, things have changed. And they roll out the egg men.
+Rowan:The egg men have arrived.
+Bill:The egg men are here!
+Tom:What changed in 1988? I mean, this is Cold War era, I guess?
+Bill:It's the— They're preparing for the reunification of Germany. And they need egg men.
+Tom:Berlin Wall hasn't come down yet, I don't think?
+Bill:I think we're a year off, right? For... Or maybe more for the wall coming down. Something happened in '89, and something happened in '91, I think. I don't remember anything.
+SFX:(Tom and Bill snicker)
+Bill:Egg men.
+Rowan:1989, Taylor Swift was born. And also the egg men arrived.
+SFX:(group laughing)
+Bill:And they knew that she was going to proceed. They sent three wise egg men to Taylor Swift's manger bearing Kinder eggs, Kinder eggs, and myrrh.
+Tom:Oh, we're going to get so many complaints!
+Bill:Who's going to complain?
+Rowan:It's incredible how all of the lateral puzzles from today have been linked in such an incredible way. It's all a puzzle.
+Bill:It's really masterfully constructed. You've put it all together so well.
+Rowan:So were they specif— When you said that they were the egg men, you specifically described them as having a hat and boots on? Was that right?
+Tom:Red hat, big white boots.
+Katie:Yeah.
+Rowan:Is that an emergency service thing in Germany? Was that a uniform for someone, or a specific outfit?
+Bill:The egg men.
+Rowan:Or was it just a fun character?
+Katie:I don't think so. It looks like the logo of Kinder eggs. If you've ever seen the— There's a version of the picture of a Kinder egg that's got a hat on, and it's got hands, and it's got shoes.
+Tom:Okay. He says, as if that's a normal thing.
+Bill:Yeah, no, yeah, I get it.
+Katie:Yeah, you know, just a normal egg with feet, yeah
+Tom:Yeah.
+Bill:Just like an egg man. Yeah, I've seen an egg man.
+Katie:Yeah, yeah.
+Bill:So, the implication of this question is... The reason isn't just... "Hey, it's good marketing. Egg men. They're a brand. It's a brand." There had to be a reason. They were like, we need the egg men. We have a problem, and the only solution is more egg men. So...
+Katie:Yeah.
+Bill:Why do I need an egg man?
+Katie:So the, I guess the question is... What changed in 1988 in supermarkets?
+Tom:Oh... barcodes.
+Bill:Bar— Wait, what was happening before 1988?
+Tom:This has just unlocked a memory of mine from when I was very young, which is that I... Barcodes and that kind of automated checkouts were a new thing. And I just remember... Oh, I have no idea why this is stuck in my head. Just this big hoarding on the outside of the supermarket explaining that this is now an automated checkout. You would get a receipt pointing out what everything meant on this weird printer till roll receipt, versus just getting, you know, a bit of paper with some numbers on it. And, I think barcodes were already established to some extent by then. But these new automated checkouts might be a— Not automated like we have now, but just scanning a barcode to, yeah. Is that anywhere relevant?
+Katie:It is relevant.
+Bill:How can that be relevant? What is— "Oh, now there's barcodes. Get the egg men."
+Tom:Oh, you can't... scan a barcode on a curved surface. These days, you can. The technology's better. But they've wrapped—
+Rowan:The foil as well, that's all never properly a flat barcode, or it always gets wrinkled over.
+Bill:So you give them flat feet, right? Eggs can't join the army, but they can be scanned. So...
+SFX:(group laughing)
+Tom:W–Where did that come from?!
+Bill:'Cause they got flat feet.
+Rowan:'Cause they got flat feet.
+Bill:They got flat feet, Tom!
+Tom:Okay! You know? Sorry, you had to explain that joke to me. Sorry, that one's on me. That's my bad.
+Bill:These eggs have flat feet and bone spurs. So... (sputters)
+Tom:(cackles) Wow. Eight years too late for that joke. But thank you.
+Bill:It's coming back 'round. He's coming back.
+Tom:Ugh!
+Bill:So there's flat feet, and that gives you a scanning... thing. So you put a Kinder egg in— you give it little feet?
+Tom:No, you put one by each checkout. So when the... I really hope this is right. If it's not right, we've gone a tangent for far too long for this.
+Bill:No, I love it!
+Tom:But the checkout staff, if they see a Kinder egg, which cannot be scanned, 'cause the technology is not good enough, it can't scan a barcode on a curved surface, they have the egg man, and instead they scan its feet. Please tell me that's right.
+Bill:That's gotta be right.
+Katie:That is literally exactly right. So you said...
+Tom:Heyyy!
+Katie:all the things that we needed here. So it was, yeah, so...
+Bill:Ha-ha!
+Katie:Kinder eggs existed before this, but when they started using barcode scanners widespreadly in supermarkets – widespreadly is definitely a word – they couldn't scan a barcode. And as you correctly pointed out, barcode scanners in the early days were not nearly as good, and they couldn't scan anything on a curved surface. So the egg man, which has got... I have to say it, flat feet. It's kind of got a flat surface underneath that's like where the feet are touching the table. And they would put one by every checkout, and they were literally chained to the wall so that they wouldn't get stolen. Because everyone thought they're really cool somehow. And you could pick it up and scan the little barcode underneath. And... the egg men are not needed anymore, but they are now a collector's item.
+Rowan:I contest them not being needed though. Because as someone who used to work in a checkout, who had to scan so many creme eggs at Easter...
+Katie:Yeah.
+Rowan:Foil wrapping... where they put barcodes on the foil will always be a nightmare. And I believe that they should have little cute little egg men for every kind of foil wrapped egg on the market. That's my... That's the hill I've decided to die on today.
+Bill:I just found an egg man on eBay for $160. They are collector's items.
+Tom:(laughs)
+Katie:Yep.
+Rowan:Dang.
+Tom:One last order of business then. At the top of the show, I asked: When a light aircraft suffered engine failure after takeoff, how were all six people rescued by deploying one parachute? Anyone want to take a quick shot at that?
+Katie:Was the parachute attached to the plane?
+Bill:Yeah, it's a very light aircraft.
+Tom:Yes, it was.
+Rowan:Yeah, it was a very light aircraft.
+Tom:Yeah, this is the Cirrus SR22. It has the Cirrus airframe parachute system. And certain small planes now just have a big old... I don't know if it's a button or a lever you can pull, but it deploys a chute for the whole aircraft.
+Katie:Amazing.
+Rowan:Amazing, love that.
+Tom:With that then, let's catch up with the guests. What's going on? Where can people find you? What are you doing at the moment? We'll start with Katie.
+Katie:I'm on the internet. I have a channel on YouTube. And my name is Katie Steckles. And if you search for that, you'll find all of my things. I'm just doing all of my usual stuff where I talk about maths in lots of different places.
+Tom:And Rowan.
+Rowan:Yeah, if you search for Rowan Ellis, you can find me all over the internet. I mainly do stuff on YouTube, longform video essays around queer topics and history. And also the Queer Movie Podcast, where we talk about – surprisingly enough – queer movies.
+Tom:And Bill.
+Bill:Yeah, look, hey, if you like lateral puzzles and you want to hear more fun puzzles, we make escape rooms. We have guests come and play them on our podcast, Escape This Podcast. Google it, you'll find it.
+Tom:And that is our show for today. Thank you very much, everyone. If you want to know more about this show, or if you want to send in your own listener questions, you can do that at lateralcast.com. You can find us at @lateralcast pretty much everywhere, and there are video highlights every week at youtube.com/lateralcast. Thank you very much to Bill Sunderland.
+Bill:Thank you for having me.
+Tom:Rowan Ellis.
+Rowan:Thank you very much.
+Tom:And Katie Steckles.
+Katie:Thank you.
+Tom:I've been Tom Scott, and that's been Lateral.

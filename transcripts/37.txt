@@ -1,0 +1,345 @@
+Tom:A budding author grabs something from a high supermarket shelf. And so, what literary character is born? The answer to that at the end of the show. My name's Tom Scott, and this is Lateral. Welcome to another edition of the Lateral podcast. And we are as ever joined by three captivating guests. Sorry, that's 'captive' guests, because the doors are locked and we've got them for the next 45 minutes or so. We start with: from his own YouTube channel, Jeremy Fielding.
+Jeremy:Hello, thank you for having me.
+Tom:Now, I met you a while back at ThinkerCon. You are— how do you describe yourself? I've got 'maker.' But that doesn't seem to encompass everything that you do.
+Jeremy:Yeah, I struggle with this every time someone asks me what I do. (laughs) But... My real goal is to teach people about engineering, but I try to design and build things that are interesting, so they will wanna learn about engineering. So that's really the goal. Everything from building robots in my garage to all types of machines and gadgets, and teaching stuff as well. But, yeah, that's what I do. So making is, you know, only part of what I'm after. Making is like a means to the end.
+Tom:Which I think is also true for our second guest. Also joining us: Estefannie from your YouTube channel. Are you going with maker? Are you going with something else? Because last I saw, you were taking a lot of pictures of your cat.
+Estefannie:Hah! Yeah, I don't know. I think... I just like to invent things. So, because I think my dream is to become like Doc from, you know, Back to the Future, and I just wanna build stuff in my garage. So I guess, and then I think as a result, I could maybe inspire people? Hopefully the little Estefannies out there who, you know, 'cause growing up it was just like kind of male-focused inventors. So yeah, I'm an inventor. And Mexican, yes.
+Tom:Our last guest is not a maker, and is returning to YouTube after several years away. Now, Inés from Draw Curiosity, you made a guest video for me many years ago. Thank you very much for that. What are you coming back with?
+Inés:So I'm coming back with actually some very long-awaited videos, 'cause they were ones that I planted the seeds for just as I decided to take my break. One is, so I used to have knee-length hair, and I cut off a one-metre-long braid. And so I asked people to try to guess how much it weighs. So finally the answer to that, along with some interesting science, is going to come. And I also measured how stressful my PhD was. And spoiler alert, I was indeed very burnt out from it.
+Tom:I think everyone I know who has 'Doctor' before their name, which by the way, on the video call that we're recording this on, you actually came in with your default name with the 'Dr.' in it, which I appreciate. That's making sure it's out there. I think everyone I know with that in their name is just... has that memory of being a burned-out ball of stress.
+Inés:A lot of people joke that 'PhD' really stands for 'permanently head damaged' from the process.
+Tom:Oh, wow. (chuckles) Let's hope it hasn't affected your lateral thinking skills at all, because that is what the show's about. The questions on the show are like cosmic wormholes, transporting us to realms of knowledge and imagination we never thought possible. So let's explore the vast universe of ideas before we're sucked into an intellectual black hole. I'm gonna start you off with question one, which is: Why did Alec photocopy the back of his extension cord? It's a short question, so I'll give you one more time. Why did Alec photocopy the back of his extension cord?
+Jeremy:First, how do you define the back of an extension cord? I'm curious which com— Which aspect of this extension cord is the back of it?
+Tom:I wonder if this is an international thing, where different countries have different names for this thing. So, the British use would be 'four-gang plug.' Which is that it is a... you plug one into the socket on the wall, and you end up, there's a cord, and then there's four sockets, six sockets there.
+Estefannie:Oh, okay.
+Tom:I dunno what the translation of that would be for various other countries, but that's what I'd call an extension cord.
+Inés:Is he doing this once, or is he having a continuous photocopy running as if to keep track of whether other people are plugging things in, and what direction the cords are going?
+Jeremy:Yeah, I guess I want to make sure I have the orientation right in my mind before I can figure out why I would do such a thing. So if I have an extension cord that's got four plugs, what I'm envisioning on the top, we have plugs like that, and you flipped it over, there's a backside that's maybe flat, so it could sit on the floor. The only thing that would usually be there is... you know, the rating and information like that. Perhaps... it's got something to do with the capacity of the extension cord? Wanting to keep track of whether too much power is being drawn, or if you're plugging the right things in? Am I even nudging in the right direction?
+Tom:Mmh.
+Jeremy:(laughs)
+Tom:It's a very small nudge, but it is technically in the right direction.
+Inés:Okay.
+Jeremy:Okay.
+Tom:I'll give you a slightly improved mental picture in that it's kinda one of those power strips, rather than a coiled cable. But yeah, it's the backside from the sockets. You've got that bit right.
+Estefannie:So I'm thinking more like to be able to trace it on some computer or a device or something to build something around it? Maybe they want to hang it somewhere or put magnets in, place it somewhere, so it's more accessible? Is this the kind of questions we're looking for?
+Tom:Yeah, you're definitely heading the right way there.
+Jeremy:I like where you're going with this. I mean, this is, again, the only reason I would take that photocopy...
+Estefannie:Yeah.
+Jeremy:And put it in my modeling software, you know, and get the whole dimensions and things like that, so that I could make something related to it. So that seems like another good reason to do that.
+Estefannie:Because I have one right next to me right now, and I put magnets on it so I can just put it wherever I want and snap it on things.
+Inés:Because we used to cosplay ours. We used to put little Velcro things around it, so we could attach it anywhere.
+Estefannie:You don't need to photocopy it for that, because we've all done projects around our extension cords without the need to photocopy, so... We might all be wrong. (chuckles)
+Jeremy:So it's not necessarily that he needed to photocopy it, but he just decided this was— he had a reason. We wanna know what that reason is.
+Inés:Was he trying to be a smart Alec?
+Tom:That is actually why the question writer named him Alec. This is not a specific Alec, but thank you. Now I don't have to read that joke out at the end. You have correctly worked out why he's called Alec in this question. Yeah, if you were building something, you could take measurements and you could copy it. But in this case, specifically, a photocopy helps a lot more.
+Inés:Is someone asking for proof that he has an extension cord, so he decides to photocopy and fax it to them?
+Tom:It's more practical. You're dancing around it. You've come up with solutions. It's a solution to something you've already mentioned, particularly you, Estefannie. You said you were doing something very much like this.
+Estefannie:Is this based in the '80s, or is this in current times?
+Inés:How dare you use photocopy technology!
+SFX:(both giggling)
+Tom:Could be any time.
+Estefannie:Because well, it depends, right? So if it's in the '80s, then there's not a lot you can do with a photocopy. But nowadays you can photocopy it and scan it and then put it on a 3D CAD, AutoCAD, and then print something.
+Tom:Just a regular, plain paper photocopy.
+Estefannie:Well, because you can do so much with it afterwards, depending on the technology that you have access to at the time.
+Jeremy:Well, a photocopy would allow you to just take a piece of paper and figure out if it will fit somewhere.
+Estefannie:Oh, yeah.
+Jeremy:So if you wanted to cut it out and just test fit, make sure it fits in the space, that it's the right size, right orientation, like a picture.
+Estefannie:But why not use just the thing to measure with? If you—
+Jeremy:Yeah, I agree.
+Tom:You're so close. There's one more thing. If you have this photocopy, what can you do that you couldn't easily do?
+Estefannie:Oh, I know, I know. Oh, I don't know. Should I say it?
+Tom:Go.
+Jeremy:Please.
+Estefannie:So I'm thinking so that you can mark something on a wall to make a hole with. And hang it.
+Tom:Yep, you're absolutely right. In fact, you don't have to mark anything on the wall... because you've got the photocopy.
+Estefannie:Yes, yeah, yeah. So you can trace or you can poke through it. Yeah, yeah, you can do so much with paper.
+Tom:You can attach the photocopy to the wall with the screws that you then hang this power strip on, and then you just rip the paper away.
+Estefannie:I feel so accomplished right now.
+SFX:(group laughing)
+Estefannie:This is great. I don't have to work today, right, after this?
+SFX:(laughter intensifies)
+Tom:Yes, you're absolutely right. The photocopy of the power strip was to use as a template for hanging on the wall. Each of our guests has brought a question along with them. I don't know the question. I definitely don't know the answer. And we start today with Jeremy. What do you have for us?
+Jeremy:This question came in from Alain Chen, and the question is: US college basketball players are only permitted to use a limited range of numbers on their jerseys, namely: 0, 00, 1 to 5, 10 to 15, 20 to 25, 30 to 35, 40 to 45, and 50 to 55. Why? I'll say it again. US college basketball players are only permitted to use a limited range of numbers on their jerseys, namely: 0, 00, 1 to 5, 10 to 15, 20 to 25, 30 to 35, 40 to 45, and 50 to 55. Why?
+Inés:I have two likely incorrect hypotheses.
+Jeremy:Okay.
+Inés:One is the less safe for work one, which is, they probably don't want the number 69 cropping up.
+Tom:I was gonna say that one as well! All the funny numbers are away from that list. Yeah, okay.
+Inés:And then my other one is... Well I might be wrong about this, but I think... I don't know, I haven't really watched much basketball. But are there five people per team in basketball?
+Tom:I think there's loads of people per team in basketball, and they can swap out? I think you get substitutions, don't you? Oh god, I know nothing about basketball.
+Jeremy:Yeah, I mean, the whole team could be huge. Yes, it will— there're definitely more than five members on the team.
+Inés:But on the court itself, is it not just five against five? If there's not, then my hypothesis goes down the drain. But if it's just five—
+Tom:Yeah, it's 5v5.
+Inés:Then maybe you could have your one to five, maybe you could have your top substitutes, 0 and 00. And then as you knock players out, maybe that's when the 10 comes to substitute the 0, and the 11 comes to substitute the 1. This is my first working hypothesis.
+Jeremy:Okay. No, I would say you're pretty cold on that one.
+Inés:(giggles) 
+Estefannie:Is basketball American? I don't know.
+Jeremy:Basketball is probably predominantly American, although it's played in the Olympics. So every country has basketball teams.
+Estefannie:But where was it invented? It's not relevant to the question, but maybe. (giggles) 
+Jeremy:I really don't know. That's an interesting question.
+Tom:There's an old story about it being that someone put nets for oranges up on a hoop, and you had to try and throw the ball in there. And I think that's a myth. Because the story goes, they were like, the ball kept getting stuck, so they cut off the bottom of the nets. And I just seem to remember a debunk of that somewhere.
+Estefannie:Ah. I know that the Aztecs had the circle stone things, and they had to hit a ball with their hip towards that and aim at that. But that's not basketball. They claim soccer for that.
+Tom:Yeah, that's the old Aztec ball game, which was meant to involve human sacrifice at some point as well.
+Estefannie:Yeah, it's so fun.
+SFX:(group laughing)
+Estefannie:But I do have a hypothesis that has nothing to do with Aztecs.
+Tom:Yeah, my producer just said it was invented at a YMCA in the US with peach baskets. I nearly got that right.
+Estefannie:My question is, does this have anything to do with the Chicago Bulls?
+Jeremy:No, it is definitely not. This is college basketball. College basketball.
+Estefannie:I was wondering. Did Michael Jordan claim 27 forever? Nobody else can use it? Because that's the only thing I know about basketball.
+Tom:Well, there are retired numbers in a lot of sports.
+Jeremy:Michael Jordan was 23.
+Estefannie:Oh, 23? Wow, I'm so wrong! And I love Michael Jordan. See, I don't know anything about basketball.
+Tom:A lot of teams in a lot of sports have retired numbers. If someone was that legendary or that infamous or... or that shunned by society now, they do sometimes retire the number, but...
+Jeremy:Okay, wait, this is actually an interesting clue, because retired numbers is a problem for this rule. Retired numbers is a problem for this rule. Because college teams do retire numbers, and then you only have so many numbers left.
+Inés:So I'm wondering if it could be to do with the pronunciation. Maybe for some reason one to five is easier to say than six to seven, and that you've got 16, 17, 25, 27, 36, 37. There's a lot of repetition, and maybe there's some ambiguity in the way, and you remove more of that? But then you still have the problem of 23, 24, but maybe less with 13.
+Jeremy:Yeah.
+Inés:So this is my next hypothesis.
+Jeremy:Keep going with that. You're onto something.
+Tom:It can't be for the commentators, 'cause they go by name rather than number. Are there players' names, for the commentators on a five by five grid, and they wanna translate from the number on the jersey to the name, and that's an easy way to do it? And they can't read more than five by five or something like that?
+Jeremy:Who would benefit from using limited jersey numbers?
+Tom:The jersey manufacturers would, 'cause they don't have to create the numbers six through nine to go on the back. If they're all two digit numbers, which we...
+Estefannie:That's true.
+Jeremy:There would still be two-digit numbers.
+Tom:Yeah, is there some reason they can't use 6, 7, 8, and 9?
+Jeremy:Ah-huh, think about that.
+Tom:Is there some keypad or some electronic thing that doesn't go that far... or the score clock doesn't show those higher numbers or something like that?
+Jeremy:Well, the score card definitely does, but keep going there. You're getting so warm. I almost don't wanna stop you. Help him out, guys.
+Inés:Could it be that six, eight, nine, and three, they all kind of look a little bit ambiguous if they're a number on a chest? If you can just see half of it, maybe it's again, harder to disambiguate those players?
+Jeremy:But what makes 6, 7, 8, and 9 harder to communicate than the smaller numbers?
+Tom:Oh my g—!
+Jeremy:You're on the right path.
+Tom:Yeah, it's fingers. You've only got five fingers. So if you want to call a substitution or yell at someone from the side of the court, and you wanna hold up your hands to say number 23... you can do that with two hands if you don't have more than five as each digit.
+Jeremy:There you go, yeah.
+Estefannie:Yeah!
+Inés:You're so good.
+Estefannie:(applauds)
+SFX:(group laughing)
+Estefannie:Oh wow, that's hard.
+Jeremy:It's to avoid confusion, so that the refs can just use hand signals to indicate the player's number.
+Tom:Spot the nerd who went for keypads and commentator view grid before the literal hands I have in front of my eyes right now! Oh, that's a lovely question. Thank you, Jeremy.
+Inés:Well, that's a high five for that one.
+Jeremy:Yeah, so the primary goal there is just to communicate clearly, when the refs want to indicate a certain player number. If you're holding up a two and a five, per se, you know for sure that that's number 25, and not number seven, or some other number that would be above five.
+Tom:We have a listener question. Thank you to Nathan Lipke. Colorado's Department of Transportation sometimes closes I-70 eastbound at Floyd Hill for about 45 minutes of the morning rush hour, even if weather conditions are excellent. Why? I'll say that one more time. Colorado's Department of Transportation sometimes closes I-70 eastbound at Floyd Hill for about 45 minutes of the morning rush hour, even if weather conditions are excellent. Why?
+Estefannie:Where in Colorado?
+Tom:Floyd Hill. More than that, I couldn't tell you.
+Estefannie:(laughs) Okay.
+Jeremy:Well, I've only ever seen highways closed when... you have... in terms of regularly closing a highway, I generally think of that as being... But it's not really closed. What I'm picturing is when they op— they essentially make both lanes go the same direction because so much traffic is going into town that they limit the traffic on one side, or they make both la— make all the lanes go into town, so to speak. Am I even on the right track?
+Tom:No, they are just closing one way.
+Jeremy:Okay. The highway is closed one way.
+Inés:Maybe there's a lot of traffic going one way. Maybe there's a lot of demand to go into Floyd Hill or out of Floyd Hill. Whether the fact that there's so much traffic means that they're a lot more likely to experience accidents, and maybe they want those lanes closed so they can have emergency services to respond faster by going down the other lane.
+Jeremy:Wow. I like that answer. Even if it's not right.
+Inés:Yeah.
+Tom:I do as well. But in this case, when I say closed, I mean closed. There's a detour in place. That whole stretch of interstate is closed, eastbound.
+Estefannie:Is this because there's a cult meeting every day in that area?
+SFX:(group laughing)
+Estefannie:Only wrong answers, right?
+Tom:I mean, apologies to the people of Floyd Hill, Colorado. Unless you are genuinely in a cult, in which case I hope you're able to get out of it soon.
+Inés:I'm wondering, could this be... sort of the opposite of LA where driving is encouraged? Maybe they're trying to convince people to use public transport. So by making it a little bit harder to go both ways, maybe they're encouraging people to take alternate routes that do not involve a car with the goal of reducing traffic over time.
+Tom:I think it'd be difficult to do that on the interstate. I'm pretty sure there's some federal laws about that.
+Inés:Never mind, I don't understand America.
+SFX:(group laughing)
+Tom:Who does?
+Estefannie:Same, nobody does.
+Tom:Estefannie?
+Estefannie:Oh no, I was just gonna ask if it is every day, 'cause I forgot the question.
+Tom:So, no, it's not every day. It is sometimes.
+Estefannie:Sometimes.
+Tom:But it will be around the morning rush hour for about 45 minutes, and it will always be eastbound.
+Estefannie:So do we know how many days a week, or do we know, is it a schedule thing or is it just random?
+Tom:Ooh. Without giving too much away... it will not be on a... They'll know when it has to happen.
+Inés:By they'll know, as in people who are driving, or the state or the road?
+Tom:Have a think about some of the words in the question.
+Inés:Eastbound, Floyd... When a Pink Floyd concert is in town? I'm joking.
+SFX:(group giggling)
+Estefannie:Everybody knows?
+SFX:(group laughing)
+Inés:But it's not weather.
+Estefannie:No, it's not weather.
+Jeremy:Yeah, it's not weather.
+Inés:Does Colorado have earthquakes? Or any other semi-regular natural disasters? Where driving one way—
+Tom:It's not a natural disaster, but you're along some more of the right lines there. It's not weather. But it's not man-made.
+Jeremy:Huh. Are we having an issue with... Is there a river nearby, or is there water that maybe floods that area and makes it so that they have to... close it until the water levels go down?
+Tom:That'd still be weather.
+Inés:I'm wo— Oh, okay. I was about to say maybe it could be wind related. But okay, that's also weather, so never mind.
+Tom:You are running through most of the conditions here, and...
+Inés:Oh, okay. Well, again, might also be weather, but I wouldn't consider this weather. Probably also wrong. But is it something where eastbound, you are driving into the rising sun, and precisely the way the sun is coming up, it blazes into your eyes, and it's very unsafe? So they close it for that period?
+Tom:Yes, spot on.
+Inés:Oh my god.
+Jeremy:Wow.
+Estefannie:Whoa!
+Inés:LA should do that. (giggles)
+Tom:Eastbound in the winter months on a hill. So even if the conditions are fine, actually moreso if the conditions are fine, 'cause the sun is gonna be clear in the sky, the sun reflects exactly off the wrong angle of the hill you are going up, and you are staring directly into the sun. So there's just this section of I-70 where Colorado Department of Transportation judges it too unsafe, closes the entire interstate eastbound, because people keep getting dazzled and crashing. Inés, it's on you. Your question, please.
+Inés:Okay, so this listener question has been sent in by Jonathan Levy. How did an old quarry in Swindon, England provide evidence towards the theory that ancient Romans drove their carts and chariots on the left side of the road? I'll read that one more time. How did an old quarry in Swindon, England provide evidence towards the theory that ancient Romans drove their carts and chariots on the left side of the road?
+Tom:Everyone's looking at me. Everyone's looking at the one Brit on this call, and this particular Brit cannot think of anything about Swindon other than the magic roundabout. Which is...
+Inés:(giggles) Awful.
+Tom:Which is a roundabout surrounded by five smaller roundabouts that are all treated as one big traffic thing, and you're driving, and you follow the arrows, and you hope you come out at your destination. As far as I know, that's not in a quarry and not from Roman times.
+Estefannie:I'm gonna be honest, I don't know what a quarry is. I'm just going with it.
+Inés:I have to check this because I also, when I first read it, I thought, what's a quarry? I know it's mine related. It's basically an open-pit mine, and imagine some sort of terracing. So you would basically drive your way down into the mine. So in the times before elevators existed, you know, that's how you would go down into the mine and return from out of the mine.
+Jeremy:Certainly if we're talking about a quarry, then we're digging. And if you're excavating, then there is an opportunity to... find how things are oriented, so...
+Inés:How might you do that?
+Tom:Oh, man, I was stuck on thinking they found some ancient Roman... amphitheatre or something like that. And they were clearly driving on the left because... Honestly, I hadn't finished that thought.
+Estefannie:So is there indentations? But that wouldn't tell you which way, right? I guess? Indentations on the road or on the stone, because they always went through that area. So you know.
+Tom:I know there's an old story that the reason we drive on the left in the UK is that you needed your right hand free for holding a sword in case someone... you know, when you're on horseback, you always rode on the left because that, and then that became tradition. And then car manufacturers in the US wanted to avoid British imports, and so decided to drive on the right. I don't know if that's true. Someone, if you wanna fact check that, please don't email me about it, alright? I'm just gonna flag that as 'legend' and just move on.
+Inés:So I will say that this is in the notes as a 'fun fact' to provide when you guess the question correctly. So it is correct, but not the answer to this question, because we don't necessarily care about the swords. Going to the quarry. I will say Estefannie is kind of on the right track.
+Estefannie:Track, pun intended?!
+Inés:Pun intended, yes.
+SFX:(both giggling)
+Estefannie:Yes. I like it, okay.
+Tom:So you were talking about archaeology and them finding things in the quarry.
+Inés:And I will also add that the... you know, the actual geology or where this was, you don't need to know anything about Swindon. It just so happens that this is the place where the evidence was found.
+Tom:No one needs to know anything about Swindon!
+Jeremy:I mean, I can only imagine that if you found... I mean, if you found a relatively intact roadway... and... you know, debris on the side or— I mean, it's not like you're gonna find a fully buried person in... (laughs) on a chariot and he happens to be facing the right way. So I wouldn't expect that to be the case. But I think... The only other thing I could think of would be if there was... the way the debris is oriented in the— at the site where this was dug up somehow indicated the flow of traffic. And I'm hoping that that's another clue. 'Cause I feel like that that's definitely the direction we're headed, but I just, I don't know how to nail it and say...
+Inés:Yeah.
+Jeremy:This is what they found.
+Inés:That is on the right or left track. How would you find out?
+Estefannie:Okay, so I'm still on the track of indentations of the tracks. And so are these chariots that were being pulled by horses? And if so, then it's the horse hooves' direction. Their tracks, their markings.
+Inés:But okay, so one thing to think about is everything is going in and out of the quarry. So there will be indentations going both ways. But there's a telltale clue.
+Estefannie:'Cause I was thinking about, there's no way to tell which way that we're going if there's just tracks. But then I was like, well, if there's a specific animal, then you know the shape of their feeties. There's a way, but then, yeah.
+Jeremy:I mean if they're passing each other in the road, then you would have tracks going in both directions. And also you'd have orientation.
+Inés:Mhm.
+Estefannie:Mhm.
+Jeremy:So if we're talking about horse footprints... then yes, I think that would clearly indicate which direction people were traveling.
+Inés:But it would be on both sides. So how would you know which side they were going on, if that makes sense?
+Tom:You'd just have ruts in the ground, wouldn't you? You wouldn't have hoof prints there. You'd just have two sets of ruts. 'Cause the hoof prints wouldn't survive. They'd be all over the place. The ruts would get driven in there. So what other thing, what other permanent mark would they make with... that's visible from one side? Agh!
+Inés:So when you're going down to the quarry, what evidence might a cart leave behind? I did like Tom's answer. I feel like Estefannie and Tom are both going towards the right direction.
+Jeremy:I have an idea.
+Inés:Mhm?
+Jeremy:What if... I mean, if you're hauling material, the ruts would be deeper on the side that you are leaving on.
+Inés:That's it, exactly!
+SFX:(group laughing)
+Inés:Good job.
+Estefannie:Nice.
+Tom:We got there between us.
+Inés:Yes.
+Tom:Yeah. Ah.
+Estefannie:Good job team, yeah.
+Inés:I mean, I liked all the answers. I feel like, you know, Estefannie's, I do think those grooves would probably be deeper if they were using horses. And I'm pretty sure there would be debris. But I don't know if that would be cleared each time more carts go through. But indeed the grooves are deeper as they're leaving the cargo. So they could ascertain which side was left, and which side was kind of— which side was going in, which side was going out, and they were going on the left. And so if you want the full answer with all the facts... Carts would enter the quarry empty, and they would leave heavily laden. In a 1998 archaeological excavation at Blunsdon Ridge, near Swindon, it could be determined which way the cart traffic entered and exited the site. The deeper grooves on one side of the road indicate that the direction of the carts leaving with the heavy load, meaning that the drive on the left rule was in place.
+Tom:Our next question was sent in by Julian Atzlinger. Thank you very much. The 'Uhrturm' is a large 13th century clock in Graz, Austria. To visitors, it rarely appears to show the correct time. Yet, locals still tell the exact time from it without issues, thanks to an addition in 1712. How? So one more time. The 'Uhrturm' is a large 13th century clock in Graz, Austria. To visitors, it rarely appears to show the correct time. Yet, locals can still tell the exact time from it without issues, thanks for an addition in 1712. How?
+Inés:Does that mean they couldn't tell the time before 1712?
+Tom:Not the exact time.
+Jeremy:Not the exact time.
+Inés:Is it a solar clock?
+Estefannie:That's what I was going for, yeah.
+Tom:It is just a clock.
+Estefannie:Mechanical clock?
+Tom:Yeah, there's... There's nothing special about the clock. It is a clock. I mean, there's clearly something special about the clock.
+Estefannie:Yeah.
+Tom:But... It is a clock. It's not a sundial, it's a clock.
+Inés:Okay.
+Estefannie:Why does it have to have an addition? So... Because it clearly doesn't work, if it needs an addition to it.
+Jeremy:It sounds like whatever the addition is, is augmenting the time that's being shown on the clock. So you see the clock. It's wrong. And this addition is augmenting the time that's seen, since other people who don't know about the addition or don't know what they're looking at can't tell what time it is. So it's gotta be something that's just indicating the clock is off by an hour or five minutes, or...
+Inés:Is this something like daylight savings? Did they have that in Austria in 1712? And maybe they put a little symbol on the hands to indicate that?
+Tom:I don't think they'd have had that much precision back then.
+Inés:Okay.
+Jeremy:Yeah.
+Estefannie:Does it have to do with birds and cuckoos?
+Tom:Oh, no. And I think that's Switzerland, not Austria, but I appreciate the...
+Estefannie:That's an addition, right?
+Tom:You're right, Jeremy. They added something.
+Estefannie:Okay.
+Tom:And before that, it was less precise. Maybe not less precise, but much harder to read.
+Inés:Do they add bell tolls at the right hour? Regardless of what the clock is saying?
+Tom:No, it looks completely wrong.
+Inés:Okay.
+Tom:To everyone else.
+Estefannie:Harder to read. So did they add another hand?
+Inés:Have they got the hour and the minutes switched around? And therefore—
+Tom:Yes, they have. Why? That— You've solved most of it. What's the story? What happened?
+Inés:I like the idea of this being some sort of about to be invaded city. And so this was their way of tricking invaders, so they would get their timings for battles wrong, but then the locals would actually know the time?
+Tom:Not in this case. What did they add in 1712?
+Estefannie:The seconds hand.
+Tom:Not quite.
+Estefannie:(gasp) Did they... Did they add the numbers or the lines?
+Jeremy:It'd have to be something that when other people look at the clock, they still don't know what time it is, 'cause only the locals know what time it is. So it can't be an obvious thing.
+Tom:No, Inés is right. The hour and minute hands are swapped. The locals know that. Tourists don't.
+Estefannie:Okay.
+Tom:But what happened? What's the story that got them there?
+Estefannie:They were running out of material? I don't know.
+SFX:(group giggling)
+Estefannie:Oh.
+Tom:You're also right. They added a hand in 1712.
+Estefannie:Oh, so they only went by hours first, and then they added the minutes later.
+Tom:Yep.
+Estefannie:And so they didn't know, the hours were so long. They didn't wanna add a super long one? Is that what it is?
+Tom:That's basically it. There wasn't really a standard back then.
+Jeremy:Wow.
+Tom:So they had a perfectly functional clock that went 'round, sweeping every 12 hours. And then this new invention of the minutes hand came along. And they thought, oh, we'll just add a little short one, because the minutes are less important. So for most people who look at the clock go, "Oh, that's completely wrong." And the locals know to mentally swap the hands around to tell the time.
+Jeremy:Wow, I never would've guessed that.
+SFX:(group laughing)
+Tom:Which means it's time for a guest question from Estefannie. Whenever you're ready, take it away.
+Estefannie:This listener question was sent in by Zilland. And it is: In 1840, the Treaty of Waitangi was signed in New Zealand between the native Māori and the British settlers. Since Māori was an oral language at the time, how did the Māori chiefs personally sign the treaty other than with an 'X'? I'm gonna say it again. In 1840, the Treaty of Waitangi was signed in New Zealand between the Native Māori and the British settlers. Since Māori was an oral language at that time, how did the Māori chiefs personally sign the treaty other than with an 'X'?
+Tom:I've got my head in my hands at the minute, because I have been to the Treaty Grounds. It's a big, important site in New Zealand. When I was touring there a few years ago, I've been there. They've got the treaty. And I cannot remember this at all. It's a complete blank in my head. I'm pretty sure I will have read an information plaque somewhere about this at some point, and it's just not stayed in there. Nothing.
+Inés:I like the idea of them leaving behind a personalised mark. I don't wanna say spitting on the signature, but maybe clicking their thumb and putting that down. But maybe I'm reading too much into the oral tradition there, but I'm thinking maybe a fingerprint or something that would be 'personalised'. Or maybe, I don't know, sticking hair, kind of leaving something from the chiefs on that treaty that would be significant.
+Jeremy:I like that idea. Maybe a wax seal of some sort. You melt it, impress. It could be a ring or it could be anything that's, you know, significant to the chief. That will be left as a mark to indicate he was there.
+Tom:Or they could take a bit of the treaty with them? If you were to tear off a piece and to take it back with you, you could always prove that was you by bringing that piece back?
+Estefannie:Okay, now Tom, you're way off, but everybody else—
+Tom:Okay, fine.
+Estefannie:(laughs) was closer! Sorry!
+Tom:Okay!
+SFX:(guests laughing)
+Tom:I had it written in my head... I've just invented a really clever analogue document authentication system, alright? I'll write up a whitepaper about it. I'll send it off to a security conference.
+Estefannie:What if someone steals it? Okay, okay.
+SFX:(guests laughing)
+Tom:Okay, I've invented a terrible document authentication system! But sometimes the mouth just starts running, okay?!
+Estefannie:But I like the whole unique idea. I'm just gonna say that for now.
+Jeremy:Okay.
+Tom:So do they provide something unique to... attach to it or to modify it in some way?
+Inés:Is it from the body, or is it an item that they might own?
+Estefannie:It's... The body sounds closer to the answer.
+Tom:That's very vague.
+Inés:I'm thinking hair, I'm thinking fingernail clippings. I'm thinking... like a kiss.
+SFX:(ladies giggling)
+Inés:I'm thinking spit. I'm thinking...
+Jeremy:That's weird, because—
+Inés:Footprint.
+Jeremy:You'd wanna leave an impression that— And this was how long ago?
+Estefannie:1840. So, I don't know, a million years ago.
+Jeremy:I'm just trying to imagine what would be meaningful to someone who just has an oral language as evidence that they've signed this document and...
+Tom:Oh, that's true.
+Jeremy:Yeah, so leaving a seal... either a wax seal, it could be a brand. Like if I took a hot iron or something, heated it up, and burned it into the paper. Obviously don't wanna set the paper on fire, but...
+SFX:(guests laughing)
+Jeremy:Something that when I saw this again, I would know that yes, I was the one who did this on this piece of paper. But I don't feel like in the 1840s, a fingerprint or a footprint would be sufficient. It wouldn't be sufficiently detailed.
+Tom:Is the oral language an important clue there? Is it something that would be important to someone in an oral language, or is it just...
+Estefannie:I'm going through the— I don't think it has anything to do with lang— Well, it does inherently. But no, I'm gonna say it didn't involve... language or words. That's what I'm saying.
+Jeremy:I feel like the key there— and I'm just guessing so that we can work together— I feel like the key in the part of it being oral is that, you know, there's no written component. We know it wasn't just a regular signature, right? It had to be something unique to the person that would indicate to them later that was also not written... that they signed it, or that they were there.
+Estefannie:Yes, Jeremy, you're right, it's something written, but it's not words or letters.
+Inés:Is there a symbol that they might display? Something like a circle and a cross, and maybe the circle could be a fingerprint or, you know, a continuation of that symbol? Maybe it looks like a little person? I dunno.
+Estefannie:I mean, you're definitely on the right track of a thing, but how would it be so unique to...
+Tom:Oh, it's the...! It's gonna be the moko. It's gonna be the marking of a tattoo or the marking that they use for the face tattoo?
+Estefannie:Yes, yeah.
+Tom:Okay. Māori culture has moko, which are face tattoos, which are unique, I think, to each person. So if they were to create a simplified diagram of theirs, that would act as a signature?
+Inés:Mm, okay.
+Tom:Is that right?
+Jeremy:Alright.
+Estefannie:Yeah, yeah, so...
+Tom:(sighs) Okay.
+Estefannie:The right answer is by drawing their facial tattoos. So that's how it's so unique to them because they're the only one... Yeah, they're the one with the tattoo on their face. And then if they draw it, then people know, "Oh, that's the person with the tattoo." So that's how it's unique to them. Yep, yep.
+Jeremy:Okay.
+Tom:I was sitting behind someone on the flight I took out of New Zealand to Tokyo. And she was Māori. She had moko. Quite a lot of tattoos on her face. And Japan doesn't really have good associations with tattoos. So I was going, well, you know... Is she gonna be okay on arrival? I don't know who she was. But she was met at the aircraft door by six extremely deferent airline employees and whisked off to a separate line as a VIP. I have no idea who she was, but all my preconceptions were completely wrong, and I kind of want to know who she was and how she was important now, 'cause she was clearly some very, very important person on that flight.
+Estefannie:That's awesome.
+Inés:Maybe she'll be signing the next treaty.
+Estefannie:Yeah.
+SFX:(others laughing)
+Tom:Which brings us to one final order of business. At the start of the show, I asked: A budding author grabbed something from a high supermarket shelf. And so, which literary character was born? Before I give the answer, does anyone want to take a guess here?
+Estefannie:Wait, at a supermarket? And also what year is this?
+Tom:This is fairly modern, late 20th century. And 'literary' gives this some airs and graces that may not quite be what we're looking for here. This is very much pop literature.
+Jeremy:They grabbed something from the top shelf, and a character was born?
+Tom:Yep. It was named, let's say.
+Inés:My immediate thoughts are both I had this little book as a kid... which was Mr. Orange at the Supermarket, which was a talking orange to one of the characters. And I have sometimes had the thought, could you get head rush whilst trying to grab something up high and you imagine things talking to you? But I'm pretty sure there's not a famous children's book.
+Tom:It's not, and this is quite a famous book. It's now also been adapted a couple of times into various, I think, TV shows and movies. It is Jack Reacher.
+Jeremy:(wheezes) Really?
+Tom:Because he frequently had to reach up to the top shelf of the supermarket. And author Lee Child's wife said, "If this writing gig doesn't work out, you could always be a reacher in a supermarket." And from there, he took the name Jack Reacher for the character. So with that...
+Jeremy:Wow.
+Tom:Thank you very much to everyone who's played today. What's going on in your lives? Where can people find you? We will start with Estefannie.
+Estefannie:Oh, okay, yeah. I am on YouTube with just my name, Estefannie on Instagram. That's where I post most of the stuff. And also I'm on TV now on the Discovery Channel with Revengineers, yeah.
+Tom:Inés.
+Inés:You can find me on YouTube at Draw Curiosity, because it's all about things that draw my curiosity and hopefully yours as well. I do have Instagram and Twitter, but the thing I prefer the most is YouTube. And I'll be coming back soon, as Tom has mentioned. Hopefully by the time this is out, I will already be back. But if not, it will be coming a few days later.
+Tom:And Jeremy.
+Jeremy:I can also be found on YouTube and... Twitter, Instagram by the same name, Jeremy Fielding. So, that's where you can see my content.
+Tom:And you can find out more about this show at lateralcast.com, where you can also send in your own listener questions. You can find us at @lateralcast pretty much everywhere, and there are video highlights every week at youtube.com/lateralcast. Thank you very much to Jeremy.
+Jeremy:Thank you.
+Tom:To Inés.
+Inés:Thank you, Tom for having me.
+Tom:And to Estefannie.
+Estefannie:Thank you, Tom. Thank you.
+Tom:I've been Tom Scott, and that's been Lateral.

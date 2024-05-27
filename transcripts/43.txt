@@ -1,0 +1,361 @@
+Tom:Which sport has a kiss and cry area? The answer to that at the end of the show. My name's Tom Scott, and this is Lateral. Our three guests today openly admit that they struggle with procrastination. But that's okay, so do I. I was meant to start this podcast in 2018. But we're here now, and we start with: maker and newly from Mark Rober's Revengineers on Discovery, Estefannie.
+Estefannie:Hi.
+Tom:What are you looking forward to making soon?
+Estefannie:Ooh, I have— I made this polygraph... that shocks people when they lie to you. (chuckles deviously)
+SFX:(Tom and Inés laugh)
+Estefannie:And I can't wait to test it on everyone!
+Tom:You seem like the sort of person who is also gonna be debunking the polygraph while making an actual polygraph just for laughs.
+Estefannie:Yes, yes.
+Tom:Yeah, good. For a minute there, I thought, "Oh my god, do we have someone who's doing junk science on a thing like Lateral, where people are gonna write in and complain about that?" But no, that's fine. You're doing the thing of just hooking people up to a shock thing for fun.
+Inés:Yeah, it's for fun, yeah.
+Inés:And to debunk.
+Tom:(chuckles) Also back on the show from Draw Curiosity, Inés Dawson. As we record this, the YouTube channel has not returned, but it is gonna do soon, hopefully. What are you looking forward to working on in the future? What are you looking forward to publishing?
+Inés:So, I do have my next two videos lined up. But I have two ginormous projects that I'm sitting on. One that involved me getting stuck during COVID on essentially not a desert island, but as close as you can get to an Animal Crossing island. So I have a lot of footage from some mangroves that I... That's pretty much all I did for a whole month, was collect videos of fiddler crabs, of cool root systems, of mudskippers. And I'm very slowly turning this into a little mini-documentary. So, once I finish that, that is definitely the project I'm most excited about. And I also have one on elephant seals.
+Tom:Our last guest today is Jeremy Fielding, returning as well. Thank you very much for coming back on the show. I'm gonna ask the same question. What are you working on right now? What are you looking forward to publishing in future?
+Jeremy:Well, probably the thing I'm most excited about is I'm doing a lot of interesting things with CNC, and I recently built a robot arm. So the goal is to have that robot arm do really fancy, interesting things that you couldn't possibly do as a human, like taking a camera and whipping it around and getting really interesting, complicated shots over and over again. So, or ha— or giving it a power tool and having it carve a big statue or something like that. So that's where I'm working on now.
+Tom:Well, very best of luck to you with that, and with the show. Your mission, should you choose to accept it, is to answer seven lateral thinking questions before the entire show self-destructs. And getting them all right straight away is definitely a Mission: Impossible. So we start with the slow-burning fuse of question one... which was sent in by Alexandra Fall. Thank you very much for this. When Carthage eventually fell at the end of the Third Punic War in 146 BC, after a siege lasting nearly three years, the Romans found that many of the city's women were bald. Why? One more time. When Carthage eventually fell at the end of the Third Punic War in 146 BC, after a siege lasting nearly three years, the Romans found that many of the city's women were bald. Why?
+Estefannie:Stress. I'm kidding!
+SFX:(both chuckle)
+Inés:I feel like I should know this, because we did study this. But I don't, but I do wonder... Working hypothesis... Could this be something so all the women looked like men, and maybe the size of the troops doubled if men were supposed to be the ones doing the fighting? So could it be looking like there's more people than there actually are in the city that could be fighting against you? A very sexist answer.
+Jeremy:I wonder if there's something useful about the hair... that they would cut it off and use it strategically to hold off the Romans. I don't know that it burns really well, or that it's useful in any... Okay, I have to workshop that a little bit, but I feel like the only reason you would get all the women to shave their hair, would be if the hair itself – or one of the reasons that first come to mind – would be that the hair is useful somehow. But I don't know what that is yet.
+Estefannie:I like that, 'cause I wanna build off of that, 'cause I'm like pretty hood. And I feel like the first thing you're gonna do when you fight, you put your hair back, and you take off your earrings, and you go for it, you know?
+SFX:(Tom and Jeremy wheezing)
+Estefannie:So that's where I'm going. Maybe this is very functional.
+Tom:That's a combination of the previous two guesses, which I love— Also, that is the first and possibly only time that someone on this podcast has used the phrase, "Pretty hood." And it's definitely the only time I've ever used that sentence in my life in this accent. So thank you for that. That's wonderful.
+Estefannie:(laughs)
+Tom:Of those three, Jeremy is definitely the closest.
+Inés:I like the idea of what, you know, when I cut this one-metre braid off— Again, I don't know how long the hair was... but that was a weapon.
+Tom:Yeah, you had a one-metre braid down your back, didn't you?
+Inés:So, you know, I wouldn't want to fight or do any sort of exercise with that, but it was a hefty thing. If I spun around, I could knock out a one-metre radius of people with it. So, I'm wondering if that somehow could be braided into something like a weapon or a whip. Could it be made into something?
+Jeremy:Certainly it could be made into a rope. Or it could be made into something for a catapult.
+Tom:Yeah, Jeremy, you've basically got it. The women's hair...
+Jeremy:Yeah?
+Tom:was spun into bow strings, as well as ropes for catapults and ballisters.
+Estefannie:Whoa!
+Tom:Spot on.
+Inés:Nice.
+Jeremy:Alright.
+Tom:I feel like... There was a lot of collaborative effort there between fighting and how strong hair is, and Jeremy's intuition that this was making stuff. Yeah, between you all, I think Jeremy, you were the one who tapped it into the goal there. Yeah, it was spun into bow strings and used as ropes.
+Inés:I love it.
+Jeremy:Alright.
+Inés:I should've done that with my braid.
+SFX:(group chuckling)
+Tom:Which means we move on. Jeremy, we'll go to your question next. Each of our guests has brought a question. I don't know the question. I definitely don't know the answer. So whenever you're ready, take it away.
+Jeremy:Okay. The German band Die Ärtze released a Mini-CD that ran for over 41 minutes. However, the maximum length of a Mini-CD is 21 minutes. How did they do it? The German band Die Ärtze released a Mini-CD that ran for over 41 minutes. However, the maximum length of a Mini-CD is 21 minutes. How did they do it?
+Inés:Does it just with both sides?
+Estefannie:Yeah, they recorded on both sides? Is that it?
+Inés:I feel like that would be too easy.
+Tom:I feel like that's too easy. My brain went to, it's got an A side and a B side.
+Jeremy:Yeah, the maximum capacity is, there's just one side.
+Tom:Yeah, and also that's not really lasting 41— You can't put it in and play for 41 minutes there, if you've gotta flip it as well. So, back when you could burn CDs at home... the maximum length of a full CD was meant to be, I think 76 minutes, something like that. But you could burn outside that range with some CD burners. They would let you add a few more minutes. And it was marked as risky. It might not work. But you could move out-of-spec, and at some point, CD players would reach their limit and break. 'Cause it's a spiral groove. It starts in the middle. It works its way out. But the Mini ones, the little eight-centimetre CDs you just put in the middle... I... I don't think it's the same thing, 'cause you can't stretch that beyond 21 to 41. That's twice as much stuff.
+Estefannie:I have a hypothesis question. So is the time...
+Jeremy:Yes?
+Estefannie:...actual time or technically time? So, here's where I'm going with this. Did they record it at too fast speed, and then if you play it slower, it is 40 minutes?
+Jeremy:I actually really love that. It's wrong, but I really love that idea that you could adjust the play speed. That is a fun solution to that problem.
+Tom:Someone, and I cannot remember who, did that for a YouTube video. 'Cause YouTube works on watch time. So he deliberately, as a gag, explaining how he was doing it, uploaded the whole thing at double speed, forcing everyone to set their play speed to half to watch it. So it looked like everyone was watching it twice and it would get boosted by all the— Didn't actually work all that well. But that was the theory. It was a good theory.
+Jeremy:So, there's no special equipment. And the CD was burned the same way you would normally burn a CD.
+Inés:Because my hypothesis, but I think it's already been debunked, kind of following Estefannie's line of thinking. You know, maybe it makes its way to the end, and then when you rewind it, it also sounds good. Maybe it's music that sounds good played backwards.
+Tom:Oh, there were some good old tricks with vinyl that used to work. Sorry, this is— We've reached my niche subject, which is weird recording formats and things you can do with hacking... There used to be vinyl records that did that. Because you put a physical needle on the record. There were horse race novelty vinyls where there were six grooves on the record. And depending on which one you happen to randomly drop it into, you would get one of six different results. Or sometimes you'd drop it in, and there would be a bonus track at the end or all sorts of things, or it would end in a locked groove. But you can't do that with a CD, 'cause it's a laser following a track. You can't...
+Jeremy:Yeah.
+Tom:You can't get it to do that. Inés, you came in with something and I cut you off. Sorry.
+Inés:I mean, I don't think what I said was right, because playing it backwards and it sounding good, A) sounds unlikely, and B) would require special equipment I think.
+Jeremy:I think you should keep going though. You're closer than you think.
+Estefannie:Because it sounds like this is a German band. It's probably very indie, and they're trying something different, and it made it sound really good backwards and forwards or something like that. Right? I dunno.
+Inés:Is 'ärtze' teacher or maestro? I'm not sure. It's been a while. 
+Inés:(giggles)
+Jeremy:Think more about what you said before you got to the 'play it backwards' part.
+Inés:It gets to the end and plays again?
+Jeremy:Mmmm?
+Inés:So it just loops? And it's a looping CD? Although that's not really 42 minutes. That's just many multiples.
+Tom:No, it's just playing 21 minutes twice. Did they do some hack with the system that made it think it was twice as long? I don't... No, they can't. CDs don't work that way, do they?
+Jeremy:You are closer than you think.
+Inés:Can you change the 'frame rate'? Or whatever the equivalent term for CDs are? So maybe it's recorded at half frame rate, and depending on when you started or when you stop it, you might get two alternating sets of sounds, and one has one set of sounds. The other one has another one?
+Tom:Did they put a different track in the left channel and right channel of the stereo?
+Jeremy:Yes.
+Tom:There we go!
+Inés:(giggles) You can do that?
+Jeremy:So if you listen to just the left side...
+Tom:Right!
+Jeremy:You can hear all the songs for 21 minutes, go back and play it again from the right side, and hear all the other songs.
+Estefannie:That is spooky!
+Inés:(giggles)
+Tom:I knew it'd be some weird hack, and I couldn't f— Yeah, okay.
+Jeremy:So the Mini-CD had one track on it called 'Proverbs II', consisting of the band's concert announcements. The 21 minute limit applied to stereo tracks. To listen to the first half of the track, you had to turn on, turn the mono knob all the way to the left, and then you could turn it all the way to the right to play the CD again and listen to the remainder.
+Tom:We have a listener question now, sent in by Youenn Fenard. From 1993 to 2009, European police forces sought 'the Phantom of Heilbronn'. This woman was linked with over 40 crime scenes in Germany, Austria, and France, including murders, burglaries, and drug cases. What were the repercussions when she was eventually found? I'll give you that one more time. From 1993 to 2009, European police forces sought 'the Phantom of Heilbronn'. This woman was linked with over 40 crime scenes in Germany, Austria, and France, including murders, burglaries, and drug cases. What were the repercussions when she was eventually found? By the way, it is really difficult to say "murders and burglaries." It's just, there's a lot of syllables there! It'd be harder with a Scottish accent, but it's pretty difficult with an English one.
+Inés:So you're saying repercussions when someone who's— when a criminal has been caught, is this repercussions to the criminal? To society, to the police force?
+Tom:This question, as they all are, is very carefully phrased. And I would say, what were the repercussions when she was eventually found?
+Inés:No more crimes were committed?
+Estefannie:Yeah.
+SFX:(both giggling)
+Jeremy:Yeah, I think that the two obvious answers, which don't make sense for the show, would be that she was prosecuted as a criminal. And that the crime spree stopped. But I don't think that those are the answers.
+SFX:(guests laughing)
+Tom:I'm not gonna give you any more hints, but your instincts are doing pretty well, yeah.
+Estefannie:Huh. Did people start making the same crimes because they're like, "Oh, that's cool." And then they learn from this? I don't know, 'cause that's a repercussion.
+Jeremy:Like a copycat killer? Wow, that would be awful.
+Estefannie:Oh, is that how true crime comedy podcasts came about? Is that a repercussion, now we have, we're flooded with true crime podcasts?
+Tom:Wait, you briefly said true crime comedy podcast. Is that a thing?
+Estefannie:Yes.
+Tom:Are people doing standup routines about serial killers? 'Cause honestly,
+Estefannie:Absolutely.
+Tom:I wouldn't put that past some podcasters.
+Estefannie:You need to listen to My Favorite Murder. It's a true crime comedy podcast.
+Tom:...Okay, sure.
+Estefannie:(laughs)
+Jeremy:Wow.
+Estefannie:Yeah, yeah. There's another one called And That's Why We Drink. I'll just leave it at that, yeah. Great podcast.
+Tom:I'm not sure how I'd feel if I was somehow caught up in one of these crimes, and there were people making jokes. Okay, I'm not gonna get morally outraged here. That's not the show.
+Estefannie:Yeah, yeah. So, that's why I'm like, is it a pop culture situation where... people are copying it? Or now there's a bunch of podcasts or TV shows? I'm like, oh is it going towards that direction?
+Jeremy:Well, there's something else interesting happening here, where you're having to collaborate across multiple governments and jurisdictions. So I'm wondering if there was a new sort of way of managing crime across multiple countries or districts or... Did we get a new agency?
+Inés:Was the Interpol created? Interpol?
+Tom:No, not in this case.
+Inés:You mentioned she was called the ghost of Heilbrunn. Are there a set of ghost stories that came out named after her?
+Inés:Like folklore around it?
+Tom:It's phantom, not ghost.
+Inés:Oh, okay.
+Tom:And, I'm not sure if that makes too— I'm not enough of an expert in the supernatural to know if that makes a difference, but...
+Inés:I think they're the same... I'm thinking the translation to Spanish. We would both say fantasma for both.
+Tom:Yeah.
+Inés:Yeah, yeah, yeah. Are any of our guesses... police force, jurisdiction, laws, folklore, any of these on the right track, or are they all incorrect repercussions?
+Tom:Nope!
+Inés:Okay.
+Tom:All completely wrong. This is—
+Jeremy:I definitely need a clue then.
+Estefannie:Yeah.
+Inés:Give us a bone.
+Tom:I mean, it is a little bit unusual... for a woman to be linked to this many cases across this many countries. Jeremy, you said something at the start, which is that the obvious repercussions would be that she was arrested, and the crime stopped. I'll tell you, neither of those things happened.
+Inés:Was she dead?
+Jeremy:Okay.
+Inés:Did she die at the crime of— at the scene of one of her crimes?
+Estefannie:I wonder, does this have something to do with sexism and her being a woman?
+Tom:No. In fact, most of the people arrested for murders and burglary and drug crimes are gonna be men. So it is unusual for a woman to be linked with 40 different crime scenes.
+Jeremy:Is it that she worked as part of the— in some investigation team, she was leaving DNA at all the scenes, and somehow got implicated in all the cases?
+Tom:You are very, very close. The next clue was gonna be the years. 1993 is when you started getting regular DNA evidence checking. So yes, you're missing a key part here.
+Estefannie:Wait, she didn't do any— Wait, wait, so was she innocent? Wait, so she didn't do any crimes?
+Jeremy:Yeah, she's innocent.
+Tom:What were the repercussions when she was eventually found? It's a very carefully phrased question.
+Estefannie:(gasp) Oh, oh wait! What's the last year? 1993 to when?
+Tom:2009.
+Estefannie:Was this when they stopped using... some 'science', like pseudoscience as no evidence anymore? No?
+Tom:You nearly got it, Jeremy. It's the same woman's DNA across 40 different crime scenes. You're nearly there. What might cause that? She's not part of the investigation. And she's not the criminal.
+Estefannie:Okay, sorry, Jeremy. What were you saying? We're so stuck in— I'm so stuck in my head. I didn't hear you. So sorry.
+Jeremy:Yeah, it's okay. Well, I said that— at first I said that maybe she was a part of the investigation team, and that would explain how her DNA says she left hair or something at all the different crime scenes. He's saying that she wasn't at all the crime scenes. So either her DNA was somehow transplanted to all these crime scenes by someone else, or somehow... there was a mistake in the identification of her DNA.
+Estefannie:I think I heard this story. Isn't it because she was the one doing the DNA tests? And all of the DNA tests were contaminated by her?
+Tom:You're really close!
+Jeremy:If she worked at the lab... then that would give her— but that would still make her sort of part of the investigation team. But if she worked at the lab, and she was contaminating her own samples as she tested them, then she would be— She would implicate herself. But I feel like they would check that beforehand. You would just get a sample of anyone who worked in the lab, and you would immediately know if something like that was happening.
+Inés:Are the repercussions gloves were used when performing DNA PCR tests?
+Tom:(sigh) You're all so close. I think I'm gonna give it to you. It's not one of the investigators. It's one of the workers in the factory that made DNA swabs.
+Estefannie:Oh my god, was she just cleaning? Was she the person cleaning...
+Tom:One of the workers in the manufacturing plant did something that contaminated a few batches of these over years. So 40 different swabs over all those years eventually came up with her DNA on them. So the repercussions after all that were that they improved the production and the packaging of DNA swabs, so it wouldn't happen again.
+Inés:So there was no crime spree after all.
+Tom:There was no crime spree. It was 40 completely unconnected cases, with just this one woman's DNA found at all of them.
+Estefannie:So this just shows how much I don't know about science and you know, DNA and— but I only listen to true crime comedy podcasts. That's all.
+SFX:(group giggling)
+Tom:Inés, we go to you for the next question. Whenever you're ready.
+Inés:This listener question has been sent in by Declan McGarva. To make wine more palatable, the ancient Romans added an unpleasant food item you might see in the morning. What was it, and what tradition resulted? I'm gonna read it one more time. To make wine more palatable, the ancient Romans added an unpleasant food item you might see in the morning. What was it, and what tradition resulted?
+Jeremy:An unpleasant food item?
+Estefannie:I mean, no offense to anyone, but like blood sausage? (giggles)
+Inés:My slight criticism of this question is I don't think it's an unpleasant food item.
+Estefannie:Ah, okay.
+Tom:Okay.
+Inés:But I also like blood sausage. But it's not blood sausage.
+Tom:(chuckles)
+Jeremy:That might be helpful. Thank you.
+Tom:Inés has a very wi— a very broad palette, I know that, but...
+Jeremy:Is there a cultural significance here? Because obviously we eat different things in America versus, you know, Britain and different parts of the world.
+Inés:I have seen this in America. I would say this applies pretty much equally to America and Europe. A western breakfast could feature this.
+Jeremy:Okay.
+Tom:Fish? Kippers are sometimes a weird breakfast food. That's not unplea— I mean, it is for anyone nearby.
+Inés:It's a very common and easily obtainable food item.
+Estefannie:Like tomatoes?
+Inés:What do the Romans like eating? (giggles) It is not a tomato. Actually, a tomato would be an undesirable food item to me. But it's not a tomato.
+SFX:(group laughing)
+Estefannie:Found it. Yes, I found it. Okay, Romans... I don't know.
+Jeremy:Easily obtainable today.
+Inés:Mhm.
+Jeremy:The Romans would've used it.
+Inés:Mhm.
+Tom:And it created a proverb.
+Jeremy:Yeah, and you say it became a tradition.
+Inés:It says here, what traditions revolve around the drinking of wine? I can actually think of two. I know which one it's going for, but there are two that would apply.
+Tom:Okay, so it's raising a toast... is one tradition with wine. You lift a glass and you tap it against another one before you drink.
+Inés:Mhm. Yes.
+Tom:Is it that tradition?
+Inés:It is that tradition.
+Tom:Okay. Well the unpleasant breakfast item isn't toast, so...
+Inés:Wow! (laughs) Okay... If we go down there, how could you make toast less pleasant?
+Estefannie:Burn, burn it.
+SFX:(group laughing)
+Estefannie:Yeah, so is it like... Did they add burned bread to it?
+Inés:Yes, they did.
+Estefannie:Why? (laughs)
+Tom:Okay, hang on. We've still gotta solve stuff here.
+Inés:I'd feel like we skipped very quickly into it, but you did say the right thing.
+Tom:We blundered this by luck rather than judgment. So why on earth did the Romans add burnt bread?
+Estefannie:Yeah.
+Tom:Burnt toast to wine?
+Inés:So what does burnt bread... You know, what does the burnt part have?
+Tom:Charcoal.
+Inés:Mhm.
+Tom:Did they filter it with charcoal made from burnt bread?
+Inés:So, the notes to the answer say, Romans knew that charcoal made wine taste better. Personally, I think filtering it would make more sense, but instead, they added a piece of burnt spiced bread to the wine to take the edge of it. From this came the concept of toasting someone's good health. Calling out someone's good health was as if they were personally flavouring the wine, like the spiced bread. My thought was also, you know, the bread and wine of Jesus, that you're combining the two together. And this practice was still in use in the 16th century.
+Estefannie:So does that mean when I go to the Renaissance Festival, and I get the really bad wine, I can just bring burned bread with me to make it taste better? That's what I learned today.
+Inés:I guess so.
+Estefannie:(giggles)
+Inés:I haven't put this into practice, because I also just learned this fact.
+Estefannie:That's so cool, yeah.
+Inés:But maybe it will elevate cheap wine from now on.
+Estefannie:Yeah. (giggles)
+Tom:There's gonna be some startup that just offers to, you know, take your cheap wine in, insert a little bit of charcoal powder from bread and some spices, and it turned into a whole new thing. Thank you to Greg Meredith for this listener question, which is very short. Which 1891 game named itself? One more time. Which 1891 game named itself?
+Estefannie:Is this a sport?
+Tom:I'm giving you nothing for the first bit on here.
+Inés:Is it a board game? Or, as in what variety?
+Jeremy:1891 game.
+Estefannie:I don't know anything about the 1800s.
+Tom:You don't need to know anything specific about the date here, but it was a game that was invented around the end of the 19th century.
+Inés:Is it a crossword? 'Cause it's like words crossing each other?
+Tom:There's a little more agency than that here.
+Estefannie:Can we have some geography clues?
+Jeremy:(chuckles)
+Tom:I mean, you can. It's Baltimore, Maryland. So good luck with that.
+Inés:(giggles)
+Tom:@7
+Estefannie:Okay, okay, okay. No, it helps. I think it can help. Witch hunting? (chuckles) Kidding.
+Jeremy:1890, named itself. It's a game that named itself.
+Tom:Arguably named itself.
+Inés:It's very early AI.
+Tom:There's a little— Well, well, you say that, Inés. You say early AI. (grumbles) It's not right... But it's a little bit closer than you might think.
+Inés:I'm just imagining, you know, a game of Fluxx. But the early version.
+Tom:That's the game where the rules constantly change, right?
+Inés:Yes, and the, yeah— The goals and the rules constantly change as you play more cards.
+Jeremy:Yeah, I have nothing. (laughs) I'm sorry.
+Inés:Is it Monopoly? 'Cause it had the monopoly on games at the time?
+Tom:That's still a name being given by someone else.
+Inés:Mm, okay.
+Estefannie:Tic-tac-toe? (snickers) Just guessing. So...
+Jeremy:I like that. Thank you for throwing that out there.
+SFX:(group laughing)
+Estefannie:Oh, Snakes and Ladders? I'm just trying to throw out all the names I know. So can we have a clue? I think?
+Tom:(chuckles) Yeah, we're looking for a game on a board that involves letters.
+Inés:Scrabble?
+Jeremy:Scrabble?
+Tom:That is the obvious one, I agree. But in this case, no. We're looking for something... I mean, sceptics would argue that it didn't name itself, but they were certainly claiming that.
+Inés:Rummikub?
+Jeremy:(chuckles)
+Inés:As version two of Scrabble with letters that, you know— That name doesn't make much sense. So it sounds like you would pull the letters out.
+Tom:This name doesn't make much sense either. Could say it was just a jumble of random letters.
+Estefannie:Is this a game that we still play nowadays?
+Tom:Yes...? I wouldn't say there's really... It's not a game in the modern sense, of being like, there are points, and there are scores at the end of it. But yeah, you'd call it a board game.
+Estefannie:Is this still popular?
+Tom:Yeah, everyone listening I think pretty much will know what this is.
+Inés:What's the name of that slidey thing?
+Estefannie:Oh, yeah, yeah, yeah, the slidey thing. But that's numbers usually, right?
+Inés:Maybe the first one had letters.
+Tom:We have three very scientific, rational people here.
+Inés:(giggles)
+Tom:And I think that might be what's blocking you. 'Cause if you were sceptical, you'd say this didn't name itself at all. But if you're a believer... Absolutely, this thing's spooky. This thing named itself.
+Estefannie:(gasp) The Ouija board?
+Tom:The Ouija board, absolutely right. I thought it might take a few hints to get there.
+Jeremy:Okay.
+Tom:Yes.
+Estefannie:Yeah, yeah. When you said spooky, and when I said witchcraft, you made a face, so...
+Tom:I did, way back at the very start. You made this joke about witch hunting, and I nearly went, "Well, you're going down the right lines." But yeah, it is the Ouija board, the trademark of which is now owned by Hasbro, the games company, and...
+Estefannie:I know!
+Tom:It is a board game by their definition. They nearly weren't able to patent it. They had to give an actual demonstration for a patent examiner to prove that the Ouija board was some mystical thing that worked from beyond the grave.
+Inés:I still have this genuine question whether Ouija boards, isn't that just the "Yes, yes" board in French and German?
+Tom:So that's actually in my notes. It's probably a myth. The story goes that they asked the board itself what it was called, and it spelled out O-U-I-J-A. And then they asked what it meant, and it just said, "Good luck." Which... Sure, believe what you will with that, and that it is absolutely not people not realising they're steadily pushing a little glass. But yes, the 1891 game that named itself is the Ouija board. Which means we go to Estefannie for a question from you. Whenever you're ready.
+Estefannie:The question is: At a government agency's office building in Berlin, why are there six letterboxes that cannot be opened? I'm gonna go again. At a government's agency's office building in Berlin, why are there six letterboxes that cannot be opened?
+Tom:Oh man. We've got a lot of short questions this time, haven't we?
+Inés:Is this war-related in any way? Sort of pre and post fall of the Berlin Wall?
+Tom:I was thinking that. Is it something that East Germany does not have as an option? So they closed off the boxes?
+Estefannie:No.
+Tom:Okay.
+Jeremy:Well, is this— It's a government agency. You have a locked box. My mind immediately goes to things related to... top secret, you know. Are these secret documents? But there would still be someone who had access. Not that no one has access. Am I understanding that correctly? Well, you said there are six boxes that no one can open. That's what you actually said.
+Estefannie:I didn't say no one. I just said that cannot.
+Tom:Wait, did you say letterbox?
+Estefannie:Letterbox.
+Tom:So, okay, so these little flaps you can put letters through to deliver them.
+Estefannie:Yeah, yeah.
+Tom:Alright.
+Estefannie:So again, I didn't say nobody. I said that cannot be open. And there are six letterboxes that cannot be opened.
+Jeremy:Six letterboxes that cannot be opened... at a government agency.
+Inés:I know this is not the answer, but I love the idea that all the government people with angry thoughts would write their letters and put them in these boxes, so no one ever gets to see them, and no wars are started.
+Estefannie:(laughs)
+Tom:Okay, hold on. I need to clarify here. I thought that they were completely sealed off, so nothing can go in, and nothing can go out. But have they sealed— Can you still put stuff in, and they just can't be opened to get stuff out again? Or is it that they're completely sealed off?
+Estefannie:Egh...! You can... not open.
+SFX:(guests giggling)
+Tom:(chuckles) Okay, okay.
+Estefannie:Okay, so... Maybe I can give you a clue. They are designed to put things in them.
+Tom:Oh, that's still a vague clue! Damn it, alright.
+Estefannie:But there are letterboxes with the flappy thing, and there's six of them that cannot be opened.
+Inés:Is the number important? Would it make it—
+Estefannie:Absolutely, yes. Very important.
+Jeremy:Are there six agencies? 'Cause this is a place, I like the idea of grievances, if this is a place where you can submit your grievance to a specific agency and the public can't open this box. But they can, you know, access these things later.
+Tom:Does Germany border six countries or something like that? So there's one for Austria and one for Italy? No, it's more than that.
+Estefannie:To give a little bit more towards what Jeremy was getting to... the other— there are other German cities that have a similar situation.
+Inés:So multiple cities have boxes that can't be open, but there may or may not be exactly six of them.
+Estefannie:There are six of them that cannot be open at the same time.
+Inés:Does that mean they can be open just that— If one is open but not all at the same time? Was that clever wording?
+Estefannie:Yeah, yeah, just build off from that, 'cause you're going in the right direction, Inés. Yes.
+Inés:Is this a circular letterbox situation, or hexagon? So if you try to open it on one side, it's gotta be automatically closed on the other mechanically?
+Estefannie:Oh no, you're overthinking it too much now.
+Inés:Okay!
+SFX:(both giggling)
+Estefannie:The shape doesn't matter.
+Inés:Okay.
+Estefannie:Yeah, yeah.
+Tom:At one end of an old pneumatic tube system that runs under the hundreds of kilometres across Germany. And it's all been disused, and you can't open them anymore. Why...
+Inés:Is it connected to a clock? So only at a certain time of day can you open one of them?
+Estefannie:This happens at midnight exactly.
+Inés:So it's for each day.
+Estefannie:You're so hot right now. You're so hot.
+Tom:Oh, because there are actually seven letterboxes, and six of them can't be opened because it's something to do with days of the week. Right.
+Estefannie:(giggles) Yes.
+Tom:Oh, I hate this question. Alright.
+SFX:(Inés and Estefannie laugh)
+Jeremy:Okay.
+Tom:So, they're daily letterboxes for something.
+Inés:Could it be news related? And therefore you would only want the relevant updates?
+Jeremy:It would be once a week though, in this case, right? At midnight, we can— The next box can open. The previous one can't. And so there's a box for each day of the week. There's a Sunday box, a Monday box. I'm talking this out to help me just think about why that would matter. (laughs) A Wednesday box.
+Estefannie:Mhm, no, yeah, this is good. All the things you're saying are good.
+Tom:News or weather or some update that has to be put in there.
+Jeremy:Why do the boxes need to lock? I feel like that's important, because you— I mean, we do sorting all the time without having all the boxes being locked. So there's a reason you only want to— You want to be sure that they only access this one box.
+Estefannie:It prevents legal disputes.
+Jeremy:You need proof that something was given on a Monday.
+Tom:It's for proof of posting.
+Estefannie:Yes.
+Tom:'Cause you used to do this in the UK by sending a sealed envelope through the post. So it would get a postmark with the date on it, and then you would just keep it sealed until then. But why do you need that for a government agency? Why do you—
+Estefannie:Well, forget about the government agency. So Tom, why would you do that? Why would you ever do that to— As proof for what?
+Tom:It was proof of having done a thing by a certain date. And I can't remember what the thing was! Estefannie, I'm gonna call time. I'm gonna call time.
+Estefannie:Okay.
+Tom:I think we got nearly there, and I think you need to bring us home.
+Estefannie:Okay, yeah. So that patent and trademark applications are received in the letterbox marked with the correct day. And so...
+Jeremy:Okay.
+Estefannie:I know that people do that here for— to claim copyright for something, you can mail it to yourself.
+Tom:Yes!
+Estefannie:But it is tricky because it's the day of the week. Like you're saying, Jeremy, it's a little bit confusing.
+Jeremy:Yeah.
+Estefannie:I can read more of the notes. It says, this is a German patent and trademark office. They have seven letterboxes labeled with the days of the week. At midnight, the correct day's letterbox is unlocked, while the other six are closed. That way they know the exact day when a new patent application was received.
+Tom:Aaagh!
+Estefannie:(laughs)
+Tom:I'm just gonna make incoherent grumbles about that question. I should have got that.
+SFX:(Inés and Estefannie laugh)
+Estefannie:No.
+Tom:Which means we head to the last bit of the show. Right at the start, I asked: Which sport has a kiss and cry area? Very quickly before I give the answer, does anyone wanna take a quick punt at that?
+Inés:I know it's not gonna be this, but dodgeball in Spain is called matar, which means to kill. And there is a section where you would huddle and hug if you've been hit especially hard with a ball. But I don't think there's any kissing and crying.
+Tom:No, there are literal kisses and literal crying happening here. Usually a lot during the Winter Olympics.
+Jeremy:Huh.
+Tom:No. It's ice skating and ice dancing and ice performance. There is an area just off, where they meet their coaches and where there is a hug and perhaps a kiss if they've got a good performance, and tears if they don't, and that is officially now known as the kiss and cry area. So...
+Inés:Wow.
+Tom:Thank you very much to our players. Let's find out where people can find you. We'll start with Inés.
+Inés:You can find me on YouTube at Draw Curiosity, and I'm also on Twitter and Instagram.
+Tom:Jeremy.
+Jeremy:I'm also on YouTube under my name, Jeremy Fielding, and same across Instagram and Twitter. Same name, Jeremy Fielding.
+Tom:Estefannie.
+Estefannie:You can find me on YouTube and Instagram as Estefannie, just my name. You know, like Beyoncé, just Estefannie.
+Tom:And if you wanna know more about this show, you can do that at lateralcast.com, where you can also send in your own listener questions. There are video highlights every week at youtube.com/lateralcast, and we are at @lateralcast pretty much everywhere. With that, it is thank you to Jeremy Fielding.
+Jeremy:Hey, thank you for having me.
+Tom:Inés Dawson.
+Inés:Thank you for having me.
+Tom:And Estefannie.
+Estefannie:Thank you.
+Tom:I've been Tom Scott, and that has been Lateral.

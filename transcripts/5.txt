@@ -1,0 +1,371 @@
+Tom:What sort of person would be interested in buying exactly 1.91 US dollars? The answer to that question at the end of the show. My name's Tom Scott, and this is Lateral. Our three guests today have willingly given up their time to play some clever lateral thinking puzzles, and not at all because they owe me favours. First of all, from the Queer Movie Podcast and her own YouTube channel, Rowan Ellis.
+Rowan:Hello, very excited to be here.
+Tom:From Practical Engineering and his new book, Engineering in Plain Sight, Grady Hillhouse.
+Grady:Hi.
+Tom:And from the YouTube channel, BrainCraft, Vanessa Hill.
+Vanessa:Hey, Tom!
+Tom:Thank you so much for being here, folks. How are you all feeling about puzzles, questions? Is this your sort of thing, or are you feeling like you're adrift here?
+Rowan:Absolutely not. Very excited to be humiliated by getting none of these.
+Vanessa:I mean, if none of us get them right, who will give the answer? What will the show be?
+Grady:I'm last place in my Wordle group chat, so.
+Vanessa:I mean, you have a Wordle group chat!
+Rowan:That's a feat!
+Vanessa:You're doing better than us.
+Tom:Our three guests are heading on a journey packed with more twists, U-turns, and hair-raising moments than a 17 year old who's just passed their driving test. So let's hope today's questions are not gonna be too much of a speed bump in the road. First one comes from me, and here it is. For a number of years, customers of Kodak were unhappy with seeing a cloudy effect and black spots on their X-ray photographic film. What was the cause of the problem, which proved to be outside of Kodak's control? I'll give you that one more time. For a number of years, customers of Kodak were unhappy with seeing a cloudy effect and black spots on their X-ray photographic film. What was the cause of the problem, which proved to be outside of Kodak's control?
+Vanessa:It was the very first Instagram filter way before its time. How can we just mask all of our wrinkles and smooth that over? A cloudy effect!
+Tom:Yeah just, filter the whole thing out, it's fine. What they actually do is, just provide different films— I was gonna say they provide different films for different effects, but that's literally how film works.
+SFX:(group laughing)
+Tom:I've just described film.
+Vanessa:But people listening may not know.
+Rowan:I love that the answer was just people were bad at taking photos. It's like, "It's outside of our control. You are just doing it wrong. Like, we've given you the equipment. You just keep putting your fingers on the lens and smearing it up." Or, "Oh, there's a bit of dirt on the lens." Yeah, there's gonna be spots on there, guys. You need to step up your game.
+Tom:I remember as a kid once trying to take a photo with a caption. Because old film cameras are like, "Oh, you know what I'll do is I'll print out a little bit of little thing here and I'll put it right next, and I'll line it all up." Yeah, I just— I hadn't learned about focusing. What I got was a great photo with just a blur in the bottom where I'd stuck some paper in front of the lens.
+Rowan:You were part of this problem, is what I'm hearing, Tom.
+Grady:Yeah.
+Vanessa:This is actually a personal story. You're still looking for the answer.
+Grady:But it's X-ray film, right?
+Tom:Yes. Grady, you picked up on one thing in there. This is X-ray photographic film, so this would be pictures being taken by dentists and medical technicians, of bones and things, rather than nice— I would like to try and take an X-ray photo of the landscape. I think that might be illegal for several reasons.
+Grady:The training thing might be on the right track. I'm trying to think of things that would interact with X-ray film outside of... I don't know about enough about electromagnetism, to be very helpful here.
+Rowan:I was going to say that if it was an X-ray film specifically, I know that there's a whole thing about you are not meant to take film through scanners, like at airports and stuff like that. They warn you about, "Oh, you can ask it to be hand-searched in case there's kind of any disruption to the film." But I guess if it's specifically X-ray film, there would be something that they... And we've said that this is outside of Kodak's control. So it wasn't a problem with them not having the technology correct for the particular machinery that was being used, I'm assuming.
+Grady:Is it something to do with maybe how they ship it? Maybe the post office had a scanner that scanned for certain things that messed up the film or something like that?
+Tom:You're... So you're right that it wasn't user error either. It was something going on.
+Vanessa:Interesting.
+Tom:It was something going on outside of Kodak's control in the world.
+Vanessa:So Kodak had made the film to spec, people were using it correctly, but there's something happening in between that process.
+Tom:Absolutely.
+Vanessa:Humidity.
+Tom:This is also... The other thing in the question is that this happened for a number of years. This started at a point, and then they worked out a way around it.
+Rowan:Is it— When you say it started at a point and they worked out a way around it, is it that that particular point, like something was happening at that time? Like it would only have happened if it was happening at that time? Not like... Interesting. I'm like, what was happening? But when can you tell us about when that was? Is that one of the clues you're about to tell us, like the sort of era, or is that cheating?
+Tom:I do have that on my clue list, but it is the last one in the list, 'cause it will basically give away everything.
+Vanessa:I think Grady was on the right track, if we are thinking about shipping and something to do with shipping. Like maybe not the scanning, but is there something happening in the world? How things are being transported at a certain time?
+Rowan:I'm going out on a limb here, but I'm thinking about stuff that would affect the environment for a set period of time or in a particular way, which to me is like either warfare of some kind or nuclear issues.
+Grady:Oh yes.
+Tom:Yes.
+Vanessa:Like the film was being produced near Chernobyl.
+Tom:So, you are inching around the correct answer. Rowan, that is absolutely right. That's the key insight. It was being exposed to radiation. Literally being exposed to. So there was...
+Grady:It was during the nuclear warhead testing program?
+Tom:Yes.
+Grady:Was that it?
+Tom:They got all sorts of complaints about it. Kodak found that a new isotope, cerium-141, had contaminated the straw board packaging. So the test went off, contaminated the stuff they were packaging the film in, and that caused it to be just steadily exposed as it sat in transit.
+Vanessa:So here we're concerned about the film and not the people who are actually unpackaging this and handling it?
+Tom:There is one other detail here, which made it really, really difficult for Kodak to work out what was happening. What would that have been?
+Rowan:You're cheating here, Tom, with a second question we have to figure out.
+Grady:Honest question.
+Tom:Just, this is— It's the military in the 1940s and '50s.
+Grady:Mm. It was all secret.
+Rowan:Would they have, yeah, not have allowed, not confirmed anything necessarily?
+Tom:Absolutely right, they knew there was contamination coming from somewhere, but they couldn't exactly call up the government and go, "Are you doing top secret nuclear tests?" Because...
+Rowan:"This you guys? Is this you?"
+Vanessa:Where was this happening?
+Tom:This was the Trinity bomb test. New Mexico, 1945. It was known that it was happening because you can't easily disguise a large nuclear explosion. But trying to get the details of what was going on was significantly more difficult before everyone had a cell phone to point at the big cloud.
+Vanessa:It surprises me that there was any kind of film production and shipping happening in New Mexico at that time.
+Tom:So I think it might be, although I'm going off the details on my sheet. I think it might be that the packaging was being manufactured from plants nearby. So they picked up the radiation. That got shipped to Kodak. Kodak just used it as straw board packaging for the big pallets, and that contaminated the film.
+Vanessa:Wow.
+Rowan:Dang. I do wonder if there was any ramifications, like on a personal level, because if you are doing medical X-rays, having a smudge or having a dot on the X-ray is kind of the issue that they're looking for. So I just worry about those people where the doctors were like, "Okay, there might be something wrong." And they're like, "Okay the same thing is wrong with everyone. Maybe— You know what, scrap what we said before. Maybe we'll just put a pause on that diagnosis for now. We're just gonna go and check with Kodak for a bit."
+Tom:So yes. Customers of Kodak were unhappy with the cloud effect because the problem outside of Kodak's control was the US government detonating nuclear tests. So now the tables turn, and one of our guests is going to be asking a question. As ever, I don't know the question. I definitely don't know the answer. I am as much in the dark as the other players. We are gonna start with Rowan. What's your question, please?
+Rowan:Okay, so the question I have for you is: A US company devised its new logo when it had three stores. They planned to update the logo regularly, but soon dropped that idea when they expanded too quickly. Which company was it, and what was the gimmick? A US company devised its new logo when it had three stores. They planned to update the logo regularly, but soon dropped that idea when they expanded too quickly. Which company was it, and what was the gimmick?
+Vanessa:Wow!
+Tom:So we've got one Brit, and one Australian, and one American. So I'm looking at Grady straightaway.
+Grady:Oh my gosh.
+Vanessa:Was this a— Did we find out what type of store this was?
+Rowan:Nope.
+Vanessa:Okay, so I'm trying to imagine logos that have three of something in them.
+Tom:So we're looking for something with a three... a three-pointed logo, three stars on the logo? Like, the US flag gets updated every time there's a new state, right? I think that's a common thing that happens every month, but you know.
+SFX:(others laughing)
+Vanessa:Every few years when there's a new state. When Puerto Rico finally gets statehood.
+Tom:Yeah.
+Grady:Yeah.
+Vanessa:What company expanded too quickly?
+Tom:So it's gotta be one of the big franchises or something like that. So I'm immediately thinking fast food.
+Vanessa:I'm thinking like McDonald's, with the three arches or something like that. But it's also an M. So wait, there's also only two arches.
+Tom:I was gonna call you on that!
+SFX:(group laughing)
+Tom:For a moment in my head...
+Vanessa:I got there myself.
+Tom:Got a couple— No.
+Rowan:I will say you're in the right ballpark, in terms of like the change each time was minor. It was gonna be a small change that they were making, like adding something or doing something slightly different each time.
+Vanessa:Grady is thinking so hard. Like you look at Grady's face and he's staring off into space with a very concerned look.
+Tom:I'm looking through every chain store in my head.
+Grady:Yeah.
+Tom:Does Target have three bullseyes— three rings in the bullseye, or something like that?
+Grady:I was trying to think of something that maybe wasn't like the number of things in the logo, but maybe like the sides of a polygon or something. Something adjacent to just adding a new element each time. 'Cause that doesn't seem like a very practical plan to start out with.
+Tom:Yeah, you're right. If you think they were trying to go to 20 maybe, someone had ideas to go to 20 or 25 or something like that, you need to have a... It's like they're adding dots, like on the US flag, or something like that, but.
+Grady:Yeah.
+Vanessa:Someone was just so excited to have three stores that they just kept updating the logo.
+Tom:Or they just keep making it bigger. It's the exact same logo. They're just tiling it next to each other. We've got a thousand stores now. The logo runs down the street for half a mile.
+Rowan:I just wanna say to anyone who is listening to this afterwards: Once you— Once I reveal, please go back and listen to what these people are saying, because there are— it's almost like they know, because there's just certain words you're using, which is so close.
+Grady:Oh my gosh.
+Vanessa:Wow. Wow.
+Rowan:This is very amusing for me.
+Tom:I'm just running through all the US brands and chain stores I know. And I can't think of anything that has three of something in a logo. I keep going for threefold symmetry stuff, and that just comes out with Mercedes.
+Grady:Yeah.
+Rowan:You'll definitely know this logo. Although it is a US store, it's not like a US-only store.
+Vanessa:Oh, what a nice clue, okay.
+Rowan:You're welcome.
+SFX:(group laughing)
+Tom:Is this a food store, Rowan? Is this...
+Rowan:I'm gonna give it to you, Tom, this time. It is a food store.
+Vanessa:Wow.
+Grady:Okay.
+Rowan:There's an amazing clue prompt, which I've been given, which I'm gonna say right now because I love it, because it could make it so much more confusing for you, or immediately get you to understand what it is. Which is that specifically, it wasn't just the idea of, "Oh, okay, we're going too fast. It would be too difficult to keep having to update it." The logo specifically would've become problematic once the company opened their 13th store.
+Vanessa:Wow.
+Tom:So is it a clock? If it was... 
+Grady:Ohh.
+Vanessa:Oh, that's so interesting!
+Tom:If it was going one o'clock, two o'clock, three o'clock. So when they get 'round to 12, it doesn't work anymore.
+Vanessa:So you think that the logo, it's at 3:00 and they just stop?
+Tom:It's at 3:00 because they've got three stores.
+Grady:I can't think of a clock logo.
+Tom:I can't think of a clock logo!
+Vanessa:It's either thought or something with a dozen in it perhaps. Like baker's dozen. I've just made that up, but I'm sure it exists in—
+Tom:Dozen eggs in a carton, something like that.
+Vanessa:Yeah, eggs in a carton is good.
+Grady:I was going down a completely different path of—
+Vanessa:What was your path?
+Grady:Of people being superstitious about the number 13. So like a building with 13 floors is sometimes... People are superstitious about it or—
+Vanessa:There is no 13th floor in my building.
+Grady:Okay. Or a calendar where Friday was gonna land on the 13th or something like that.
+Tom:No, the entire logo is just the fresco of The Last Supper, and as soon as they get to 13, you've gotta add Jesus, and that's just sacrilegious. That's just, can't have that.
+Rowan:Too controversial in America.
+Vanessa:I like the clock. That's my favourite guess so far. I just can't think of any logos with the clock in it.
+Rowan:You're very close in that it's not a clock, but it is that same idea of something where you would only be able to add up to 12 within this. And earlier on you said, which was great maybe they're adding more circles like on the US flag where I was like, "Yes, the US flag, notorious for its circles."
+Tom:You know what I meant!
+Rowan:The Circles and Stripes.
+Tom:You know exactly what I meant.
+Rowan:You've hit onto it in that the thing that was changing was the addition of a circle for each of the stores.
+Vanessa:Okay, so we have something that potentially has three circles. Can't go over 12 circles.
+Tom:Oh, I am just, our producer is sitting back laughing. It's... (growls)
+Grady:Oh my gosh.
+Tom:We're gonna kick ourselves. I can't—
+Vanessa:And can we confirm that this exists outside of America, of the US?
+Grady:Yes. Yeah. I'm feeling a lot of pressure here.
+Rowan:I literally saw one, two days ago.
+Vanessa:Wow, okay. So Tom, I need you to start brainstorming food chains in the UK.
+Tom:I'm trying! ...that have come over from America. It can't be Five Guys. They don't have a logo other than the word. And it's not like it's three guys. It can't be Taco Bell. They just have a bell.
+Vanessa:Yeah.
+Tom:KFC just has a giant head.
+Vanessa:A man.
+Tom:Fast food chain or...?
+Grady:Oh, I got it. I got it. Domino's Pizza.
+Tom:Damnit!
+Vanessa:Ohh!
+Rowan:You are absolutely correct, Grady.
+Grady:Man, I was thinking through just cycling through logos.
+Tom:Yep.
+Grady:Love that.
+Rowan:Yep, the dots in the Domino's Pizza logo would've indicated how many stores they had. Currently, it's got the two on one side and the one on the other. And obviously once you get to six on each side, that's as many dots as you can have on a domino, so it would've become very problematic for them.
+Vanessa:I'm so proud of you, Grady. Because it was so embarrassing for the three of us!
+Rowan:It was really funny outta that hole. When I was saying earlier about you kept saying things, you were using the word circle, used the word 'tile' at one point. And I was like, "Oh, you're so close! You have no idea how close!" So yeah the three dots on the current logo because it seemed they reverted back actually to the three dots. I think for a while there was at least one with four or potentially more, but they reverted back when the logo was devised in 1960. They planned on adding an extra dot to the logo each time they opened a new store. But I would say probably a good idea that they stopped because they currently have over 18,000 outlets out of worldwide. So that would be too many dots.
+Tom:They have an entire domino rally set up.
+Rowan:So the US company that devised its logo with the idea that they would keep updating it and very quickly had to change their mind was Domino's, because it turns out you can only have 12 dots on a domino.
+Tom:Back to me for the next question. Good luck folks. A small girl asked her father to take her to the "arrow park". After trying all the local playgrounds unsuccessfully, he finally understood that she wanted to go somewhere quite different. Where was that? I'll give you that one more time. A small girl asked her father to take her to the "arrow park". After trying all the local playgrounds unsuccessfully, he finally understood that she wanted to go somewhere quite different. Where was that?
+Vanessa:The only thing I can think of right now is street signs. Just like, arrows on a big sign.
+Rowan:Yeah, I think it's, to me it's either two things. It's one that there is a sign or something visual, which is an arrow, or it is something that sounds like Arrow Park. Like she'd heard someone say something that sounded like Arrow Park and then was like, "the Arrow Park".
+Grady:Yes.
+Rowan:But I don't know which it would be.
+Vanessa:Like a park where you can see planes landing,
+Rowan:like the "arrow park" or something like that?
+Tom:Why the—
+Rowan:Like 'air' instead of 'arrow'.
+Tom:Why do you say planes landing?
+Vanessa:It was from what Rowan said, that it was kind of just a like kiddy jumble. Like she had heard someone say "arrow park" and...
+Grady:Hmmm, I see. I have a two year old right now who's just starting to learn to talk, and it's been so fun to hear. You know, he names different things in his environment and stuff like that. So I think that's a perfect guess, or at least on the right track.
+Tom:You are very much on the right track to the point where I think I'm actually just gonna give you that one, Vanessa. That was close enough.
+Rowan:Amazing.
+Tom:The arrow thing, it turns out, is actually just a coincidence. You spotted that. The kid just thought that the aeroplanes looked like arrows, so she wanted to see where the arrows landed. The "arrow park" was actually the airport.
+Vanessa:Wow.
+Rowan:That's adorable.
+Tom:But you know what, that was absolutely right. We'll just roll with that. Congratulations!
+Grady:Easy.
+Rowan:Oh my god, that's amazing.
+Tom:There's also a couple places in the US, mostly the western US. They're called airparks, which is a fly-in community. Like, the houses—
+Vanessa:What? 
+Grady: 		 Oh yeah.
+Tom:The houses all have garages for your plane, and the roads are all wide enough to take a Cessna down them. And it is the epitome of western US. "We've got all the space. We've got all the gas. We're gonna build stuff to fit that."
+Rowan:Yeah. Notoriously there's a story my dad loves to tell, which is a friend of his, they... When the kid was little, a load of his friends had gone to Disney World. The parents were like, "He's just, he's too young. He won't remember this. Maybe we'll take him, but when he's a bit older." And so they took him to the woods and told him it was "Stick World". And for years, they would take him to Stick World. And that kid was obsessed. He would tell everyone, he'd be like, "Guys, whatever. I went to Stick World with my family. We go every weekend."
+Tom:Yeah. Wonderful bit of lateral thinking there, Vanessa. It wasn't an aero/arrow thing. We hadn't even noticed that. It was just that the planes looked a bit like arrows, and the kid wanted to go watch the planes. And it was the Arrow Park, which was the airport, which is really not a safe place to play. Our next question comes from Grady. This one's over to you. Good luck everyone.
+Grady:Alrighty. So you sit back in your chair, you sip your drink, and you think, "I'm having a great time here in Vegas." But then you start to worry. Some people seem to be getting very lucky in your craps game. How would you quickly and easily tell whether the dice being used were 'loaded'? We'll give you that one more time. You sit back in your chair, sip your drink and think, "I'm having a great time here in Vegas." But then you start to worry. Some people seem to be getting very lucky in your craps game. How could you quickly and easily tell whether the dice being used were 'loaded'?
+Tom:Huh.
+Vanessa:I have an idea of how you could tell, but I think— I don't know if it's right, but it could be close, so I'm just gonna hang back for a second.
+Tom:Alright. It could be... It was quickly and easily, right? So you can't roll them a hundred times. Whoever's got the crooked dice is not gonna let you roll them a hundred times to see if that worked. Do we need to know the rules of craps here, Grady?
+Grady:I don't think so. Just that dice are the main element of the game.
+Tom:So craps works by, you have a big— It's the one you see in movies, where you've got that big open table with the small wall around it, and you roll the dice off the backboard, and they bounce around and you roll a... either seven or snake eyes or something like that, and the crowd cheers or boos. You've got one person whose job it is for that round of the game to roll the dice and score for everyone around the table.
+Vanessa:Are they a dealer? Are they employed by the casino?
+Tom:No, the dice rolling person is a civilian.
+Vanessa:Oh.
+Tom:And in most casinos, they hand the dice over to whoever...
+Vanessa:It really introduces more room for error, doesn't it?
+Tom:Yeah, but you've gotta throw 'em well. You've gotta bounce them off the backboard. You've gotta actually send them all the way down. You can't... you can't... This isn't just a maths thing, Grady? You can't just total up how many times and do it. It's quickly and easily.
+Vanessa:What would a casino give you that could happen?
+Tom:I mean, a lot of drinks. If you are gambling, they just... What? Put them in your drinks?
+Vanessa:That's my idea. Someone's sipping a drink, right? So there's a lot of liquid left in that glass.
+Tom:Wait, if you put the dice in...
+Vanessa:So would a die float?
+Tom:Yes, but they'll float freely and they won't—
+Vanessa:If they're not weighted, but if they have a weight in them, wouldn't they sink to the bottom of the drink?
+Tom:Or they'll always turn up the same numbers. Grady's nodding.
+Grady:Yep. Vanessa's right, you got it.
+Rowan:Nice!
+Tom:I thought that question was phrased very strangely!
+Grady:Yeah, made sure to mention you have a drink.
+Vanessa:"You're leaning back and sipping on your drink. And then..."
+SFX:(group laughing)
+Tom:Yeah, yeah, and if you're in Vegas and you are gambling, there are just people walking around just taking drinks orders and just giving you free drinks, because it is way cheaper for them to give out a bit of well vodka and some mixers, and have people spend more money than it is to make people go to the bar away from gambling. Yeah, that's a lovely question.
+Grady:I did a little research and it turns out that not all dice float. And so, a lot of people, as a quick check, they use very salty water that's more dense, to make sure that the dice will float, and if they're loaded, they'll turn to to face a certain direction each time.
+Vanessa:So where would you put the weight? Say you wanted the number six to always come up at the top, where would you put the weight in the cube?
+Tom:Presumably on the one, 'cause all the sides of a die, opposing sides of dice always add up to seven. So I'm guessing you want the six to come up, so you roll the dice and— Yeah, you put the weight in the one, I guess?
+Vanessa:Underneath the one. Yeah, okay.
+Grady:That would make the most sense to me.
+Rowan:And I think it has to be reasonably noticeable just because there's a lot of die— just from my D&D knowledge— there's a lot of dice that have inserts in them, but up until a certain amount. So like someone when they're making the dice and pouring in the resin or whatever will add in like glitter or they'll add in little flowers or plastic things. But the idea is you'd have to put so much in there for it to actually make a difference to the rolls. So those are still dice you're allowed to play with. That isn't really a problem. So I think it would be so significant that it would be, like you said, noticeable in the drink, that it was weighting to one side or it was bobbing down.
+Tom:I know there are teams of people who've gone into casinos and logged every number that's come up on a roulette wheel to see if there's any bias there. 'Cause the house edge is just narrow enough that you've got enough of a biased wheel. You can just about eke out a profit on something like that. I also know someone who went into Vegas card counting, if... Have you ever seen Steven—
+Vanessa:Was that profitable for them?
+Tom:You know Steven Bridges? Does anyone here know— yeah. He is a magician and joined a card counting team, learned to card count, took a load of casinos with some anonymous person bankrolling them, and did end up making a profit, and also got banned from every casino in Vegas. He took a hidden camera in for some of it. It's lovely, 'cause he's got footage of bouncers kicking him out and says, "Why?" "We just think you're very good at this game and we don't want your business anymore." "Okay, right."
+Rowan:I need it to be known that Tom claims to be my friend. And yeah we did play, did take me into play a game of, it was essentially a  bluff game with Steven and also someone who professionally played poker. And I was like, "I feel like I'm a distinct disadvantage here, Tom."
+Tom:Yeah, and you won!
+Rowan:Yeah, I did. I played the chaotic way of doing it where I simply didn't look at my own cards, and so no one knew what my strategy was.
+Tom:They couldn't read you. You were unreadable, because you weren't— You were just playing randomly. It was a great strategy!
+Grady:So Vanessa was right. One way to very quickly and easily check if dice are loaded is to float them in a drink or in some liquid and see if one side always turns and faces upwards.
+Tom:Back to me for this question. Good luck folks. To avoid confusion, which niche industry uses days that start at six o'clock in the morning and end at 59 minutes past 29? I'll say that again. And this time I'll say it in the American style. To avoid confusion, which niche[nish] industry uses days that start at six o'clock in the morning and end at 59 minutes past 29? Niche [nitch], niche? [nish] Honestly, I don't know how— I've always said niche [neesh].
+Vanessa:I think a lot of people say niche. [nitch]
+Grady:I say niche [nitch], but I get called out on it.
+Rowan:Okay, so is this maybe something to do with space?
+Vanessa:I was thinking about Mars. Is it a rover that needs to start and finish work at a certain time and then just accounting for the time difference between Earth and Mars?
+Grady:But that is, that would constantly be shifting since the days are different lengths. So it wouldn't be always this time to this time. I think. 'Cause I've heard about—
+Vanessa:What was the time again, Tom?
+Tom:6 AM to 59 minutes past 29.
+Vanessa:What is 59 minutes past 29?
+Grady:It's 5:59 AM.
+Rowan:But that's just before 30. I say as if that's gonna be like, "Yeah, it's just before 30, guys!"
+Grady:"That does make sense!" Maybe it's like the other one.
+Tom:Yeah, it's safe to rephrase this question as the day runs from six o'clock to 30 o'clock.
+Vanessa:Oh, oh, okay instead of I'm on the same page now.
+Grady:Six o'clock to 30 o'clock. So I'm trying to think of some industry where the one through five would be used in the timecode in some way that might mess— that might be confusing?
+Rowan:There's also the, I guess it's if you think about it being like, it's essentially a 24-hour, it's what we typically think of as a day on this planet. But if it's 30, then that's another six hours that would... then go back to six? Am I confusing myself?
+Grady:Maybe that there's—
+Rowan:So it's 24 hours, but it starts at six.
+Vanessa:Yeah, the clock at 29:59 ticks over to six.
+Tom:Yeah, absolutely right.
+Rowan:So I guess Grady, that does make sense in terms of, why can you not use the one to five element with that?
+Vanessa:So Tom, this is the whole industry you say?
+Tom:Yeah, absolutely. And it's an industry you will all know. It is a niche [neesh], a niche [nitch] industry, but it's one you do all know.
+Vanessa:Interesting. Okay.
+Tom:I think this is very— this is an industry that pretty much everyone on the planet will interact with in one way or another.
+Grady:I wonder if it's something to do with an overlap like maybe whatever they work on overlaps with days. And so those first six hours of each day are also relevant to the previous day in some way.
+Rowan:Oh, that's—
+Grady:I'm seeing some nods.
+Vanessa:Nods from Tom.
+Rowan:Oh, Tom's nodding.
+Tom:I was gonna try and quietly clue you in, so it didn't turn out on the podcast I was guiding that, but yeah. Yeah, you know what? I'll just say it out loud, yes.
+Grady:We'll just call you out on it.
+Tom:Absolutely right. That's the reasoning behind it.
+Grady:Oh, okay.
+Rowan:Okay, when we say six, but we're saying it's a whole industry. And then you said like everyone in the world, is this anything to do with time zones? Is there some time zone issue here, or is that up the wrong tree?
+Tom:No, each time zone would have its own version of this clock, if that makes sense.
+Rowan:Okay.
+Vanessa:Got it. Grady, can you think of a single industry that fits your reasoning?
+Grady:I cannot, I can't think of anything where maybe something overlapping would happen those first six hours—
+Tom:But your reasoning is right. They're overlapping because... you wanted to distinguish between the boundary of two days, and this industry draws that boundary at 6:00 AM.
+Grady:So is there something that like... where something very specific happens at 6:00 AM? I'm trying to think of the local news where there's a shift change in the... something like that. Maybe weather, maybe the weather shift or weather staff? People who staff weather stations do a shift change at 6:00 AM or something like that?
+Vanessa:Is there a process involved, Tom? Is this an industry that makes something and it takes 72 hours to produce said things?
+Tom:Not particularly. I'd say you're getting cold there. I think it'd be, just to talk you through what this day would be like, it would be Monday at 11 PM, and after that comes Monday at midnight, and Monday at 1 AM, 2 AM, 3 AM, 4 AM, Monday at 5 AM, and then Tuesday at 6 AM. So the clock resets to the next day at 6:00 AM instead of midnight.
+Grady:Okay, so it's something to do with the weekday, something that has a strong tie to which weekday it is.
+Tom:Yeah, absolutely right. And it's to do with human habits here.
+Grady:I could think of a lot of things.
+Vanessa:Let's go!
+Grady:A lot— I mean, people wake up around that time. So it's like anything that's starting... new.
+Tom:You were close with local news, Grady.
+Grady:Okay.
+Vanessa:Wow. See, I'm not a morning person, so it's just really hard for me to think about what would happen at 6:00 AM every morning. The sunrise?
+Tom:That also kinda helps there. If you're not a morning person...
+Vanessa:Interesting.
+Tom:What are you instead?
+Rowan:An evening person.
+Vanessa:Some kinda night owl related industry.
+Tom:But yes, I think between you, you've figured out that this is a thing about the day changing at 6:00 AM. So for a lot of people, why might you include midnight to 6:00 AM as part of the previous day?
+Vanessa:Some kind of like radio broadcasting. If you are on the morning breakfast radio show and that broadcast starts at 6:00 AM. That's the start of the new day.
+Tom:You are so close, so incredibly close.
+Vanessa:Wow.
+Rowan:Is it TV?
+Tom:Yes. Absolutely right.
+Rowan:I feel like back in the terrestrial channels, TV wouldn't actually broadcast. We're used to 24-hour channels, but I feel like there would just be, there were channels where there either was nothing going on and it would start at six, or it would be like just filler stuff until six.
+Tom:You're really close. But we're talking about 24 hour channels here, so.
+Rowan:Oh.
+Tom:Yes, you're absolutely right. TV listings, TV ratings, TV advertising sales... all count the day from 6:00 AM to 6:00 AM. Why might that be?
+Grady:Oh, okay. Just 'cause that's the same period of wake time?
+Tom:Yeah.
+Vanessa:They count that.
+Rowan:Yeah.
+Vanessa:As one day.
+Tom:If you're watching TV at 2 AM, you're not thinking that tomorrow morning is already here. So for the late night shows and everything like that, for listings, for advertising: they start at 6:00 AM, they go through to 30 o'clock, because that way it works in the computer system without the computer getting confused about the days and which one should assign it to.
+Grady:How interesting is that?
+Vanessa:Yeah, I mean it makes sense if you think of the Late, Late, Late Show with James Corden or whatever it's called, it's on at 2:00 AM.
+Tom:I try not to think of it, to be honest.
+Rowan:We all do.
+Tom:Sorry, unnecessary James Corden insult there. Or necessary James Corden insult, depending on who you're talking to.
+Vanessa:Exactly. It took us a really long and slow time to get there.
+Rowan:Yeah. We went all the way around the houses.
+Tom:Yeah, we danced around that one for a little while, but yes. The TV listings and advertising industry runs in many countries on a clock from 6:00 AM to 30 o'clock, because that way, the day changes at 6:00 AM. Our last big question of the day then. I've still got the one from the audience to solve at the end. But our last big question of the day comes from Vanessa. What have you got for us?
+Vanessa:Okay, so from 1789 to 2015, a certain group of French people were forbidden from going on holiday without giving notice to the local authority first and putting up a public notice. What did they do for a living?
+Tom:I've got to sit back on this one. So I'm gonna do the thing where I write down my answer. Because I nearly did a video on this and couldn't get the story to quite work. So I'm gonna just, I'm gonna sit back. I just couldn't quite get the script to work. Couldn't get the right people to interview. But I know the answer to this, so I will sit back. Grady and Rowan, this one's on you.
+Grady:Oh my goodness.
+Rowan:Oh no, we're one down.
+Grady:Man, a public notice. So I'm starting to think about people who are essential workers, like maybe they're in healthcare or some related field. Was it 2015, you said, was when this ended?
+Vanessa:Yeah, from 1789 to 2015.
+Grady:So what happened in 2015?
+Rowan:What did happen in 2015? An excellent question.
+Grady:In France.
+Rowan:Yeah, cause I feel like there's a lot of specifics here. So specifically France, specifically until 2015. And specifically it's like they're going on a holiday. Like they're— assuming it's something to do with your job would make sense, in terms of, they're leaving, they're not gonna be available.
+Grady:They had to make a public notice, and also notify a certain authority within France, is that...?
+Vanessa:Yeah, they had to give notice to the local authority first and put up a public notice.
+Grady:We treat police and ambulance and fire services as separate institutions now, but I wonder if back in the 1700s, if that was organized a little differently in a way that persisted into modern-day France somehow.
+Rowan:Or if it— Okay, when we say local, how local— when you say group, did you say how many people in this group?
+Vanessa:I am not sure how many people are in this group, but I imagine it would be a lot. It's a profession, you know.
+Tom:There's only a few in each town though.
+Rowan:Okay. Because I was like, "Oh, okay, wait, are we talking about, it's a very specific town and it's a very specific group of people? Or is it like they're kind of everywhere, but it's like the profession's the issue?"
+Vanessa:Yeah, so it's a profession, but this was specifically to do with Paris.
+Rowan:Mimes! It's the mimes.
+Vanessa:People can't live without their mimes!
+Rowan:They just love the mimes. Oh, specific to do with Paris.
+Vanessa:So I would—
+Rowan:Interesting.
+Vanessa:I'm gonna give you a hint that isn't in my list of hints. But I would focus less on the dates, on the years, and more on the profession and something that the people of Paris need.
+Rowan:Baguettes. Eiffel Tower tour guides. Some other things.
+Grady:Bakers, maybe?
+Rowan:Wait, wait, wait.
+Vanessa:I mean, you're really hot.
+Rowan:Is it— Is it bell ringers?
+Vanessa:No, you already said it!
+Rowan:Oh, god's sake!
+Vanessa:It's not the bell ringers.
+Rowan:Sorry, it's 'cause I was like, "Wait, when did Notre Dame start burning?"
+Grady:Tom's got it.
+Tom:I put bakers down right at the start.
+Grady:It's an essential profession.
+Tom:It's the people making the baguettes. You're absolutely right, Rowan.
+Rowan:Oh, I was fully joking. Okay, excellent. Yeah, no, I was fully serious. That was not a joke.
+Vanessa:You were fully serious and you were correct. Bakers provide a service to the people of Paris, and they need them on a regular basis. So basically laws were put in place after the French Revolution that forbid the owners of bread shops from going on holidays without notifying the local authorities first, and then they also had to put up notices of their holiday in the window. And give the name of the nearest rival bread shop so that customers could go there.
+Rowan:Amazing.
+Vanessa:People need a place to buy their daily bread.
+Tom:Or they did until 2015, at which point, supermarkets were well enough established that...
+Vanessa:Yes, the law was scrapped in 2015 as part of a crackdown on red tape. Too much red tape across Paris in general.
+Grady:I wonder, did they continue to adhere to the rules? Well into the 20th and 21st century?
+Vanessa:There was a fine of between 11 and 33 euros specifically if they failed to comply, so possibly.
+Grady:How interesting.
+Vanessa:So French bakers specifically in Paris couldn't go on holiday without notifying the local authorities first. They had to put up notices in their window or they could face a fine, but this was all scrapped in 2015.
+Tom:Which just leaves us with the question I asked the audience at the start. What sort of person would be interested in buying 1.91 US dollars? Which it turns out is really difficult to— I nearly said one dollar, ninety-one, but it doesn't— It's 1.91 US dollars I've got here. Before I give the answer, any suggestions from the panel? I've gotta be honest, any suggestions from Grady, who is gonna be the one most familiar with US currency here?
+Grady:1.91. Unless it's an exchange rate for something else, I can't think of anything with that specific price or cost.
+Tom:They're trying to buy the currency.
+Rowan:I got nothing. I've got absolutely nothing.
+Vanessa:I can't think.
+Tom:The answer I've got here is a coin collector. So, yeah, a complete collection of US coins is 1 cent, 5 cent, 10 cent, 25 cent, and then there are half dollar and dollar coins. So there is a bit of obscure knowledge known for this one. Yeah, unless you're on the New York Metro system, in which case it will give you change in dollar coins and no one else will understand what they are. That is our show for today. Thank you very much to all the guests. Congratulations on getting through those questions. Grady, tell us what's going on in your life. Where can people find you?
+Grady:Yeah, I'm working on videos for Practical Engineering, and my new book, Engineering in Plain Sight comes out on November 1st.
+Tom:And Vanessa!
+Vanessa:People can find me on YouTube. It's BrainCraft. I'm making a lot of videos about sleep and habits and psychology.
+Tom:And Rowan.
+Rowan:Hey, I'm Rowan Ellis on YouTube. If you search that you'll find a lot of video essays about queer history and pop culture.
+Tom:And if you wanna know more about this show or you want to send in an idea for a question, you can do that at lateralcast.com. We're @lateralcast basically everywhere. And you can catch a video highlights at youtube.com/lateralcast. Thank you very much to Grady Hillhouse.
+Grady:Thanks, Tom.
+Tom:Thank you to Vanessa Hill.
+Vanessa:Very welcome. Thanks, Tom.
+Tom:And Rowan Ellis.
+Rowan:Thanks for having me.
+Tom:I'm Tom Scott, and this has been Lateral.

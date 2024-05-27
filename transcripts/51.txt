@@ -1,0 +1,372 @@
+Tom:Why is 2nd Street the most common street name in the US? The answer to that at the end of the show. My name's Tom Scott, and this is Lateral. As usual, I'm going to be orchestrating some lateral thinking problems, and we'll see if our three guests today will work in harmony or end on a bum note. We start: from the Overdue Rentals podcast, Matthew Schuchman, how are you doing?
+Matthew:I'm great, thank you so much for having me.
+Tom:We've got three first-time players on Lateral today. How are you feeling about it?
+Matthew:I'm gonna try not to be too competitive. I'm trying to, you know... I get very excited about these things. And it's not that I want to be right, but I want to figure it out.
+Tom:Alright. Tell me a little about Overdue Rentals, 'cause I'm pretty sure I'm going to be on the show at some point soon.
+Matthew:Yeah, and we look forward to having you. We like to talk about films that were really big at one point. You couldn't avoid them. But for some reason, people just don't talk about them anymore. They could be good. They could be bad. We don't care. We just want to talk about them again.
+Tom:Well, good luck on the show today. Over on the other side of the planet, we have: from the YouTube channel Tibees, Toby Hendy. How are you doing?
+Toby:Hello, I'm good, thank you. How about you?
+Tom:I'm doing well, thank you for asking. Tell the audience a little bit about what you do, what they can find on your channel as well.
+Toby:Yeah, so I make math and physics videos over on my channel, Tibees, and I've been making a lot of videos lately about four-dimensional shapes, including the tesseract. So I hope that will help me to think outside of the box today.
+Tom:Oh, nicely done. Was that on the spot? Did you rehearse that line? 'Cause it was very good.
+Toby:I come prepared, Tom.
+Tom:(laughs heartily) Well, also, hopefully arriving prepared, we have: also from the other side of the planet, hello from Australia, Julian O'Shea.
+Julian:Great to be here. And I do not have a zinger in my back pocket, so thank you for yeah, standing me up, Toby.
+Tom:The last time I saw you, I think we were talking about the Montague Street Bridge?
+Julian:Yes indeed. So this is a iconic piece of Australia, for those that have never been. This is a bridge that gets hit by trucks on a bit of a regular basis.
+Tom:And you've done the definitive video on it, to the extent that I did not do a video on it 'cause you just kind of covered it.
+Julian:Yeah, I actually live quite close to it, to the point where when it gets hit by a truck, if I'm on Twitter fast enough, I can get from my house to the bridge and pick up souvenir pieces of truck smashes to give out as gifts when people come to Melbourne.
+Tom:Good luck to all three of you on the show. Remember, there's no points or prizes here. In fact, the only thing we offer is some moments of distraction before the heat death of the universe. I should really start sending the guests a free pencil or something like that. On that cheerful note, I'm going to start you off with question one, which is this: This question was sent in by an anonymous listener. In the late '60s and early '70s, how did some people obtain free long-distance telephone calls for years after buying a single box of Cap'n Crunch cereal? I'll say that one more time. In the late '60s and early '70s, how did some people obtain free long-distance telephone calls for years after buying a single box of Cap'n Crunch cereal?
+Matthew:I know this is going to be something like there's a coupon or some sort of code that came with the cereal, but my mind immediately goes to... you know, those movie tropes of people picking out gum wrappers and putting up to receivers and somehow getting the phone to dial without any, you know, charges to them. I'm not sure if it's going in any weird direction like that.
+Tom:I mean, there is a movie reference immediately from you there, Matthew. I was expecting that.
+SFX:(both laughing)
+Matthew:I know, right?
+Toby:I'm thinking about the cards that... I noticed you said long-distance phone call. And you could buy long-distance kinda vouchers to plug in and use that were different to domestic ones, at least as I remember them. So I wonder if there was a... Yeah, like you said, a voucher or some kind of card in the box.
+Matthew:Was it something— Well no, it's Cap'n Crunch. It doesn't have letters and numbers. I wonder if there was something on the box that wasn't meant to be there, but ended up being a code that people could use for something.
+Tom:I'm remembering the air miles guy who was, ah, I can't remember the details. That did get turned into a movie. And there was a voucher for free airline miles on, I think it was chocolate pudding?
+Matthew:Well yeah, that's Punch-Drunk Love. Yeah, yeah.
+Tom:That's it, yeah. I know that was a real guy.
+Julian:Just buying millions and millions of... puddings by the...
+Tom:Yeah, he has Gold status on American Airlines for life, I think, now, and... ended up donating a load of pudding to charity.
+Julian:Well firstly, I know that long-distance phone calls aren't worth much these days. I imagine if you gave someone free long-distance phone calls for life, they just wouldn't use them, you know? Generation Z, Millennials, never pick up the phone, you know? What's the value of that, this day? About, you know, two calls a year? I studied telecommunications engineering, and this is one which is a bit of an urban legend in my world. So I think I know the answer. So I might hand it over to Matthew.
+Tom:And I think the reason you chose to hand that over to Matthew is that this might well be a movie reference you'd get.
+Matthew:Oh, man. See, now it's going to be something very popular and very well-known, but one of my blind spots of some sort. Oh, jeez.
+Tom:(chuckles) You were close with finding something inside the box.
+Matthew:I mean, normally you just think of toys and stuff like that. So they didn't put actual phone cards in the box by accident, did they?
+Tom:You're actually right that it was a toy in the box. I don't know if this is starting to ring any bells for anyone.
+Julian:Bertie, can you hear that whistle?
+Tom:There we go.
+Julian:That kind of background sound?
+Tom:Okay Julian, you know this one. Take it away.
+Julian:This is a bit of an American thing. We've never had it in Australia, but I believe in America, you'd get toys in a box of cereal. And at one stage, the toy was a whistle. A whistle that was sitting in the bottom of the box. But it wasn't any whistle. Go ahead, Matthew. I can see your face.
+Matthew:No, no, I still don't know the answer of the specific movie or something like that, but that's what I was talking about. Like the gum wrapper, that's what they'd do. They would use a whistle tone in the movie, and that's what would get you free calls.
+Tom:They switched to a gum wrapper, because they did not want to accidentally give a genuine way of getting long-distance calls. I mean, it didn't work anymore, it's been patched, but it was the Cap'n Crunch whistle that just coincidentally happened to blow a tone at 2,600 Hz, which is exactly the frequency that the telecoms companies used for "this should be a long distance call, and you don't have to bill for it."
+Matthew:So, the movies didn't lie, technically.
+Tom:(laughs) They lied just enough to avoid giving a blueprint for crime.
+Matthew:(chuckles)
+Julian:I love that idea that there's just a tone that just gives you free stuff. Doesn't it make you want to invent a musical instrument that you just blow around in different shops, where you turn up and you're like– (whistle) Does this one work for parking? Does this one work for, you know, if I just— That's where I just start yelling at a vending machine. Do I get a Coca-Cola? Is there any other magic frequencies out there?
+Toby:You have to yell at the right frequency. Be a good singing voice.
+Julian:Yeah.
+Matthew:Now people are just going to be running around with flutes and recorders just going wherever they can, just blowing certain tones, just trying to figure it out.
+Tom:There's an old Ken Dodd joke about a big drum, which he has. Yeah, you can get a discount anywhere in there. You just walk in with a drum and go, "I want fourpence off!"
+SFX:(Julian and Matthew chuckle)
+Tom:Yep, this was the Cap'n Crunch whistle, which blew at 2,600 Hz, exactly the right tone for free long-distance calls. Each of our guests has brought a question along with them. And we start with Julian. When you're ready.
+Julian:This question's been sent in by Becci Andrews. UK government ministers transport important paperwork in 'red boxes' that resemble a briefcase. Why are some lined with lead, and what other design feature means you can't forget to lock them? I'll say that again. UK government ministers transport important paperwork in 'red boxes' that resemble a briefcase. Why are some lined with lead, and what other design features means you can't forget to lock them?
+Matthew:I mean, they gotta be lined with lead, so they can't be X-rayed.
+Tom:I was gonna say so Superman can't see through them.
+Toby:I was thinking radioactive with the lead. Like they, you know... There's some kind of radioactive element here that's emitting, I don't know, rays, and you want to stop them.
+Julian:So you're leaning into the Superman thing.
+Tom:An X-ray needs a receiving plate. There's lots of science fiction movies and films where you have X-ray vision or just the ability to take an X-ray photo from afar. But that only works if you've got something to receive on the other side. So I'm guessing there aren't supervillains trying to X-ray government ministers as they leave Number 10? There might be.
+Matthew:But I mean, I guess they get stolen, it gets wrung out of their hands, and taken somewhere where they could use some sort of machine to look into it, right?
+Toby:With the X-rays, I don't know if it's... You couldn't really see inside the paper. You couldn't read the text. And I wonder if this important paperwork, you're trying to prevent people reading it. And so... Are these security measures more about stopping people seeing what's inside? I'm thinking invisible ink type stuff.
+Tom:It's taken me this long into this question to realise that you cannot actually read using an X-ray machine.
+SFX:(group chuckling)
+Tom:Not unless someone's using very, very heavy ink.
+Julian:So, look, so Toby and you're all on something. That is a security measure, but not X-rays.
+Tom:This is a stupid suggestion, but it's just really heavy. Lead is just really heavy. So if you leave it on your desk somewhere, it's less likely to suddenly get snatched by someone who's running by?
+Julian:They would have to drag it out, so you're only going to get stolen by people that have been doing a lot of leg days and a lot of lifting days. Yeah, I like that. So speedy, speedy folks.
+Toby:It would also allow you to have a metal detector in the building, perhaps, to make sure no one's running out with it. If it's in a library or a... You know, something important, some building containing it.
+Julian:Look, the weight is part of it, but not just about stopping it from the thieves that haven't done... bench presses lately.
+Matthew:That was gonna, yeah, 'cause I was starting to think maybe since you said some did and some didn't have lead, maybe it was meant to be some sort of decoy. If somebody picked it up and they felt it was heavy, that they thought it'd be important. But, that doesn't seem to make sense now.
+Tom:All the government ministers just have really hench arms, just from lifting this heavy briefcase all the time.
+Julian:The weight is the point.
+Tom:Oh?
+Toby:Yeah and we haven't spoken about the fact about you can't lock it. You can't forget to lock it.
+Matthew:Yeah.
+Toby:I wonder if that means there's something crazy about it when it's unlocked, when it's open, that makes it impossible to move or otherwise be normal as a briefcase.
+Tom:Oh, if you made the... I don't know what the name for the bit of the briefcase that you open and leave on your desk. You open the briefcase. You've got the flat bit that stays on the desk, and then you've got the bit that stays up, so you can access the briefcase. I feel like there should be words in the English language for those sections of a briefcase, and I'm not sure there are?
+Julian:The old upper briefcase-y toppy bitty?
+Tom:Because it's not a lid, is it? It's not like it's—
+Julian:(chuckles)
+Tom:It's not the lid of a picnic basket.
+Matthew:We'll call it the nave. It's the nave of the briefcase.
+Tom:The nave of the briefcase, there we go. If you make that really heavy, and balance it so it cannot be left open... I guess that would increase security?
+Julian:There are two parts to it. One's got to do with the lead and the weight, and the other one is this feature you're talking about now.
+Matthew:Does it have to be on a specific type of scale itself that takes part in the opening somehow? Like it knows that it's kind of— Not knows it's being weighed, I guess, but there's somehow there's a part of the scale itself that knows that this case is on it, that that allows you to open it?
+Julian:The old Indiana Jones, how much does it weigh, technique?
+Matthew:I wasn't going movies!
+SFX:(group laughing)
+Tom:Oh, thank you. Producer, David has just chimed in to say the lid of the briefcase is technically called the flap. And I don't like that at all.
+Julian:Yeah, let's all pretend we didn't know that. Let's go back to a different time.
+Tom:So the flap is very heavy, is what you're saying, Julian?
+Julian:I'm saying that the lead lining is heavy... which makes the whole thing heavy.
+Toby:Do you need a special tool to be able to close it?
+Julian:You don't, no. Other than the normal kind of... features that exist in a briefcase.
+Matthew:But can you open it anywhere? Does it have to be in a specific location for it to be open?
+Julian:Not a particular location, no. But the way it opens is part of the design.
+Toby:A particular orientation, perhaps.
+Julian:Indeed, Toby, a particular orientation.
+Tom:Okay, so you can only open it sideways? When it's on its side, or when it's the wrong way up?
+Matthew:Yeah, like normally, instead of lifting it, it just falls down? I don't know why that would help security, but...
+Tom:(laughs) Yeah, that's what I'm trying... You have an impractical briefcase. But I'm not quite sure how that helps secure it. You open it the wrong way, and there's just nothing in there. So it's like a magic briefcase.
+Julian:Ooh. You know, you— So one side is empty, and the other side is a rabbit? Is that what you—
+Tom:Yeah, yeah. The rabbit being secret government paperwork. And it depends on which way you open it.
+Julian:Come on, we've got some nuclear codes. No, it's not about the... secret one. It's more for the user, than it is for the thief. Why might, yeah, why might which orientation you open a briefcase make a difference?
+Toby:The paper would fall out? (snickers)
+Julian:The paper would fall out. So why does that matter?
+Tom:Oh, if you forget to lock it... it's built in a way that when you pick it up... the papers just fall out and cause you a problem. So you can't forget to lock it. You can't carry it unlocked.
+Julian:That is entirely correct.
+Tom:(heavy sigh)
+Julian:You've got one half of this problem solved.
+Matthew:Well, there's only half, okay.
+Tom:Your options are: briefcase wide open and heavy, so it— And it's heavy, so it will immediately fall out. If you forget to lock this before picking it up, your papers fly everywhere, and you swiftly learn to lock the damn briefcase.
+Julian:Okay, so I'm giving you half points, full points, saying that that's correct. So what happens here is the handle is on the same side as the hinge, which means you cannot forget to lock it. So you've done half. That doesn't explain, though, the lead lining. Why are these briefcase red boxes so heavy?
+Tom:I spent a good 30 seconds trying to describe something that you summed up as: the handle's on the same side as the hinge. Thanks, yeah.
+Julian:(laughs)
+Tom:(grumble)
+Julian:They use them to this day, but this is tradition. Now the reason for the lead lining is that it was used more in the past with how these suitcases were used.
+Tom:Just as a bludgeon. Just, anyone attacks you, you can just hit them with the briefcase repeatedly.
+Julian:The old lead briefcase to the head.
+Tom:Not only are they on the ground bleeding, but also they've got lead poisoning.
+Julian:That's right. And they won't forget their papers, because of the hinge. No, not a weapon, not a weapon.
+Matthew:I actually thought that was it.
+SFX:(group laughing)
+Julian:No, sorry, sorry. So these... Historically... people would travel with these briefcases. But think about travelling in the past.
+Matthew:So before you said that, I was going to say something about weigh stations. So if you had one car with lead in it, one car with one without lead in it, you'd know which one had it. So, you know, it would direct them or something, but that doesn't seem to be the case now.
+Julian:We're going further back than cars, team. We're going much further back than cars.
+Tom:Horses and carriages. It doesn't bounce around and fall out of your horse and carriage going over cobbled streets.
+Julian:No, we are doing transport, but we're not in horse and carriages.
+Matthew:We're wheelbarrowing them around?
+Tom:Trains, planes, automobiles,
+Toby:Trams.
+Tom:If it falls in the Thames, it'll sink.
+Julian:That is entirely correct.
+Tom:Eyyyy!
+SFX:(group laughing)
+Julian:So, the lead lining was a security measure, and it was so it would sink. So when you're taking things by boat or by ship, and you lost it—
+Tom:Because the Thames a long time ago used to have a load of ferries over it. I don't know if it goes back that far, but Members of Parliament used to have to travel by boat occasionally. But I guess any water, it'll just... it'll just sink.
+Julian:Over sea, that's right. So, the Navy, for example, would put weights into their code books. So, same idea. If they're kind of, you know, under attack, they can (whistle) overboard, and it goes forever.
+Tom:Thank you to Jon Reeves for sending in this question. In the early 1980s, millions of people in the United States gladly purchased something for twice the advertised price. What was the problem and the common workaround? And I'll say that again. In the early 1980s, millions of people in the United States gladly purchased something for twice the advertised price. What was the problem and the common workaround?
+Julian:Look, there's lots of things that people pay surcharge for. But what's the problem? And why are people happy to do it? Now, I wonder if the price has something to do with it. We're literally costing...
+Toby:Twice.
+Julian:Twice the price. Maybe the price number makes it more relevant? Yeah, why is it? I don't know. So for example, in some cultures, eight is considered a, you know, lucky number. So maybe something that's 44 bucks. You'd be like, "88 bucks? Sure! What a lucky price this is."
+Toby:Yeah, it is curious the actual two times price. I was initially thinking scarcity or, you know, that as being one reason why people pay more for something, if they're worried it will run out. I wonder if it's a 2-for-1 sort of deal that's helping with the two times price here.
+Tom:There was some scarcity involved here. A little bit wide, a little bit more geopolitical, but yes, scarcity is definitely involved.
+Matthew:Early 1980s scarcity, something that people would pay double for, it just immediately made me think of the Cabbage Patch dolls that just took over everybody's life. And people were fighting in aisles and punching people to get them for their kids for Christmas.
+Toby:I thought you were going to say some kind of blockbuster movie that was scarce.
+SFX:(Tom and Matthew laugh)
+Toby:Everyone wanted to rent it at once.
+Tom:That wouldn't be twice the advertised price though. They'd just price gouge on that. The price would have gone up. It might be twice the recommended retail price, something like that, but in this case, it was twice the advertised price. If it was $10 on the sign, they were paying $20.
+Julian:This feels so specific, doesn't it? About twice the advertised price.
+Tom:Yeah, it's really, it's quite specific.
+Julian:Okay, okay. So, an advertised price is what they're putting on their bus ads. They're putting it in the newspaper. They're saying it's this price, and people are walking in happily paying double it.
+Toby:If they're not getting anything extra in return, why would you pay more? In a sense, who would know that you're paying more? Is it for your own conscience? That you want to pay more for something, or does somebody know you're paying more? So maybe you're getting a better product or something like that. It would seem odd if you're just paying more, and nobody knows about it, except you.
+Julian:It could be a pay-it-forward type thing, where you buy one and then you get someone else. You know, like maybe someone— There's a bit of positive karma going into it, where—
+Toby:Yeah, I wonder if it's karma, like good luck vibes kind of thing.
+Julian:Just trying to think what I've bought. You know, and double price and go, "This is great. This is the life."
+Tom:I'm sure most of you, certainly most Americans, most adult Americans, will have bought this at some point in their lives.
+Matthew:When I think of Americans, and I think of, you know, just automatically having something to buy, it only comes up to three things, which is toilet paper, paper towels, and sponges. And it's not a service, it's an actual item. (chuckles)
+Tom:(wheezes) What? Sorry, that's some very specific things to think of Americans there. And you're American.
+Toby:Those must be the things that sold out during the COVID rushes of shopping.
+SFX:(group laughing)
+Matthew:Even beforehand, it's always like, I gotta make sure, gotta make sure— Oh, I'll add milk for some reason to the list. Those are always the big things, when it's time to go out and buy stuff.
+Julian:As a non-American, when I heard the phrase, "all Americans have bought this", my brain just went to Starbucks.
+SFX:(Tom and Matthew laugh)
+Julian:Went to coffee. Don't know why. No, no, nothing to back it up. Alright, so we've all bought it. And double the advertised price. We're not price gouging.
+Tom:No, no one's being scammed here.
+Matthew:Is it a service or is it a commodity?
+Tom:It's a commodity.
+Toby:Was it anything to do with money, like coins and notes? And they're trying to change a note into a certain coin by paying a certain amount? But that's something I can think of having done. You know, wanting to spend $2, so you get $3 back or something.
+Tom:It's not quite that, but certainly we're talking about a fairly significant figure that had just been reached and topped.
+Matthew:It's not like gold standard, silver standard? We're not buying bars of gold and silver?
+Tom:No, not here. It's way more common than that. Most people in America will have bought this.
+Julian:This is Reagan, yeah? This is, this is—
+Tom:Yeah.
+Julian:What was Reagan up to then?
+Tom:It's one of the most expensive regular purchases that Americans would make. Regular in terms of schedule, not in terms of ordinary. In terms of maybe once a week, you'll have to buy this.
+Matthew:Oh, okay.
+Julian:I'm thinking we're talking oil. We're talking oil crisis, we're talking petrol.
+Tom:Yes, we are.
+Julian:We're talking, we're in the petrol crunch.
+Tom:That was the oil crisis in 1980–1981.
+Julian:So we've got oil crisis, the things are spiking. We're happy to pay double. And the reason we're happy to pay double—
+Tom:Happy to pay double the advertised price.
+Toby:Is because it was limited, maybe? Maybe if you paid twice at the pump, you could get more fuel through some workaround in the way that your car measures... or the fuel pump measures how much is going out?
+Tom:That's very, very close. So remember, they're not paying double. They're paying double the advertised price.
+Julian:There's shortages and rationings. And by paying double the price, you get more or ahead or—
+Toby:More fuel out? Maybe that, yeah, they're measuring. Maybe they're naively measuring just the amount of money spent on fuel, and using that to do their restriction.
+Julian:What about... We're in an oil crisis. The price is going up, you know, at a faster rate than the ads come out. So if the ads came out on a day saying it's going to be, you know, X dollars per gallon as we use in America, but the actual price is higher than that. But the advertised price is lower than twice that. You're still getting a deal.
+Tom:Not quite— (hesitant laugh)
+Matthew:This isn't an It's Always Sunny in Philadelphia  scam where they're just putting it into big tubs and then selling it later on when the price changes, so they made money off of it themselves.
+Tom:I mean, that's less a scam and more arbitrage.
+Matthew:(chuckles)
+Tom:Toby, you said fuel pumps.
+Toby:Yeah, I don't know if this links with what Julian just said, but the logic was somewhere around the fuel pump and the way it measured how much fuel was going out. Maybe it only was measuring money, not fuel. I don't know, some link is missing there. There's a problem and people found this workaround to pay more.
+Tom:Yep. You're nearly there. There's one last jump to make. Where might that price be advertised?
+Toby:On the fuel pump itself? The little screen is...
+Tom:On the fuel pump itself. So why are people happy to pay twice the price that's advertised on the fuel pump?
+Matthew:Because they were actually getting the real price that was advertised on the billboards instead of the pump.
+Tom:Exactly. Because gas had just done what?
+Julian:Skyrocketed in price.
+Tom:And what number has been breached?
+Toby:Oh, the dollar, or...
+Tom:Yeah, gas has just gone over one dollar. And what does that mean?
+Julian:Is it that the displays don't show the full dollar? So it's like, instead of being "1.00", it goes back to something?
+Tom:That's what would have happened, so the gas stations put a workaround in.
+Toby:They, maybe they just halved the price, so that it would fit on the screen.
+Tom:Yes. More or less. They started charging by the half gallon instead of the gallon. Because the alternative was buying new pumps with more numbers on them. So they just put up signs on all the gas stations saying, and I'm quoting here, "Pumps register half total purchase." And you had to look at the gas pump, double the price in your head, and that's what you'd actually have to pay. Because that was much cheaper for the gas stations than actually having to get new stuff in the pumps.
+Toby:(chuckles)
+Julian:That's good— Australia, I remember when Australia passed a dollar for the first time. That was in my lifetime. And do you know what they did on that day? They got sheets of white paper, and just drew a '1' next to it, and stuck it on the thing.
+SFX:(others laughing)
+Julian:So it said ".02" or whatever, and just a sheet of A4 paper. Whereas those crafty Americans with their half gallons, eh?
+Tom:Well, don't forget that this is 1980s, so a lot of those gas pumps were actually on mechanical clickers. It wasn't just a screen that could update. It was an actual mechanical gearbox. So they swapped out the gearbox in the gas pump, charged by the half-gallon instead, and just told people to double the price until the price went back down. Our next question is from Toby. Take it away.
+Toby:As a sneaky tactic, sometimes an enemy ship would pretend to belong to a different country before launching a surprise attack. This is the origin of which 18th century phrase? Alright, I'll say it again. As a sneaky tactic, sometimes an enemy ship would pretend to belong to a different country before launching a surprise attack. This is the origin of which 18th century phrase?
+Matthew:I don't want to just blurt it out here, but is it "the enemy of my enemy is my enemy"?
+Tom:Also, I'm pretty sure the enemy of your enemy is your friend, isn't it?
+Matthew:Yeah, excuse me, yeah.
+SFX:(group laughing)
+Julian:Can I just say, I like that your brain at least had one of the words correct. Where mine's like, okay, think of every phrase you've ever known, and try to think of just about one by one.
+Tom:My brain went "wolf in sheep's clothing", but that's more of a farmland thing, as opposed to being on the water.
+Julian:Because my first one was "there are too many cooks in the kitchen", and I don't think that's related.
+SFX:(others laughing)
+Julian:So, that's one down. About 10,000 more to go! We can do this all day, my friend. We can do this all day.
+Toby:Yeah, let's go down the list, Julian. These have all been great phrases, although none of them share any commonalities with the answer.
+Tom:Okay, so you are in the Navy... Sailing the seven seas in the 18th century. And, you are looking to work out if a ship is friendly or not. You're going to be looking through a telescope, I guess, or a spyglass, or something like that, to try and see what a ship on the horizon is flying? What flag they're flying?
+Julian:I think flag has got to do with it, because the way that you disguise your ship, you've got a couple of choices. One, you get a large fake nose and mustache with glasses and put that on the ship.
+SFX:(others laughing)
+Julian:That's one strategy. The other is you change your flag. So I reckon we're playing a flag game.
+Matthew:Yeah, but now all I can think of is "let your freak flag fly", and that's definitely not it.
+SFX:(group laughing)
+Toby:Not the phrase we're looking for, but it has got, yeah. You're on the right track with the mention of flags.
+Tom:'Cause this is way too early for things like dazzle camouflage and things like that. That's, I think, early 20th century, as they used to paint ships with things like zebra stripes at strange angles. Just so you couldn't work out what it was from a distance. It could make it appear smaller or different sizes, but... Yeah, it's gotta be flags. It's gotta be flags, surely.
+Julian:So I wonder back then, did they have a flag department that just had all the other flags there? Or if they were doing it.
+Matthew:(chuckles)
+Julian:It feels like that scene from the movie, you know, where they grab a captain's underpants, because it's blue, and then they cut them with something else so they can whip it out. Or was this someone's job? A flag decoy officer?
+Tom:No, because there's flag communications. There's an A to Z of various flag patterns that every ship should have a copy of. And if you fly one of those, like the letter P will mean something like, "I've got a diver down" or something like that. Or there's a lot— or Q for quarantine. I think there's various meanings like that. but I feel like you would just lie by putting up some other nation's flag. And as the commander of a ship, if you don't know the enemy flag, I feel like you're missing some vital knowledge there.
+Matthew:Here comes another one that I just thought of. Is it, "I like the cut of your jib"?
+Tom:Ooh.
+Toby:Again, nice phrases, but not the ones we're going for. Tom, you said something which I don't know if you realise was what they were doing. You mentioned that they are flying flags that are not their own. And so that's down the road that we're thinking here.
+Tom:Which is a shame, because I had several good riffs on flight communication we coulda gone with there.
+Toby:Maybe it would help if you knew of a word that is sometimes used to refer to a flag when it is on a ship.
+Julian:Colours is one.
+Tom:Hoisting colours. So could it be like "true colours"?
+Toby:Yes, Tom, keep going with that.
+Tom:Flying your true colours, or...
+Toby:It's, yeah, you've got it 80%. It's just rearranging those words to demonstrate the intent that you might say, if a ship is, you know, disguising itself like this before a surprise attack, what is the way you would word that sentiment?
+Julian:Show your true colours?
+Toby:Julian has got it. "Show your true colours" is the phrase.
+Tom:Ahh.
+Matthew:Alright.
+Toby:Yes, so... The pirates or ships from hostile countries would either lower their colours... which is, you know, their flag of allegiance, or fly a fake one. And then I think with a pirate ship or any attacking ship... they would use this as a tactic to get close enough to attack, and then once they are close, they would switch it out for their true colours or their real flag, and then attack from there.
+Julian:Do you know what? This is useful advice. I think anyone listening to this podcast is going to get less likely to be pirate attacked because of it, so...
+SFX:(group laughing)
+Julian:Yeah, you're doing community service here, Toby. You're winning hearts and minds.
+Tom:Good luck with the next one, folks. A man goes to the headquarters of a large company to meet two people. He takes out a chainsaw and then puts it away again a few minutes later, unused. The CEO gladly pays the man a large fee. Why? I'll say that again. A man goes to the headquarters of a large company to meet two people. He takes out a chainsaw and then puts it away again a few minutes later, unused. The CEO gladly pays the man a large fee. Why?
+Julian:Okay, now... The man is from I'll Show You My Chainsaw For a Dollar Corporation.
+Tom:(laughs)
+Julian:And he's just doing his service.
+Tom:I mean, I feel like you should start that. That's a Twitch stream you can get some donations on, there.
+Julian:Absolutely, 'cause I reckon modern business books say the way you motivate your staff is by showing 'em a chainsaw. And then they come in, your staff see a chainsaw, they're like, "That was brilliant. I love a chainsaw. Back to work."
+Tom:Oh, I thought you were just threatening them with the chainsaw. You were actually just motivating them by, "This is really cool, look at my chainsaw."
+Julian:Yeah, people appreciate a good chainsaw. That is the opposite of thinking naturally.
+Matthew:Was this a scheduled meeting? Did they plan on having this meeting?
+Tom:Yeah, yeah, I mean, they may have been surprised by the chainsaw, but the meeting was scheduled.
+Matthew:Okay.
+Toby:Scheduled how far in advance? I had one crazy idea, but the advanced scheduling of it would ruin what I think it is.
+Tom:Oh, go for it anyway.
+Matthew:Yeah.
+Toby:I'll go for it anyway. My idea is that perhaps the person paying this fee wanted to be scared, and wanted to be scared by a chainsaw. And I was thinking maybe they had the hiccups, and the shock would sort of, you know, shock the hiccups out of them. And they're gladly paying the fee to get rid of their hiccups. But if they're scheduling this long in advance, I'm not sure that would work.
+Matthew:But what if that is— What if it was one partner wanted to scare the other? And so he had, he planned for the guy to pull the chainsaw out and paid him later.
+Tom:It wasn't so much about terror or hiccups, but... you are... (cracks up) You're not close. Let me be clear, you're not close!
+SFX:(guests laughing)
+Tom:But there is a certain amount of nervousness about what's going on, yes.
+Julian:Chainsaw's quite precise. Chainsaws are known for cutting down trees. For... Texas massacres.
+SFX:(Tom and Matthew laugh)
+Julian:And that is all. That is their entire two use cases. There is nothing else. So why a chainsaw? Why do you reckon a chainsaw?
+Toby:I'm thinking about nervousness inside of a headquarters. That makes me think a businessman is sort of involved here. And I'm thinking in terms of business, you might be scared of public speaking or some kind of meeting you need to hold. And that could be a reason you want to be scared out of it, scared out of your anxiety. I don't know if that would work.
+Julian:Do you reckon they're in the adrenaline business? You know, you dial them in and be like, you know, you just need that dose of something to do this talk. They don't tell you how, but they turn up.
+Toby:Yeah, thrill seekers. (chuckles)
+Matthew:Yeah.
+Toby:Keep you on edge.
+Julian:Just that dose!
+Matthew:I dunno how nervousness would fit into it, but would it be something where this meeting... There would be a reason this person would always have a chainsaw on them. It could have been about landscaping, whatever it may be, but just randomly, these two people needed a tree cut down in front of their office, and he did it for them, and he got paid for it?
+Tom:Oh, no, no. Nothing actually got cut here. And Matthew, you said one partner scaring another. You're right that one of them is the CEO. Who's the other one?
+Julian:I reckon it's the chainsaw appreciator role these little companies have.
+SFX:(others snickering)
+Julian:The deputy junior vice chainsaw appreciator.
+Matthew:Head of HR. HR loves chainsaws in the office place.
+Julian:So we've got a chainsaw coming to an office for a meeting. Bit of adrenaline, bit of fear, bit of action.
+Tom:It's not actually clear from this anecdote that I've got. It's not clear whether the CEO knew there was going to be a chainsaw involved.
+Matthew:Okay.
+Julian:Are they proving they've done something? So for example, that like, is the chainsaw a piece of evidence? A documenting, like, you said, "Blah blah blah, well, here's the proof. Here's the evidence."
+Tom:The chainsaw would be... not evidence in itself, but if it had ended up being used... Yeah that would have definitely proved something, one way or another.
+Julian:Alright.
+Matthew:But it is meant to scare this person for a gain? This is not just like a Halloween prank where they just had somebody come as something scary, and he happened to come as, you know, Texas Chain Leatherface.
+Tom:No, it's a very deliberate demonstration here. It could have been a few other things. It didn't have to be specifically a chainsaw, but it had to be something that could do a bit of damage.
+Toby:Is it something about the response of the person seeing it? In the sense that they wanted to scream or be able to...
+Tom:(chuckles)
+Toby:I don't know if they're an actor or something, record a genuine scream or emotion?
+Tom:The other person isn't the one being threatened directly... but they'd still be nervous about what might happen.
+Toby:Are they trying to protect other people? So it could be some kind of a drill, like how do you respond in a high-stress environment.
+Tom:Yeah, the stress isn't specifically from the chainsaw there, but you're getting quite close. What might they have needed to test, or wanted to test or check?
+Matthew:Response time. That's the only thing I could think of.
+Tom:Specifically, he's the head of IT.
+Matthew:So, if this person were to actually use the chainsaw and cut their data lines, how would you have a backup or be able to get our information back?
+Tom:That's very close. It's not the data lines, but you're pretty much there. What might this consultant have turned up with the chainsaw and threatened to do?
+Julian:To disconnect a power line to say that the uninterruptible power supply will work. The IT guy's been saying, "We're off the grid, don't worry. If the power goes down, we're fine." And the CEO is like, "Really? I'm going to get old mate with a chainsaw, and we'll see if your stuff survives."
+Tom:That's basically what it was. You're absolutely right. The CEO wasn't sure whether the backup servers would actually work. He called in an IT consultant. And the IT consultant, Jon Honeyball, decided to turn up with a chainsaw and ask, "What would happen if I just went through this server?" And the CEO said, "I don't know, try it." And the head of IT goes, "No, I'm not sure we want to do that." He's like, "Why? We've got a backup system." And the head of IT is nervous enough that it proves that he is not entirely certain that the backup system is going to work.
+Julian:Can I say, exceptional consultant. Oh my goodness, that's how you get that. That's what the fees are for! Every time you're hiring them, they're buying chainsaws. So, that's why they're so expensive.
+Tom:Matthew, your big question, whenever you're ready.
+Matthew:In 2013, Penguin Classics re-released a series of five books by an English author. One novel had the title and author's name indented on the front cover, and then covered in rectangles of thin black foil. Why? Again. In 2013, Penguin Classics re-released a series of five books by an English author. One novel had the title and author's name indented on the front cover, and then covered in rectangles of thin black foil. Why?
+Tom:I first thought, if I hear series of five books by an English author, is The Hitchhiker's Guide by Douglas Adams. And... there's a... There's a thing in there... about a... the blackest ship possible. It is a band that plays on board a ship that dives into a sun. So it has the name of the ship written in black letters on a black ship. And, I honestly— I don't know how I connect that to foil. I just heard five books by an English author and foil and thought, science fiction, Douglas Adams.
+Matthew:I will say that the five books are not, they're not in concurrence with each other. They don't have anything necessarily story-wise to do with each other.
+Tom:Okay.
+Toby:When I heard indented, I was thinking about tracing, in the sense that you could go over it with a crayon and sort of spell out the words. That is kind of what I think from indented letters.
+Matthew:It's not it. It's not far. It's not completely in Antarctica. But it's close.
+Julian:Do we think that could be a bit of mystery then? A bit of a Sherlock Holmes-y, a bit of a solve a riddle yourself by...
+Toby:I also got crime, detective vibes from the way that it's a bit mysterious. I wonder if that is the genre here.
+Tom:You said covered in squares of foil, right?
+Matthew:Rectangles of thin black foil.
+Tom:Thin black foil, okay.
+Matthew:And again, not like you were saying, like doing the tracing, but you know, think along the lines of maybe what that could also do.
+Toby:It seems to be they're obscuring the name. Like with the foil and the indenting, it seems that you can't read it easily. So I wonder if it's not tracing it with a crayon, maybe it's that you have to feel it? Is it braille or something like that?
+Matthew:No, I mean, it is covering it. That's definitely the case.
+Tom:So, okay, Penguin Classics. It's every classic British novel, so... (grumbles) Agh, no, I don't know where I was going with that. Sorry.
+Matthew:(chuckles)
+Julian:I thought you were going to start brute forcing every book, just like I was going to do with the idioms, Tom. Just name them all.
+Tom:I was thinking of doing that and starting with any author beginning with A. Alan Bennett. Andrew... Someone like that.
+Julian:No, go earlier. Go A.A. Milne. Just start right at the top.
+Tom:It's Orwell's Nineteen Eighty-Four, because they are blocking off and censoring things from the front of the book.
+Julian:Oh, this is good.
+Tom:It's...
+Matthew:That's most of it. Yeah, that's... You have the book, and you have the idea of why they did it right there. But why thin black foil?
+Julian:They were demonstrating censorship, but also letting you still see the book. So you could see... So from afar, it looks like it's a censored book. But when you went right up close and you could see it under the light, you could at least make out the name, so you could go and buy it.
+Matthew:It's pretty close. You're definitely right on, on... trying to show censorship. But it's not that you could see it if it was close up necessarily.
+Tom:It's been years since I've read Nineteen Eighty-Four. What are the things in there?
+Matthew:What do you think would happen to foil, I guess?
+Toby:It crinkles and sort of... gets creased, maybe, if it's over the letters.
+Tom:You've got that kind of black mirror effect of the telescreens in Nineteen Eighty-Four. Maybe it's trying to show that, but it wouldn't be thin rectangles.
+Matthew:Well, I should say that the rectangle is— It's not little thin pieces singularly making up. It's just one block for the author's name, one block for the title.
+Toby:Can you peel them off?
+Matthew:Over time, basically, as you use it, it would start to show the name of the book.
+Tom:Wait, it's like one of those scratch-off things.
+Matthew:Yeah.
+Tom:Oh!
+Toby:Oh. (chuckles) That kind of foil.
+Matthew:Yes, one of the major themes in Nineteen Eighty-Four from George Orwell was censorship. So the black rectangles looked like they were basically block censoring or redacting the cover. And because the title was pressed into the paper, the thin black foil wears away over time, and the title and the author's name is revealed.
+Toby:Oh, I like that. That's pretty neat.
+Julian:That's cool design. Well done, team.
+Matthew:I wondered though, if you go to a bookstore though, and you know, I usually will open a book and look at it. Just, if it doesn't get sold, people will just start wearing it away in the bookstore.
+Toby:Get one from the back, that's the secret.
+Tom:One last order of business then. At the very start of the show, I asked the audience: Why is 2nd Street the most common street name in the US? Does anyone want to take a shot at that before I give the answer?
+Toby:I'm just thinking something has happened to 1st Street, 'cause that's usually where we would start.
+Matthew:Well, we took all of our names from Britain, and everything was 1st Street at the time, so we went with 2nd Street.
+Tom:Our most common is, I think, High Street?
+Matthew:Yeah, probably.
+Tom:Which is not usually a name you get in the US.
+Julian:Lots of towns have 2nd Street, 3rd Street, 4th Street. But sometimes they've got 1st Street, but sometimes they've got Main Street. So they split the top spot, and then 2nd Street rises up the list.
+Tom:You've just run through not just my answer, but all the notes I have on it. That is exactly right.
+SFX:(guests laughing)
+Tom:There are more 2nd Streets than there are 1st Streets, because some of those 1st Streets are actually Main Streets. With that, thank you very much to all our players. Let's find out what's going on with what you're making. Where can people find you? We will start with Toby.
+Toby:Alright, thank you. I can be found on my YouTube channel and also on TikTok, under the username Tibees, which is spelt T-I-B-E-E-S, making math and science videos.
+Tom:Matthew.
+Matthew:You can find Overdue Rentals on every single one of your favorite podcasting streaming sites. Come listen to us talk to our celebrity guests about movies that just don't seem to get talked about anymore.
+Tom:And Julian.
+Julian:My name is Julian O'Shea, and I talk about design and cities and urbanism on all of those social networks.
+Tom:And if you wanna know more about this show or send in your own idea for a question, you can do that at lateralcast.com. We are at @lateralcast basically everywhere, and there are video highlights every week at youtube.com/lateralcast. Thank you very much to Julian O'Shea.
+Julian:Cheers.
+Tom:Matthew Schuchman.
+Matthew:Thank you very much.
+Tom:And Toby Hendy.
+Toby:See you next time.
+Tom:I've been Tom Scott, and that's been Lateral.

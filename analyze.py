@@ -25,7 +25,7 @@ questions.sort(key = lambda q: -q.length)
 
 lengths = list(map(lambda q: q.length, questions))
 
-plt.hist(lengths, bins=15, alpha=0.7, color='blue', edgecolor='black')
+plt.hist(lengths, bins=20, alpha=0.7, color='blue', edgecolor='black')
 plt.xlabel('Length')
 plt.ylabel('Frequency')
 plt.title('Distribution of Question Lengths (in characters)')
